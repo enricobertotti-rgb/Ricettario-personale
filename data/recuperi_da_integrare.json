@@ -43,7 +43,8 @@
       "Origine": "ricerca_titolo_sito_ufficiale",
       "HTTP_Origine": "NON_ACCERTATO",
       "Foto_Diritti": "NON_VERIFICATI",
-      "Foto_Pagina_Ufficiale": "https://www.giallozafferano.com/recipes/penne-with-artichokes-and-tomato.html"
+      "Foto_Pagina_Ufficiale": "https://www.giallozafferano.com/recipes/penne-with-artichokes-and-tomato.html",
+      "Verifica_2026_11_04": "Pagina ufficiale aperta: H1, 4 porzioni, 20 min preparazione, 30 min cottura, ingredienti e procedimento confrontati con scheda delta; basilico presente nel metodo ma non negli ingredienti. Lettura di pagina indicizzata, HTTP origine non accertato."
     },
     {
       "ID": "GZ-00604",
@@ -281,5 +282,6 @@
       "nuovo_audit_confermato": false
     }
   ],
-  "ultima_verifica_newsletter": "2026-11-04"
+  "ultima_verifica_newsletter": "2026-11-04",
+  "ultima_verifica_editoriale": "2026-11-04"
 }
