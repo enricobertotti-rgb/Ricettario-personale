@@ -254,5 +254,32 @@
       "Foto_Diritti": "NON_VERIFICATI",
       "Foto_Pagina_Ufficiale": "https://ricette.giallozafferano.it/Risotto-al-radicchio.html"
     }
-  ]
+  ],
+  "verifiche_newsletter": [
+    {
+      "ID": "GZ-04160",
+      "titolo_newsletter": "crespelle farcite al forno",
+      "gmail_message_id": "1a186541e3222862",
+      "data_verifica": "2026-11-04",
+      "url_candidato": "https://www.giallozafferano.com.br/receitas/crepes-recheadas-ao-forno.html",
+      "tipo_fonte": "editoriale_ufficiale_BR",
+      "evidenza": "Pagina editoriale ufficiale con titolo tradotto, ingredienti e procedimento; ripieno zucca e guanciale, crema provolone; identità con newsletter italiana non dimostrata",
+      "stato": "CANDIDATO_DA_CONFRONTARE_NON_COMPLETO",
+      "http_origine": "NON_ACCERTATO",
+      "nuovo_audit_confermato": false
+    },
+    {
+      "ID": "GZ-03007",
+      "titolo_newsletter": "torta delle monache",
+      "gmail_message_id": "1a089bb79a35c204",
+      "data_verifica": "2026-11-04",
+      "url_candidato": "https://blog.giallozafferano.it/cucinaprediletta/ricetta-torta-delle-monache/",
+      "tipo_fonte": "blog_terzo_ospitato",
+      "evidenza": "Risultati blog discordanti: versione ricotta/mandorle e versione uova/farina, nessuna corrispondenza editoriale ufficiale accertata",
+      "stato": "FONTE_AMBIGUA_NON_COMPLETO",
+      "http_origine": "NON_ACCERTATO",
+      "nuovo_audit_confermato": false
+    }
+  ],
+  "ultima_verifica_newsletter": "2026-11-04"
 }
