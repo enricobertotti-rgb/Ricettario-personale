@@ -1,0 +1,96 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 9,
+  "review_date": "2026-11-08",
+  "source_repo": "enricobertotti-rgb/Ricettario-personale",
+  "source_index_sha": "b750e0bf20e9f643c7a1b45208cb40c87b04a6d0",
+  "count": 5,
+  "entries": [
+    {
+      "id": "GZ-00009",
+      "name": "Bocconcini di sfoglia con formaggio e miele",
+      "description": "Piccoli vol-au-vent di sfoglia con caprino cremoso e miele di castagno al timo: un finger food che gioca sul contrasto fra fragranza, sapidità e dolcezza leggermente amarognola.",
+      "story": "La presentazione editoriale richiama scherzosamente il proverbio sul formaggio con le pere per introdurre l'abbinamento formaggio e miele. Non fornisce una storia documentata dell'invenzione di questi bocconcini.",
+      "history_status": "editorial_context_only",
+      "source": "https://ricette.giallozafferano.it/Bocconcini-di-sfoglia-con-formaggio-e-miele.html",
+      "source_language": "it",
+      "photo_links": [
+        "https://www.giallozafferano.it/images/206-20639/Bocconcini-di-sfoglia-con-formaggio-e-miele_780x520_wm.jpg"
+      ]
+    },
+    {
+      "id": "GZ-00042",
+      "name": "Involtini di verza all'orientale",
+      "description": "Foglie di verza sbollentate avvolgono un ripieno di carne di maiale, salsiccia e porro, insaporito con salsa di soia, peperoncino e zenzero, poi passato al forno.",
+      "story": "La fonte presenta questa preparazione come una variante contemporanea, di ispirazione orientale, dei versatili involtini di verza invernali. Non attribuisce al piatto un'origine geografica o storica specifica.",
+      "history_status": "editorial_context_only",
+      "source": "https://www.giallozafferano.es/recetas/rollitos-de-col-a-la-oriental.html",
+      "source_language": "es",
+      "photo_links": []
+    },
+    {
+      "id": "GZ-02780",
+      "name": "Macaron salati al salmone e aneto",
+      "description": "Macaron salati con gusci alle mandorle profumati all'aneto e pepe nero, farciti con una mousse di salmone affumicato e robiola. Il guscio leggermente croccante contrasta con il ripieno morbido.",
+      "story": "La presentazione richiama i macaron come specialità dolciaria francese e definisce la versione salata con salmone e aneto una reinterpretazione creativa da aperitivo. Non documenta l'epoca o l'autore della variante.",
+      "history_status": "editorial_context_only",
+      "source": "https://www.giallozafferano.es/recetas/macaron-salados-de-salmon-y-eneldo.html",
+      "source_language": "es",
+      "photo_links": [
+        "https://www.giallozafferano.es/images/219-21992/macaron-salados-de-salmon-y-eneldo_780x520_wm.jpg"
+      ]
+    },
+    {
+      "id": "GZ-02448",
+      "name": "Panissa Ligure",
+      "description": "Preparazione ligure a base di farina di ceci e acqua, fatta rassodare e tagliata a bocconcini, da gustare anche fritta come street food dalla crosta dorata e dal gusto intenso di ceci.",
+      "story": "La fonte collega la panissa ligure alla tradizione delle antiche friggitorie e al cibo semplice e sostanzioso consumato passeggiando nei carruggi. Precisa che non va confusa con la panissa piemontese del Vercellese, un risotto con fagioli e cotiche. Non indica una data di origine documentata.",
+      "history_status": "documented_regional_tradition",
+      "source": "https://www.giallozafferano.es/recetas/panissa-ligur.html",
+      "source_language": "es",
+      "photo_links": []
+    },
+    {
+      "id": "GZ-00052",
+      "name": "quiche con pere, salvia e fontina",
+      "description": "Torta salata con pasta brisée aromatizzata alla salvia, pere Kaiser saltate nel burro e fontina, legate da un ripieno cremoso di uova, latte e panna. Il risultato equilibra note dolci, lattiche ed erbacee.",
+      "story": "La pagina attribuisce la ricetta a Sebastian Fitarau e descrive l'accostamento fra frutta e formaggio come una scelta gastronomica della preparazione. Non presenta una ricostruzione storica delle origini di questa specifica quiche.",
+      "history_status": "editorial_context_only",
+      "source": "https://www.giallozafferano.com/recipes/pear-sage-and-fontina-quiche.html",
+      "source_language": "en",
+      "photo_links": []
+    }
+  ],
+  "access_issues": [
+    {
+      "id": "GZ-00003",
+      "url": "https://www.giallozafferano.com/recipes/white-ragu-arancini.html",
+      "status": "HTTP 403",
+      "completed": false
+    },
+    {
+      "id": "GZ-00010",
+      "url": "https://ricette.giallozafferano.it/Bruschetta-caprese.html",
+      "status": "HTTP 402",
+      "completed": false
+    },
+    {
+      "id": "GZ-00032",
+      "url": "https://ricette.giallozafferano.it/Falafel-di-lupini.html",
+      "status": "HTTP 402",
+      "completed": false
+    },
+    {
+      "id": "GZ-00033",
+      "url": "https://ricette.giallozafferano.it/Felafel-Falafel.html",
+      "status": "HTTP 402",
+      "completed": false
+    },
+    {
+      "id": "GZ-04536",
+      "url": "https://ricette.giallozafferano.it/Olive-nere-al-forno.html",
+      "status": "HTTP 402",
+      "completed": false
+    }
+  ]
+}
