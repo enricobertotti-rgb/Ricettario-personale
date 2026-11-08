@@ -1,0 +1,74 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 5,
+  "source_index_sha": "58b7655a7beef995465b5fe6d525e98a862a7d3d",
+  "count": 6,
+  "entries": [
+    {
+      "id": "GZ-00085",
+      "name": "Bicchierini di riso venere e spada",
+      "description": "Bicchierini monoporzione con riso Venere aromatico, crema di porro, basilico e zenzero e dadini di pesce spada profumati al limone. Il contrasto cromatico tra riso scuro, salsa verde e pesce rende scenografico l'antipasto.",
+      "story": "La presentazione editoriale interpreta in chiave moderna l'abbinamento fra riso e pesce della cucina italiana. Non documenta un'origine storica specifica di questa preparazione.",
+      "history_status": "editorial_context_no_historical_origin",
+      "source": "https://www.giallozafferano.com/recipes/venus-rice-and-swordfish-cups.html",
+      "photo_url": "https://www.giallozafferano.com/images/332-33215/venus-rice-and-swordfish-cups_1200x800.jpg",
+      "source_reviewed": "2026-11-08",
+      "status": "verified_editorial_introduction"
+    },
+    {
+      "id": "GZ-03967",
+      "name": "brandacujun",
+      "description": "Specialità ligure cremosa a base di stoccafisso ammollato, patate, olio extravergine, aglio, prezzemolo e scorza di limone. Il pesce e le patate vengono amalgamati fino a ottenere una consistenza morbida, adatta ai crostoni.",
+      "story": "La fonte collega il brandacujun alla tradizione marinara ligure: stoccafisso e patate erano alimenti conservabili e pratici durante le traversate. Riporta come possibile spiegazione del nome il gesto del «brandare», cioè scuotere o ruotare ripetutamente la pentola; esistono però più interpretazioni etimologiche.",
+      "history_status": "documented_regional_tradition_qualified_etymology",
+      "source": "https://www.giallozafferano.es/recetas/brandacujun.html",
+      "photo_url": null,
+      "source_reviewed": "2026-11-08",
+      "status": "verified_editorial_introduction"
+    },
+    {
+      "id": "GZ-00089",
+      "name": "Budini di riso salati",
+      "description": "Piccoli gusci di pasta brisée ripieni di risotto al pomodoro con piselli, prosciutto cotto e taleggio, cotti al forno e serviti come antipasto monoporzione.",
+      "story": "La fonte propone una reinterpretazione salata dei budini di riso dolci associati alla pasticceria toscana. Il riferimento è gastronomico e non costituisce prova di un'origine antica della specifica variante salata.",
+      "history_status": "editorial_inspiration_not_historical_origin",
+      "source": "https://www.giallozafferano.com/recipes/savory-rice-pudding.html",
+      "photo_url": "https://www.giallozafferano.com/images/320-32035/savory-rice-pudding_780x520_wm.jpg",
+      "source_reviewed": "2026-11-08",
+      "status": "verified_editorial_introduction"
+    },
+    {
+      "id": "GZ-00022",
+      "name": "Chupitos di melone con fagottini di feta",
+      "description": "Aperitivo estivo composto da bicchierini di melone frullato e condito, accompagnati da fagottini croccanti di pasta fillo con feta, cipolla rossa, olive nere e pomodorini.",
+      "story": "La ricetta nasce come proposta editoriale contemporanea che sostituisce il classico accostamento prosciutto e melone con il contrasto fra dolcezza del melone e sapidità della feta. La fonte non indica una tradizione o data di invenzione per questo piatto.",
+      "history_status": "editorial_context_no_historical_origin",
+      "source": "https://ricette.giallozafferano.it/Chupitos-di-melone-con-fagottini-di-feta.html",
+      "photo_url": "https://www.giallozafferano.it/images/158-15810/Chupitos-di-melone-con-fagottini-di-feta_450x300.jpg",
+      "source_reviewed": "2026-11-08",
+      "status": "verified_editorial_introduction"
+    },
+    {
+      "id": "GZ-00024",
+      "name": "Crocchette di prosciutto",
+      "description": "Crocchette fritte dalla panatura dorata e croccante, con un interno morbido ottenuto da una besciamella molto densa arricchita con prosciutto crudo e cipolla.",
+      "story": "La presentazione inserisce le crocchette nel repertorio degli antipasti e degli stuzzichini, citando varianti a base di patate, riso o formaggi e il confronto con le croquetas spagnole. Non documenta una provenienza storica precisa per questa versione.",
+      "history_status": "editorial_context_no_historical_origin",
+      "source": "https://ricette.giallozafferano.it/Crocchette-di-prosciutto.html",
+      "photo_url": "https://www.giallozafferano.com/images/341-34186/ham-croquettes_780x520_wm.jpg",
+      "source_reviewed": "2026-11-08",
+      "status": "verified_editorial_introduction"
+    },
+    {
+      "id": "GZ-00132",
+      "name": "Crocchette di riso giallo con stracchino",
+      "description": "Crocchette fritte di risotto allo zafferano con cuore cremoso di stracchino e rivestimento croccante di panko. Il colore dorato del riso richiama il risotto alla milanese.",
+      "story": "La fonte dichiara esplicitamente l'ispirazione al risotto alla milanese e alla tradizione lombarda dello zafferano nel riso. La trasformazione in crocchette ripiene è una reinterpretazione, non una ricetta storica milanese attestata dalla pagina.",
+      "history_status": "documented_culinary_inspiration",
+      "source": "https://www.giallozafferano.com/recipes/yellow-rice-croquettes-with-stracchino.html",
+      "photo_url": null,
+      "source_reviewed": "2026-11-08",
+      "status": "verified_editorial_introduction"
+    }
+  ]
+}
