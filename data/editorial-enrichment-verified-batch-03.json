@@ -1,0 +1,88 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 3,
+  "review_date": "2026-11-08",
+  "source_repo": "enricobertotti-rgb/Ricettario-personale",
+  "count": 7,
+  "entries": [
+    {
+      "id": "GZ-03895",
+      "name": "Albicocche in sfoglia",
+      "description": "Piccoli fagottini di pasta sfoglia che racchiudono albicocche e formaggio filante: l'esterno friabile e dorato contrasta con la frutta morbida e il ripieno sapido.",
+      "story": "La presentazione editoriale descrive una proposta creativa da aperitivo o brunch, ispirata all'abbinamento dolce-salato; non la identifica come ricetta regionale storica.",
+      "history_status": "editorial_context_no_historical_origin",
+      "source": "https://www.giallozafferano.com/recipes/apricots-in-puff-pastry.html",
+      "photo_link_status": "preserve_existing_from_index",
+      "source_reviewed": true
+    },
+    {
+      "id": "GZ-00005",
+      "name": "Arancini di riso",
+      "description": "Specialità siciliana di riso farcito, modellato e fritto; nella versione presentata i ripieni classici sono ragù con piselli e prosciutto con mozzarella.",
+      "story": "Gli arancini o arancine sono un emblema dello street food siciliano. Forma e dimensioni cambiano secondo città e ripieno; la fonte li accosta alle panelle e ai cazzilli palermitani e distingue preparazioni affini come supplì laziali e palle di riso campane.",
+      "history_status": "documented_culinary_tradition",
+      "source": "https://www.giallozafferano.com.br/receitas/Arancini-de-arroz.html",
+      "photo_link_status": "preserve_existing_from_index",
+      "source_reviewed": true
+    },
+    {
+      "id": "GZ-00078",
+      "name": "Arancini di spaghetti",
+      "description": "Sfere fritte di spaghetti conditi con burro, formaggio, uova e zafferano, solitamente farcite con ragù, piselli e scamorza.",
+      "story": "La pagina li presenta come reinterpretazione dei classici arancini di riso della cucina siciliana: la pasta sostituisce il riso, mentre restano la forma da street food e la frittura. Non fornisce una data di invenzione.",
+      "history_status": "documented_derivation_no_date",
+      "source": "https://www.giallozafferano.com.br/receitas/arancini-de-espaguete.html",
+      "photo_link_status": "preserve_existing_from_index",
+      "source_reviewed": true
+    },
+    {
+      "id": "GZ-01802",
+      "name": "Asparagi in sfoglia con crudo",
+      "description": "Mazzetti di asparagi avvolti con prosciutto crudo e pasta sfoglia, arricchiti da formaggio e senape di Digione; il risultato è un antipasto croccante e saporito.",
+      "story": "La presentazione valorizza la stagionalità primaverile degli asparagi e l'uso del piatto per brunch e occasioni conviviali. Non documenta una specifica origine storica o regionale.",
+      "history_status": "editorial_context_no_historical_origin",
+      "source": "https://www.giallozafferano.com/recipes/asparagus-in-puff-pastry-with-prosciutto.html",
+      "photo_link_status": "preserve_existing_from_index",
+      "source_reviewed": true
+    },
+    {
+      "id": "GZ-01463",
+      "name": "Avocado, uova e salmone",
+      "description": "Mezzi avocado usati come piccoli contenitori per uova e salmone, con succo di lime a dare freschezza; piatto adatto a colazione salata e brunch.",
+      "story": "La fonte lo presenta come rivisitazione moderna della colazione di ispirazione inglese, alternativa a uova, toast e bacon. Non sostiene che sia una preparazione inglese tradizionale codificata.",
+      "history_status": "editorial_context_no_historical_origin",
+      "source": "https://www.giallozafferano.com/recipes/avocado-eggs-and-salmon.html",
+      "photo_link_status": "preserve_existing_from_index",
+      "source_reviewed": true
+    },
+    {
+      "id": "GZ-01480",
+      "name": "Baccalà mantecato alla veneziana",
+      "description": "Crema delicata e soffice di stoccafisso lavorato e mantecato, da servire con crostini o polenta grigliata.",
+      "story": "Piatto rappresentativo della tradizione veneziana. Nel lessico veneto lo stoccafisso essiccato viene comunemente chiamato baccalà, circostanza spiegata nell'introduzione della fonte. La ricetta pubblicata è attribuita allo chef Francesco Munarini dell'Osteria Do Spade di Venezia; la pagina non documenta una data precisa d'origine del piatto.",
+      "history_status": "documented_regional_tradition",
+      "source": "https://www.giallozafferano.es/recetas/Bacalao-a-la-crema-a-la-veneciana.html",
+      "photo_link_status": "preserve_existing_from_index",
+      "source_reviewed": true
+    },
+    {
+      "id": "GZ-02318",
+      "name": "Barchette di pane ripiene",
+      "description": "Panini ai cereali svuotati e farciti con verdure, formaggio e prosciutto, poi passati in forno per ottenere bordi croccanti e un interno morbido.",
+      "story": "La pagina descrive un'idea versatile da buffet e cena informale, con farciture adattabili agli ingredienti disponibili. I riferimenti geografici nell'introduzione non costituiscono una prova di origine regionale precisa.",
+      "history_status": "editorial_context_no_historical_origin",
+      "source": "https://www.giallozafferano.com/recipes/bread-boats-stuffed.html",
+      "photo_link_status": "preserve_existing_from_index",
+      "source_reviewed": true
+    }
+  ],
+  "unreachable": [
+    {
+      "id": "GZ-00003",
+      "source": "https://www.giallozafferano.com/recipes/white-ragu-arancini.html",
+      "reason": "HTTP 403 during source fetch",
+      "status": "retry_alternate_language"
+    }
+  ],
+  "notes": "Editorial context and historical provenance are distinguished. Existing recipe data and images untouched."
+}
