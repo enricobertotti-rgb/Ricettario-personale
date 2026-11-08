@@ -1,0 +1,69 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 6,
+  "source_index_sha": "b750e0bf20e9f643c7a1b45208cb40c87b04a6d0",
+  "count": 4,
+  "entries": [
+    {
+      "id": "GZ-00018",
+      "name": "carpaccio di ananas e speck",
+      "description": "Antipasto fresco composto da fettine sottili di ananas e speck, completate con scaglie di Grana Padano, origano e accompagnamento di gelatina d'uva o mosto cotto. Dolcezza e acidità del frutto contrastano la sapidità del salume.",
+      "story": "La fonte propone un accostamento creativo fra ananas e speck, salume associato alla tradizione tirolese. Non attribuisce a questa specifica ricetta un'origine storica documentata.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://www.giallozafferano.com/recipes/pineapple-and-speck-carpaccio.html",
+      "original_catalog_source": "https://ricette.giallozafferano.it/Carpaccio-di-ananas-e-speck.html",
+      "photo_url": "https://www.giallozafferano.com/images/300-30050/pineapple-and-speck-carpaccio_780x520_wm.jpg",
+      "photo_link_status": "preserved_from_index",
+      "source_reviewed": "2026-11-08"
+    },
+    {
+      "id": "GZ-00023",
+      "name": "Crocchette cacio e pepe",
+      "description": "Crocchette di patate con pecorino romano stagionato e pepe nero e bianco pestati, avvolte in una doppia panatura e fritte fino a doratura. Un finger food dal gusto intenso, ideale per l'aperitivo.",
+      "story": "La preparazione è presentata come incontro contemporaneo fra le crocchette di patate e i sapori della cacio e pepe, piatto della tradizione romana. Non è documentata un'origine storica autonoma delle crocchette in questa variante.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://www.giallozafferano.fr/recettes/croquettes-cacio-e-pepe.html",
+      "original_catalog_source": "https://ricette.giallozafferano.it/Crocchette-cacio-e-pepe.html",
+      "photo_url": "https://www.giallozafferano.fr/images/94-9405/croquettes-cacio-e-pepe_780x520_wm.jpg",
+      "photo_link_status": "preserved_from_index",
+      "source_reviewed": "2026-11-08"
+    },
+    {
+      "id": "GZ-00130",
+      "name": "Crocchette di riso al forno",
+      "description": "Crocchette di riso cotte al forno anziché fritte, con rivestimento di pangrattato croccante e cuore di prosciutto cotto, piselli e provola affumicata. Pensate per essere servite calde come antipasto o aperitivo.",
+      "story": "La pagina italiana descrive la ricetta come variante al forno delle crocchette di riso fritte, proposta per ottenere una preparazione meno ricca di grassi. La versione inglese richiama il contesto gastronomico lombardo, ma non documenta un luogo o una data di invenzione di questa variante.",
+      "history_status": "editorial_context_regional_reference_not_historical_proof",
+      "source": "https://ricette.giallozafferano.it/Crocchette-di-riso-al-forno.html",
+      "original_catalog_source": "https://ricette.giallozafferano.it/Crocchette-di-riso-al-forno.html",
+      "photo_url": "https://www.giallozafferano.it/images/154-15400/Crocchette-di-riso-al-forno_780x520_wm.jpg",
+      "photo_link_status": "preserved_from_index",
+      "source_reviewed": "2026-11-08"
+    },
+    {
+      "id": "GZ-00025",
+      "name": "Croque monsieur finger food con sfoglia classica",
+      "description": "Piccoli sandwich da aperitivo formati da due sfoglie croccanti farcite con besciamella, prosciutto cotto e groviera grattugiato, poi gratinate brevemente in forno.",
+      "story": "La fonte identifica esplicitamente questa ricetta come reinterpretazione in formato finger food del croque monsieur, celebre sandwich francese. Non presenta le sfoglie farcite come ricetta tradizionale francese autonoma e non fornisce una data storica di creazione.",
+      "history_status": "documented_inspiration_no_specific_origin",
+      "source": "https://ricette.giallozafferano.it/Croque-monsieur-finger-food-con-sfoglia-classica.html",
+      "original_catalog_source": "https://ricette.giallozafferano.it/Croque-monsieur-finger-food-con-sfoglia-classica.html",
+      "photo_url": "https://www.giallozafferano.it/images/22-2263/Croque-monsieur-finger-food-con-sfoglia-classica_780x520_wm.jpg",
+      "photo_link_status": "preserved_from_index",
+      "source_reviewed": "2026-11-08"
+    }
+  ],
+  "blocked": [
+    {
+      "id": "GZ-00018",
+      "original_source": "https://ricette.giallozafferano.it/Carpaccio-di-ananas-e-speck.html",
+      "error": "HTTP 402; reviewed English editorial counterpart"
+    },
+    {
+      "id": "GZ-00023",
+      "original_source": "https://ricette.giallozafferano.it/Crocchette-cacio-e-pepe.html",
+      "error": "HTTP 402; reviewed French editorial counterpart"
+    }
+  ],
+  "notes": "Only editorial fields; no ingredients, procedures, photos or index.html modified."
+}
