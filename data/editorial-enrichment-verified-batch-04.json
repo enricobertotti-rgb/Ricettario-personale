@@ -1,0 +1,60 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 4,
+  "source_index_sha": "b96ecbf8f4891eac778947ec9e878aefc278e078",
+  "entries": [
+    {
+      "id": "GZ-00007",
+      "name": "Bocconcini di prugne e bacon",
+      "description": "Piccoli involtini da aperitivo in cui una prugna disidratata viene avvolta nel bacon e cotta al forno fino a ottenere un rivestimento dorato e croccante. Il contrasto fra la dolcezza del frutto e la sapidità del salume è l'elemento caratterizzante.",
+      "story": "La presentazione editoriale propone questi bocconcini come finger food per occasioni speciali e richiama la tradizione degli accostamenti dolce-salato; non attribuisce alla ricetta una specifica origine geografica o storica.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://ricette.giallozafferano.it/Bocconcini-di-prugne-e-bacon.html",
+      "photo_links": []
+    },
+    {
+      "id": "GZ-00008",
+      "name": "Bocconcini di quinoa",
+      "description": "Bocconcini vegetariani cotti in piccoli stampi, preparati con quinoa, zucchine, Grana Padano, zenzero e scorza di limone. Una proposta leggera dal profilo fresco e aromatico, adatta come antipasto.",
+      "story": "La fonte racconta la lunga storia della quinoa negli altopiani andini del Sud America, dove è coltivata da millenni, e ne ricorda il valore nella cultura inca con il nome quechua 'Chisiya mama', riferito alla madre dei semi. Si tratta della storia dell'ingrediente, non di una pretesa origine antica dei bocconcini di questa ricetta.",
+      "history_status": "documented_ingredient_history_not_recipe_origin",
+      "source": "https://ricette.giallozafferano.it/Bocconcini-di-quinoa.html",
+      "photo_links": []
+    },
+    {
+      "id": "GZ-00011",
+      "name": "Bruschetta con fichi e crudo dolce",
+      "description": "Bruschetta di pane tostato con crema di robiola ed erba cipollina, prosciutto crudo dolce e fichi leggermente grigliati con miele. L'insieme combina croccantezza, cremosità e contrasto dolce-sapido.",
+      "story": "La pagina spiega che il termine 'bruschetta' è collegato a 'bruscato', cioè pane rustico abbrustolito, e ne colloca l'uso tradizionale fra Lazio e Abruzzo prima della diffusione nel resto d'Italia. Questo contesto riguarda la bruschetta in generale; l'abbinamento con fichi e crudo è presentato come interpretazione moderna.",
+      "history_status": "documented_dish_family_etymology",
+      "source": "https://ricette.giallozafferano.it/Bruschetta-con-fichi-e-crudo-dolce.html",
+      "photo_links": []
+    },
+    {
+      "id": "GZ-00015",
+      "name": "Canapè",
+      "description": "Tartine mignon di pane o pancarrè, generalmente senza crosta, arricchite con burro, creme o salse e guarnizioni variabili. La disposizione decorativa degli ingredienti è parte integrante della preparazione, pensata per essere mangiata in uno o due bocconi.",
+      "story": "La fonte descrive il ruolo dei canapè come piccoli antipasti da aperitivo e l'importanza della loro presentazione elegante; non fornisce una ricostruzione storica documentata dell'origine del piatto.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://ricette.giallozafferano.it/Canape.html",
+      "photo_links": []
+    }
+  ],
+  "blocked": [
+    {
+      "id": "GZ-00009",
+      "name": "Bocconcini di sfoglia con formaggio e miele",
+      "source": "https://ricette.giallozafferano.it/Bocconcini-di-sfoglia-con-formaggio-e-miele.html",
+      "reason": "timeout_source_fetch",
+      "completed": false
+    },
+    {
+      "id": "GZ-00010",
+      "name": "Bruschetta caprese",
+      "source": "https://ricette.giallozafferano.it/Bruschetta-caprese.html",
+      "reason": "source_fetch_402",
+      "completed": false
+    }
+  ],
+  "notes": "Only editorial source-grounded Italian paraphrases. No index.html or original recipe fields modified. Photo URLs not independently extracted."
+}
