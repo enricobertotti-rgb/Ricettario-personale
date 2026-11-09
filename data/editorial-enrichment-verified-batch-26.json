@@ -1,0 +1,74 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 26,
+  "verified_at": "2026-11-09",
+  "count": 3,
+  "entries": [
+    {
+      "id": "GZ-02544",
+      "name": "Bignè con crema di ricotta e pistacchi",
+      "description": "Bignè di pasta choux farciti con una crema di ricotta, panna, vaniglia e pistacchi, rifiniti con cioccolato bianco e granella di pistacchi; pasticcini pensati per il fine pasto.",
+      "story": "La presentazione editoriale dichiara un'ispirazione siciliana per l'abbinamento ricotta-pistacchio. Segnala inoltre l'uso meridionale del nome «sciù», collegandolo al francese «choux». Non documenta una data o un luogo di invenzione della ricetta specifica.",
+      "story_classification": "ispirazione_regionale_ed_etimologia_editoriale_senza_origine_storica_specifica",
+      "source": "https://ricette.giallozafferano.it/Bigne-con-crema-di-ricotta-e-pistacchi.html",
+      "source_language": "it",
+      "original_source": "https://ricette.giallozafferano.it/Bigne-con-crema-di-ricotta-e-pistacchi.html",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09"
+    },
+    {
+      "id": "GZ-03342",
+      "name": "Brioches allo yogurt senza uova",
+      "description": "Piccoli lievitati dolci preparati con yogurt greco al posto delle uova, latte, burro e vaniglia. La lunga lievitazione produce una mollica soffice; la ricetta prevede forme a mezzaluna e a fiocco, adatte alla colazione.",
+      "story": "La pagina in inglese associa queste brioche alla colazione casalinga e da forno in Italia, descrivendo varianti di forma e aromatizzazione. Si tratta di un inquadramento gastronomico editoriale, non di una ricostruzione documentata dell'origine delle brioche allo yogurt senza uova.",
+      "story_classification": "contesto_gastronomico_editoriale_senza_origine_documentata",
+      "source": "https://www.giallozafferano.com/recipes/yogurt-brioches-without-eggs.html",
+      "source_language": "en",
+      "original_source": "https://www.giallozafferano.com/recipes/yogurt-brioches-without-eggs.html",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09"
+    },
+    {
+      "id": "GZ-03348",
+      "name": "Ciambella",
+      "description": "Dolce da forno a forma di anello, dalla consistenza morbida, preparato con burro, uova, latte, farina e aromi di limone e vaniglia. Si presta alla colazione e alla merenda e a varianti con cioccolato, caffè o agrumi.",
+      "story": "La presentazione inglese colloca la ciambella tra i dolci familiari italiani e ne richiama le numerose personalizzazioni regionali. Non indica fonti storiche, inventori né una data di nascita della ricetta.",
+      "story_classification": "tradizione_domestica_descritta_editorialmente_senza_origine_documentata",
+      "source": "https://www.giallozafferano.com/recipes/donut.html",
+      "source_language": "en",
+      "original_source": "https://www.giallozafferano.com/recipes/donut.html",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09"
+    }
+  ],
+  "blocked_sources": [
+    {
+      "id": "GZ-03328",
+      "url": "https://ricette.giallozafferano.it/Biscotti-senza-glutine.html",
+      "error": "HTTP 402",
+      "status": "pending_not_verified"
+    },
+    {
+      "id": "GZ-03343",
+      "url": "https://www.giallozafferano.com/recipes/variegated-cocoa-brioches.html",
+      "error": "HTTP 403",
+      "status": "pending_not_verified"
+    },
+    {
+      "id": "GZ-00021",
+      "url": "https://ricette.giallozafferano.it/Cestini-panna-e-fragole.html",
+      "error": "HTTP 402",
+      "status": "pending_not_verified"
+    },
+    {
+      "id": "GZ-03337",
+      "url": "https://www.giallozafferano.com/recipes/bomboloni.html",
+      "error": "HTTP 403",
+      "status": "pending_not_verified"
+    }
+  ],
+  "notes": "Solo arricchimento editoriale; index.html e ricette originali invariati."
+}
