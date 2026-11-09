@@ -1,0 +1,66 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 15,
+  "verified_at": "2026-11-09",
+  "source_repository": "enricobertotti-rgb/Ricettario-personale",
+  "source_index_sha": "721804e7bd0fb3e10d6081114d3e64a443db8a7f",
+  "source_pending_sha": "ead6ebfa0c21394363ad352ac98b31e2eef08150",
+  "count": 4,
+  "entries": [
+    {
+      "id": "GZ-00003",
+      "name": "Arancini al ragù bianco",
+      "description": "Arancini siciliani di riso allo zafferano con ripieno di ragù di carne senza pomodoro, piselli e caciocavallo filante, racchiusi in una panatura dorata.",
+      "context": "Variante del celebre street food siciliano: al posto del ragù rosso si usa un condimento bianco di carne e verdure. La fonte segnala anche il dibattito linguistico tra arancino e arancina.",
+      "story": "La pagina colloca gli arancini nella tradizione dello street food siciliano, ma non documenta una data o un inventore della variante al ragù bianco.",
+      "history_status": "documented_tradition_variant_no_specific_origin",
+      "source": "https://www.giallozafferano.com/recipes/white-ragu-arancini.html",
+      "source_language": "en",
+      "photo": null,
+      "photo_status": "not_verified_in_this_batch",
+      "verification_method": "official_editorial_page_read"
+    },
+    {
+      "id": "GZ-03812",
+      "name": "Crema di limoncello",
+      "description": "Liquore cremoso e vellutato al profumo di limone, ottenuto dall'infusione delle scorze in alcol e dall'aggiunta di latte, panna e zucchero.",
+      "context": "La fonte lo presenta come variante più morbida del limoncello, da servire a fine pasto oppure da regalare in bottiglie decorate.",
+      "story": "La pagina richiama la consuetudine conviviale del limoncello fatto in casa, senza documentare una data, un autore o una località d'origine della variante cremosa.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://www.giallozafferano.com/recipes/limoncello-cream.html",
+      "source_language": "en",
+      "photo": null,
+      "photo_status": "not_verified_in_this_batch",
+      "verification_method": "official_editorial_page_read"
+    },
+    {
+      "id": "GZ-03815",
+      "name": "Hugo spritz",
+      "description": "Cocktail fresco e floreale con Prosecco, sciroppo di fiori di sambuco, soda, menta e lime, servito con ghiaccio.",
+      "context": "Proposta da aperitivo estivo, caratterizzata dall'equilibrio fra note floreali, acidità e bollicine.",
+      "story": "La presentazione ufficiale colloca la nascita dell'Hugo in Alto Adige e ne descrive la successiva diffusione in Italia. Non indica nella pagina consultata un inventore o una data precisa.",
+      "history_status": "documented_geographic_origin_no_date",
+      "source": "https://www.giallozafferano.com/recipes/hugo-spritz.html",
+      "source_language": "en",
+      "photo": null,
+      "photo_status": "not_verified_in_this_batch",
+      "verification_method": "official_editorial_page_read"
+    },
+    {
+      "id": "GZ-00004",
+      "name": "Arancini di Carnevale",
+      "description": "Dolcetti marchigiani di pasta lievitata arrotolata con zucchero e scorza d'arancia, tagliata a spirali e fritta fino a doratura.",
+      "context": "Specialità dolce del Carnevale marchigiano, distinta dagli arancini di riso siciliani nonostante il nome simile.",
+      "story": "La pagina attribuisce la preparazione alla tradizione delle Marche e segnala la variante aromatizzata al limone, chiamata limoncini. Non documenta una data precisa di nascita.",
+      "history_status": "documented_regional_tradition_no_date",
+      "source": "https://www.giallozafferano.com/recipes/carnival-rice-balls.html",
+      "source_language": "en",
+      "photo": null,
+      "photo_status": "not_verified_in_this_batch",
+      "verification_method": "official_editorial_page_read"
+    }
+  ],
+  "verified_unique_total": 58,
+  "remaining": 418,
+  "notes": "Solo arricchimento editoriale. Nessuna modifica a index.html, ingredienti, dosi o procedure."
+}
