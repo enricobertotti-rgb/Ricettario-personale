@@ -1,0 +1,98 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 17,
+  "verified_at": "2026-11-09",
+  "source_repository": "enricobertotti-rgb/Ricettario-personale",
+  "source_index_sha": "721804e7bd0fb3e10d6081114d3e64a443db8a7f",
+  "source_pending_sha": "ead6ebfa0c21394363ad352ac98b31e2eef08150",
+  "count": 6,
+  "entries": [
+    {
+      "id": "GZ-03831",
+      "name": "Sangria",
+      "description": "Bevanda spagnola servita fredda, a base di vino rosso, frutta fresca, spezie e una componente frizzante; la macerazione lega aromi fruttati e vinosi.",
+      "context": "La fonte la colloca nelle feste estive spagnole e cita varianti territoriali, tra cui quella bianca associata alla Catalogna.",
+      "story": "L'etimologia del nome viene collegata al termine spagnolo «sangre», per il colore rosso. L'origine precisa è dichiarata incerta: il racconto di marinai inglesi nelle Antille è riportato come tradizione non verificata, non come fatto storico.",
+      "history_status": "historical_context_with_uncertain_origin",
+      "source": "https://www.giallozafferano.es/recetas/sangria.html",
+      "photo": null,
+      "photo_status": "not_verified",
+      "source_review": "original_editorial_page_read_2026-11-09"
+    },
+    {
+      "id": "GZ-03832",
+      "name": "Sangria bianca",
+      "description": "Versione chiara e fruttata della sangria con Prosecco, liquore d'arancia, agrumi, fragole, mela, uva e cannella, completata con soda e ghiaccio.",
+      "context": "Presentata come reinterpretazione fresca, adatta a brunch, aperitivi e incontri estivi; la ricetta usa Prosecco anziché il consueto vino rosso.",
+      "story": "La pagina richiama la tradizione spagnola della sangria e ne descrive l'evoluzione in varianti; non documenta una data o un autore della versione bianca proposta.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://www.giallozafferano.es/recetas/sangria-blanca.html",
+      "photo": null,
+      "photo_status": "not_verified",
+      "source_review": "original_editorial_page_read_2026-11-09"
+    },
+    {
+      "id": "GZ-03835",
+      "name": "Vin brulé",
+      "description": "Vino rosso caldo aromatizzato con cannella, chiodi di garofano, agrumi e altre spezie, dal profumo intenso e dal gusto dolce-speziato.",
+      "context": "La pagina lo associa alle zone montane italiane e dell'Europa centrale e al consumo invernale, spesso insieme a castagne o strudel.",
+      "story": "La fonte riferisce che tradizionalmente veniva considerato un rimedio contro i malanni stagionali, ma non ne prova l'efficacia medica né fornisce un'origine cronologica precisa.",
+      "history_status": "traditional_context_no_dated_origin",
+      "source": "https://www.giallozafferano.com/recipes/Mulled-wine.html",
+      "photo": null,
+      "photo_status": "not_verified",
+      "source_review": "original_editorial_page_read_2026-11-09"
+    },
+    {
+      "id": "GZ-03836",
+      "name": "Vin brulé (mulled wine)",
+      "description": "Bevanda calda di vino rosso corposo, zucchero, scorze di agrumi e spezie, preparata per il consumo immediato nelle giornate fredde.",
+      "context": "La versione spagnola della fonte collega il vin brulé alle aree montane del Nord Italia e dell'Europa centrale, indicando varianti locali nel vino e nelle spezie.",
+      "story": "Il riferimento all'impiego popolare come rimedio stagionale è una consuetudine raccontata, non una dimostrazione clinica. La pagina non documenta una data di nascita.",
+      "history_status": "traditional_context_no_dated_origin",
+      "source": "https://www.giallozafferano.es/recetas/Vino-caliente-mulled-wine.html",
+      "photo": null,
+      "photo_status": "not_verified",
+      "source_review": "original_editorial_page_read_2026-11-09"
+    },
+    {
+      "id": "GZ-03824",
+      "name": "Liquore di ciliegie",
+      "description": "Liquore casalingo ottenuto da ciliegie di stagione lasciate macerare nell'alcol e successivamente unite a uno sciroppo, da servire a fine pasto.",
+      "context": "La presentazione valorizza la frutta estiva e il repertorio dei liquori fatti in casa; suggerisce l'abbinamento con dolci.",
+      "story": "La pagina non ricostruisce un'origine geografica o storica specifica di questa preparazione.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://www.giallozafferano.es/recetas/licor-de-cerezas.html",
+      "photo": null,
+      "photo_status": "not_verified",
+      "source_review": "original_editorial_page_read_2026-11-09"
+    },
+    {
+      "id": "GZ-03833",
+      "name": "Succo di mela fatto in casa",
+      "description": "Bevanda di mele cotte con acqua, limone e zucchero e poi frullate, dal sapore fruttato e dalla consistenza omogenea.",
+      "context": "La fonte la propone per colazione, merenda e come base per bevande analcoliche o preparazioni dolci; ricorda la scelta delle varietà di mele per modulare il gusto.",
+      "story": "Non è presentata alcuna origine storica della specifica ricetta. La pagina raccomanda attenzione alla sicurezza delle conserve domestiche e indica una conservazione refrigerata breve.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://www.giallozafferano.es/recetas/zumo-de-manzana-casero.html",
+      "photo": null,
+      "photo_status": "not_verified",
+      "source_review": "original_editorial_page_read_2026-11-09"
+    }
+  ],
+  "blocked_attempts": [
+    {
+      "id": "GZ-03255",
+      "url": "https://www.giallozafferano.com/recipes/baci-di-dama-hazelnut-cookies.html",
+      "status": "HTTP 403"
+    },
+    {
+      "id": "GZ-02563",
+      "url": "https://www.giallozafferano.com/recipes/sicilian-cannoli.html",
+      "status": "HTTP 403"
+    }
+  ],
+  "verified_unique_total": 68,
+  "remaining": 408,
+  "notes": "Only editorial enrichment; index.html and recipes untouched. Photos not independently verified."
+}
