@@ -1,0 +1,57 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 20,
+  "verified_at": "2026-11-09",
+  "source_repository": "enricobertotti-rgb/Ricettario-personale",
+  "source_pending_sha": "ead6ebfa0c21394363ad352ac98b31e2eef08150",
+  "count": 3,
+  "entries": [
+    {
+      "id": "GZ-02566",
+      "name": "Castagnole al cioccolato",
+      "description": "Piccole frittelle tonde di Carnevale con cacao nell'impasto, gocce di cioccolato, profumo di vaniglia e sambuca, fritte e rivestite di zucchero.",
+      "story": "La pagina presenta questa ricetta come variante al cioccolato delle castagnole tradizionali di Carnevale, accostate alle chiacchiere e alle versioni ripiene. Non fornisce data, autore o luogo di invenzione della variante.",
+      "story_classification": "presentazione_editoriale",
+      "source": "https://www.giallozafferano.com/recipes/chocolate-castagnole.html",
+      "source_language": "en",
+      "photo": null,
+      "photo_status": "non verificata",
+      "historical_date_documented": false,
+      "source_reviewed_on": "2026-11-09"
+    },
+    {
+      "id": "GZ-02567",
+      "name": "Castagnole di ricotta",
+      "description": "Frittelle dolci e soffici in forma di piccole sfere, con ricotta vaccina nell'impasto, profumate alla scorza d'arancia e passate nello zucchero dopo la frittura.",
+      "story": "La fonte inserisce le castagnole tra i dolci simbolo del Carnevale italiano e presenta l'aggiunta di ricotta come rivisitazione che rende l'impasto particolarmente tenero. Non documenta una nascita storica autonoma di questa variante.",
+      "story_classification": "contesto_gastronomico",
+      "source": "https://ricette.giallozafferano.it/Castagnole-di-ricotta.html",
+      "source_language": "it",
+      "photo": null,
+      "photo_status": "non verificata",
+      "historical_date_documented": false,
+      "source_reviewed_on": "2026-11-09"
+    },
+    {
+      "id": "GZ-02568",
+      "name": "Castagnole ripiene",
+      "description": "Bocconcini di pasta dolce fritta, dorati e zuccherati, farciti dopo la cottura con crema pasticcera alla vaniglia.",
+      "story": "La pagina colloca le castagnole ripiene nella pasticceria di Carnevale dell'Italia centrale, citando in particolare il Lazio e la diffusione in pasticcerie e bancarelle. Sono descritti ripieni alternativi; non viene stabilita una data o un inventore del dolce.",
+      "story_classification": "tradizione_regionale_senza_data",
+      "source": "https://www.giallozafferano.com/recipes/filled-castagnole.html",
+      "source_language": "en",
+      "photo": null,
+      "photo_status": "non verificata",
+      "historical_date_documented": false,
+      "source_reviewed_on": "2026-11-09"
+    }
+  ],
+  "blocked": [
+    {
+      "id": "GZ-00020",
+      "name": "Cestini di frutta",
+      "source": "https://ricette.giallozafferano.it/Cestini-di-frutta.html",
+      "reason": "HTTP 402; pagina non letta; non conteggiata"
+    }
+  ]
+}
