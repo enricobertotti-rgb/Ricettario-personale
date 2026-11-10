@@ -1,0 +1,91 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 31,
+  "verified_at": "2026-11-10",
+  "source_repository": "enricobertotti-rgb/Ricettario-personale",
+  "previous_batch_blob_sha": "3aaef57c464116e47ebcef52fce75121d03f8518",
+  "count": 6,
+  "enriched_count": 2,
+  "unreachable_count": 4,
+  "entries": [
+    {
+      "id": "GZ-03816",
+      "name": "Limoncello veloce",
+      "description": "Liquore casalingo al limone, pensato come digestivo da servire molto freddo. La variante proposta riduce la macerazione delle scorze nell'alcol a circa un giorno, mantenendo un successivo riposo per armonizzare la componente agrumata e quella alcolica.",
+      "story": "La pagina presenta una variante rapida del limoncello tradizionale e ne illustra le differenze di macerazione e riposo; non attribuisce a questa specifica ricetta una data di invenzione o un'origine storica documentata.",
+      "story_classification": "presentazione_editoriale_e_tecnica_senza_origine_storica",
+      "source": "https://ricette.giallozafferano.it/Limoncello-veloce.html",
+      "source_language": "it",
+      "source_access_method": "pagina_originale_indicizzata_letta",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "status": "verified_editorial_context"
+    },
+    {
+      "id": "GZ-03820",
+      "name": "Liquore al mandarino",
+      "description": "Liquore agli agrumi ottenuto dall'infusione delle scorze di mandarino in alcol e dalla successiva aggiunta di uno sciroppo zuccherino. Ha colore aranciato e profumo intenso, ed è presentato come digestivo freddo o ingrediente aromatico per dolci.",
+      "story": "La presentazione ufficiale in inglese collega la preparazione domestica del mandarinetto alle consuetudini conviviali del Sud Italia, soprattutto Sicilia e Calabria. È un contesto gastronomico editoriale, non una prova documentale dell'invenzione del liquore in un luogo o periodo preciso.",
+      "story_classification": "contesto_gastronomico_editoriale_senza_datazione_storica",
+      "source": "https://www.giallozafferano.com/recipes/mandarin-liqueur.html",
+      "source_language": "en",
+      "source_access_method": "pagina_originale_indicizzata_letta",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "status": "verified_editorial_context"
+    },
+    {
+      "id": "GZ-00044",
+      "name": "Involtini di verza ripieni di verdura",
+      "description": null,
+      "story": null,
+      "story_classification": "non_determinabile",
+      "source": "https://ricette.giallozafferano.it/Involtini-di-verza-ripieni-di-verdura.html",
+      "source_language": "it",
+      "source_access_method": "pagina_originale_http_402_ricerca_senza_corrispondenza_verificabile",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "status": "source_unreachable_not_enriched"
+    },
+    {
+      "id": "GZ-00059",
+      "name": "Spiedini di melone, feta e rucola",
+      "description": null,
+      "story": null,
+      "story_classification": "non_determinabile",
+      "source": "https://ricette.giallozafferano.it/Spiedini-di-melone-feta-e-rucola.html",
+      "source_language": "it",
+      "source_access_method": "pagina_originale_http_402_ricerca_senza_corrispondenza_verificabile",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "status": "source_unreachable_not_enriched"
+    },
+    {
+      "id": "GZ-00067",
+      "name": "Tris di tartine",
+      "description": null,
+      "story": null,
+      "story_classification": "non_determinabile",
+      "source": "https://ricette.giallozafferano.it/Tris-di-tartine.html",
+      "source_language": "it",
+      "source_access_method": "pagina_originale_http_402_ricerca_senza_corrispondenza_verificabile",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "status": "source_unreachable_not_enriched"
+    },
+    {
+      "id": "GZ-00068",
+      "name": "Vol-au-vent fantasia",
+      "description": null,
+      "story": null,
+      "story_classification": "non_determinabile",
+      "source": "https://ricette.giallozafferano.it/Vol-au-vent-fantasia.html",
+      "source_language": "it",
+      "source_access_method": "pagina_originale_http_402_ricerca_senza_corrispondenza_verificabile",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "status": "source_unreachable_not_enriched"
+    }
+  ],
+  "notes": "Lotto autonomo; index.html e ricette originali invariati. Due pagine editoriali verificate tramite testo indicizzato; quattro URL originali testati con HTTP 402 e registrati senza inventare contenuti. ID confrontati con i lotti 02-30."
+}
