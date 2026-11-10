@@ -1,0 +1,50 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 14,
+  "verified_at": "2026-11-09",
+  "entries": [
+    {
+      "id": "GZ-00073",
+      "name": "amatriciana",
+      "description": "Primo piatto di pasta condito con pomodoro, guanciale e pecorino romano, dal gusto sapido e intenso. La fonte presenta spaghetti e bucatini come formati legati alle diverse consuetudini.",
+      "story": "La fonte collega l'amatriciana ad Amatrice, nell'area appenninica tra Lazio e Abruzzo. Descrive come antecedente la gricia, preparazione senza pomodoro, e la successiva diffusione dell'amatriciana nella cucina romana. Ricorda inoltre le iniziative di solidarietà dopo il terremoto di Amatrice del 2016. Non fornisce una data certa di invenzione.",
+      "history_status": "documented_regional_tradition",
+      "source": "https://www.giallozafferano.com/recipes/Spaghetti-Amatriciana-Bacon-and-tomato-spaghetti.html",
+      "photo": null,
+      "photo_status": "not_verified_in_this_batch",
+      "verification_method": "official_editorial_search_index",
+      "verified_at": "2026-11-09",
+      "source_language": "en"
+    },
+    {
+      "id": "GZ-00074",
+      "name": "Amor polenta",
+      "description": "Dolce lombardo soffice e profumato, preparato con farina di mais fine e mandorle, tradizionalmente cotto in uno stampo scanalato che gli conferisce una forma caratteristica e una colorazione dorata.",
+      "story": "La pagina ufficiale identifica l'Amor polenta come specialità di Varese, detta anche Dolce di Varese, tuttora proposta nelle pasticcerie della zona. Descrive l'uso del tipico stampo scanalato e della farina di mais. La ricetta pubblicata è firmata da Iginio Massari. La fonte specifica non documenta una data certa di origine.",
+      "history_status": "documented_regional_tradition",
+      "source": "https://www.giallozafferano.com/recipes/amor-polenta-polenta-sponge-cake.html",
+      "photo": null,
+      "photo_status": "not_verified_in_this_batch",
+      "verification_method": "official_editorial_search_index",
+      "verified_at": "2026-11-09",
+      "source_language": "en"
+    }
+  ],
+  "blocked": [
+    {
+      "id": "GZ-00064",
+      "source": "https://ricette.giallozafferano.it/Tartare-di-carne-su-bruschetta.html",
+      "http_status": 402
+    },
+    {
+      "id": "GZ-00067",
+      "source": "https://ricette.giallozafferano.it/Tris-di-tartine.html",
+      "http_status": 402
+    },
+    {
+      "id": "GZ-00068",
+      "source": "https://ricette.giallozafferano.it/Vol-au-vent-fantasia.html",
+      "http_status": 402
+    }
+  ]
+}

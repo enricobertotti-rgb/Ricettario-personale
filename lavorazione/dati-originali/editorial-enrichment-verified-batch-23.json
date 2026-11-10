@@ -1,0 +1,82 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 23,
+  "verified_at": "2026-11-09",
+  "count": 3,
+  "entries": [
+    {
+      "id": "GZ-03886",
+      "name": "Acai bowl",
+      "description": "Ciotola fredda e cremosa a base di yogurt greco, açaí e latte di cocco, addolcita con miele e completata con banana, cocco fresco e cornflakes croccanti.",
+      "story": "La fonte colloca l'açaí nella tradizione alimentare delle popolazioni dell'Amazzonia brasiliana e descrive la diffusione internazionale delle bowl, particolarmente nei locali dedicati alla colazione. La diffusione commerciale negli Stati Uniti è un contesto editoriale; non viene documentata una data precisa di invenzione di questa variante allo yogurt.",
+      "story_classification": "tradizione_alimentare_e_contesto_editoriale_senza_data_origine",
+      "source": "https://www.giallozafferano.com/recipes/acai-bowl.html",
+      "source_language": "en",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09"
+    },
+    {
+      "id": "GZ-03254",
+      "name": "American muffin",
+      "description": "Dolcetti monoporzione soffici e lievitati in forno, con la tipica cupola arrotondata; l'impasto base è profumato con vaniglia e scorza di limone ed è adatto a numerose varianti.",
+      "story": "GialloZafferano presenta i muffin come dolci emblematici della colazione e del brunch in stile statunitense, accostandoli ai pancake. La pagina non fornisce una cronologia storica verificabile né indica un inventore.",
+      "story_classification": "contesto_gastronomico_editoriale_senza_origine_storica",
+      "source": "https://www.giallozafferano.com/recipes/american-muffin.html",
+      "source_language": "en",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09"
+    },
+    {
+      "id": "GZ-02532",
+      "name": "Banana bread",
+      "description": "Dolce da stampo simile a un plumcake, dalla mollica umida e compatta, preparato con banane molto mature, burro, uova e cannella. È proposto come modo pratico per utilizzare frutta troppo matura.",
+      "story": "La pagina editoriale collega la diffusione del banana bread negli Stati Uniti degli anni Trenta alla Grande Depressione, al recupero delle banane mature e alla disponibilità dei lievitanti chimici. Cita una pubblicazione Pillsbury del 1933 come prima ricetta nazionale nota: si tratta di una ricostruzione riportata da GialloZafferano, non verificata qui su fonti storiche primarie.",
+      "story_classification": "ricostruzione_storica_editoriale_non_verificata_indipendentemente",
+      "source": "https://www.giallozafferano.com/recipes/banana-bread.html",
+      "source_language": "en",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09"
+    }
+  ],
+  "blocked": [
+    {
+      "id": "GZ-00044",
+      "source": "https://ricette.giallozafferano.it/Involtini-di-verza-ripieni-di-verdura.html",
+      "http_status": 402,
+      "status": "non_verificato_accesso_diretto",
+      "note": "Non conteggiato fra le schede completate; una eventuale indicizzazione parziale non sostituisce la revisione completa."
+    },
+    {
+      "id": "GZ-04536",
+      "source": "https://ricette.giallozafferano.it/Olive-nere-al-forno.html",
+      "http_status": 402,
+      "status": "non_verificato_accesso_diretto",
+      "note": "Non conteggiato fra le schede completate; una eventuale indicizzazione parziale non sostituisce la revisione completa."
+    },
+    {
+      "id": "GZ-00059",
+      "source": "https://ricette.giallozafferano.it/Spiedini-di-melone-feta-e-rucola.html",
+      "http_status": 402,
+      "status": "non_verificato_accesso_diretto",
+      "note": "Non conteggiato fra le schede completate; una eventuale indicizzazione parziale non sostituisce la revisione completa."
+    },
+    {
+      "id": "GZ-03816",
+      "source": "https://ricette.giallozafferano.it/Limoncello-veloce.html",
+      "http_status": 402,
+      "status": "non_verificato_accesso_diretto",
+      "note": "Non conteggiato fra le schede completate; una eventuale indicizzazione parziale non sostituisce la revisione completa."
+    },
+    {
+      "id": "GZ-03334",
+      "source": "https://www.giallozafferano.com/recipes/bomboloni.html",
+      "http_status": 403,
+      "status": "non_verificato_accesso_diretto",
+      "note": "Non conteggiato fra le schede completate; una eventuale indicizzazione parziale non sostituisce la revisione completa."
+    }
+  ],
+  "notes": "Delta additivo; index.html, ingredienti, dosi e procedure non modificati. Storie e contesti separati per attendibilità."
+}

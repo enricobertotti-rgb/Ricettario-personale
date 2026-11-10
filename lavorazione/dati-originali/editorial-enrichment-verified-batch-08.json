@@ -1,0 +1,68 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 8,
+  "review_date": "2026-11-08",
+  "source_repo": "enricobertotti-rgb/Ricettario-personale",
+  "source_index_sha": "b750e0bf20e9f643c7a1b45208cb40c87b04a6d0",
+  "count": 5,
+  "entries": [
+    {
+      "id": "GZ-00031",
+      "name": "Falafel di fave",
+      "description": "Polpettine speziate di fave secche ammollate, aromatizzate con aglio, cipolla, prezzemolo, cumino e cardamomo, poi fritte e servite calde, anche con pita e salsa tahina.",
+      "story": "La pagina colloca i falafel nella tradizione gastronomica mediorientale e araba, ricordandone la diffusione in Israele e in altri paesi. Cita come ipotesi, non come fatto accertato, l'esistenza di preparazioni analoghe nell'antico Egitto.",
+      "history_status": "historical_hypothesis",
+      "source": "https://www.giallozafferano.de/rezepte/falafel-aus-favabohnen.html",
+      "photo_links": [
+        "https://www.giallozafferano.de/images/56-5694/falafel-aus-favabohnen_1200x800.jpg"
+      ],
+      "source_reviewed": true
+    },
+    {
+      "id": "GZ-00034",
+      "name": "Finger food di cetrioli e hummus",
+      "description": "Bocconcini freschi da aperitivo che accostano la croccantezza del cetriolo alla cremosità dell'hummus di ceci e tahina, con una base di pane piatto ed erbe aromatiche.",
+      "story": "La presentazione editoriale richiama i sapori mediorientali dell'hummus e la diffusione del cetriolo nella cucina mediterranea. Non documenta un'origine storica specifica di questo finger food contemporaneo.",
+      "history_status": "editorial_context_only",
+      "source": "https://www.giallozafferano.com/recipes/cucumber-and-hummus-finger-food.html",
+      "photo_links": [
+        "https://www.giallozafferano.com/images/335-33588/cucumber-and-hummus-finger-food_780x520_wm.jpg"
+      ],
+      "source_reviewed": true
+    },
+    {
+      "id": "GZ-00037",
+      "name": "Involtini di pancarrè prosciutto e formaggio",
+      "description": "Rotolini di pane in cassetta farciti con prosciutto cotto ed Emmentaler, impanati e dorati in padella, con involucro croccante e cuore filante.",
+      "story": "La fonte propone una soluzione moderna e pratica per antipasti, feste e buffet. Non indica una provenienza geografica o una data d'origine storicamente documentata per la ricetta.",
+      "history_status": "editorial_context_only",
+      "source": "https://ricette.giallozafferano.it/Involtini-di-pancarre-prosciutto-e-formaggio.html",
+      "photo_links": [
+        "https://www.giallozafferano.it/images/240-24081/Involtini-di-pancarre-prosciutto-e-formaggio_780x520_wm.jpg"
+      ],
+      "source_reviewed": true
+    },
+    {
+      "id": "GZ-00041",
+      "name": "Involtini di verza",
+      "description": "Foglie di verza sbollentate che avvolgono un ripieno sostanzioso di patate, salsiccia e formaggio, completato da aromi e condimento al burro e salvia.",
+      "story": "La pagina presenta una variante invernale degli involtini di verza e ne suggerisce altri ripieni vegetali o a base di riso. Non attribuisce alla versione con patate e salsiccia un'origine storica precisa.",
+      "history_status": "editorial_context_only",
+      "source": "https://www.giallozafferano.es/recetas/rollitos-de-col.html",
+      "photo_links": [],
+      "source_reviewed": true
+    },
+    {
+      "id": "GZ-00047",
+      "name": "Mini quiche ai funghi, porri e prosciutto",
+      "description": "Piccole tortine salate di sfoglia con funghi champignon, porri e prosciutto cotto, legate da una crema di uova, panna e Grana Padano, adatte ad aperitivi e buffet.",
+      "story": "La fonte descrive una versione monoporzione della quiche con ripieno rustico, ma non documenta la nascita di questa specifica combinazione di ingredienti. Il richiamo alla quiche è una classificazione gastronomica, non una prova di origine.",
+      "history_status": "editorial_context_only",
+      "source": "https://www.giallozafferano.es/recetas/mini-quiche-de-champinones-puerros-y-jamon.html",
+      "photo_links": [
+        "https://www.giallozafferano.es/images/204-20417/mini-quiche-de-champinones-puerros-y-jamon_1200x800.jpg"
+      ],
+      "source_reviewed": true
+    }
+  ]
+}

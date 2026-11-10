@@ -1,0 +1,23 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "source": "GialloZafferano editorial presentations reviewed 2026-11-08",
+  "count": 2,
+  "entries": [
+    {
+      "id": "GZ-00002",
+      "name": "Antipasto crudo e avocado",
+      "description": "Finger food da aperitivo composto da piccoli blinis di farina di ceci e farina di frumento, prosciutto crudo e avocado disposto a rosa, accompagnato da marmellata d'arancia. La presentazione punta sul contrasto fra sapidità, freschezza e nota agrumata.",
+      "story": "La pagina editoriale presenta il piatto come proposta contemporanea per feste, Natale e Capodanno, non come specialità con una storia tradizionale documentata. L'elemento distintivo è la decorazione floreale dell'avocado e l'incontro fra sapori diversi.",
+      "history_status": "editorial_context_no_historical_origin",
+      "source": "https://ricette.giallozafferano.it/Antipasto-crudo-e-avocado.html"
+    },
+    {
+      "id": "GZ-01477",
+      "name": "Baccalà in pastella",
+      "description": "Bocconcini di baccalà dissalato fritti in pastella alla birra con paprika, accompagnati da una salsa di maionese, ketchup, senape, cetriolini e una nota piccante. La pastella fredda e la frittura a 180 °C favoriscono una crosta croccante.",
+      "story": "GialloZafferano propone questa versione come interpretazione speziata del classico baccalà fritto casalingo, adatta anche alle occasioni festive e agli aperitivi. La pagina non attribuisce alla specifica variante alla paprika una provenienza storica documentata.",
+      "history_status": "editorial_context_no_historical_origin",
+      "source": "https://ricette.giallozafferano.it/Baccala-in-pastella.html"
+    }
+  ]
+}

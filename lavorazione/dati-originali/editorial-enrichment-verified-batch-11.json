@@ -1,0 +1,144 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 11,
+  "review_date": "2026-11-09",
+  "source_repo": "enricobertotti-rgb/Ricettario-personale",
+  "source_index_sha": "e3357c5150e6cc7cd7965a2c3978b4563eb700e9",
+  "source_pending_sha": "ead6ebfa0c21394363ad352ac98b31e2eef08150",
+  "entries": [
+    {
+      "id": "GZ-00063",
+      "description": "Supplì di riso al pomodoro, impanati e fritti, con cuore di mozzarella filante; variante semplice del classico supplì romano.",
+      "context": "La presentazione editoriale li collega alla cucina laziale e romana, in particolare ai supplì al telefono. La mozzarella da pizza è proposta per accentuare l'effetto filante.",
+      "story": "La fonte documenta l'appartenenza del supplì alla tradizione romana e laziale, ma non indica una data o un inventore della preparazione. Questa versione al pomodoro e mozzarella è descritta come variante più semplice.",
+      "history_status": "regional_tradition_no_dated_origin",
+      "source": "https://www.giallozafferano.com.br/receitas/suppli-mozzarella-e-tomate.html",
+      "source_language": "pt-BR",
+      "name": "Supplì mozzarella e pomodoro",
+      "photo": "https://www.giallozafferano.com.br/images/17-1749/suppli-mozzarella-e-tomate_780x520_wm.jpg"
+    },
+    {
+      "id": "GZ-00983",
+      "description": "Cocktail estivo al pomodoro che combina l'ispirazione del gazpacho andaluso con il profilo aromatico del Bloody Mary, arricchito da verdure, vodka e note speziate.",
+      "context": "La redazione propone un incontro tra la zuppa fredda tipica dell'Andalusia e il cocktail al succo di pomodoro, pensato per un aperitivo estivo.",
+      "story": "La fonte identifica il gazpacho come preparazione tradizionale andalusa e il Bloody Mary come cocktail al pomodoro, ma presenta questa combinazione come creazione editoriale contemporanea, senza documentarne una storia autonoma.",
+      "history_status": "editorial_reinterpretation_no_historical_origin",
+      "source": "https://ricette.giallozafferano.it/Bloody-Mary-gazpacho.html",
+      "source_language": "it",
+      "name": "Bloody Mary gazpacho",
+      "photo": null
+    },
+    {
+      "id": "GZ-03806",
+      "description": "Bevanda calda e cremosa a base di zabaione aromatizzato al limoncello, completata da panna montata e scorza di limone.",
+      "context": "Rielaborazione del bombardino, bevanda associata ai rifugi alpini e al dopo-sci: l'aggiunta del limoncello introduce un aroma agrumato tipico del Sud Italia.",
+      "story": "La presentazione collega il bombardino alla consuetudine delle località sciistiche alpine e descrive la versione al limoncello come variazione sul classico. Non documenta una data di invenzione né un'origine storica specifica della variante.",
+      "history_status": "regional_context_modern_variant",
+      "source": "https://www.giallozafferano.com/recipes/bombardino-al-limoncello.html",
+      "source_language": "en",
+      "name": "Bombardino al limoncello",
+      "photo": "https://www.giallozafferano.com/images/333-33395/bombardino-al-limoncello_780x520_wm.jpg"
+    }
+  ],
+  "unreachable_attempts": [
+    {
+      "id": "GZ-00003",
+      "name": "Arancini al ragù bianco",
+      "url": "https://www.giallozafferano.com/recipes/white-ragu-arancini.html",
+      "status": "source_access_failed",
+      "http_status": 403,
+      "completed": false
+    },
+    {
+      "id": "GZ-00010",
+      "name": "bruschetta caprese",
+      "url": "https://ricette.giallozafferano.it/Bruschetta-caprese.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    },
+    {
+      "id": "GZ-00026",
+      "name": "Crostino vegano",
+      "url": "https://ricette.giallozafferano.it/antipasto-vegano.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    },
+    {
+      "id": "GZ-00033",
+      "name": "Felafel (Falafel)",
+      "url": "https://ricette.giallozafferano.it/Felafel-Falafel.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    },
+    {
+      "id": "GZ-00044",
+      "name": "Involtini di verza ripieni di verdura",
+      "url": "https://ricette.giallozafferano.it/Involtini-di-verza-ripieni-di-verdura.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    },
+    {
+      "id": "GZ-04536",
+      "name": "Olive nere al forno",
+      "url": "https://ricette.giallozafferano.it/Olive-nere-al-forno.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    },
+    {
+      "id": "GZ-00054",
+      "name": "Quiche svuotafrigo",
+      "url": "https://ricette.giallozafferano.it/Quiche-svuotafrigo.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    },
+    {
+      "id": "GZ-00059",
+      "name": "Spiedini di melone, feta e rucola",
+      "url": "https://ricette.giallozafferano.it/Spiedini-di-melone-feta-e-rucola.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    },
+    {
+      "id": "GZ-00064",
+      "name": "Tartare di carne su bruschetta",
+      "url": "https://ricette.giallozafferano.it/Tartare-di-carne-su-bruschetta.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    },
+    {
+      "id": "GZ-00067",
+      "name": "Tris di tartine",
+      "url": "https://ricette.giallozafferano.it/Tris-di-tartine.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    },
+    {
+      "id": "GZ-00068",
+      "name": "Vol-au-vent fantasia",
+      "url": "https://ricette.giallozafferano.it/Vol-au-vent-fantasia.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    },
+    {
+      "id": "GZ-03805",
+      "name": "Bellini cocktail",
+      "url": "https://ricette.giallozafferano.it/Bellini-cocktail.html",
+      "status": "source_access_failed",
+      "http_status": 402,
+      "completed": false
+    }
+  ],
+  "verified_unique_total": 46,
+  "remaining": 430,
+  "notes": "Only source editorial text was reviewed; recipe quantities and methods untouched. Blocked attempts not counted as verified."
+}

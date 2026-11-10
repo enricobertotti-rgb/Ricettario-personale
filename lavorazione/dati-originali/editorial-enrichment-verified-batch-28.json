@@ -1,0 +1,65 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 28,
+  "verified_at": "2026-11-09",
+  "count": 4,
+  "entries": [
+    {
+      "id": "GZ-03895",
+      "name": "Albicocche in sfoglia",
+      "description": "Antipasto monoporzione dolce-salato: albicocche fresche farcite con scamorza, avvolte nella pasta sfoglia e cotte fino a doratura. Il contrasto unisce frutta succosa, formaggio filante e involucro croccante.",
+      "story": "La presentazione propone un abbinamento creativo fra frutta e formaggio, adatto ad aperitivi e brunch; non lo identifica come ricetta regionale tradizionale e non documenta un'origine storica.",
+      "story_classification": "presentazione_editoriale_senza_origine_storica_documentata",
+      "source": "https://www.giallozafferano.com/recipes/apricots-in-puff-pastry.html",
+      "source_language": "en",
+      "original_source": "https://www.giallozafferano.com/recipes/apricots-in-puff-pastry.html",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09",
+      "source_access_method": "pagina_editoriale_indicizzata"
+    },
+    {
+      "id": "GZ-00003",
+      "name": "Arancini al ragù bianco",
+      "description": "Variante degli arancini siciliani con riso allo zafferano, ripieno di ragù di carne senza pomodoro, piselli e caciocavallo, impanata e fritta. Il ripieno morbido contrasta con la crosta dorata.",
+      "story": "La fonte colloca gli arancini nella tradizione dello street food siciliano e richiama la disputa linguistica fra «arancini» e «arancine». Presenta il ragù bianco come variante del ripieno classico, senza documentare quando sia stata ideata.",
+      "story_classification": "tradizione_gastronomica_documentata_variante_senza_data_di_origine",
+      "source": "https://www.giallozafferano.com/recipes/white-ragu-arancini.html",
+      "source_language": "en",
+      "original_source": "https://www.giallozafferano.com/recipes/white-ragu-arancini.html",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09",
+      "source_access_method": "pagina_editoriale_indicizzata"
+    },
+    {
+      "id": "GZ-01802",
+      "name": "Asparagi in sfoglia con crudo",
+      "description": "Fagottini di asparagi lessati, avvolti in prosciutto crudo e formaggio stagionato, quindi fasciati a spirale con pasta sfoglia e cotti in forno. Proposta salata croccante per buffet e antipasti.",
+      "story": "L'introduzione descrive una preparazione da convivialità, particolarmente indicata in primavera quando gli asparagi sono di stagione; non attribuisce al piatto un'origine storica o territoriale specifica.",
+      "story_classification": "contesto_stagionale_editoriale_senza_origine_storica_documentata",
+      "source": "https://www.giallozafferano.com/recipes/asparagus-in-puff-pastry-with-prosciutto.html",
+      "source_language": "en",
+      "original_source": "https://www.giallozafferano.com/recipes/asparagus-in-puff-pastry-with-prosciutto.html",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09",
+      "source_access_method": "pagina_editoriale_indicizzata"
+    },
+    {
+      "id": "GZ-01463",
+      "name": "Avocado, uova e salmone",
+      "description": "Antipasto o brunch in cui mezzi avocado conditi con lime accolgono salmone affumicato e uova cotte in padella, completati da erba cipollina e pepe rosa.",
+      "story": "La pagina richiama la colazione inglese come ispirazione per una proposta contemporanea da brunch, ma non sostiene che questa combinazione sia una ricetta inglese tradizionale né ne documenta la nascita.",
+      "story_classification": "ispirazione_editoriale_senza_origine_storica_documentata",
+      "source": "https://www.giallozafferano.com/recipes/avocado-eggs-and-salmon.html",
+      "source_language": "en",
+      "original_source": "https://www.giallozafferano.com/recipes/avocado-eggs-and-salmon.html",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09",
+      "source_access_method": "pagina_editoriale_indicizzata"
+    }
+  ],
+  "notes": "Contenuti editoriali originali letti tramite indice del motore di ricerca; apertura diretta dei quattro URL bloccata HTTP 403. Non sono stati modificati index.html, ingredienti, dosi o procedimenti."
+}

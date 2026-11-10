@@ -1,0 +1,85 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 12,
+  "review_date": "2026-11-09",
+  "source_index_sha": "721804e7bd0fb3e10d6081114d3e64a443db8a7f",
+  "count": 4,
+  "entries": [
+    {
+      "id": "GZ-03808",
+      "name": "Cioccolata calda",
+      "description": "Bevanda calda densa e vellutata preparata con cioccolato fondente, cacao, latte e amido; può essere servita semplice o con panna e spezie.",
+      "story": "La presentazione editoriale valorizza la cioccolata calda come momento conviviale nelle giornate invernali e ne illustra le possibili varianti. Non offre una ricostruzione storica dell'origine della bevanda.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://www.giallozafferano.com/recipes/Hot-chocolate.html",
+      "source_language": "en",
+      "original_catalog_source": "https://www.giallozafferano.com/recipes/Hot-chocolate.html",
+      "photo_url": "https://www.giallozafferano.com/images/238-23829/Hot-chocolate_780x520_wm.jpg",
+      "source_reviewed": "2026-11-09"
+    },
+    {
+      "id": "GZ-03809",
+      "name": "Cioccolata calda al caffè",
+      "description": "Versione ricca della cioccolata calda, con caffè, cioccolato fondente e cacao, servita con panna montata; la ricetta prevede anche una nota facoltativa di brandy.",
+      "story": "L'introduzione collega la bevanda al consumo invernale e alla convivialità, presentando l'abbinamento fra cioccolato e caffè come variazione aromatica. I riferimenti all'Italia settentrionale sono evocativi, non una prova di origine geografica o cronologica della ricetta.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://www.giallozafferano.com/recipes/coffee-hot-chocolate.html",
+      "source_language": "en",
+      "original_catalog_source": "https://www.giallozafferano.com/recipes/coffee-hot-chocolate.html",
+      "photo_url": "https://www.giallozafferano.com/images/334-33443/coffee-hot-chocolate_780x520_wm.jpg",
+      "source_reviewed": "2026-11-09"
+    },
+    {
+      "id": "GZ-03810",
+      "name": "Cioccolata calda bianca",
+      "description": "Bevanda cremosa e delicata a base di cioccolato bianco, latte, zucchero e amido di mais, pensata per una pausa dolce invernale; può essere aromatizzata con menta o cannella.",
+      "story": "La fonte la presenta esplicitamente come variante bianca della cioccolata calda tradizionale. Non indica un inventore, una data o un luogo di origine della versione al cioccolato bianco.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://www.giallozafferano.com.br/receitas/chocolate-quente-branco.html",
+      "source_language": "pt-BR",
+      "original_catalog_source": "https://www.giallozafferano.com.br/receitas/chocolate-quente-branco.html",
+      "photo_url": null,
+      "source_reviewed": "2026-11-09"
+    },
+    {
+      "id": "GZ-03811",
+      "name": "Cioccolata calda su stecco",
+      "description": "Porzioni solide di cioccolato fondente e cacao su bastoncino, personalizzabili con frutta secca e spezie, da sciogliere nel latte caldo per ottenere una bevanda.",
+      "story": "L'introduzione cita il romanzo e film Chocolat come ispirazione narrativa e suggerisce questi stecchi come regalo gastronomico natalizio. Il riferimento culturale non costituisce una storia documentata dell'invenzione della ricetta.",
+      "history_status": "editorial_context_no_documented_origin",
+      "source": "https://www.giallozafferano.com/recipes/hot-chocolate-on-a-stick.html",
+      "source_language": "en",
+      "original_catalog_source": "https://www.giallozafferano.com/recipes/hot-chocolate-on-a-stick.html",
+      "photo_url": null,
+      "source_reviewed": "2026-11-09"
+    }
+  ],
+  "blocked_attempts": [
+    {
+      "id": "GZ-00003",
+      "url": "https://www.giallozafferano.com/recipes/white-ragu-arancini.html",
+      "error": "HTTP 403"
+    },
+    {
+      "id": "GZ-00010",
+      "url": "https://ricette.giallozafferano.it/Bruschetta-caprese.html",
+      "error": "HTTP 402"
+    },
+    {
+      "id": "GZ-04536",
+      "url": "https://ricette.giallozafferano.it/Olive-nere-al-forno.html",
+      "error": "HTTP 402"
+    },
+    {
+      "id": "GZ-00054",
+      "url": "https://ricette.giallozafferano.it/Quiche-svuotafrigo.html",
+      "error": "HTTP 402"
+    },
+    {
+      "id": "GZ-03805",
+      "url": "https://ricette.giallozafferano.it/Bellini-cocktail.html",
+      "error": "HTTP 402"
+    }
+  ],
+  "notes": "Nessuna modifica a index.html, ingredienti, dosi o procedimenti. Fonti editoriali lette e rielaborate in italiano."
+}

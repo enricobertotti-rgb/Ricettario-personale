@@ -1,0 +1,59 @@
+{
+  "schema": "sapore-discovery-candidates-v1",
+  "date": "2026-11-09",
+  "status": "pending_master_dedup_and_full_recipe_validation",
+  "note": "Non importare nel master finché non siano verificati deduplicazione, procedimenti integrali e fotografie.",
+  "candidates": [
+    {
+      "title_original": "Baklava",
+      "title_it": "Baklava",
+      "category": "pasticceria etnica",
+      "source": "https://www.giallozafferano.com/recipes/baklava.html",
+      "description": "Dolce stratificato di pasta fillo, mandorle e sciroppo al miele.",
+      "storia_e_origine": "La presentazione colloca il dolce nelle tradizioni della Grecia, dei Balcani e del Medio Oriente; non documenta un'origine univoca.",
+      "ingredients_verified": [
+        "pasta fillo 300 g",
+        "mandorle pelate 400 g",
+        "burro 300 g",
+        "cannella 8 g",
+        "miele 250 g",
+        "zucchero 200 g",
+        "acqua 200 g"
+      ],
+      "portions": 8,
+      "prep_minutes": 15,
+      "cook_minutes": 60,
+      "oven_celsius": 160,
+      "photo_links": [],
+      "photo_status": "non verificati",
+      "verification": "ricetta consultata; deduplica master pendente"
+    },
+    {
+      "title_original": "Gluten-free focaccia",
+      "title_it": "Focaccia senza glutine",
+      "category": "panificazione",
+      "source": "https://www.giallozafferano.com/recipes/gluten-free-focaccia.html",
+      "description": "Focaccia con patate, farina di riso e tapioca, dalla mollica soffice.",
+      "storia_e_origine": "La presentazione richiama la focaccia ligure ma non documenta un'origine storica della variante senza glutine.",
+      "ingredients_verified": [
+        "patate 300 g",
+        "farina di riso 250 g",
+        "tapioca 40 g",
+        "lievito fresco 6 g",
+        "acqua 145 g",
+        "sale fino 7 g",
+        "olio EVO impasto 20 g",
+        "olio EVO superficie 30 g",
+        "sale grosso 1 cucchiaio",
+        "rosmarino 1 rametto"
+      ],
+      "portions": 6,
+      "prep_minutes": 20,
+      "cook_minutes": 80,
+      "oven_celsius": 200,
+      "photo_links": [],
+      "photo_status": "non verificati",
+      "verification": "ricetta consultata; deduplica master pendente"
+    }
+  ]
+}

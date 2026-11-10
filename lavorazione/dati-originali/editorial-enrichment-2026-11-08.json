@@ -1,0 +1,17 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "source_repository": "enricobertotti-rgb/Ricettario-personale",
+  "source_file": "index.html",
+  "total_recipes_observed": 476,
+  "entries": [
+    {
+      "id": "GZ-00076",
+      "name": "Arancini di riso al pistacchio",
+      "description": "Variante degli arancini siciliani: una crosta croccante racchiude riso allo zafferano e un ripieno cremoso di besciamella, pistacchi e caciocavallo.",
+      "story": "Gli arancini, chiamati anche arancine secondo le tradizioni locali, appartengono alla cultura dello street food siciliano. Questa variante valorizza il pistacchio, ingrediente particolarmente rappresentativo della gastronomia dell'isola, abbinandolo al caciocavallo e alla besciamella. La fonte descrive il contesto gastronomico, ma non documenta una data o un inventore della variante.",
+      "source": "https://ricette.giallozafferano.it/Arancini-di-riso-al-pistacchio.html",
+      "status": "verified_editorial_introduction"
+    }
+  ],
+  "notes": "Delta separato: nessuna modifica a index.html o alle 476 ricette originali. Applicazione in UI ancora da fare."
+}

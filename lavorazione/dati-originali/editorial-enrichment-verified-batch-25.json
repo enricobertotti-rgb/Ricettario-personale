@@ -1,0 +1,62 @@
+{
+  "schema": "sapore-editorial-enrichment-v1",
+  "batch": 25,
+  "verified_at": "2026-11-09",
+  "count": 3,
+  "entries": [
+    {
+      "id": "GZ-02539",
+      "name": "Bavarese",
+      "description": "Dolce al cucchiaio dalla consistenza morbida e compatta, ottenuto unendo crema inglese alla vaniglia, gelatina e panna semimontata; si serve freddo, dopo il rassodamento in stampo.",
+      "story": "La pagina GialloZafferano collega il nome alla Baviera e racconta che nel XVIII secolo vi fosse una preparazione bevibile con tè, latte e liquore, trasformata in dessert al cucchiaio nella pasticceria francese nel secolo successivo. È una ricostruzione storica riportata dalla fonte editoriale, non verificata qui su documenti storici indipendenti.",
+      "story_classification": "racconto_storico_editoriale_non_verificato_indipendentemente",
+      "source": "https://www.giallozafferano.com.br/receitas/bavarois.html",
+      "source_language": "pt-BR",
+      "original_source": "https://www.giallozafferano.com.br/receitas/bavarois.html",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09"
+    },
+    {
+      "id": "GZ-03335",
+      "name": "Bomboloni al forno",
+      "description": "Versione cotta al forno dei bomboloni dolci lievitati: piccoli panini soffici, dorati, farciti dopo la cottura con confettura o creme e rifiniti con zucchero a velo.",
+      "story": "La presentazione li inserisce fra i dolci diffusi nel Centro e Nord Italia, specialmente nel periodo di Carnevale, e cita la Toscana come territorio spesso associato ai bomboloni. Non documenta però una data di nascita, un inventore o l'origine specifica della variante al forno.",
+      "story_classification": "contesto_regionale_editoriale_senza_origine_documentata",
+      "source": "https://www.giallozafferano.com/recipes/baked-donuts.html",
+      "source_language": "en",
+      "original_source": "https://www.giallozafferano.com/recipes/baked-donuts.html",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09"
+    },
+    {
+      "id": "GZ-03339",
+      "name": "Brioche",
+      "description": "Piccoli lievitati dolci ricchi di tuorli e burro, soffici e profumati di vaniglia e limone, modellabili in forme tonde, intrecciate o con la caratteristica pallina superiore della brioche à tête.",
+      "story": "La fonte descrive la diffusione europea delle brioche e il loro consumo a colazione, distinguendo diverse forme tradizionali. Non indica una provenienza storica certa né una cronologia d'invenzione.",
+      "story_classification": "tradizione_europea_editoriale_senza_cronologia_documentata",
+      "source": "https://www.giallozafferano.com/recipes/Brioches.html",
+      "source_language": "en",
+      "original_source": "https://www.giallozafferano.com/recipes/Brioches.html",
+      "photo": null,
+      "photo_status": "non_verificata",
+      "source_reviewed_on": "2026-11-09"
+    }
+  ],
+  "blocked_attempts": [
+    {
+      "id": "GZ-00067",
+      "source": "https://ricette.giallozafferano.it/Tris-di-tartine.html",
+      "http_status": 402,
+      "status": "pending_source_review"
+    },
+    {
+      "id": "GZ-00068",
+      "source": "https://ricette.giallozafferano.it/Vol-au-vent-fantasia.html",
+      "http_status": 402,
+      "status": "pending_source_review"
+    }
+  ],
+  "notes": "Solo delta editoriale: nessuna modifica a index.html, ingredienti, dosi o procedimenti. Link foto non verificati."
+}
