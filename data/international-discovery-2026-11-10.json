@@ -1,0 +1,147 @@
+{
+  "schema": "giallozafferano-international-discovery-delta-v1",
+  "date": "2026-11-10",
+  "source_master": "GialloZafferano_MASTER_C56.csv",
+  "master_rows": 5001,
+  "deduplication": "Confronto titoli e URL nel master C56; khachapuri escluso perché già GZ-03856. Controllo delle lingue aggiuntive non esaustivo.",
+  "count": 2,
+  "entries": [
+    {
+      "id": "GZ-NEW-20261110-CHOCOLATE-BABKA",
+      "source_id": "giallozafferano.com:34472",
+      "original_title": "Chocolate Babka",
+      "title_it": "Babka al cioccolato",
+      "category": "pasticceria_panificazione",
+      "description": "Pane dolce intrecciato al cacao, con spirali di crema alle nocciole e gocce di cioccolato fondente. La versione pubblicata è senza burro e zucchero nell'impasto.",
+      "story_origin": {
+        "text": "La presentazione editoriale associa la babka alla Polonia e alla diffusione nell'Europa orientale, citandone il consumo a colazione e in famiglia. Non documenta una data di nascita né una specifica ricostruzione storica.",
+        "classification": "contesto_tradizionale_editoriale_non_cronologia_storica",
+        "source_url": "https://www.giallozafferano.com/recipes/chocolate-babka.html"
+      },
+      "ingredients": [
+        {
+          "section": "impasto",
+          "items": [
+            "500 g farina Manitoba (almeno 12,5% proteine)",
+            "25 g lievito di birra fresco",
+            "25 g cacao amaro",
+            "160 ml acqua",
+            "160 ml latte intero",
+            "8 g sale fino"
+          ]
+        },
+        {
+          "section": "farcitura",
+          "items": [
+            "100 g crema spalmabile alle nocciole",
+            "20 g gocce di cioccolato fondente"
+          ]
+        },
+        {
+          "section": "finitura",
+          "items": [
+            "3 tuorli",
+            "latte intero q.b."
+          ]
+        }
+      ],
+      "procedure_it": [
+        "Impastare farina, cacao, acqua, latte e lievito sbriciolato; aggiungere il sale e lavorare con il gancio fino a ottenere una massa omogenea che si stacca dalla ciotola.",
+        "Sul banco eseguire alcune pieghe, coprire per 10 minuti e ripetere finché la superficie è regolare.",
+        "Stendere un rettangolo, distribuire parte della crema, ripiegare sul lato lungo, spalmare la crema restante e aggiungere le gocce.",
+        "Arrotolare dal lato corto, incidere longitudinalmente lasciando un'estremità unita, intrecciare le due metà e trasferire in uno stampo da circa 25 × 10 × 7,5 cm.",
+        "Lasciare lievitare coperto fino al raddoppio, indicativamente 30 minuti; spennellare con tuorlo e latte.",
+        "Cuocere a 180 °C per 20–25 minuti, quindi raffreddare prima di sformare."
+      ],
+      "prep_minutes": 20,
+      "cook_minutes": 25,
+      "rest": "10 minuti per pieghe, eventuali ulteriori riposi; lievitazione fino al raddoppio (~30 min)",
+      "temperature_c": 180,
+      "servings": 6,
+      "canonical_url": "https://www.giallozafferano.com/recipes/chocolate-babka.html",
+      "photo_urls": [
+        "https://www.giallozafferano.com/images/344-34472/chocolate-babka_780x520_wm.jpg"
+      ],
+      "source_language": "en",
+      "verification": "pagina editoriale e foto principale lette",
+      "status": "verified_new_candidate"
+    },
+    {
+      "id": "GZ-NEW-20261110-VATRUSHKA",
+      "source_id": "giallozafferano.com:34723",
+      "original_title": "Vatrushka",
+      "title_it": "Vatrushka, focaccine dolci al formaggio",
+      "category": "pasticceria_etnica",
+      "description": "Piccole brioche rotonde lievitate con incavo centrale ripieno di formaggio fresco dolce, vaniglia e uvetta, dorate al forno.",
+      "story_origin": {
+        "text": "La fonte presenta le vatrushka come preparazione diffusa nell'Europa orientale, specialmente in Russia e Ucraina, consumata a colazione o a merenda. Non riporta un'origine cronologica dimostrata.",
+        "classification": "contesto_gastronomico_documentato_senza_storia_cronologica",
+        "source_url": "https://www.giallozafferano.com/recipes/vatrushka.html"
+      },
+      "ingredients": [
+        {
+          "section": "preimpasto",
+          "items": [
+            "100 g latte",
+            "60 g farina 00",
+            "35 g zucchero",
+            "7 g lievito di birra fresco"
+          ]
+        },
+        {
+          "section": "impasto",
+          "items": [
+            "400 g farina 00",
+            "100 g latte",
+            "50 g burro",
+            "30 g zucchero",
+            "1 uovo",
+            "1 pizzico sale",
+            "olio di semi di girasole q.b."
+          ]
+        },
+        {
+          "section": "ripieno",
+          "items": [
+            "200 g quark o tvorog (ricotta come alternativa indicata nella procedura)",
+            "30 g zucchero",
+            "1 uovo",
+            "20 g uvetta",
+            "1 cucchiaino estratto di vaniglia"
+          ]
+        },
+        {
+          "section": "finitura",
+          "items": [
+            "1 tuorlo",
+            "10 g latte",
+            "zucchero a velo q.b."
+          ]
+        }
+      ],
+      "procedure_it": [
+        "Ammollare l'uvetta. Mescolare latte, zucchero, lievito e farina del preimpasto; coprire e lasciare attivare per 15 minuti.",
+        "Fondere il burro e intiepidirlo. Incorporare al preimpasto uovo, latte, zucchero, sale e burro; aggiungere la farina setacciata e impastare fino a una consistenza liscia.",
+        "Coprire e lasciare riposare circa 1 ora a temperatura ambiente.",
+        "Frullare il formaggio con uovo, zucchero e vaniglia, poi unire l'uvetta scolata.",
+        "Dividere l'impasto in sei palline, sistemarle su teglia con carta forno e creare un incavo al centro usando il fondo di un bicchiere leggermente unto.",
+        "Distribuire il ripieno negli incavi, spennellare solo i bordi con tuorlo e latte.",
+        "Cuocere in forno statico a circa 175 °C per 25 minuti; completare con zucchero a velo."
+      ],
+      "prep_minutes": 30,
+      "cook_minutes": 25,
+      "rest": "15 min preimpasto + 1 ora riposo",
+      "temperature_c": 175,
+      "servings": 6,
+      "canonical_url": "https://www.giallozafferano.com/recipes/vatrushka.html",
+      "photo_urls": [
+        "https://www.giallozafferano.com/images/347-34723/vatrushka_780x520_wm.jpg"
+      ],
+      "source_language": "en",
+      "verification": "pagina editoriale e foto principale lette",
+      "status": "verified_new_candidate"
+    }
+  ],
+  "drive_pdf_sync": "pending_no_overwrite",
+  "github_index_modified": false
+}
