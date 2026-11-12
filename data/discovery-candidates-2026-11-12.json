@@ -1,0 +1,124 @@
+{
+  "schema": "sapore.discovery.candidates.v1",
+  "date": "2026-11-12",
+  "status": "pending_master_deduplication_not_integrated",
+  "scope": "new international recipe discovery only",
+  "source_index_sha": "unverified_full_index",
+  "source_batch38_sha": "efbe2b13417069e0da7f2b01f3c3de17ee00e884",
+  "recipes": [
+    {
+      "candidate_id": "GZ-EN-NAAN-20261112",
+      "original_title": "Naan",
+      "italian_title": "Pane naan indiano",
+      "description": "Pane piatto soffice allo yogurt, cotto tradizionalmente nel tandoor e spesso servito con curry e piatti in salsa.",
+      "history_and_origin": {
+        "text": "La pagina lo presenta come pane della tradizione gastronomica indiana, cotto nel tandoor; non documenta una data precisa di origine.",
+        "type": "traditional_context_not_dated_history",
+        "source_url": "https://www.giallozafferano.com/recipes/naan.html"
+      },
+      "ingredients": [
+        {
+          "name": "farina tipo 00",
+          "quantity": "500 g"
+        },
+        {
+          "name": "yogurt bianco naturale",
+          "quantity": "250 g"
+        },
+        {
+          "name": "acqua",
+          "quantity": "100 g"
+        },
+        {
+          "name": "sale fino",
+          "quantity": "7 g"
+        },
+        {
+          "name": "lievito di birra fresco",
+          "quantity": "2 g"
+        }
+      ],
+      "servings": "8 naan",
+      "prep_minutes": 15,
+      "cook_minutes": 20,
+      "rising_minutes": 300,
+      "temperature": "padella antiaderente molto calda; temperatura non specificata",
+      "steps": [
+        "Mescolare farina, yogurt, lievito sbriciolato e quasi tutta l'acqua.",
+        "Aggiungere sale e acqua restante; impastare fino a ottenere una massa liscia.",
+        "Coprire e far lievitare quattro ore a temperatura ambiente.",
+        "Dividere in otto parti, formare palline e lasciar lievitare un'altra ora.",
+        "Stendere a circa un centimetro di spessore e cuocere in padella calda circa un minuto per lato, fino a comparsa di bolle e doratura."
+      ],
+      "canonical_url": "https://www.giallozafferano.com/recipes/naan.html",
+      "photo_urls": [],
+      "photo_status": "not_extracted",
+      "source_language": "en"
+    },
+    {
+      "candidate_id": "GZ-EN-BAKLAVA-20261112",
+      "original_title": "Baklava",
+      "italian_title": "Baklava con mandorle e miele",
+      "description": "Dolce a strati di pasta fillo imburrata, mandorle e cannella, bagnato con sciroppo di miele.",
+      "history_and_origin": {
+        "text": "L'introduzione associa il dolce alle tradizioni di Grecia, Balcani e Medio Oriente e alle occasioni di festa, senza documentarne una specifica origine storica.",
+        "type": "regional_tradition_no_documented_origin",
+        "source_url": "https://www.giallozafferano.com/recipes/baklava.html"
+      },
+      "ingredients": [
+        {
+          "name": "pasta fillo",
+          "quantity": "300 g"
+        },
+        {
+          "name": "mandorle pelate",
+          "quantity": "400 g"
+        },
+        {
+          "name": "burro",
+          "quantity": "300 g"
+        },
+        {
+          "name": "cannella in polvere",
+          "quantity": "8 g"
+        },
+        {
+          "name": "miele millefiori",
+          "quantity": "250 g",
+          "section": "sciroppo"
+        },
+        {
+          "name": "zucchero",
+          "quantity": "200 g",
+          "section": "sciroppo"
+        },
+        {
+          "name": "acqua",
+          "quantity": "200 g",
+          "section": "sciroppo"
+        }
+      ],
+      "servings": "8 porzioni, teglia circa 35×25 cm",
+      "prep_minutes": 15,
+      "cook_minutes": 60,
+      "temperature": "forno statico 160 °C per 40 minuti; sciroppo a fuoco molto basso per almeno 60 minuti",
+      "steps": [
+        "Fondere il burro e lasciarlo intiepidire; tritare grossolanamente le mandorle e unirle alla cannella.",
+        "Imburrare la teglia e sovrapporre fogli di fillo spennellati singolarmente con burro, alternandoli a tre distribuzioni di mandorle.",
+        "Completare con otto fogli superiori imburrati; tagliare a rombi prima della cottura.",
+        "Cuocere a 160 °C per 40 minuti e lasciare raffreddare completamente.",
+        "Scaldare acqua, zucchero e miele a fuoco molto basso per almeno un'ora; versare lo sciroppo ancora caldo sul dolce freddo e far riposare in frigorifero fino al giorno successivo."
+      ],
+      "canonical_url": "https://www.giallozafferano.com/recipes/baklava.html",
+      "photo_urls": [],
+      "photo_status": "not_extracted",
+      "source_language": "en"
+    }
+  ],
+  "integrity": {
+    "master_deduplication": "pending",
+    "github_integration": "not_performed",
+    "drive_pdf_sync": "not_performed",
+    "existing_files_modified": false
+  }
+}
