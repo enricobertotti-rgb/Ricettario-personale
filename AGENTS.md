@@ -17,3 +17,6 @@ Deduplicare per ID, URL canonico, titolo originale e italiano, ingredienti e pre
 
 ## Verifiche per una pubblicazione autorizzata
 Controllare unicità degli ID, conteggi prima/dopo, ingredienti e passaggi, dipendenze relative interne ad app/, foto e link. Verificare navigazione da index.html, categorie, ricerca ingredienti, Avanti/Indietro nei risultati e vista mobile. Aggiornare lo stato privato con commit e risultato verificato. In caso di errore conservare il lavoro recuperabile e segnalare il punto esatto da riprendere.
+
+## Raccolta e controllo automatici
+Seguire il protocollo raccolta e controllo della procedura Drive, revisione 2 del 15 novembre 2026 o successiva verificata. La raccolta è l'unico autore dei dati produttivi; il controllore verifica i file reali dei cicli conclusi, conserva evidenze e corregge le guide solo dopo test su copie e backup. Le riparazioni dei PDF e dello stato sono passate alla raccolta. I test con errori intenzionali restano in 06 — Prove automazione. Non confondere una pianificazione con un'esecuzione riuscita. Preservare cycle_id, idempotenza e controllo delle versioni. La campagna di test oraria del 15 novembre termina in giornata, con bilancio il giorno seguente; non cambiare autonomamente frequenze o creare task.
