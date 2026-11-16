@@ -1,0 +1,57 @@
+name: Prepare approved Sapore R3 layout
+on:
+  push:
+    branches: [sapore-lavoro]
+    paths: [.github/workflows/sapore-r3-prepare.yml]
+permissions:
+  contents: write
+jobs:
+  prepare:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Prepare immutable HTML blob, without updating any branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: python
+        run: |
+          import base64, hashlib, json, os, re, urllib.request
+          repo = 'enricobertotti-rgb/Ricettario-personale'
+          api = 'https://api.github.com/repos/' + repo
+          headers = {'Authorization': 'Bearer ' + os.environ['GH_TOKEN'], 'Accept': 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28'}
+          def call(path, data=None):
+              body = None if data is None else json.dumps(data).encode()
+              req = urllib.request.Request(api + path, data=body, headers=headers)
+              with urllib.request.urlopen(req, timeout=60) as response:
+                  return json.load(response)
+          old_sha = '5f218a5eb31e7d39c4ffa0e934cc7560965037ec'
+          raw = base64.b64decode(call('/git/blobs/' + old_sha)['content'])
+          assert hashlib.sha1(('blob ' + str(len(raw)) + '\0').encode() + raw).hexdigest() == old_sha
+          original = raw.decode('utf-8')
+          text = original
+          pairs = [
+              ('</style></head>', '</style><link rel="stylesheet" href="layout-r3.css"></head>'),
+              ('<script>const EDITORIAL_ENRICHMENT=', '<script src="layout-r3.js"></script><script>const EDITORIAL_ENRICHMENT='),
+              ("if(!b)return;if(b.id==='clearSearch')", "if(!b)return;if(b.dataset.stepColumns){setRecipeColumns(b.dataset.stepColumns);return}if(b.id==='clearSearch')")
+          ]
+          for old, new in pairs:
+              assert text.count(old) == 1
+              text = text.replace(old, new, 1)
+          lines = [line for line in text.splitlines() if line.startswith('s.innerHTML=recipeNavigation(r)+`<article')]
+          assert len(lines) == 1
+          text = text.replace(lines[0], 's.innerHTML=recipeNavigation(r)+recipeCard(r,image)}', 1)
+          for name in ['RECIPES', 'EDITORIAL_ENRICHMENT', 'DRIVE_PHOTOS', 'PANTRY_DICTIONARY']:
+              pattern = r'const ' + name + r'=(.*?);(?=\n|const )'
+              assert re.search(pattern, original, re.S)[1] == re.search(pattern, text, re.S)[1], name
+          recipes = json.loads(re.search(r'const RECIPES=(.*);\nconst DRIVE_PHOTOS=', text)[1])
+          assert len(recipes) == 478 and len({r['id'] for r in recipes}) == 478
+          output = text.encode('utf-8')
+          expected = '05cefd478fc1f4d7d310c3111dd25e7dad20bb3b'
+          assert hashlib.sha1(('blob ' + str(len(output)) + '\0').encode() + output).hexdigest() == expected
+          assert hashlib.sha256(output).hexdigest() == '9ef7f7b5fc66094ac6a2ec19de705dc5b0bed3aa8bd1b5220b9040528798e0e4'
+          uploaded = call('/git/blobs', {'content': base64.b64encode(output).decode(), 'encoding': 'base64'})
+          assert uploaded['sha'] == expected
+          receipt = {'prepared_blob': expected, 'bytes': len(output), 'recipes': 478, 'catalogue_unchanged': True, 'branches_updated': False}
+          print(json.dumps(receipt))
+          with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
+              summary.write('Prepared approved R3 layout; no production branch updated.\n\n```json\n' + json.dumps(receipt, indent=2) + '\n```\n')
