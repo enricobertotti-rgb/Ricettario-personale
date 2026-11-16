@@ -1,57 +1,56 @@
-name: Prepare approved Sapore R3 layout
+name: Verify approved Sapore R3 release
 on:
   push:
     branches: [sapore-lavoro]
     paths: [.github/workflows/sapore-r3-prepare.yml]
 permissions:
-  contents: write
+  contents: read
 jobs:
-  prepare:
+  verify:
     runs-on: ubuntu-24.04
     timeout-minutes: 5
     steps:
-      - name: Prepare immutable HTML blob, without updating any branch
-        env:
-          GH_TOKEN: ${{ github.token }}
+      - name: Verify public HTTPS bytes against tested Git blobs
         shell: python
         run: |
-          import base64, hashlib, json, os, re, urllib.request
-          repo = 'enricobertotti-rgb/Ricettario-personale'
-          api = 'https://api.github.com/repos/' + repo
-          headers = {'Authorization': 'Bearer ' + os.environ['GH_TOKEN'], 'Accept': 'application/vnd.github+json', 'X-GitHub-Api-Version': '2022-11-28'}
-          def call(path, data=None):
-              body = None if data is None else json.dumps(data).encode()
-              req = urllib.request.Request(api + path, data=body, headers=headers)
-              with urllib.request.urlopen(req, timeout=60) as response:
-                  return json.load(response)
-          old_sha = '5f218a5eb31e7d39c4ffa0e934cc7560965037ec'
-          raw = base64.b64decode(call('/git/blobs/' + old_sha)['content'])
-          assert hashlib.sha1(('blob ' + str(len(raw)) + '\0').encode() + raw).hexdigest() == old_sha
-          original = raw.decode('utf-8')
-          text = original
-          pairs = [
-              ('</style></head>', '</style><link rel="stylesheet" href="layout-r3.css"></head>'),
-              ('<script>const EDITORIAL_ENRICHMENT=', '<script src="layout-r3.js"></script><script>const EDITORIAL_ENRICHMENT='),
-              ("if(!b)return;if(b.id==='clearSearch')", "if(!b)return;if(b.dataset.stepColumns){setRecipeColumns(b.dataset.stepColumns);return}if(b.id==='clearSearch')")
-          ]
-          for old, new in pairs:
-              assert text.count(old) == 1
-              text = text.replace(old, new, 1)
-          lines = [line for line in text.splitlines() if line.startswith('s.innerHTML=recipeNavigation(r)+`<article')]
-          assert len(lines) == 1
-          text = text.replace(lines[0], 's.innerHTML=recipeNavigation(r)+recipeCard(r,image)}', 1)
-          for name in ['RECIPES', 'EDITORIAL_ENRICHMENT', 'DRIVE_PHOTOS', 'PANTRY_DICTIONARY']:
-              pattern = r'const ' + name + r'=(.*?);(?=\n|const )'
-              assert re.search(pattern, original, re.S)[1] == re.search(pattern, text, re.S)[1], name
-          recipes = json.loads(re.search(r'const RECIPES=(.*);\nconst DRIVE_PHOTOS=', text)[1])
-          assert len(recipes) == 478 and len({r['id'] for r in recipes}) == 478
-          output = text.encode('utf-8')
-          expected = '05cefd478fc1f4d7d310c3111dd25e7dad20bb3b'
-          assert hashlib.sha1(('blob ' + str(len(output)) + '\0').encode() + output).hexdigest() == expected
-          assert hashlib.sha256(output).hexdigest() == '9ef7f7b5fc66094ac6a2ec19de705dc5b0bed3aa8bd1b5220b9040528798e0e4'
-          uploaded = call('/git/blobs', {'content': base64.b64encode(output).decode(), 'encoding': 'base64'})
-          assert uploaded['sha'] == expected
-          receipt = {'prepared_blob': expected, 'bytes': len(output), 'recipes': 478, 'catalogue_unchanged': True, 'branches_updated': False}
-          print(json.dumps(receipt))
+          import hashlib, json, os, time, urllib.request
+          from datetime import datetime, timezone
+          base = 'https://enricobertotti-rgb.github.io/Ricettario-personale/'
+          expected = {
+              'index.html': '1a8cd12a8e99baf8c07124d2725fc29d7710092d',
+              'app/index.html': '05cefd478fc1f4d7d310c3111dd25e7dad20bb3b',
+              'app/layout-r3.css': '878d6d1946ab112203ce1c7c71a92fe46a84859a',
+              'app/layout-r3.js': '119edc48df391da05863f989f1d812abe6ed9e52',
+              'app/data/drive-photos-1.json': '05ba50c03237a3a33acda257ba4f0b883c3bb317',
+              'app/data/drive-photos-2.json': 'b11cf89df0a4334de19bf1c4ab95401714527779',
+              'app/data/drive-photos-3.json': '083941c8e97c71bb748960289a31e971166f2ad2',
+              'app/data/drive-photos-4.json': 'd378d6115f23addda7a7b5ed082ba49e061eec34',
+              'app/data/drive-photos-5.json': 'e6762c14dbc7b5c7a9ff58f4b39b28cb61bd875c'
+          }
+          receipts = []
+          for path, wanted in expected.items():
+              for attempt in range(12):
+                  try:
+                      request = urllib.request.Request(base + path, headers={'Cache-Control': 'no-cache', 'User-Agent': 'Sapore-release-verification'})
+                      with urllib.request.urlopen(request, timeout=20) as response:
+                          data = response.read()
+                          status = response.status
+                          final_url = response.url
+                      blob = hashlib.sha1(('blob ' + str(len(data)) + '\0').encode() + data).hexdigest()
+                      assert status == 200 and blob == wanted, (path, status, blob, wanted)
+                      receipts.append({'path': path, 'url': final_url, 'status': status, 'bytes': len(data), 'blob_sha': blob, 'sha256': hashlib.sha256(data).hexdigest()})
+                      break
+                  except Exception as error:
+                      if attempt == 11: raise
+                      print('Waiting for published bytes:', path, type(error).__name__, flush=True)
+                      time.sleep(5)
+          with urllib.request.urlopen(base, timeout=20) as response:
+              root = response.read().decode('utf-8')
+              assert response.status == 200 and './app/' in root
+          with urllib.request.urlopen(base + 'app/', timeout=20) as response:
+              raw = response.read()
+              assert hashlib.sha1(('blob ' + str(len(raw)) + '\0').encode() + raw).hexdigest() == expected['app/index.html']
+          receipt = {'release_commit': 'a15d81acdcf50a2e065b7a0d53e088076da2ed96', 'checked_at': datetime.now(timezone.utc).isoformat(), 'site_url': base, 'app_url': base + 'app/', 'public_http_verified': True, 'files': receipts, 'production_writes': False}
+          print('SAPORE_LIVE_RECEIPT=' + json.dumps(receipt))
           with open(os.environ['GITHUB_STEP_SUMMARY'], 'a') as summary:
-              summary.write('Prepared approved R3 layout; no production branch updated.\n\n```json\n' + json.dumps(receipt, indent=2) + '\n```\n')
+              summary.write('Public HTTPS delivery verified against the tested files. No writes to production.\n\n```json\n' + json.dumps(receipt, indent=2) + '\n```\n')
