@@ -1,0 +1,41 @@
+name: Verify Sapore R4.1 public recipe release
+on:
+  push:
+    branches: [sapore-lavoro]
+    paths: [.github/workflows/verify-sapore-r4-1.yml]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Verify public HTTPS assets against reviewed Git blobs
+        run: |
+          python - <<'PY'
+          import hashlib,json,time,urllib.request
+          base='https://enricobertotti-rgb.github.io/Ricettario-personale/'
+          expected={
+            'app/index.html':'9ef7f7b5fc66094ac6a2ec19de705dc5b0bed3aa8bd1b5220b9040528798e0e4',
+            'app/layout-r3.js':'313b92ca80781dd02d4c20f6fc09b505a8c1e8d7138ab08b88abeab8bb2ee37f',
+            'app/data/approved-r4-1.json':'f897c536a0ce1350a42e7987978f2627a4b9228ff8a4768abad0105916adf49d'}
+          receipt=[]
+          for name,wanted in expected.items():
+            for i in range(12):
+              try:
+                req=urllib.request.Request(base+name,headers={'Cache-Control':'no-cache','User-Agent':'Sapore-R4.1-verify'})
+                with urllib.request.urlopen(req,timeout=20) as r:
+                  b=r.read();status=r.status
+                assert status==200 and hashlib.sha256(b).hexdigest()==wanted,(name,status,hashlib.sha256(b).hexdigest(),wanted)
+                receipt.append({'path':name,'http_status':status,'bytes':len(b),'sha256':wanted})
+                break
+              except Exception:
+                if i==11:raise
+                time.sleep(5)
+          with urllib.request.urlopen(base+'app/',timeout=20) as r:
+            app_html=r.read().decode('utf-8')
+          assert 'layout-r3.js' in app_html
+          with urllib.request.urlopen(base+'app/data/approved-r4-1.json',timeout=20) as r:
+            d=json.load(r)
+          assert len(d['recipes'])==54 and len(d['existingMatches'])==10 and d['editorial_approved']==64
+          print('SAPORE_R41_LIVE_VERIFIED='+json.dumps({'commit':'36e21782c5b382e21de67d24c17faa72bce4a610','checks':receipt,'editorial_total':64,'new':54,'existing_matches':10,'predicted_catalog_total':532,'public_https_verified':True}))
+          PY
