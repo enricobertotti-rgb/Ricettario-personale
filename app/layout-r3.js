@@ -20,3 +20,39 @@ function recipeMethod(r){const steps=preparationSteps(r.steps);return `<section 
 function setRecipeColumns(value){if(value!=='one'&&value!=='two')return;recipeStepColumns=value;const rows=el('preparationRows');if(rows)rows.dataset.columns=value;root.querySelectorAll('[data-step-columns]').forEach(button=>button.setAttribute('aria-pressed',String(button.dataset.stepColumns===value)));}
 
 function recipeCard(r,image){return `<article class="recipe r3Recipe" aria-labelledby="recipeTitle"><div class="r3Intro"><header class="recipeHeader"><div class="category">${esc(r.category.toUpperCase())}</div><h1 id="recipeTitle">${esc(r.name)}</h1>${recipeSource(r)}${r.origin?`<p class="r3Origin">${recipeIcon('pin')}<span>${esc(r.origin)}</span></p>`:''}</header>${recipeMetrics(r)}<figure class="photo${DRIVE_PHOTOS[r.id]||(r.photo&&r.photoCreditUrl&&r.photoLicense)?'':' noPhoto'}"><div class="imageWrap">${image}</div>${r.photoCreditUrl&&recipeURL(r.photoCreditUrl)?`<figcaption class="photoCaption"><a href="${esc(recipeURL(r.photoCreditUrl))}" target="_blank" rel="noopener noreferrer">${esc(r.photoAuthor||'Fonte fotografia')} ↗</a><span>${esc(r.photoLicense||'')}${r.photoIllustrative?' · Immagine illustrativa':''}</span></figcaption>`:''}</figure>${r.description?`<p class="r3Description">${esc(r.description)}</p>`:''}</div><section class="ingredients r3Ingredients" aria-labelledby="ingredientTitle"><div class="r3SectionHeading"><h2 id="ingredientTitle">Ingredienti</h2>${r.serves?`<span>${esc(r.serves)}</span>`:''}</div>${ingredientRows(r.ingredients)}</section>${recipeMethod(r)}</article>`}
+
+
+// Sapore R4.1: append only editorially verified recipes without changing the 478 originals.
+// The matching approved versions retain their separate traceability in data/approved-r4-1.json.
+(function loadReviewedRecipesR41(){
+  const editorialDataUrl='data/approved-r4-1.json';
+  window.addEventListener('DOMContentLoaded',()=>{
+    fetch(editorialDataUrl,{cache:'no-cache'}).then(response=>{
+      if(!response.ok)throw new Error('Editorial dataset HTTP '+response.status);
+      return response.json();
+    }).then(data=>{
+      if(data.schema!=='sapore.app.editorial-import.v1'||data.editorial_revision!=='CUR-20261117-FONTE-R4.1'||data.new_recipe_count!==54||!Array.isArray(data.recipes)||data.recipes.length!==54||!Array.isArray(data.existingMatches)||data.existingMatches.length!==10)throw new Error('Editorial dataset does not match reviewed manifest');
+      if(RECIPES.length!==478)throw new Error('Unexpected original recipe count');
+      const normUrl=value=>{try{const u=new URL(value);return u.hostname.toLowerCase().replace(/^www\./,'')+decodeURIComponent(u.pathname).toLowerCase().replace(/\/$/,'')}catch(_){return ''}};
+      const ids=new Set(RECIPES.map(r=>r.id));
+      const urls=new Set(RECIPES.map(r=>normUrl(r.source)).filter(Boolean));
+      const pendingIds=new Set();
+      const pendingUrls=new Set();
+      for(const r of data.recipes){
+        const url=normUrl(r.source);
+        if(!r.id||!r.name||!r.category||!Array.isArray(r.ingredients)||!r.ingredients.length||!Array.isArray(r.steps)||!r.steps.length||!url||ids.has(r.id)||urls.has(url)||pendingIds.has(r.id)||pendingUrls.has(url)||!r.reviewedRecordSha256||!r.baseRecordSha256)throw new Error('Invalid, incomplete or duplicate editorial recipe: '+String(r.id));
+        pendingIds.add(r.id);pendingUrls.add(url);
+      }
+      RECIPES.push(...data.recipes);
+      CATEGORIES.splice(0,CATEGORIES.length,...new Set(RECIPES.map(r=>r.category)));
+      CATEGORIES.sort((a,b)=>a.localeCompare(b,'it'));
+      recipeSearchCache=null;
+      pantryIndexCache=null;
+      draw();
+      window.__saporeEditorialImport={status:'loaded',added:data.recipes.length,alreadyMatched:data.existingMatches.length,total:RECIPES.length,revision:data.editorial_revision};
+    }).catch(error=>{
+      window.__saporeEditorialImport={status:'error',message:String(error)};
+      console.error('Sapore editorial import: previous catalog kept unchanged.',error);
+    });
+  },{once:true});
+})();
