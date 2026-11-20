@@ -711,6 +711,53 @@
       "originalYield": "8 porzioni; stampo rotondo da 7 pollici (circa 18 cm).",
       "originalTimes": "Preparazione 60 min; cottura dichiarata 50 min (in metodo 35–40 min); raffreddamento completo e 20 min in frigorifero per la glassa.",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SRC-984aae48ae099484",
+      "name": "Nan-e barbari persiano con glassa roomal e semi",
+      "category": "Pane, focacce e panini",
+      "serves": "2 pani",
+      "prep": "20 minuti di lavorazione attiva",
+      "cook": "15–18 minuti per ciascun pane",
+      "rest": "Prima lievitazione circa 1 ora; riposo dopo formatura 30 minuti",
+      "ingredients": [
+        "Impasto: 1⅔–1¾ tazze acqua tiepida (379–397 g), secondo l'umidità ambientale",
+        "Impasto: 2¼ cucchiaini lievito secco attivo oppure lievito istantaneo",
+        "Impasto: 4 tazze + 3 cucchiai farina per pane (504 g)",
+        "Impasto: 1½ cucchiaini sale fino (9 g)",
+        "Impasto: farina di semola per spolvero, facoltativa, quantità non specificata",
+        "Roomal: 2 cucchiaini farina per tutti gli usi o farina per pane",
+        "Roomal: ½ cucchiaino zucchero semolato",
+        "Roomal: ½ cucchiaino olio vegetale",
+        "Roomal: ⅓ tazza acqua fresca (74 g)",
+        "Copertura: 1 cucchiaino semi di sesamo",
+        "Copertura: 1 cucchiaino semi di nigella (o sostituzione facoltativa con semi di papavero)"
+      ],
+      "steps": [
+        "Mescolare acqua, lievito, farina e sale; lavorare l'impasto finché diventa morbido ed omogeneo, circa 5–8 minuti a mano.",
+        "Trasferire in una ciotola leggermente unta e coperta; lasciare crescere per circa un'ora, fino a quasi raddoppiare.",
+        "Sgonfiare delicatamente e dividere in due; formare due filoni di circa 9 pollici, coprirli e farli riposare per 30 minuti.",
+        "Scaldare il forno a 450 °F, preparando una pietra refrattaria sul ripiano basso oppure una teglia sul ripiano centrale.",
+        "Preparare il roomal: scaldare in casseruola farina, zucchero, olio e acqua, mescolando fino a ottenere una glassa che vela il cucchiaio; servirà meno di un minuto dopo l'accenno di bollore.",
+        "Stendere ciascun filone in un rettangolo di circa 14 × 5 pollici; con le dita o un manico premere cinque solchi longitudinali, senza perforare la pasta.",
+        "Distribuire metà glassa sul primo pane e cospargere con metà dei semi; infornare per 15–18 minuti, fino a doratura.",
+        "Ripetere con il secondo pane e far raffreddare su una gratella. Consumare tiepido oppure a temperatura ambiente."
+      ],
+      "source": "https://www.kingarthurbaking.com/recipes/hot-bread-kitchens-nan-e-barbari-persian-flatbread-recipe",
+      "description": "Pane piatto persiano allungato, con solchi longitudinali, superficie spennellata di roomal (glassa di farina, acqua e olio) e semi di sesamo e nigella.",
+      "author": "Hot Bread Kitchen",
+      "origin": "Iran (Persia), pane nan-e barbari; adattamento domestico della preparazione di Hot Bread Kitchen a cura di King Arthur Baking.",
+      "temperature": "Forno 450 °F (dato originale, senza conversione); glassa scaldata a leggerissimo bollore per meno di un minuto.",
+      "notes": "La ricetta canonica di King Arthur Baking, aggiornata il 6 dicembre 2022, indica 504 g di farina (4 tazze + 3 cucchiai). Il post storico del 2016 riporta 510 g: non sostituire la formula corrente con quella del post. Roomal: glassa a base di farina, zucchero, olio e acqua, da scaldare brevemente e spennellare prima della cottura. La ricetta originale suggerisce olive, cetrioli e feta come accompagnamenti non compresi nell'impasto.\n\nLa fonte ammette lievito secco attivo oppure istantaneo, semola facoltativa per lo spolvero e semi di papavero o altri semi in alternativa ai semi di nigella; usare la quantità minore di acqua in condizioni umide e quella maggiore in clima secco. Non considerare questi adattamenti una nuova ricetta con dosi non documentate.\n\nContiene frumento e sesamo; valutare allergie e intolleranze. Manipolare teglie o pietra refrattaria e glassa calda con adeguata protezione.",
+      "photo": null,
+      "sourceOriginalId": "SRC-984aae48ae099484",
+      "reviewedRecordSha256": "8328bb9e382c654fea3690f5b867db2a5fb59239acbbf864486b3ec11d2e30eb",
+      "baseRecordSha256": "0ff2a0d823a3c9dec342b0bbb8ee9b63c3b1dac2df261dcad0828243664e4f06",
+      "originalTitle": "Hot Bread Kitchen's Nan-e Barbari (Persian Flatbread)",
+      "originalCategory": "Pane, focacce e panini",
+      "originalYield": "2 pani",
+      "originalTimes": "Lavorazione manuale 20 min; cottura 15–18 min per pane; durata totale indicata 2 h 5 min. Lievitazione iniziale circa 1 ora e riposo successivo 30 min.",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
