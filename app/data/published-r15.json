@@ -122,6 +122,49 @@
       "originalYield": "4 persone",
       "originalTimes": "Preparazione 20 minuti; cottura 35–40 minuti; nella cottura delle patate sono indicati 10–15 minuti a fuoco dolce.",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SRC-0db0ebfec735dbca",
+      "name": "Pasta alla norcina umbra con salsiccia e ricotta",
+      "category": "Primi piatti",
+      "serves": "4 porzioni",
+      "prep": "10 min",
+      "cook": "15 min",
+      "rest": null,
+      "ingredients": [
+        "320 g di penne rigate",
+        "300 g di salsiccia umbra",
+        "½ cipolla",
+        "100 ml di vino bianco",
+        "200 g di ricotta",
+        "Pecorino grattugiato — quantità non specificata",
+        "Olio extravergine d'oliva — quantità non specificata",
+        "Sale — quantità non specificata",
+        "Pepe — quantità non specificata"
+      ],
+      "steps": [
+        "Tritare finemente mezza cipolla; liberare la salsiccia dal budello e sgranarne la polpa.",
+        "Scaldare poco olio in padella e far rosolare la salsiccia a fuoco vivo per alcuni minuti, sminuzzandola. Unire la cipolla e proseguire la cottura.",
+        "Portare a ebollizione una pentola di acqua salata e lessare le penne rigate secondo il loro tempo, in modo che restino al dente.",
+        "Bagnare la salsiccia e la cipolla con il vino bianco e far evaporare la parte alcolica durante la cottura. Incorporare la ricotta e scaldare finché il condimento raggiunge un lieve bollore; regolare sale e pepe.",
+        "Scolare le penne al dente e trasferirle nella padella; mescolare per ricoprirle in modo uniforme. Unire pecorino grattugiato e pepe e completare la mantecatura con un poco d'olio prima di servire."
+      ],
+      "source": "https://www.cucchiaio.it/ricetta/pasta-alla-norcina",
+      "description": "Penne rigate condite con salsiccia umbra rosolata, cipolla, vino bianco e ricotta, completate con pecorino grattugiato e pepe. Versione con ricotta, distinta dalle varianti moderne alla panna.",
+      "author": "Il Cucchiaio d'Argento (autore individuale non indicato)",
+      "origin": "Umbria, Italia; ricetta regionale dichiarata dalla fonte",
+      "temperature": "Rosolatura iniziale a fiamma viva e condimento portato a leggero bollore; nessuna temperatura numerica indicata.",
+      "notes": "Fonte consultata il 20/11/2026. Nove voci ingredienti con quantità riportate fedelmente; le quantità di pecorino, olio, sale e pepe non sono precisate e non vengono stimate. L'aglio è descritto come nota caratteristica della salsiccia umbra, NON è presente tra gli ingredienti: non aggiungerlo. Nessuna panna, tartufo o fotografia importata. Procedimento rielaborato in italiano. Riesame diretto ingredienti e 3 fasi originali: 320 g penne, 300 g salsiccia umbra, ½ cipolla, 100 ml vino bianco, 200 g ricotta; pecorino, EVO, sale e pepe senza dosi. Quattro persone, preparazione 10 minuti, cottura 15. Soffriggere la salsiccia a fiamma viva, unire cipolla, cuocere la pasta in parallelo, sfumare con vino, incorporare ricotta e mantecare con pecorino. Assenti misure di temperatura e minuti specifici per singole fasi: non inventati. Nessun riutilizzo delle immagini.\n\nVarianti documentate: La fonte descrive come evoluzioni della ricetta tradizionale la panna al posto della ricotta e un'aggiunta di tartufo: NON fanno parte di questa versione verificata, né dell'elenco ingredienti. È possibile utilizzare un altro tipo di salsiccia in mancanza di quella umbra; in tal caso indicare che il risultato varia. L'aglio è menzionato nella descrizione del profilo aromatico della salsiccia umbra, non è ingrediente aggiuntivo.\n\nAvvertenze: Allergeni presenti: glutine delle penne, latte e derivati (ricotta e pecorino); il vino può contenere solfiti. Cuocere completamente la salsiccia di maiale e gestire la carne cruda evitando contaminazioni crociate. La fonte prescrive di far evaporare il vino durante la cottura, ma non garantisce l'assenza totale di alcol residuo. Sale, pepe, olio e pecorino restano senza quantità numerica perché non indicate dalla fonte.",
+      "photo": null,
+      "sourceOriginalId": "SRC-0db0ebfec735dbca",
+      "sourceReviewRevision": "CUR-R14-20261120-NORCINA-CUCCHIAIO-R1",
+      "reviewedRecordSha256": "48cd90e59529a077060f599c905480b90b95d28a531b001fb7d2ecbd73769834",
+      "baseRecordSha256": "e1200409f9f73dc7c496f6f12da72695a7593609f3f151992165b987f4bbd46e",
+      "originalTitle": "Pasta alla norcina",
+      "originalCategory": "Primi piatti",
+      "originalYield": "4 porzioni",
+      "originalTimes": "Preparazione 10 minuti; cottura 15 minuti.",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
