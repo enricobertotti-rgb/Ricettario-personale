@@ -360,6 +360,43 @@
       "originalYield": "8 samosa",
       "originalTimes": "Preparazione: 20 min; Cottura: 60 min; Riposi: Breve riposo impasto coperto, durata non precisata",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SAP-GZ-EN-CROQUE_BAGUETTE",
+      "name": "Croque baguette alla besciamella e gruviera",
+      "category": "Piatti unici e cucine del mondo",
+      "source": "https://www.giallozafferano.com/recipes/croque-baguette.html",
+      "reviewedRecordSha256": "13f6d6e6e161955c6785327b3c47a7ac306bab9af58ab42e16d2d9f789882cdc",
+      "ingredients": [
+        "Ripieno e pane: Baguette — 160 g totali (2 baguette da 80 g)",
+        "Ripieno e pane: Groviera (Gruyère) — 250 g",
+        "Ripieno e pane: Pancetta affumicata — 80 g",
+        "Besciamella: Latte intero — 400 g",
+        "Besciamella: Burro — 40 g",
+        "Besciamella: Farina — 30 g",
+        "Besciamella: Noce moscata — 1 pizzico, da grattugiare",
+        "Besciamella: Sale fino — quanto basta"
+      ],
+      "steps": [
+        "Scaldare il latte in un pentolino senza farlo bollire.",
+        "Fondere il burro a fuoco dolce in un secondo tegame, incorporarvi la farina e mescolare per circa 2 minuti.",
+        "Versare il latte caldo poco alla volta continuando a mescolare; insaporire con sale e noce moscata e far addensare la besciamella.",
+        "Tagliare la pancetta a striscioline o dadini e grattugiare il formaggio.",
+        "Dividere le baguette in mezze porzioni; inciderle longitudinalmente e rimuovere parte della mollica per creare lo spazio al ripieno.",
+        "Riempire i pani con besciamella, distribuire il Gruyère e completare con la pancetta.",
+        "Gratinare in forno statico preriscaldato a circa 250 °C per 4 minuti, finché il formaggio fonde e si colora; alternativa ventilata a 230 °C per 2–3 minuti.",
+        "Servire immediatamente, ancora caldo e croccante."
+      ],
+      "photo": null,
+      "serves": "4 pezzi, ricavati da 2 baguette da 80 g",
+      "prep": "20 minuti",
+      "cook": "4 minuti (statico) / 2–3 minuti (ventilato)",
+      "rest": "Non indicato dalla fonte",
+      "description": "Baguette svuotate parzialmente e farcite con besciamella, groviera e pancetta affumicata, poi gratinate brevemente.",
+      "author": "Redazione GialloZafferano (autore individuale non indicato)",
+      "originalYield": "4 pezzi, ricavati da 2 baguette da 80 g",
+      "originalTimes": "Preparazione 20 minuti; gratinatura 4 minuti in forno statico oppure 2–3 minuti in ventilato; la fonte non separa il tempo necessario a preparare la besciamella.",
+      "temperature": "Statico preriscaldato a 482 °F (circa 250 °C) per 4 minuti; alternativa ventilato a 446 °F (circa 230 °C) per 2–3 minuti."
     }
   ]
 }
