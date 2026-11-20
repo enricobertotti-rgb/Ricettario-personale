@@ -62,7 +62,7 @@ def prepare():
                   qa_run_id=os.environ.get('GITHUB_RUN_ID'))
     target['asset_sha256'] = {
         name: hashlib.sha256(Path(name).read_bytes()).hexdigest()
-        for name in [FEED, 'app/index.html', 'app/layout-r3.js', 'app/layout-r3.css']
+        for name in [FEED, 'app/data/approved-r4-1.json', 'app/index.html', 'app/layout-r3.js', 'app/layout-r3.css', 'app/category-index.js', 'app/category-index.css']
     }
     Path('config').mkdir(exist_ok=True)
     Path('config/publication-qa-target.json').write_text(json.dumps(target, ensure_ascii=False))
