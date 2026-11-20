@@ -935,6 +935,44 @@
       "originalYield": "Circa 6 persone",
       "originalTimes": "Preparazione 5 minuti; riposo in ammollo 3 ore; cottura 1 ora e 20 minuti; tempo totale dichiarato 1 ora e 25 minuti (non comprende l'ammollo).",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SRC-9f1ce821cf54a595",
+      "name": "Ciceri e tria salentini con tagliatelle di semola fritte e ceci",
+      "category": "Primi piatti, pasta e gnocchi",
+      "source": "https://www.cucchiaio.it/ricetta/ricetta-ciceri-tria",
+      "reviewedRecordSha256": "512f7b4df9972746dfda4b2e26805829375eb30b50c57fc4df79ccec0b797b6b",
+      "ingredients": [
+        "PASTA — 350 g semola di grano duro",
+        "PASTA — 190 ml acqua",
+        "PASTA — 2 cucchiai olio extravergine d'oliva",
+        "CONDIMENTO — 450 g ceci già lessati con 1 spicchio d'aglio e alloro",
+        "CONDIMENTO — 1 cipolla",
+        "CONDIMENTO — Olio extravergine d'oliva (quantità non specificata nell'elenco; 3 cucchiai per il soffritto indicati nel metodo, più un giro finale)",
+        "CONDIMENTO — Sale (quantità non indicata)",
+        "CONDIMENTO — Pepe nero (quantità non indicata)",
+        "FRITTURA — Olio di semi di arachidi per friggere (quantità non indicata)"
+      ],
+      "steps": [
+        "Versare la semola in una ciotola; incorporare progressivamente i 190 ml d'acqua e i due cucchiai d'olio fino a formare un impasto omogeneo.",
+        "Lavorare sul piano di lavoro fino a ottenere una massa liscia, coprire e lasciar riposare per 10 minuti.",
+        "Scolare i ceci precedentemente cotti con aglio e alloro; mentre sono ancora caldi ridurne circa un terzo in crema con un frullatore, lasciando interi gli altri.",
+        "Scaldare tre cucchiai d'olio extravergine in una casseruola ampia e far ammorbidire la cipolla tritata; unirvi ceci e crema e lasciare insaporire per circa dieci minuti. Regolare la consistenza con poca acqua di cottura dei legumi e condire con sale e pepe.",
+        "Stendere l'impasto in una sfoglia di circa 1 mm e ricavare strisce larghe circa 1,5 cm e lunghe circa 8 cm.",
+        "Friggere circa un quarto della pasta fresca, poche strisce alla volta, in olio di arachidi ben caldo finché diventa dorata e croccante; sgocciolare su carta assorbente.",
+        "Lessare la pasta restante in acqua bollente salata per circa due minuti, scolarla e trasferirla nel tegame dei ceci, condendo con poco olio e pepe.",
+        "Disporre la pasta con ceci nei piatti, terminare con le strisce fritte e servire subito."
+      ],
+      "photo": null,
+      "serves": "4 persone",
+      "prep": "1 ora",
+      "cook": "20 minuti",
+      "rest": "10 minuti per la pasta; eventuale ammollo dei ceci secchi escluso dalla ricetta con ceci già lessati",
+      "description": "Pasta fresca di semola in parte lessata e in parte fritta, servita con ceci interi e ridotti in crema e cipolla stufata.",
+      "author": "Redazione Il Cucchiaio d'Argento",
+      "originalYield": "4 persone",
+      "originalTimes": "Preparazione dichiarata 1 ora, cottura dichiarata 20 minuti, riposo impasto 10 minuti. Se si parte da ceci secchi, la fonte ricorda almeno 12 ore di ammollo e almeno 2 ore di cottura preliminare, non incluse nei tempi operativi della ricetta.",
+      "temperature": "Frittura in olio caldo a fuoco vivace; temperatura numerica non indicata. Pasta lessata in acqua bollente circa 2 minuti."
     }
   ]
 }
