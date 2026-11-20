@@ -217,6 +217,45 @@
       "originalYield": "3 porzioni",
       "originalTimes": "Preparazione 20 minuti, cottura 5 minuti e totale 25 minuti dichiarati dalla fonte; ammollo del riso 20–30 minuti e cottura del riso in pentola a pressione 8–10 minuti sono descritti separatamente; riposo finale coperto 4–5 minuti.",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SAP-GZ-EN-PANNA-COTTA",
+      "name": "Panna cotta classica alla vaniglia",
+      "category": "Dessert al cucchiaio e freddi",
+      "serves": "4 stampini da circa 150 ml",
+      "prep": "15 min",
+      "cook": "15 min",
+      "rest": "Ammollo gelatina 10–15 min; refrigerazione almeno 5 ore",
+      "ingredients": [
+        "Base: Panna fresca liquida: 500 ml",
+        "Base: Baccello di vaniglia: 1",
+        "Base: Gelatina in fogli (colla di pesce): 8 g",
+        "Base: Zucchero semolato: 80 g"
+      ],
+      "steps": [
+        "Reidratare la gelatina in acqua fredda per 10-15 minuti.",
+        "Incidere il baccello di vaniglia e raccoglierne i semi.",
+        "Mescolare panna e zucchero in casseruola; unire semi e baccello, scaldando dolcemente senza far bollire.",
+        "Togliere dal fuoco, eliminare il baccello e sciogliere nella panna calda la gelatina scolata, mescolando fino a eliminare i grumi.",
+        "Ripartire in quattro stampini da circa 150 ml; refrigerare per almeno 5 ore.",
+        "Per sformare, immergere il fondo degli stampini per qualche secondo in acqua molto calda e capovolgere sui piatti. Servire al naturale o con salsa a parte."
+      ],
+      "source": "https://www.giallozafferano.com/recipes/Panna-cotta.html",
+      "description": "Dessert al cucchiaio di panna, vaniglia e zucchero stabilizzato con gelatina, da servire anche con coulis o caramello.",
+      "author": null,
+      "origin": "Tradizione delle Langhe piemontesi attestata dalla fonte all’inizio del Novecento; origine precisa non accertata.",
+      "temperature": "Panna da scaldare senza bollore; raffreddamento in frigorifero",
+      "notes": "La salsa di accompagnamento è facoltativa e non è quantificata nella ricetta di base. Il testo della pagina suggerisce di scaldare la panna dolcemente evitando il bollore, ma contiene anche la frase «quando arriva al bollore»; mantenuta la formulazione operativa di riscaldamento dolce senza correggere ulteriormente l’originale.",
+      "photo": null,
+      "sourceOriginalId": "SAP-GZ-EN-PANNA-COTTA",
+      "sourceReviewRevision": "CUR-20261117-FONTE-R5",
+      "reviewedRecordSha256": "b0474d7c4ab1013c386604a0e5e3161560ac5707871d854713e5ed87df58ed2f",
+      "baseRecordSha256": "e0bceeea6b7fbc1d0d0f71031ab89cdc3829a312d9f5a5c75627ac262f1f541d",
+      "originalTitle": "Panna cotta",
+      "originalCategory": "Pasticceria / Italia - Piemonte",
+      "originalYield": "4 stampini da circa 150 ml",
+      "originalTimes": "Preparazione: 15 min; Cottura: 15 min; Riposi: Ammollo gelatina 10-15 min; refrigerazione almeno 5 ore",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
