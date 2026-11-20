@@ -624,6 +624,47 @@
       "originalYield": "4 porzioni",
       "originalTimes": "Preparazione 30 minuti; cottura dichiarata 40 minuti; marinatura in frigorifero da almeno 30 minuti a un massimo di 24 ore; forno del pollo circa 30 minuti, salsa 20 minuti più 10 minuti con il pollo, con fasi parzialmente parallele.",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SRC-1e0304f60cccddcb",
+      "name": "Risi e bisi veneti con brodo di baccelli, versione risottata",
+      "category": "Primi piatti",
+      "serves": "4 persone",
+      "prep": "Non specificata separatamente; durata complessiva 1 h 30 min",
+      "cook": "Brodo di baccelli 1 ora; riso 13–15 min",
+      "rest": "Non indicato",
+      "ingredients": [
+        "1,3 kg di piselli freschi interi, con baccelli da conservare per il brodo",
+        "320 g di riso Vialone Nano",
+        "40 g di burro",
+        "40 g di Grana Padano DOP",
+        "1 cipolla",
+        "Prezzemolo, quantità non specificata",
+        "Olio extravergine di oliva, quantità non indicata nell'elenco (nel metodo: 2 cucchiai)",
+        "Sale, quantità non specificata",
+        "Pepe, quantità non specificata"
+      ],
+      "steps": [
+        "Sgranare i piselli e conservare i baccelli. Lavarli, metterne metà in una casseruola, coprirli con acqua e far bollire per un'ora; aggiungere il sale soltanto verso il termine per ottenere il brodo.",
+        "Tritare la cipolla e lasciarla ammorbidire in un tegame largo con 2 cucchiai di olio extravergine, senza aggiungere pancetta: l'autrice specifica di averla esclusa da questa interpretazione.",
+        "Versare nel tegame i piselli e il riso. Insaporire per un paio di minuti con poco sale e un cucchiaio d'acqua, poi incorporare un mestolo del brodo di baccelli. Cuocere il riso per circa 13–15 minuti, aggiungendo brodo se necessario affinché rimanga morbido.",
+        "A cottura completata mantecare con burro e Grana Padano grattugiato. Portare in tavola con consistenza all'onda, rifinendo con prezzemolo e pepe."
+      ],
+      "source": "https://www.lacucinaitaliana.it/ricetta/risi-e-bisi",
+      "description": "Riso Vialone Nano e piselli freschi cotti insieme in un brodo preparato con i baccelli; mantecatura con burro e Grana Padano. Versione editoriale risottata, senza la pancetta della tradizione.",
+      "author": "Sara Foschini (ricetta; Redazione La Cucina Italiana)",
+      "origin": "Veneto, Italia; reinterpretazione dichiaratamente più asciutta dei risi e bisi tradizionali",
+      "temperature": "Non indicate temperature numeriche. Il brodo viene portato a bollore; il riso è cotto in tegame.",
+      "notes": "Fonte consultata direttamente, ricetta attribuita a Sara Foschini con credito Redazione, data 09/07/2023. È una precisa variante editoriale senza pancetta, più asciutta della minestra tradizionale: non unificare per solo titolo. L'acqua serve per brodo e procedimento, senza dose prefissata nell'elenco. Nessun materiale fotografico o testo protetto riprodotto.",
+      "photo": null,
+      "sourceOriginalId": "SRC-1e0304f60cccddcb",
+      "reviewedRecordSha256": "bfd79b7098e8bcf5e0f2e2c6455d2417d0ddd783bc4fbf257f62bc1aac297cfb",
+      "baseRecordSha256": "0b00e1494b68d6572dd90f497da435dd28ad4350385e0b2e2b5aa34c829821a2",
+      "originalTitle": "Risi e bisi",
+      "originalCategory": "Primi piatti",
+      "originalYield": "4 persone",
+      "originalTimes": "Tempo complessivo dichiarato: 1 ora e 30 minuti; brodo di baccelli: 1 ora dal bollore; cottura finale del riso: circa 13-15 minuti.",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
