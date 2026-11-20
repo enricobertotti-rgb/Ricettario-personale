@@ -1139,6 +1139,48 @@
       "originalYield": "1 rotolo di frittata da tagliare a fette; numero di porzioni non dichiarato",
       "originalTimes": "Tempo complessivo non quantificato dalla fonte. Ogni strato cuoce 1–2 minuti; finitura 3–4 minuti a fuoco basso; raffreddamento 5 minuti prima del taglio.",
       "temperature": "Padella inizialmente a calore medio; proseguire a calore medio-basso o basso. Nessuna temperatura numerica."
+    },
+    {
+      "id": "SRC-4a6d5c32446a11e1",
+      "name": "Erbazzone reggiano con bietole, lardo e pasta matta",
+      "category": "Antipasti e aperitivi",
+      "source": "https://www.cucchiaio.it/ricetta/ricetta-erbazzone",
+      "author": "Redazione Il Cucchiaio d'Argento",
+      "originalYield": "6–8 persone",
+      "originalTimes": "Preparazione 30 min; cottura 50 min–1 ora nella scheda. Procedimento: 5 min lessatura biete e circa 30 min di forno. Riposo della pasta almeno 45 min.",
+      "temperature": "Forno 200 °C; acqua bollente per le biete.",
+      "serves": "6–8 persone",
+      "prep": "30 min",
+      "cook": "scheda 50–60 min; procedimento 30 min",
+      "rest": "pasta almeno 45 min",
+      "ingredients": [
+        "Pasta: 200 g farina 00",
+        "Pasta: una noce di strutto",
+        "Pasta: 2 cucchiai olio extravergine di oliva",
+        "Pasta: 100 g acqua tiepida",
+        "Pasta: un pizzico di sale",
+        "Ripieno: 1,5 kg biete da costa",
+        "Ripieno: 3 cipollotti",
+        "Ripieno: 60 g lardo",
+        "Ripieno: un mazzetto prezzemolo",
+        "Ripieno: 1 spicchio aglio",
+        "Ripieno: 4–5 manciate Parmigiano Reggiano grattugiato",
+        "Ripieno: 4 cucchiai olio extravergine di oliva",
+        "Ripieno: sale, quantità non specificata",
+        "Ripieno: pepe, quantità non specificata"
+      ],
+      "steps": [
+        "Lavorare farina, sale, strutto, olio e acqua fino a una pasta liscia ed elastica; avvolgere e lasciare riposare in frigorifero per almeno 45 minuti.",
+        "Pulire e lavare le biete, lessarle per 5 minuti in acqua bollente salata, scolarle e strizzarle accuratamente, quindi tagliarle grossolanamente.",
+        "Rosolare il lardo tritato, poi aggiungere i cipollotti affettati e l'aglio tritato.",
+        "Unire le biete, lasciar evaporare l'acqua e trasferire in una ciotola; aggiungere Parmigiano e prezzemolo, regolare sale e pepe.",
+        "Stendere la pasta in sfoglie sottili, rivestire uno stampo leggermente unto da 25 × 25 cm e distribuire il ripieno.",
+        "Ricoprire con le sfoglie restanti creando pieghe, ripiegare i bordi, bucherellare con una forchetta e spennellare con poco strutto.",
+        "Cuocere in forno a 200 °C per circa 30 minuti o fino a doratura. Lasciare intiepidire e servire a quadrotti."
+      ],
+      "photo": null,
+      "reviewedRecordSha256": "49f1c27c4a49f5bca65494344476280019ddd73375d8c416b1e510fb41f426a2",
+      "description": "Torta rustica reggiana a due sfoglie sottili, con biete, cipollotti, Parmigiano e lardo."
     }
   ]
 }
