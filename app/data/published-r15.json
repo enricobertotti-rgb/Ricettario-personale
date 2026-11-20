@@ -665,6 +665,52 @@
       "originalYield": "4 persone",
       "originalTimes": "Tempo complessivo dichiarato: 1 ora e 30 minuti; brodo di baccelli: 1 ora dal bollore; cottura finale del riso: circa 13-15 minuti.",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SRC-cee57022ae788f69",
+      "name": "Sachertorte al cioccolato e confettura di albicocche (Ernst Knam)",
+      "category": "Torte e dolci da forno",
+      "serves": "8 porzioni",
+      "prep": "60 minuti",
+      "cook": "50 minuti dichiarati; procedimento: 35–40 minuti in forno statico",
+      "rest": "Raffreddamento completo, poi 20 minuti in frigorifero",
+      "ingredients": [
+        "Impasto: 75 g cioccolato fondente 60%",
+        "60 g tuorli (circa 3)",
+        "90 g albumi (circa 3)",
+        "65 g burro morbido",
+        "65 g farina 00",
+        "20 g zucchero a velo",
+        "90 g zucchero semolato",
+        "1 bacca vaniglia",
+        "1 pizzico sale fino",
+        "Ripieno e copertura: 150 g confettura di albicocche",
+        "Ganache: 185 g cioccolato fondente 60%",
+        "125 g panna fresca liquida (preferibilmente 30–35% grassi)"
+      ],
+      "steps": [
+        "Fondere delicatamente 75 g di cioccolato a bagnomaria. Montare burro morbido, zucchero a velo, sale e semi di vaniglia fino a crema; incorporare i tuorli in due riprese e lavorare circa 8–10 minuti.",
+        "Unire il cioccolato fuso a 45–55 °C alla massa di burro. Montare gli albumi iniziando senza zucchero e aggiungendo gradualmente i 90 g di semolato; fermarsi prima che risultino eccessivamente rigidi.",
+        "Incorporare in due aggiunte gli albumi al composto di cioccolato, poi la farina setacciata, mescolando con delicatezza dal basso verso l’alto.",
+        "Versare in stampo da circa 18 cm imburrato e infarinato; cuocere in statico a 170 °C per 35–40 minuti. Verificare la cottura con uno stecchino e raffreddare completamente prima di sformare.",
+        "Tagliare il dolce in due dischi, distribuire circa metà confettura all’interno; richiudere e velare superficie e lati con la rimanente confettura. Mettere su griglia.",
+        "Portare la panna quasi a bollore, togliere dal fuoco e sciogliervi il cioccolato destinato alla ganache. Versare la glassa a circa 40 °C sul dolce e levigarla; riporre in frigorifero circa 20 minuti prima di servire."
+      ],
+      "source": "https://www.giallozafferano.com/recipes/Sachertorte.html",
+      "description": "Torta viennese di cioccolato con ripieno e velo esterno di albicocche, glassata con ganache lucida.",
+      "author": "Ernst Knam",
+      "origin": "Versione di Ernst Knam della Sachertorte, dolce associato alla Vienna del XIX secolo; la fonte riporta la storia di Franz Sacher come tradizione.",
+      "temperature": "Cioccolato fuso 113–131 °F (45–55 °C); forno statico 338 °F (170 °C) 35–40 min; ganache ~104 °F (40 °C); frigorifero 39 °F (circa 4 °C).",
+      "notes": "Fonte originale Sachertorte di Ernst Knam per GialloZafferano. La sintesi della pagina dichiara cottura 50 min, mentre il procedimento indica 35–40 min in forno statico a 170 °C: conservare entrambe le indicazioni, senza correggerne una arbitrariamente. Il cioccolato 60% è la proporzione consigliata. Conservare la torta in frigorifero per non oltre 2–3 giorni come indicato dalla fonte. Non riprodurre immagini senza licenza.\n\nLa fonte consiglia, per la versione senza glutine, di sostituire i 65 g di farina 00 con pari peso di miscela senza glutine. Sono consigliate varianti di quantità della confettura di albicocche per un effetto più umido o asciutto, senza dosi separate attestate.\n\nContiene uova, latte e frumento/glutine nella versione base. Maneggiare con cautela cioccolato e ganache caldi; raffreddare completamente prima di tagliare il pan di torta. La fonte consiglia la conservazione in frigorifero per 2–3 giorni.",
+      "photo": null,
+      "sourceOriginalId": "SRC-cee57022ae788f69",
+      "reviewedRecordSha256": "5658f282b4dc29813be19f0b7b77515664c6ef85bf5ee6e0514d8dbf8142a696",
+      "baseRecordSha256": "420ac8423dfc448f0c71e9b5429c9b7d25bdbae8c37f42986c2b34222e6419ab",
+      "originalTitle": "Sachertorte",
+      "originalCategory": "Torte e dolci da forno",
+      "originalYield": "8 porzioni; stampo rotondo da 7 pollici (circa 18 cm).",
+      "originalTimes": "Preparazione 60 min; cottura dichiarata 50 min (in metodo 35–40 min); raffreddamento completo e 20 min in frigorifero per la glassa.",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
