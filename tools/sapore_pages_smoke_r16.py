@@ -59,7 +59,16 @@ def run_mode(browser, label, width, height, mobile=False):
         page.locator("#indexToggle").click()
         page.wait_for_selector("#indexCategories .categoryCard", timeout=20000)
         record["categories"] = page.locator("#indexCategories .categoryCard").count()
-        check(record["categories"] >= 15, "missing category cards")
+        check(record["categories"] == 10, "wrong macrocategory count")
+        page.locator('[data-macro="primi"]').click()
+        check(page.locator('.saporeChips button').count() == 4, 'missing first-course subcategories')
+        page.locator('[data-sub="Riso e cereali"]').click()
+        check(page.locator('#searchResults button[data-openid]').count() > 0, 'rice group empty')
+        page.locator('#indexToggle').click()
+        page.locator('#countryFilter').select_option('__unknown')
+        check(page.locator('.categoryCard').count() == 10, 'country filter lost category index')
+        page.locator('#countryFilter').select_option('')
+        record['macro_subcategory_country_ok'] = True
 
         page.locator("#search").fill("curry")
         page.wait_for_timeout(350)
