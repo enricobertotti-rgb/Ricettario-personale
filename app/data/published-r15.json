@@ -1019,6 +1019,50 @@
       "originalYield": "4 persone, circa 25–30 rotolini secondo lo spessore",
       "originalTimes": "Preparazione 20 minuti; cottura 20 minuti; totale dichiarato 40 minuti. La fonte riporta circa 17 minuti per la cottura della pastella nel proprio esempio, variabili con tegame e intensità.",
       "temperature": "Fuoco minimo durante l'addensamento, niente temperatura numerica; il condimento si scalda in olio per pochi secondi."
+    },
+    {
+      "id": "SRC-ea63395fd23b4021",
+      "name": "Babà napoletani del Gran Caffè Gambrinus",
+      "category": "Colazione e lievitati dolci",
+      "source": "https://www.giallozafferano.com/recipes/neapolitan-baba.html",
+      "reviewedRecordSha256": "c27433f95dbf005addde7172387cf8108781e8b089d10920f2af1ca905bc10f1",
+      "ingredients": [
+        "Primo impasto: 300 g farina Manitoba",
+        "90 g burro freddo",
+        "25 g zucchero",
+        "3 uova medie fredde",
+        "12 g lievito di birra fresco",
+        "6 g sale fino",
+        "Secondo impasto: 3 uova medie congelate il giorno precedente",
+        "Sciroppo finale: 300 g acqua",
+        "240 g zucchero",
+        "60 g rum a 70° (gradazione indicata dalla fonte)",
+        "Bagna: 1 l acqua",
+        "500 g zucchero",
+        "100 g rum a 70°",
+        "Scorza di 1/2 limone",
+        "Scorza di 1/2 arancia"
+      ],
+      "steps": [
+        "Il giorno precedente rompere tre uova in stampini adatti al congelamento e riporle in freezer; tenere freddi burro e altre tre uova.",
+        "Per il primo impasto lavorare farina, zucchero, burro freddo, lievito sbriciolato e le tre uova non congelate introdotte poco a poco. Aggiungere il sale e impastare ancora circa 5–10 minuti, finché la massa si raccoglie sul gancio.",
+        "Coprire e far lievitare circa due ore. Nel frattempo bollire 300 g di acqua con 240 g di zucchero, far freddare e aggiungere 60 g di rum: conservare questo sciroppo per la finitura.",
+        "Riprendere l’impasto lievitato nella planetaria; unire gradualmente piccole porzioni delle tre uova congelate, lavorando lentamente per 30-40 minuti fino a incorporazione completa ed elasticità.",
+        "Ungere piccoli stampi da circa 70 g e porzionare l’impasto in pezzetti di circa 30-40 g; far lievitare scoperti in ambiente tiepido fino a oltrepassare il bordo.",
+        "Cuocere a 200 °C statico circa 15-20 minuti, facendo prova con una prima infornata. Raffreddare, sformare e lasciare asciugare a lungo, preferibilmente fino al giorno seguente.",
+        "Per la bagna far bollire 1 l d’acqua con 500 g di zucchero e le scorze di agrumi, raffreddare, eliminare le scorze e aggiungere 100 g di rum.",
+        "Immergere i babà asciutti nella bagna per 2-3 minuti, strizzarli delicatamente e lasciar sgocciolare; completare al servizio con lo sciroppo al rum preparato a parte."
+      ],
+      "photo": null,
+      "serves": "10 babà dichiarati nella testata; il procedimento indica 10–12 pezzi in stampini da circa 70 g",
+      "prep": "1 h 20 min",
+      "cook": "30 min dichiarati, 15–20 min per infornata",
+      "rest": "2 h prima lievitazione; seconda fino al bordo; asciugatura ideale fino a 24 h",
+      "description": "Babà morbidi con impasto a due fasi, bagna agrumata al rum e sciroppo finale, ricetta del Gran Caffè Gambrinus.",
+      "author": "Stefano Avellano e Massimiliano Rosati",
+      "originalYield": "10 babà dichiarati nella testata; il procedimento indica 10–12 pezzi in stampini da circa 70 g",
+      "originalTimes": "Preparazione 1 h 20 min; cottura dichiarata 30 min (singole infornate circa 15-20 min); lievitazione iniziale 2 ore, seconda fino al bordo degli stampini; asciugatura ideale fino a 24 ore.",
+      "temperature": "Forno statico 392 °F (200 °C) circa 15-20 min; seconda lievitazione intorno a 79 °F (26 °C)."
     }
   ]
 }
