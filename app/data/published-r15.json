@@ -890,6 +890,51 @@
       "originalYield": "12 canelés",
       "originalTimes": "Preparazione: 10 min (oltre all’infusione); Cottura: 70 min; Riposi: 30 min infusione vaniglia; almeno 12 h in frigorifero (possibile fino a 24–36 h)",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SRC-f7ae550de0644f35",
+      "name": "Zuppa toscana di farro e lenticchie con verdure e pinoli",
+      "category": "Primi piatti",
+      "serves": "Circa 6 persone",
+      "prep": "5 minuti",
+      "cook": "1 ora e 20 minuti",
+      "rest": "Ammollo 3 ore",
+      "ingredients": [
+        "2 bicchieri lenticchie secche",
+        "2 bicchieri farro",
+        "2 cipolle",
+        "4 carote",
+        "3 patate",
+        "1 costa sedano",
+        "1 cucchiaio pinoli",
+        "4 cucchiai olio extravergine d'oliva",
+        "5 foglie basilico",
+        "Acqua q.b.",
+        "Sale q.b."
+      ],
+      "steps": [
+        "Tenere in ammollo per tre ore il farro e le lenticchie, quindi scolarli.",
+        "Scaldare tre dei quattro cucchiai d'olio con le cipolle affettate; dopo qualche minuto unire pinoli, basilico, carote, sedano e patate tagliati a pezzi.",
+        "Aggiungere tre bicchieri d'acqua e un po' di sale; cuocere le verdure per circa trenta minuti.",
+        "Separare le verdure dal brodo, frullarle o passarle e rimettere la crema nel liquido di cottura.",
+        "Unire lenticchie e farro scolati; versare acqua fino a coprire, aggiustare di sale e far sobbollire per circa quarantacinque minuti, mescolando e aggiungendo acqua se occorre.",
+        "Servire la zuppa con il cucchiaio di olio extravergine rimasto versato a crudo."
+      ],
+      "source": "https://www.prodottitipicitoscani.it/ricette-cucina-toscana/ricette-con-farro/zuppa-farro-lenticchie-ricetta",
+      "description": "Zuppa rustica vegetariana di farro e lenticchie con base di verdure frullate, pinoli e basilico, servita con un filo d'olio a crudo.",
+      "author": "PTT Ricette",
+      "origin": "Toscana, Italia, come attestato dalla pagina.",
+      "temperature": "Cottura sul fornello; la fonte non indica temperature numeriche.",
+      "notes": "Pagina PTT Ricette: 5 minuti preparazione, 3 ore ammollo, 1 ora e 20 minuti cottura, ma totale dichiarato 1 ora e 25 minuti, chiaramente senza le 3 ore di ammollo; mantenere l'informazione distinguendo tempo di lavoro e ammollo. Dei 4 cucchiai di olio extravergine, la fonte ne usa 3 per il soffritto e 1 a crudo nel piatto. Acqua e sale rimangono q.b.; nella preparazione compaiono 3 bicchieri d'acqua per il brodo iniziale senza alterare la lista ingredienti.\n\nLa fonte non documenta formule alternative complete con dosi distinte. L'aggiunta di acqua durante la cottura è regolata dalla consistenza, senza quantità prefissata oltre ai tre bicchieri del primo brodo.\n\nContiene farro (glutine) e pinoli. Cuocere bene i legumi e controllare eventuali indicazioni specifiche del prodotto per ammollo e cottura; attenzione alle ustioni con zuppa bollente.",
+      "photo": null,
+      "sourceOriginalId": "SRC-f7ae550de0644f35",
+      "reviewedRecordSha256": "336ee486b14e979cbed62dd14a608c588b8da19b9702ad9b39ac8e2b96cdf12b",
+      "baseRecordSha256": "70a21df25c1ac1b474730b7357c4706e3cc57618c5ad959537c04c61ee8731d2",
+      "originalTitle": "Zuppa di farro e lenticchie - Specialità toscana",
+      "originalCategory": "Primi piatti",
+      "originalYield": "Circa 6 persone",
+      "originalTimes": "Preparazione 5 minuti; riposo in ammollo 3 ore; cottura 1 ora e 20 minuti; tempo totale dichiarato 1 ora e 25 minuti (non comprende l'ammollo).",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
