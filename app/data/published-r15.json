@@ -518,6 +518,51 @@
       "originalYield": "4 porzioni",
       "originalTimes": "Preparazione: 30 min; cottura: 10 min. Raffreddare il bulgur dopo la cottura, senza durata indicata; la fonte dichiara 40 min complessivi per preparazione e cottura.",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SAP-20261115-010-4ddd1e1a",
+      "name": "Panzanella toscana classica",
+      "category": "Antipasti e aperitivi",
+      "serves": "4 porzioni",
+      "prep": "30 minuti",
+      "cook": "Nessuna cottura",
+      "rest": "Ammollo del pane senza durata numerica indicata",
+      "ingredients": [
+        "350 g di pane toscano raffermo",
+        "220 g di pomodori a grappolo maturi",
+        "200 g di cetrioli",
+        "90 g di cipolla rossa",
+        "Basilico a piacere (fonte: to taste)",
+        "250 g di acqua, quantità variabile secondo la secchezza del pane",
+        "60 g di aceto di vino bianco",
+        "Olio extravergine di oliva a piacere (fonte: to taste)",
+        "Sale fino a piacere (fonte: to taste)",
+        "Pepe nero a piacere (fonte: to taste)"
+      ],
+      "steps": [
+        "Tagliare il pane toscano raffermo prima a fette e poi a cubi grossolani. Trasferirlo in una ciotola.",
+        "Bagnare il pane con l'acqua e i 60 g di aceto di vino bianco; mescolare per favorire un assorbimento uniforme e lasciare ammorbidire. La quantità d'acqua può variare in base al pane.",
+        "Tagliare i pomodori a spicchi, poi a pezzi più piccoli.",
+        "Sbucciare i cetrioli, togliere le estremità, dividerli nel senso della lunghezza e tagliarli a fettine sottili. Sbucciare la cipolla, dividerla a metà e affettarla finemente.",
+        "Mescolare nuovamente il pane ammorbidito e aggiungere cipolla e cetrioli, poi i pomodori. Amalgamare.",
+        "Spezzettare con le mani le foglie di basilico e unirle alla ciotola; condire con sale, pepe e olio extravergine a piacere.",
+        "Mescolare bene e tenere in frigorifero fino al momento di servire."
+      ],
+      "source": "https://www.giallozafferano.com/recipes/Panzanella.html",
+      "description": "Insalata toscana a freddo di pane raffermo ammollato con acqua e aceto bianco, pomodori, cetriolo, cipolla rossa, basilico e olio extravergine.",
+      "author": "Redazione GialloZafferano (autore individuale non indicato nella pagina)",
+      "origin": "Toscana, Italia; pietanza estiva di recupero con pane raffermo e ortaggi, con varianti locali attestate dalla fonte.",
+      "temperature": "Preparazione a freddo e successivo mantenimento in frigorifero fino al momento del servizio; nessuna temperatura numerica nella fonte.",
+      "notes": "Verifica diretta GialloZafferano del 20/11/2026: 350 g pane toscano, 220 g pomodori, 200 g cetrioli, 90 g cipolla, basilico 'to taste', 250 g acqua variabile, 60 g aceto vino bianco, olio/sale/pepe 'to taste'. Quattro porzioni, preparazione 30 minuti e nessuna cottura. Ammollo pane senza minuti determinati. Conservazione entro 2 giorni e varianti in sezione tips separate; nessuna fotografia incorporata.",
+      "photo": null,
+      "sourceOriginalId": "SAP-20261115-010-4ddd1e1a",
+      "reviewedRecordSha256": "e831bef19a42a2a022f4ee22dd7ff0e120292c7dc4925db78b4f4bbd30ff229c",
+      "baseRecordSha256": "f5589df348ff0b40a172daf43934367b62ec8fd28425d2e65d04de0d1736cd5a",
+      "originalTitle": "Panzanella",
+      "originalCategory": "Antipasti",
+      "originalYield": "4 porzioni",
+      "originalTimes": "Preparazione 30 minuti; nessuna cottura. Il pane assorbe l'acqua e l'aceto durante la preparazione, senza riposo numerico specificato; conservazione frigorifero fino a 2 giorni secondo la fonte.",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
