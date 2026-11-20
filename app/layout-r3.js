@@ -63,6 +63,16 @@ function publicationFingerprint(r){
   const norm=v=>String(v??'').normalize('NFC').trim().replace(/\s+/g,' ').toLowerCase();
   return JSON.stringify(['ingredients','steps','serves','prep','cook','rest','temperature'].map(k=>Array.isArray(r[k])?r[k].map(norm):norm(r[k])));
 }
+// R26: immutable baseline hash authorizes an overlay, keeping the original ID.
+function saporeCanonicalJson(value){
+  if(Array.isArray(value))return '['+value.map(saporeCanonicalJson).join(',')+']';
+  if(value!==null&&typeof value==='object')return '{'+Object.keys(value).sort().map(k=>JSON.stringify(k)+':'+saporeCanonicalJson(value[k])).join(',')+'}';
+  return JSON.stringify(value);
+}
+async function saporeRecordSha256(value){
+  const bytes=new TextEncoder().encode(saporeCanonicalJson(value));
+  return Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),b=>b.toString(16).padStart(2,'0')).join('');
+}
 async function loadPublishedRecipesR15(){
   try{
     const response=await fetch('data/published-r15.json',{cache:'no-cache'});
@@ -74,7 +84,7 @@ async function loadPublishedRecipesR15(){
     const fingerprints=new Map(RECIPES.map(r=>[publicationFingerprint(r),r.id]));
     const sourceIds=new Map();
     for(const r of RECIPES){const u=normUrl(r.source);if(u)sourceIds.set(u,[...(sourceIds.get(u)||[]),r.id]);}
-    const accepted=[],skipped=[];
+    const accepted=[],updates=[],skipped=[];
     for(const r of data.recipes){
       const reject=(reason,existingId)=>skipped.push({id:r?.id||null,reason,existingId:existingId||null});
       if(!r||typeof r.id!=='string'||!r.id||typeof r.name!=='string'||!r.name.trim()||!r.category||
@@ -83,7 +93,16 @@ async function loadPublishedRecipesR15(){
          !/^[a-f0-9]{64}$/.test(r.reviewedRecordSha256||'')||r.photo!=null){reject('invalid_record');continue;}
       const url=normUrl(r.source),fp=publicationFingerprint(r);
       if(!url){reject('invalid_source');continue;}
-      if(ids.has(r.id)){reject(publicationFingerprint(ids.get(r.id))===fp?'already_present':'id_conflict',r.id);continue;}
+      if(ids.has(r.id)){
+        const previous=ids.get(r.id),proof=r.publicationUpdate;
+        if(proof?.reviewedDigest===r.reviewedRecordSha256&&proof.baseAppSha256===await saporeRecordSha256(previous)){
+          if(fingerprints.has(fp)&&fingerprints.get(fp)!==r.id){reject('exact_content_duplicate',fingerprints.get(fp));continue;}
+          updates.push(r);ids.set(r.id,r);fingerprints.delete(publicationFingerprint(previous));fingerprints.set(fp,r.id);
+          const oldUrl=normUrl(previous.source);sourceIds.set(oldUrl,(sourceIds.get(oldUrl)||[]).filter(id=>id!==r.id));
+          sourceIds.set(url,[...(sourceIds.get(url)||[]),r.id]);continue;
+        }
+        reject(publicationFingerprint(previous)===fp?'already_present':'id_conflict',r.id);continue;
+      }
       if(fingerprints.has(fp)){reject('exact_content_duplicate',fingerprints.get(fp));continue;}
       // An URL match is a review signal, never proof that two recipes are identical.
       const matches=sourceIds.get(url)||[];
@@ -92,12 +111,13 @@ async function loadPublishedRecipesR15(){
           decision.reason&&matches.every(id=>decision.comparedAppIds?.includes(id)))){reject('same_source_needs_review',matches[0]);continue;}
       accepted.push(r);ids.set(r.id,r);fingerprints.set(fp,r.id);sourceIds.set(url,[...matches,r.id]);
     }
+    for(const r of updates){const index=RECIPES.findIndex(old=>old.id===r.id);if(index>=0)RECIPES[index]=r;}
     RECIPES.push(...accepted);
     CATEGORIES.splice(0,CATEGORIES.length,...new Set(RECIPES.map(r=>r.category)));
     CATEGORIES.sort((a,b)=>a.localeCompare(b,'it'));
     recipeSearchCache=null;pantryIndexCache=null;
     draw();openRecipeDeepLink();
-    window.__saporePublicationImport={status:'loaded',added:accepted.length,total:RECIPES.length,partial:skipped.length>0,skipped};
+    window.__saporePublicationImport={status:'loaded',added:accepted.length,updated:updates.length,updateContract:'r26-baseline-overlay-v1',total:RECIPES.length,partial:skipped.length>0,skipped};
     if(skipped.length)console.warn('Sapore publication: individual records skipped; remaining recipes loaded.',skipped);
   }catch(error){
     window.__saporePublicationImport={status:'error',message:String(error)};

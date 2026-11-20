@@ -65,6 +65,11 @@ jobs:
           else:
               raise RuntimeError('No successful Pages deployment within five minutes')
           PY
+      - name: Test update contract when loader changes
+        run: |
+          if ! git diff --quiet HEAD^ HEAD -- app/layout-r3.js tools/test-r26-loader.cjs; then
+            node tools/test-r26-loader.cjs
+          fi
       - name: Prepare changed recipes from public snapshot
         env:
           SAPORE_QA_CANARY: 'true'
