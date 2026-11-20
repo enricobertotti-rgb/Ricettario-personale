@@ -360,6 +360,56 @@
       "originalYield": "8 samosa",
       "originalTimes": "Preparazione: 20 min; Cottura: 60 min; Riposi: Breve riposo impasto coperto, durata non precisata",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SRC-3a3dcf7daa8812e3",
+      "name": "Focaccia genovese classica di Ezio Rocchi",
+      "category": "Pane, focacce e panini",
+      "serves": "8 porzioni; 2 teglie da 30 × 40 cm",
+      "prep": "30 min",
+      "cook": "15 min",
+      "rest": "Lievitazione circa 3 ore, con riposi specificati nel procedimento",
+      "ingredients": [
+        "IMPASTO — 400 g di farina di grano tenero tipo 00 (W 280)",
+        "IMPASTO — 250 g di farina Manitoba (W 400)",
+        "IMPASTO — 335 g di acqua a temperatura ambiente",
+        "IMPASTO — 13 g di sale fino",
+        "IMPASTO — 10 g di malto",
+        "IMPASTO — 18 g di lievito di birra fresco",
+        "IMPASTO — 30 g di olio extravergine d'oliva",
+        "PER UNGERE LE TEGLIE — 30 g di olio extravergine d'oliva totali",
+        "PER LA SUPERFICIE — 60 g di olio extravergine d'oliva totali",
+        "SALAMOIA — 10 g di sale",
+        "SALAMOIA — 200 g di acqua"
+      ],
+      "steps": [
+        "In una ciotola unire 400 g di farina 00 e 250 g di Manitoba. Formare un incavo e versare quasi tutta l'acqua prevista, amalgamando con una spatola.",
+        "Incorporare 10 g di malto e 13 g di sale; aggiungere il resto dell'acqua. Unire 18 g di lievito fresco sbriciolato, mescolando fino a ottenere un impasto unico.",
+        "Trasferire sul piano e impastare energicamente; quando la massa inizia a diventare elastica, aggiungere 30 g di olio EVO destinato all'impasto e continuare a lavorare fino a completo assorbimento. La fonte indica circa 13–15 minuti di lavoro manuale.",
+        "Arrotondare l'impasto e dividerlo in due parti. Appiattirle leggermente, eseguire una piega a tre e chiudere ciascuna porzione con la giuntura rivolta in basso. Coprire e lasciare riposare circa 30 minuti.",
+        "Ungere le due teglie da 30 × 40 cm con un totale di 30 g di olio EVO (15 g ciascuna). Allargare delicatamente una porzione con le dita, poi col mattarello, e sistemarla in teglia in modo da coprire inizialmente circa il 70–80% del fondo; ripetere con l'altra.",
+        "Coprire entrambe le teglie e attendere 20–30 minuti. Stendere quindi l'impasto con i polpastrelli fino a coprire tutta la superficie, formando un piccolo bordo, e lasciare riposare ancora per 1 ora.",
+        "Sciogliere 10 g di sale in 200 g d'acqua per preparare la salamoia. Trascorso il riposo, imprimere con tre polpastrelli le caratteristiche fossette sulla superficie, arrivando verso i bordi senza lacerare la pasta.",
+        "Per ciascuna teglia versare 30 g di olio EVO della quota di copertura e circa 90 g della salamoia preparata, distribuendo il liquido nelle fossette. La fonte indica 200 g di acqua e 10 g di sale per preparare la salamoia, ma circa 90 g di miscela per teglia nella fase di stesura: non aumentare arbitrariamente la dose versata.",
+        "Lasciare lievitare scoperto per 40–45 minuti. Cuocere nel forno statico già caldo a 230 °C per 15 minuti, o fino a doratura compatibilmente con la potenza del forno.",
+        "Sfornare, lasciare intiepidire per pochi minuti e tagliare in porzioni. La fonte consiglia il consumo entro un giorno se conservata in sacchetto di carta, oppure il congelamento della focaccia già cotta."
+      ],
+      "source": "https://www.giallozafferano.com/recipes/focaccia-fugassa-alla-genovese-genoa-style-focaccia.html",
+      "description": "Focaccia ligure alta e soffice al centro, con fondo dorato e superficie ricca di fossette, olio extravergine e salamoia di acqua e sale. Ricetta di Ezio Rocchi per due teglie da 30 × 40 cm.",
+      "author": "Ezio Rocchi",
+      "origin": "Liguria, Genova (Italia), preparazione della focaccia alla genovese della fonte",
+      "temperature": "Forno statico preriscaldato a 230 °C (450 °F), 15 minuti secondo la fonte. Acqua dell'impasto a temperatura ambiente; altri gradi non precisati.",
+      "notes": "Ricetta confrontata integralmente con l'originale GialloZafferano di Ezio Rocchi. Sono mantenute separatamente tutte le quote di olio, acqua e sale per impasto, teglie, superficie e salamoia; nessun ingrediente di introduzione aggiunto alla base. La fonte dichiara 8 porzioni, 2 teglie 30x40cm, 30m prep, 15m cottura e circa 3h di lievitazione. Attenzione alla discrasia fra salamoia preparata (200g acqua +10g sale) e 90g di miscela versati su ciascuna teglia: non cambiare le quantità originali. Nessuna immagine utilizzata.\n\nVarianti documentate: Nelle note del maestro Ezio Rocchi, i 10 g di malto possono essere sostituiti con pari quantità di zucchero di canna. Per preparazione anticipata l'impasto può essere riposto in frigorifero per 2–3 ore, poi riportato a temperatura ambiente fino al raddoppio e ripresa delle fossette. L'introduzione cita rosmarino e altre guarnizioni come opzioni, ma NON fanno parte degli ingredienti di questa base; la focaccia al formaggio di Recco è un'altra preparazione e non deve essere fusa.\n\nSicurezza e allergeni: Allergeni: glutine (farine di frumento). Attenzione alle alte temperature del forno e alle teglie calde. Seguire tempi/temperature per lievitazione e cottura; non usare lievito chimico al posto del lievito fresco nella ricetta base. Evitare il congelamento dell'impasto crudo, sconsigliato dalla fonte.",
+      "photo": null,
+      "sourceOriginalId": "SRC-3a3dcf7daa8812e3",
+      "sourceReviewRevision": "CUR-R14-20261120-FOCACCIA-EZIOROCCHI-R1",
+      "reviewedRecordSha256": "bde3a1781d0cd81e0d14c77d95ad4bb3edf8218ef60488579207df35f00aadfa",
+      "baseRecordSha256": "39fe477271701f28565b0aa840fd3cbd01409eeca7a1c2250e30f18c8606fa98",
+      "originalTitle": "Focaccia (fügassa) alla genovese (Genoa-style focaccia)",
+      "originalCategory": "Pane e focacce",
+      "originalYield": "8 porzioni; 2 teglie da 30 × 40 cm",
+      "originalTimes": "Preparazione 30 min, cottura 15 min, più lievitazione circa 3 ore riportata dalla scheda. Riposi documentati nei passaggi: 30 min dopo piega, 20–30 min in teglia, 1 ora dopo stesura completa e 40–45 min dopo salamoia; breve riposo facoltativo prima delle pieghe. Impasto manuale 13–15 min.",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
