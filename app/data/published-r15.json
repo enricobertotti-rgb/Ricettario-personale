@@ -1104,6 +1104,41 @@
       "originalYield": "4 porzioni; 12 pallotte",
       "originalTimes": "Preparazione 10 minuti; cottura 20 minuti dichiarati. Sugo circa 15 minuti, più 5 minuti di finitura delle pallotte nel sugo.",
       "temperature": "Olio di arachidi circa 170 °C per la frittura; sugo a leggero bollore."
+    },
+    {
+      "id": "SRC-3156a8e9a73620a1",
+      "name": "Gyeran-mari coreano: frittata arrotolata a strati",
+      "category": "Uova e secondi vegetariani",
+      "source": "https://www.maangchi.com/recipe/gyeran-mari",
+      "reviewedRecordSha256": "d52a34515e5263e18490815c4da9d00af37f34a46d3c7ad2ad7db871875bbe05",
+      "ingredients": [
+        "4 uova grandi",
+        "1 cucchiaino sale kosher",
+        "1/2 cipolla media tritata finemente",
+        "1/4 cucchiaino pepe nero oppure bianco macinato",
+        "1 cucchiaio peperone verde tritato finemente, facoltativo",
+        "1 cucchiaio peperone rosso tritato finemente, oppure carota tritata, facoltativo",
+        "1–2 cucchiai olio vegetale per ungere la padella"
+      ],
+      "steps": [
+        "Rompere le quattro uova in una ciotola, unire il sale e sbatterle. Incorporare cipolla tritata, pepe ed eventualmente le verdure colorate ridotte in piccoli pezzi.",
+        "Scaldare una padella antiaderente a calore medio e poi abbassare la fiamma; spennellare il fondo con poco olio.",
+        "Versare circa un terzo della miscela di uova, allargarla in uno strato sottile rettangolare e lasciarla rapprendere 1–2 minuti: la superficie deve rimanere appena umida.",
+        "Con una spatola sollevare un lato e avvolgere la sottile frittata verso il lato opposto. Spostare il rotolo su un'estremità della padella e ungere di nuovo la parte libera.",
+        "Versare metà del composto rimasto accanto al rotolo, facendo aderire la nuova striscia di uovo al bordo dello strato già avvolto. Cuocere 1–2 minuti e arrotolarvi sopra il rotolo preesistente.",
+        "Ripetere l'operazione con l'ultima parte di uova, formando un rotolo regolare. A fiamma bassa, girarlo per far cuocere uniformemente i quattro lati per circa 3–4 minuti.",
+        "Trasferire su un tagliere, eventualmente modellare con una stuoietta per gimbap, far intiepidire 5 minuti e tagliare trasversalmente a fette spesse 1/2–3/4 di pollice. Servire con riso."
+      ],
+      "photo": null,
+      "serves": "1 rotolo di frittata da tagliare a fette; numero di porzioni non dichiarato",
+      "prep": "Non quantificato dalla fonte",
+      "cook": "1–2 minuti per strato e 3–4 minuti finali",
+      "rest": "5 minuti prima del taglio",
+      "description": "Frittata coreana sottile farcita con cipolla e verdure, arrotolata gradualmente in strati successivi e tagliata in fette; tradizionalmente accompagnamento del riso o banchan per dosirak.",
+      "author": "Maangchi",
+      "originalYield": "1 rotolo di frittata da tagliare a fette; numero di porzioni non dichiarato",
+      "originalTimes": "Tempo complessivo non quantificato dalla fonte. Ogni strato cuoce 1–2 minuti; finitura 3–4 minuti a fuoco basso; raffreddamento 5 minuti prima del taglio.",
+      "temperature": "Padella inizialmente a calore medio; proseguire a calore medio-basso o basso. Nessuna temperatura numerica."
     }
   ]
 }
