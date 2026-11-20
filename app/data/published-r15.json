@@ -1226,6 +1226,52 @@
       "photo": null,
       "reviewedRecordSha256": "f7b44a7b7265b8ccfd67b4d00ba16222cd24288e34040cd5a11fdb025b2195fd",
       "description": "Pane soffice a lievitazione con quattro dischi sovrapposti e tre strati di zucchero alla cannella, inciso e attorcigliato in otto punte di stella."
+    },
+    {
+      "id": "SRC-f64d97b3f7df276a",
+      "name": "Bao al vapore con costine di wagyu brasate",
+      "category": "Piatti unici e cucine del mondo",
+      "source": "https://www.giallozafferano.com/recipes/steamed-bao-with-wagyu-ribs.html",
+      "reviewedRecordSha256": "0cac7a6ba7c7f7fb80668d6db1a14078b788122795d9ec6168eb6cf5af4a0180",
+      "ingredients": [
+        "Costine: 1 kg costine di manzo wagyu",
+        "1 cipolla bianca",
+        "1 carota",
+        "1 costa di sedano",
+        "2 spicchi aglio in camicia",
+        "500 g vino rosso",
+        "Scorza di 1 arancia",
+        "Succo di 1 arancia",
+        "4 cucchiaiate olio extravergine di oliva",
+        "Sale q.b.",
+        "Bao: 300 g farina tipo 0 debole",
+        "160 g acqua",
+        "30 g zucchero",
+        "3 g lievito di birra",
+        "1 cucchiaio olio extravergine di oliva",
+        "4 g sale fino",
+        "Erba cipollina q.b. per finire"
+      ],
+      "steps": [
+        "Sciogliere il sale nell’acqua tiepida con il cucchiaio d’olio per il pane. Unire a farina, zucchero e lievito e impastare finché elastico.",
+        "Formare un panetto, ungere appena una ciotola, coprire e lasciare lievitare per circa due ore in luogo riparato.",
+        "Tritare sedano, carota e cipolla; preparare scorza e succo di arancia. Salare il manzo e rosolarlo in poco olio su tutti i lati, quindi togliere dalla casseruola.",
+        "Nella stessa casseruola insaporire gli ortaggi e l’aglio in camicia per circa tre minuti, rimettere la carne, unire succo e scorza di arancia e sfumare con il vino.",
+        "Dopo l’evaporazione iniziale del vino, coprire e cuocere a fuoco moderato per circa due ore, girando di tanto in tanto.",
+        "Stendere la pasta dei bao a circa mezzo centimetro; ritagliare dischi di circa 12 cm, piegarli a mezzaluna inserendo carta forno fra i lembi e far lievitare 30 minuti.",
+        "Eliminare il grasso in eccesso dal fondo di cottura, frullare il fondo, tagliare la carne e riportarla nella salsa.",
+        "Cuocere i bao nella vaporiera coperta per 15 minuti; farcirli con carne e salsa, completando con erba cipollina."
+      ],
+      "photo": null,
+      "serves": "4 porzioni",
+      "prep": "50 minuti",
+      "cook": "2 ore e 25 minuti",
+      "rest": "Lievitazione 2 ore + 30 minuti",
+      "description": "Panini al vapore soffici con ripieno di costine di wagyu cotte con vino rosso, ortaggi e arancia.",
+      "author": "Sebastian Fitarau",
+      "originalYield": "4 porzioni (numero dei bao non precisato).",
+      "originalTimes": "Preparazione 50 min; cottura dichiarata 2 h 25 min; riposo impasto 2 ore e ulteriore lievitazione 30 min.",
+      "temperature": "Cottura in casseruola a fuoco moderato 2 ore; cottura al vapore dei bao 15 minuti."
     }
   ]
 }
