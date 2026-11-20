@@ -475,6 +475,49 @@
       "originalYield": "10 cornetti",
       "originalTimes": "Preparazione: 1 h 15 min; cottura: 25 min; lievitazioni: circa 2 h 30 min totali (prima 90 min, finale 60 min); riposi in frigorifero: almeno 2 h 15 min totali (10–15 min + 30 + 30 + 60 min). Raffreddamento successivo alla cottura senza durata specificata.",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SAP-20261115-009-31f61d6d",
+      "name": "Tabbouleh estivo con anguria ed erbe",
+      "category": "Verdure e contorni",
+      "serves": "4 porzioni",
+      "prep": "30 min",
+      "cook": "10 min",
+      "rest": "Raffreddamento del bulgur dopo cottura; durata non specificata",
+      "ingredients": [
+        "320 g bulgur",
+        "200 g anguria pulita",
+        "2 cipollotti",
+        "5 pomodori a grappolo",
+        "30 g pinoli",
+        "15 g prezzemolo",
+        "20 g menta",
+        "40 g olio extravergine d'oliva",
+        "Sale fino a piacere (fonte: to taste)",
+        "Pepe nero a piacere (fonte: to taste)"
+      ],
+      "steps": [
+        "Cuocere il bulgur in una pentola d'acqua bollente salata per il tempo indicato sulla confezione; scolarlo e farlo raffreddare.",
+        "Pulire i cipollotti eliminando la base ma conservando una parte del gambo verde; affettarli sottilmente.",
+        "Tagliare i pomodori a metà e poi in quarti; eliminare la polpa più acquosa e ricavarne pezzi di circa 1,5 cm.",
+        "Tagliare l'anguria in fette spesse circa 1,5 cm, eliminare la buccia e ridurre la polpa in cubi di circa 1,5 cm.",
+        "Frullare le foglie di prezzemolo e menta con i 40 g di olio extravergine fino a ottenere una salsa liscia.",
+        "Quando il bulgur è freddo, condirlo con la salsa alle erbe; aggiungere i pomodori, i cipollotti e i cubetti d'anguria.",
+        "Mescolare delicatamente e completare con pepe nero e pinoli. Servire fresco."
+      ],
+      "source": "https://www.giallozafferano.com/recipes/summer-watermelon-tabbouleh.html",
+      "description": "Insalata estiva a base di bulgur raffreddato, anguria, pomodori, cipollotti, pinoli e salsa frullata di prezzemolo, menta e olio extravergine.",
+      "author": "Redazione GialloZafferano (autore individuale non indicato dalla pagina)",
+      "origin": "Ispirazione al tabbouleh della cucina levantina; l'anguria è una reinterpretazione estiva della fonte, non una ricetta tradizionale attestata",
+      "temperature": "Bollitura del bulgur in acqua salata per il tempo indicato sulla confezione; nessuna temperatura numerica indicata.",
+      "notes": "La fonte riporta una ricetta vegana e senza lattosio nella versione base. Il bulgur è frumento e quindi contiene glutine. La fonte dichiara conservazione in frigorifero per non più di 1–2 giorni. Il tempo di raffreddamento del bulgur non è quantificato. Nessun autore individuale esplicitato nella pagina consultata.\n\nConsigli facoltativi della fonte, NON ingredienti della versione base: insieme ai pinoli o al loro posto si possono usare mandorle, arachidi oppure anacardi; il cipollotto può essere sostituito con cipolla bianca; si possono aggiungere perline di mozzarella. La fonte non fornisce dosi alternative: non inventarle. La mozzarella cambia la versione base dichiarata vegana.",
+      "photo": null,
+      "sourceOriginalId": "SAP-20261115-009-31f61d6d",
+      "sourceReviewRevision": "CUR-R18-20261120-SUMMER-WATERMELON-TABBOULEH-R1",
+      "reviewedRecordSha256": "2f6afb8c4377d4dcc09daa6552d8f37758ea96e44ed2c21885041a40e198d370",
+      "originalYield": "4 porzioni",
+      "originalTimes": "Preparazione: 30 min; cottura: 10 min. Raffreddare il bulgur dopo la cottura, senza durata indicata; la fonte dichiara 40 min complessivi per preparazione e cottura.",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
