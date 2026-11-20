@@ -802,6 +802,51 @@
       "originalYield": "Circa 40 biscotti",
       "originalTimes": "Preparazione 15 minuti; cottura 15–18 minuti; riposo in frigorifero 30 minuti.",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SRC-f8ad6e4e2dce05b2",
+      "name": "Sarde in saor veneziane con uvetta e pinoli",
+      "category": "Secondi di pesce",
+      "serves": "8 persone",
+      "prep": "30 minuti",
+      "cook": "30 minuti",
+      "rest": "Almeno un giorno in frigorifero",
+      "ingredients": [
+        "500 g sarde",
+        "2 cipolle dorate",
+        "2 cucchiai olio extravergine d'oliva",
+        "50 g pinoli",
+        "50 g uvetta",
+        "30 ml aceto",
+        "1 bicchiere vino bianco secco",
+        "Farina q.b. per infarinare",
+        "Sale q.b.",
+        "Pepe q.b.",
+        "Olio per friggere, quantità non indicata"
+      ],
+      "steps": [
+        "Pulire le sarde togliendo squame e interiora; sciacquarle, asciugarle e passarle in poca farina.",
+        "Friggere le sarde in olio caldo; scolarle e asciugare l'olio in eccesso su carta assorbente.",
+        "Mettere l'uvetta a bagno nel vino bianco. Nel frattempo affettare sottilmente le cipolle e ammorbidirle nell'olio extravergine.",
+        "Sfumare le cipolle con l'aceto; insaporire con sale e pepe e proseguire la cottura per circa cinque minuti.",
+        "In una pirofila alternare strati di sarde fritte, cipolle, uvetta sgocciolata e pinoli, terminando gli ingredienti.",
+        "Coprire e conservare in frigorifero per almeno un giorno. Portare alla temperatura di servizio prima di consumare."
+      ],
+      "source": "https://blog.giallozafferano.it/creandosiimpara/sarde-in-saor",
+      "description": "Sarde fritte disposte a strati con cipolla stufata in agrodolce, aceto, uvetta e pinoli, lasciate riposare in frigorifero almeno un giorno.",
+      "author": "Francesca Boscolo (Creando si impara)",
+      "origin": "Venezia, Veneto, Italia. Preparazione tradizionale veneziana di pesce in saor.",
+      "temperature": "Frittura in olio caldo; la fonte non indica gradi numerici. Servire a temperatura ambiente dopo conservazione in frigorifero.",
+      "notes": "Ricetta Creando si impara, prima pubblicazione indicata 31 luglio 2020. La fonte presenta preparazione e cottura entrambe 30 minuti, senza temperatura di frittura numerica, e indica riposo in frigorifero almeno un giorno. Olio per friggere, farina, sale e pepe non hanno dosi numeriche: rispettare q.b. Non dichiarare storicamente accertata ogni leggenda sull'origine marinara riportata nell'introduzione.\n\nVersione ricca con 50 g di pinoli e 50 g di uvetta come nella lista originale; la fonte permette di omettere entrambi per una versione più semplice, senza indicare dosi alternative. La versione base con uvetta e pinoli resta distinta.\n\nAllergeni: pesce (sarde), frutta a guscio (pinoli); frumento se si usa farina di grano per infarinare. Il pesce deve essere manipolato e cotto in sicurezza. Conservare sempre in frigorifero durante la marinatura e portare alla temperatura di servizio solo poco prima di consumare.",
+      "photo": null,
+      "sourceOriginalId": "SRC-f8ad6e4e2dce05b2",
+      "reviewedRecordSha256": "1771fae5e814dde32abb563be5cec3478eb5aacd24647f604dfec566f8f4d3e7",
+      "baseRecordSha256": "8ac27dd4614c5916c52ef0e36a7228b6711c98dec1203a6bb3a4ac9361dd76e4",
+      "originalTitle": "Sarde in saor",
+      "originalCategory": "Secondi di pesce",
+      "originalYield": "8 persone",
+      "originalTimes": "Preparazione 30 minuti; cottura 30 minuti; riposo in frigorifero almeno 1 giorno.",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
