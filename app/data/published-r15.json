@@ -310,6 +310,56 @@
       "originalYield": "1 grande pide da porzionare",
       "originalTimes": "Preparazione: 50 min; Cottura: 25-30 min (più 20 min per arrostire le patate); Riposi: 1 h prima lievitazione; 30 min dopo la formatura; Totale dichiarato: 3 h circa secondo la fonte",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SAP-GZ-EN-SAMOSA",
+      "name": "Samosa vegetali con patate e piselli",
+      "category": "Antipasti e aperitivi",
+      "serves": "8 samosa",
+      "prep": "20 min",
+      "cook": "60 min",
+      "rest": "Breve riposo dell'impasto coperto, durata non precisata",
+      "ingredients": [
+        "Pasta: Farina 00 250 g",
+        "Pasta: Acqua 100 g",
+        "Pasta: Olio vegetale 50 g",
+        "Pasta: Sale fino 1 cucchiaino",
+        "Ripieno: Patate 500 g",
+        "Ripieno: Piselli 100 g",
+        "Ripieno: Cipolla bianca 50 g",
+        "Ripieno: Aglio 2 spicchi",
+        "Ripieno: Garam masala 1 cucchiaio",
+        "Ripieno: Peperoncino secco 1 cucchiaino",
+        "Ripieno: Curcuma 1 cucchiaino",
+        "Ripieno: Olio extravergine 2 cucchiai",
+        "Ripieno: Sale q.b.",
+        "Frittura: Olio vegetale 1 l"
+      ],
+      "steps": [
+        "Sbucciare e tagliare le patate a cubetti; lessarle per circa 30 minuti.",
+        "Mescolare farina, acqua, olio e sale; impastare, coprire e lasciare riposare.",
+        "Rosolare cipolla e aglio con olio e spezie; aggiungere patate e piselli e schiacciare grossolanamente.",
+        "Regolare il sale e lasciare raffreddare il ripieno.",
+        "Dividere la pasta in quattro, tirare quattro dischi di circa 20 cm e tagliarli a metà.",
+        "Inumidire i bordi, formare con ogni semicerchio un cono, farcire e sigillare a triangolo.",
+        "Friggere pochi pezzi per volta a 160–170 °C per 3–4 minuti, scolare e servire."
+      ],
+      "source": "https://www.giallozafferano.com/recipes/samosa.html",
+      "description": "Triangoli di pasta friabile ripieni di patate, piselli e spezie, fritti fino a doratura.",
+      "author": null,
+      "origin": "Street food diffuso nel subcontinente indiano; la fonte segnala radici mediorientali tramandate tramite le rotte commerciali.",
+      "temperature": "Olio da frittura 160–170 °C; 3–4 min per pezzo",
+      "notes": null,
+      "photo": null,
+      "sourceOriginalId": "SAP-GZ-EN-SAMOSA",
+      "sourceReviewRevision": "CUR-20261117-FONTE-R5",
+      "reviewedRecordSha256": "2101931b0a6a3db0b96ee728c7308a7829ef720596fcd87d1410dcf2efd863cd",
+      "baseRecordSha256": "eaa4b87f494c375c99cc8a1c924889978c55d8fef004b3663d350aadca3db39c",
+      "originalTitle": "Samosa",
+      "originalCategory": "Cucine del mondo",
+      "originalYield": "8 samosa",
+      "originalTimes": "Preparazione: 20 min; Cottura: 60 min; Riposi: Breve riposo impasto coperto, durata non precisata",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
