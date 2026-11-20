@@ -1063,6 +1063,47 @@
       "originalYield": "10 babà dichiarati nella testata; il procedimento indica 10–12 pezzi in stampini da circa 70 g",
       "originalTimes": "Preparazione 1 h 20 min; cottura dichiarata 30 min (singole infornate circa 15-20 min); lievitazione iniziale 2 ore, seconda fino al bordo degli stampini; asciugatura ideale fino a 24 ore.",
       "temperature": "Forno statico 392 °F (200 °C) circa 15-20 min; seconda lievitazione intorno a 79 °F (26 °C)."
+    },
+    {
+      "id": "SRC-d4a7710791ebcec3",
+      "name": "Pallotte cacio e ova abruzzesi fritte e ripassate al pomodoro",
+      "category": "Antipasti e aperitivi",
+      "source": "https://www.cucchiaio.it/ricetta/pallotte-cacio-e-ova",
+      "reviewedRecordSha256": "afec894b249e11abe2f99dad8e584f4ce8c8671468ec8791b8834e374cf95305",
+      "ingredients": [
+        "POLPETTE — 250 g mollica di pane",
+        "POLPETTE — 100 g pecorino grattugiato",
+        "POLPETTE — 200 g parmigiano grattugiato",
+        "POLPETTE — 5 uova",
+        "POLPETTE — 1 pizzico pepe nero",
+        "POLPETTE — 1/2 cucchiaino bicarbonato",
+        "FRITTURA — 750 ml olio di semi di arachidi",
+        "SUGO — 750 g passata di pomodoro",
+        "SUGO — 1/2 cipolla bianca grande",
+        "SUGO — 1 peperone verde tipo Corno di capra (oppure peperone verde dolce)",
+        "SUGO — 1/2 bicchiere acqua",
+        "SUGO — olio extravergine d'oliva (quantità non indicata dalla fonte)",
+        "SUGO — sale grosso (quantità non indicata dalla fonte)"
+      ],
+      "steps": [
+        "Mescolare la mollica con pecorino, parmigiano, bicarbonato e pepe, distribuendo bene tutti gli ingredienti secchi.",
+        "Aggiungere le cinque uova e amalgamare con le mani fino a ottenere un composto umido ma modellabile.",
+        "Dividere l'impasto con un cucchiaio e arrotondare dodici pallotte; tenerle separate sul tagliere.",
+        "Portare l'olio di arachidi a circa 170 °C e friggere pochi pezzi per volta, rivoltandoli per colorirli su tutti i lati senza farli scurire eccessivamente. Sgocciolarli su una griglia o su carta assorbente.",
+        "Mettere in un tegame un fondo di olio extravergine, la cipolla e il peperone tagliati grossolanamente. Salare e farli ammorbidire, quindi versare passata e mezzo bicchiere d'acqua. Cuocere a sobbollore per circa 15 minuti.",
+        "Trasferire le pallotte fritte nella salsa, in un solo strato se possibile, e lasciarle insaporire altri 5 minuti.",
+        "Portare in tavola le pallotte calde con il loro sugo."
+      ],
+      "photo": null,
+      "serves": "4 porzioni; 12 pallotte",
+      "prep": "10 minuti",
+      "cook": "20 minuti",
+      "rest": "Nessun riposo dichiarato",
+      "description": "Polpette abruzzesi senza carne, preparate con mollica, pecorino, parmigiano e uova: dopo la frittura, vengono fatte insaporire in salsa di pomodoro con cipolla e peperone verde.",
+      "author": "Riccardo Carnevali",
+      "originalYield": "4 porzioni; 12 pallotte",
+      "originalTimes": "Preparazione 10 minuti; cottura 20 minuti dichiarati. Sugo circa 15 minuti, più 5 minuti di finitura delle pallotte nel sugo.",
+      "temperature": "Olio di arachidi circa 170 °C per la frittura; sugo a leggero bollore."
     }
   ]
 }
