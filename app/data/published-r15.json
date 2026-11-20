@@ -82,6 +82,46 @@
       "originalYield": "12 lefse di circa 15 cm",
       "originalTimes": "Preparazione: 25 min; Cottura: Circa 1 minuto per lato per ciascun pezzo; Riposi: Massa di patate in frigorifero per diverse ore o tutta la notte; Totale dichiarato: 4 h 13 min",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SRC-656cd398c47e803c",
+      "name": "Frico friulano di patate e Montasio (senza cipolla)",
+      "category": "Secondi piatti",
+      "serves": "4 persone",
+      "prep": "20 min",
+      "cook": "35–40 min",
+      "rest": null,
+      "ingredients": [
+        "500 g di Montasio di diverse stagionature",
+        "500 g di patate rosse",
+        "1 cucchiaio di olio extravergine d'oliva",
+        "Sale — quantità non indicata nella fonte",
+        "Pepe — quantità non indicata nella fonte"
+      ],
+      "steps": [
+        "Lavare e pelare le patate rosse. Asciugarle e grattugiarle usando i fori larghi della grattugia.",
+        "Ridurre il Montasio a scaglie con la stessa grattugia. Per la combinazione di consistenze, la fonte suggerisce formaggio fresco e mezzano.",
+        "Scaldare un cucchiaio di olio in una padella ampia; versare le patate grattugiate e lasciarle ammorbidire a fiamma dolce per circa 10–15 minuti, rigirandole.",
+        "Aggiungere il Montasio grattugiato con sale e pepe e amalgamare le patate al formaggio. Continuare a fuoco medio-basso, mescolando periodicamente, finché il formaggio si è sciolto.",
+        "Compattare il composto nella padella, alzare leggermente la fiamma e lasciar formare una crosta dorata sotto, senza mescolare. Girare il frico usando un piatto o un coperchio adatto e dorare anche il secondo lato.",
+        "Trasferire il frico sul piatto, dividerlo in porzioni e servirlo subito ben caldo."
+      ],
+      "source": "https://www.cucchiaio.it/ricetta/frico",
+      "description": "Frico friulano in padella, preparato con patate rosse e formaggio Montasio di diverse stagionature, dal cuore morbido e dalla superficie dorata. La versione specifica della fonte non contiene cipolla.",
+      "author": "Il Cucchiaio d'Argento (autore individuale non indicato)",
+      "origin": "Friuli-Venezia Giulia, Italia; ricetta regionale documentata dalla fonte",
+      "temperature": "Fuoco dolce per le patate, medio-basso durante la fusione del formaggio, leggermente più alto per dorare. Nessuna temperatura numerica indicata.",
+      "notes": "Fonte controllata il 20/11/2026. Cinque voci ingredienti; sale e pepe presenti nell'elenco originale senza dosi esplicite. Nessuna cipolla: questa è una variante coerente con la specifica ricetta pubblicata, non con tutte le versioni tradizionali. I tempi di doratura non sono quantificati; evitare stime numeriche inventate. Testo di preparazione autonomamente rielaborato. Link alla fonte, nessuna fotografia riutilizzata. Verifica integrale effettuata contro la pagina fonte: 500 g Montasio, 500 g patate rosse, 1 cucchiaio olio EVO, sale e pepe senza dosi; resa 4; prep 20 min e cottura 35–40 min; primo ammorbidimento patate 10–15 min; doratura su entrambi i lati senza indicazioni di minuti ulteriori. La variante al formaggio senza patate è distinta. Non aggiungere cipolla alla ricetta verificata. Fotografie escluse per assenza licenza documentata.\n\nVarianti documentate: La pagina distingue la preparazione qui documentata SENZA cipolla da altre versioni che la includono; in alcune versioni tradizionali è usato burro al posto dell'olio, senza dosaggio fornito. La fonte cita inoltre il frico croccante realizzato con solo formaggio, variante distinta e non da fondere. Per questo frico morbido la fonte suggerisce 250 g Montasio fresco e 250 g mezzano come suddivisione preferibile dei 500 g totali; la porzione mezzo-mezzo è una raccomandazione derivata dal testo (non una voce separata della lista originale). Abbinamento con polenta gialla descritto dalla fonte, non ingrediente della base.\n\nAvvertenze: Allergene latte e derivati: Montasio. Attenzione all'olio caldo, al formaggio fuso e al ribaltamento del tortino in padella con coperchio o piatto stabile; usare guanti/utensili resistenti al calore. Nessuna temperatura numerica in gradi né dose di sale e pepe è riportata nella fonte.",
+      "photo": null,
+      "sourceOriginalId": "SRC-656cd398c47e803c",
+      "sourceReviewRevision": "CUR-R14-20261120-FRICO-CUCCHIAIO-R1",
+      "reviewedRecordSha256": "5c587a2cbcd9f3b230513574ceafca2fdeee1ac22128aef627b4c017c37a3367",
+      "baseRecordSha256": "0e7b36b98860b086792d11881cc8d090bcc676600162b81e89445ef02eea01fc",
+      "originalTitle": "Frico",
+      "originalCategory": "Secondi piatti",
+      "originalYield": "4 persone",
+      "originalTimes": "Preparazione 20 minuti; cottura 35–40 minuti; nella cottura delle patate sono indicati 10–15 minuti a fuoco dolce.",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
