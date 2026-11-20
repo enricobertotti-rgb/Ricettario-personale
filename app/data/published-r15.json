@@ -973,6 +973,52 @@
       "originalYield": "4 persone",
       "originalTimes": "Preparazione dichiarata 1 ora, cottura dichiarata 20 minuti, riposo impasto 10 minuti. Se si parte da ceci secchi, la fonte ricorda almeno 12 ore di ammollo e almeno 2 ore di cottura preliminare, non incluse nei tempi operativi della ricetta.",
       "temperature": "Frittura in olio caldo a fuoco vivace; temperatura numerica non indicata. Pasta lessata in acqua bollente circa 2 minuti."
+    },
+    {
+      "id": "SRC-5cb43bc614582531",
+      "name": "Khandvi gujarati: involtini di farina di ceci con cocco e spezie",
+      "category": "Antipasti e aperitivi",
+      "source": "https://www.vegrecipesofindia.com/khandvi-recipe-how-to-make-khandvi",
+      "reviewedRecordSha256": "3d306c7448b3746eb832b93886b53301ba1b37b246e3150c35e112ae342360c6",
+      "ingredients": [
+        "PASTELLA — 1 tazza (100 g) farina di ceci besan",
+        "PASTELLA — ¾ tazza (circa 150 g) yogurt acidulo naturale, anche vegetale",
+        "PASTELLA — 2¼ tazze acqua, per diluire lo yogurt (in alternativa yogurt e acqua: 3 tazze complessive di latticello acidulo/chaas)",
+        "PASTELLA — 1 cucchiaino pasta di zenzero e peperoncino verde (circa ½ pollice di zenzero e 1 peperoncino verde)",
+        "PASTELLA — ¼ cucchiaino curcuma in polvere",
+        "PASTELLA — ⅔ cucchiaino sale, o a gusto",
+        "PASTELLA — 1 pizzico assafetida (hing)",
+        "RIPIENO — 2 cucchiai cocco fresco grattugiato",
+        "RIPIENO — 2 cucchiai coriandolo fresco tritato",
+        "CONDIMENTO — 1 cucchiaio olio dal sapore neutro",
+        "CONDIMENTO — 8–10 foglie di curry",
+        "CONDIMENTO — 1 cucchiaino semi di senape",
+        "CONDIMENTO — 2 cucchiaini semi di sesamo bianco",
+        "CONDIMENTO — 1 cucchiaino peperoncino verde tritato oppure ½ cucchiaino peperoncino rosso in polvere"
+      ],
+      "steps": [
+        "Mescolare lo yogurt acidulo con l'acqua per formare un latticello fluido; aggiungere pasta di zenzero e peperoncino, curcuma, sale e assafetida.",
+        "Incorporare la farina di ceci con una frusta fino a eliminare tutti i grumi; la pastella deve risultare omogenea.",
+        "Predisporre più piatti o teglie ampie, leggermente unti, per stendere subito il composto cotto; mescolare a parte il cocco grattugiato con il coriandolo tritato.",
+        "Versare la pastella in un tegame largo e scaldarla a fiamma minima, mescolando costantemente con una spatola resistente al calore per non farla attaccare.",
+        "Proseguire la cottura fino a quando il composto diventa denso e spalmabile; verificare su un piatto unto: una piccola porzione raffreddata deve potersi arrotolare senza restare collosa. Se non tiene, cuocere ancora brevemente.",
+        "Distribuire immediatamente la pastella cotta in veli sottili sui piatti preparati, prima che raffreddandosi si rapprenda troppo.",
+        "Lasciar intiepidire; spargere uno strato leggero di miscela di cocco e coriandolo, quindi tagliare il velo in strisce regolari.",
+        "Arrotolare delicatamente le strisce a spirale e sistemarle sul piatto da servizio. Se le strisce sono lunghe, dividere i rotoli per ottenere pezzi più piccoli.",
+        "Per la tempera scaldare l'olio, far scoppiettare i semi di senape e unire foglie di curry e peperoncino verde per pochi secondi.",
+        "Unire i semi di sesamo, lasciarli sfrigolare e versare subito il condimento caldo e il suo olio sui rotolini.",
+        "Servire; l'autrice suggerisce chutney verde al coriandolo o alla menta. La miscela di cocco e coriandolo può anche essere disposta all'esterno invece che nel ripieno."
+      ],
+      "photo": null,
+      "serves": "4 persone, circa 25–30 rotolini secondo lo spessore",
+      "prep": "20 minuti",
+      "cook": "20 minuti",
+      "rest": "Tempo di raffreddamento fino a poter tagliare e arrotolare, non quantificato",
+      "description": "Sottili rotolini vegetariani ottenuti addensando a fuoco basso una pastella di farina di ceci e yogurt, con ripieno di cocco e coriandolo e condimento finale di senape, sesamo e foglie di curry.",
+      "author": "Dassana Amit",
+      "originalYield": "4 persone, circa 25–30 rotolini secondo lo spessore",
+      "originalTimes": "Preparazione 20 minuti; cottura 20 minuti; totale dichiarato 40 minuti. La fonte riporta circa 17 minuti per la cottura della pastella nel proprio esempio, variabili con tegame e intensità.",
+      "temperature": "Fuoco minimo durante l'addensamento, niente temperatura numerica; il condimento si scalda in olio per pochi secondi."
     }
   ]
 }
