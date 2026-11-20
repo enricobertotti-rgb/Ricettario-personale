@@ -758,6 +758,50 @@
       "originalYield": "2 pani",
       "originalTimes": "Lavorazione manuale 20 min; cottura 15–18 min per pane; durata totale indicata 2 h 5 min. Lievitazione iniziale circa 1 ora e riposo successivo 30 min.",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SAP-20261115-12H-05-MILKBISCUITS",
+      "name": "Biscotti rustici al latte e vaniglia",
+      "category": "Biscotti e piccola pasticceria",
+      "serves": "Circa 40 biscotti",
+      "prep": "15 minuti",
+      "cook": "15–18 minuti",
+      "rest": "30 minuti in frigorifero",
+      "ingredients": [
+        "Impasto: Farina tipo 00 360 g",
+        "Impasto: Zucchero 140 g",
+        "Impasto: Latte intero a temperatura ambiente 100 g",
+        "Impasto: Burro morbido 50 g",
+        "Impasto: Uovo medio 1",
+        "Impasto: Baccello di vaniglia 1",
+        "Impasto: Sale fino 1 pizzico",
+        "Impasto: Lievito in polvere per dolci 5 g",
+        "Finitura: Latte intero q.b. per spennellare"
+      ],
+      "steps": [
+        "Lavorare brevemente il burro morbido con zucchero e sale fino a ottenere un composto sabbioso, senza scaldarlo.",
+        "Unire l’uovo e i semi del baccello di vaniglia; amalgamare.",
+        "Versare a filo il latte, poi incorporare farina e lievito setacciati fino a formare un impasto compatto.",
+        "Formare un panetto, avvolgerlo e lasciarlo riposare mezz’ora in frigorifero.",
+        "Stendere fra due fogli di carta forno fino a circa 6 mm di spessore.",
+        "Tagliare strisce larghe circa 2 cm, ricavando rettangoli lunghi circa 7 cm; bucherellare la superficie.",
+        "Distanziare i biscotti su una teglia, spennellare con latte, cuocere 15–18 minuti a 175 °C e raffreddare su una griglia."
+      ],
+      "source": "https://www.giallozafferano.com/recipes/milk-biscuits.html",
+      "description": "Biscotti rettangolari friabili al latte, con vaniglia e breve riposo in frigorifero.",
+      "author": "Monica Pannacci",
+      "origin": "La fonte presenta i biscotti al latte come preparazione da colazione; nessuna provenienza regionale specifica attestata.",
+      "temperature": "Forno statico preriscaldato a 350 °F (circa 175 °C); cottura 15–18 minuti.",
+      "notes": "Fonte originale verificata: Biscotti al latte / Milk Biscuits, ricetta di Monica Pannacci. Conservazione fino a una settimana in scatola di latta; l'impasto crudo può essere congelato e scongelato in frigorifero. La fonte specifica 40 pezzi e cottura 18 min nella testata, 15–18 min nel procedimento; mantenuti entrambi. Latte per spennellare 'to taste': non assegnare una dose numerica.\n\nLa fonte consiglia in alternativa alla vaniglia scorza di agrumi; opzionale intingere una parte dei biscotti nel cioccolato fuso. Non presenta dosi alternative né un procedimento completo distinto, quindi restano note senza inventare una seconda formula.\n\nContiene glutine (farina di frumento), latte e uova. Rispettare le normali precauzioni con forno caldo e conservazione del prodotto.",
+      "photo": null,
+      "sourceOriginalId": "SAP-20261115-12H-05-MILKBISCUITS",
+      "reviewedRecordSha256": "a26b0e54ba0b701892a832924792718ccb108b712f63142c79c512d8629bc294",
+      "baseRecordSha256": "06566e5b29df47adb62e7e69252f6302643b013f13d2a370f736895f04dce26c",
+      "originalTitle": "Milk Biscuits",
+      "originalCategory": "Biscotti e piccola pasticceria",
+      "originalYield": "Circa 40 biscotti",
+      "originalTimes": "Preparazione 15 minuti; cottura 15–18 minuti; riposo in frigorifero 30 minuti.",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
