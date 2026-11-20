@@ -1,9 +1,13 @@
 name: Sapore - public Pages QA
 on:
-  workflow_run:
-    workflows: ['pages build and deployment']
-    types: [completed]
+  push:
     branches: [main]
+    paths:
+      - 'app/**'
+      - 'index.html'
+      - '.github/workflows/sapore-public-qa.yml'
+      - 'tools/sapore*qa.py'
+      - 'tools/sapore_pages_smoke_r16.py'
   workflow_dispatch:
     inputs:
       public_commit:
@@ -20,15 +24,11 @@ concurrency:
   cancel-in-progress: false
 jobs:
   browser-qa:
-    if: >-
-      github.event_name == 'workflow_dispatch' ||
-      (github.event.workflow_run.conclusion == 'success' &&
-       github.event.workflow_run.head_repository.full_name == github.repository)
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     env:
-      SAPORE_PUBLIC_COMMIT: ${{ github.event.workflow_run.head_sha || inputs.public_commit }}
-      SAPORE_PAGES_RUN_ID: ${{ github.event.workflow_run.id || inputs.pages_run_id }}
+      SAPORE_PUBLIC_COMMIT: ${{ inputs.public_commit || github.sha }}
+      SAPORE_PAGES_RUN_ID: ${{ inputs.pages_run_id }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -38,19 +38,32 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Verify Pages provenance
+      - name: Wait for successful Pages deployment of this commit
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh api "repos/$GITHUB_REPOSITORY/actions/runs/$SAPORE_PAGES_RUN_ID" > /tmp/pages-run.json
           python - <<'PY'
-          import json, os
-          r = json.load(open('/tmp/pages-run.json'))
-          assert r['conclusion'] == 'success'
-          assert r['head_sha'] == os.environ['SAPORE_PUBLIC_COMMIT']
-          assert r['name'] == 'pages build and deployment'
-          assert r['head_branch'] == 'main'
-          assert r['repository']['full_name'] == os.environ['GITHUB_REPOSITORY']
+          import json, os, subprocess, time
+          repo, commit = os.environ['GITHUB_REPOSITORY'], os.environ['SAPORE_PUBLIC_COMMIT']
+          requested = os.environ.get('SAPORE_PAGES_RUN_ID')
+          for attempt in range(30):
+              endpoint = f'repos/{repo}/actions/runs'
+              if requested:
+                  rows = [json.loads(subprocess.check_output(['gh', 'api', endpoint + '/' + requested]))]
+              else:
+                  rows = json.loads(subprocess.check_output(['gh', 'api', endpoint + '?head_sha=' + commit + '&per_page=100']))['workflow_runs']
+              pages = [r for r in rows if r['name'] == 'pages build and deployment' and r['head_sha'] == commit and r['head_branch'] == 'main']
+              if pages:
+                  r = max(pages, key=lambda row: row['id'])
+                  assert r['repository']['full_name'] == repo
+                  if r['status'] == 'completed':
+                      assert r['conclusion'] == 'success', 'Pages deployment failed'
+                      with open(os.environ['GITHUB_ENV'], 'a') as out:
+                          out.write(f"SAPORE_PAGES_RUN_ID={r['id']}\n")
+                      break
+              time.sleep(10)
+          else:
+              raise RuntimeError('No successful Pages deployment within five minutes')
           PY
       - name: Prepare changed recipes from public snapshot
         env:
