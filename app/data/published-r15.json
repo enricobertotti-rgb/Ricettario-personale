@@ -42,6 +42,46 @@
       "originalYield": "1 torta di diametro 23 cm",
       "originalTimes": "Preparazione: 20 min; Cottura: 22-28 min; Riposi: Raffreddamento completo a temperatura ambiente prima del taglio; frigo facoltativo; Totale dichiarato: 1 h circa, escluso eventuale raffreddamento in frigorifero",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SAP-20261115-13H-07-LEFSE",
+      "name": "Lefse norvegesi di patate alla piastra",
+      "category": "Pane piatto / Norvegia",
+      "serves": "12 lefse di circa 15 cm",
+      "prep": "25 min",
+      "cook": "Circa 1 minuto per lato per ciascun pezzo",
+      "rest": "Massa di patate in frigorifero per diverse ore o tutta la notte",
+      "ingredients": [
+        "Impasto: 269 g patate già lessate, pelate e passate allo schiacciapatate",
+        "Impasto: 53 g farina di grano tenero, suddivisa in 10 g + 43 g",
+        "Impasto: 28 g burro morbido",
+        "Impasto: 28 g latte oppure panna",
+        "Impasto: Poco meno di ¾ cucchiaino sale fino",
+        "Impasto: 1 cucchiaino zucchero semolato"
+      ],
+      "steps": [
+        "Con le patate passate ancora calde, amalgamare 10 g farina, burro, latte o panna, sale e zucchero. Mescolare il minimo indispensabile per conservare la consistenza soffice.",
+        "Raffreddare e riporre in frigorifero per parecchie ore o durante la notte; riprendere poi il composto e incorporare con delicatezza i 43 g farina rimasti.",
+        "Scaldare una piastra a circa 190 °C. Dividere in 12 porzioni di circa 30 g e stendere una per volta, su piano ben infarinato, fino a dischi di 15 cm e spessore intorno a 1,5 mm.",
+        "Cuocere ciascun disco per circa 1 minuto sul primo lato, fino alla comparsa di macchie brunite, girare e completare il secondo lato per circa 1 minuto; regolare il calore se serve.",
+        "Lasciare raffreddare le lefse separate fra loro. Servire al naturale oppure, come suggerisce la fonte, con burro e zucchero/cannella."
+      ],
+      "source": "https://www.kingarthurbaking.com/recipes/lefse-norwegian-potato-flatbread-recipe",
+      "description": "Dischi sottili e morbidi preparati con patate lessate, poca farina e burro, scottati su piastra.",
+      "author": "PJ Hamel - King Arthur Baking",
+      "origin": "Flatbread norvegese; la variante di patate è fortemente radicata nella tradizione degli immigrati norvegesi negli Stati Uniti, specie nel periodo natalizio.",
+      "temperature": "Piastra circa 190 °C; in padella fuoco medio",
+      "notes": null,
+      "photo": null,
+      "sourceOriginalId": "SAP-20261115-13H-07-LEFSE",
+      "sourceReviewRevision": "CUR-20261117-FONTE-R5",
+      "reviewedRecordSha256": "5aff8cff9459b162ed07e8b8781b17fd3cd3dc1f3b6d32bbab8505b2268a9470",
+      "baseRecordSha256": "f8547288d24db9bc5597226706f7da7d2a837a0412fd095f21eb9ac0d051e733",
+      "originalTitle": "Lefse (Norwegian Potato Flatbread)",
+      "originalCategory": "Pane piatto / Norvegia",
+      "originalYield": "12 lefse di circa 15 cm",
+      "originalTimes": "Preparazione: 25 min; Cottura: Circa 1 minuto per lato per ciascun pezzo; Riposi: Massa di patate in frigorifero per diverse ore o tutta la notte; Totale dichiarato: 4 h 13 min",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
