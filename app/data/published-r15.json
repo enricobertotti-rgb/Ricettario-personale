@@ -1,0 +1,47 @@
+{
+  "schema": "sapore.app.published.v1",
+  "recipes": [
+    {
+      "id": "SAP-20261115-13H-03-PUMPKINBASQUE",
+      "name": "Cheesecake basca alla zucca e spezie",
+      "category": "Torte e dolci da forno",
+      "serves": "1 torta di diametro 23 cm",
+      "prep": "20 min",
+      "cook": "22–28 min",
+      "rest": "Raffreddamento completo a temperatura ambiente prima del taglio; frigorifero facoltativo",
+      "ingredients": [
+        "Impasto: 681 g formaggio cremoso tipo cream cheese",
+        "Impasto: 347 g zucchero semolato",
+        "Impasto: 5 uova grandi",
+        "Impasto: 170 g panna fresca ad alto tenore di grassi",
+        "Impasto: 113 g purea di zucca",
+        "Impasto: 2¾ cucchiaini miscela “pumpkin pie spice”",
+        "Impasto: 2 cucchiaini estratto di vaniglia",
+        "Impasto: ¾ cucchiaino sale fino",
+        "Impasto: ⅛ cucchiaino curcuma macinata"
+      ],
+      "steps": [
+        "Accendere il forno a 260 °C con griglia al centro. Accartocciare due fogli ampi di carta forno e riaprirli; sovrapporli a croce dentro uno stampo a cerniera da 23 cm, coprendo fondo e bordi.",
+        "Ripiegare all’esterno i bordi sporgenti della carta: il forno è molto caldo e la carta esposta rischia di bruciare; sorvegliare la cottura.",
+        "Frullare insieme formaggio, zucchero, uova, panna, zucca, spezie, vaniglia, sale e curcuma per circa 5 minuti, fermandosi per raschiare le pareti fino a una crema senza grumi.",
+        "Versare nello stampo e cuocere per 22-28 minuti: superficie molto scura, bordi appena fermi, centro ancora oscillante. Controllare dal minuto 22; una sonda inserita a circa 2,5 cm dal bordo dovrebbe avvicinarsi a 85 °C.",
+        "Far raffreddare completamente nello stampo su una gratella, quindi sformare. Servire a temperatura ambiente oppure fredda."
+      ],
+      "source": "https://www.kingarthurbaking.com/recipes/pumpkin-basque-cheesecake-recipe",
+      "description": "Cheesecake senza fondo, cotta ad alta temperatura fino a ottenere una superficie scura e un cuore cremoso, arricchita di purea di zucca.",
+      "author": "Molly Marzalek-Kelly - King Arthur Baking",
+      "origin": "Interpretazione della cheesecake basca legata al modello dello chef Santiago Rivera, con aggiunta di zucca e spezie autunnali.",
+      "temperature": "Forno 260 °C; misurazione 2,5 cm dal bordo e 2,5 cm in profondità circa 85 °C",
+      "notes": "La fonte fornisce nei «Tips» una sostituzione della pumpkin pie spice: 1½ cucchiaini cannella, ½ cucchiaino noce moscata, ½ cucchiaino zenzero e ¼ cucchiaino chiodi di garofano. Non si tratta di voci della lista INGREDIENTS e non vanno aggiunte alla lista della ricetta.\n\nTempi completi riportati dalla fonte: Preparazione: 20 min; Cottura: 22-28 min; Riposi: Raffreddamento completo a temperatura ambiente prima del taglio; frigo facoltativo; Totale dichiarato: 1 h circa, escluso eventuale raffreddamento in frigorifero",
+      "photo": null,
+      "sourceOriginalId": "SAP-20261115-13H-03-PUMPKINBASQUE",
+      "sourceReviewRevision": "CUR-20261117-FONTE-R5",
+      "reviewedRecordSha256": "bf8eb8d5e90b3b9df67216b4d9c49433c54e105c871e6bd74c8733ececfc55c6",
+      "baseRecordSha256": "862d84679646b994d49d4b36e29343be3904adb890c72cd6bef8f088f8a44226",
+      "originalCategory": "Pasticceria / variante basca",
+      "originalYield": "1 torta di diametro 23 cm",
+      "originalTimes": "Preparazione: 20 min; Cottura: 22-28 min; Riposi: Raffreddamento completo a temperatura ambiente prima del taglio; frigo facoltativo; Totale dichiarato: 1 h circa, escluso eventuale raffreddamento in frigorifero",
+      "photoDisplayPolicy": "no_image_without_license"
+    }
+  ]
+}

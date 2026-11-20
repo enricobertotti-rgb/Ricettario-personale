@@ -50,9 +50,42 @@ function recipeCard(r,image){return `<article class="recipe r3Recipe" aria-label
       pantryIndexCache=null;
       draw();
       window.__saporeEditorialImport={status:'loaded',added:data.recipes.length,alreadyMatched:data.existingMatches.length,total:RECIPES.length,revision:data.editorial_revision};
+      return loadPublishedRecipesR15();
     }).catch(error=>{
       window.__saporeEditorialImport={status:'error',message:String(error)};
       console.error('Sapore editorial import: previous catalog kept unchanged.',error);
     });
   },{once:true});
 })();
+
+// Independent publication feed: preserve the reviewed R4.1 baseline unchanged.
+async function loadPublishedRecipesR15(){
+  try{
+    const response=await fetch('data/published-r15.json',{cache:'no-cache'});
+    if(!response.ok)throw new Error('Publication dataset HTTP '+response.status);
+    const data=await response.json();
+    if(data.schema!=='sapore.app.published.v1'||!Array.isArray(data.recipes))throw new Error('Invalid publication manifest');
+    const normUrl=value=>{try{const u=new URL(value);return u.hostname.toLowerCase().replace(/^www\./,'')+decodeURIComponent(u.pathname).toLowerCase().replace(/\/$/,'')}catch(_){return ''}};
+    const ids=new Set(RECIPES.map(r=>r.id));
+    const urls=new Set(RECIPES.map(r=>normUrl(r.source)).filter(Boolean));
+    for(const r of data.recipes){
+      const url=normUrl(r.source);
+      if(!r.id||!r.name||!r.category||!url||ids.has(r.id)||urls.has(url)||
+         !Array.isArray(r.ingredients)||!r.ingredients.length||!Array.isArray(r.steps)||!r.steps.length||
+         !/^[a-f0-9]{64}$/.test(r.reviewedRecordSha256||'')||r.photo!=null){
+        throw new Error('Invalid or duplicate published recipe: '+String(r.id));
+      }
+      ids.add(r.id);urls.add(url);
+    }
+    RECIPES.push(...data.recipes);
+    CATEGORIES.splice(0,CATEGORIES.length,...new Set(RECIPES.map(r=>r.category)));
+    CATEGORIES.sort((a,b)=>a.localeCompare(b,'it'));
+    recipeSearchCache=null;pantryIndexCache=null;
+    draw();openRecipeDeepLink();
+    window.__saporePublicationImport={status:'loaded',added:data.recipes.length,total:RECIPES.length};
+  }catch(error){
+    window.__saporePublicationImport={status:'error',message:String(error)};
+    console.error('Sapore publication import: existing catalog retained.',error);
+  }
+}
+
