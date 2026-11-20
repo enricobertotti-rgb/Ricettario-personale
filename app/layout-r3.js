@@ -59,33 +59,48 @@ function recipeCard(r,image){return `<article class="recipe r3Recipe" aria-label
 })();
 
 // Independent publication feed: preserve the reviewed R4.1 baseline unchanged.
+function publicationFingerprint(r){
+  const norm=v=>String(v??'').normalize('NFC').trim().replace(/\s+/g,' ').toLowerCase();
+  return JSON.stringify(['ingredients','steps','serves','prep','cook','rest','temperature'].map(k=>Array.isArray(r[k])?r[k].map(norm):norm(r[k])));
+}
 async function loadPublishedRecipesR15(){
   try{
     const response=await fetch('data/published-r15.json',{cache:'no-cache'});
     if(!response.ok)throw new Error('Publication dataset HTTP '+response.status);
     const data=await response.json();
     if(data.schema!=='sapore.app.published.v1'||!Array.isArray(data.recipes))throw new Error('Invalid publication manifest');
-    const normUrl=value=>{try{const u=new URL(value);return u.hostname.toLowerCase().replace(/^www\./,'')+decodeURIComponent(u.pathname).toLowerCase().replace(/\/$/,'')}catch(_){return ''}};
-    const ids=new Set(RECIPES.map(r=>r.id));
-    const urls=new Set(RECIPES.map(r=>normUrl(r.source)).filter(Boolean));
+    const normUrl=value=>{try{const u=new URL(value);if(!/^https?:$/.test(u.protocol))return '';return u.hostname.toLowerCase().replace(/^www\./,'')+decodeURIComponent(u.pathname).toLowerCase().replace(/\/$/,'')}catch(_){return ''}};
+    const ids=new Map(RECIPES.map(r=>[r.id,r]));
+    const fingerprints=new Map(RECIPES.map(r=>[publicationFingerprint(r),r.id]));
+    const sourceIds=new Map();
+    for(const r of RECIPES){const u=normUrl(r.source);if(u)sourceIds.set(u,[...(sourceIds.get(u)||[]),r.id]);}
+    const accepted=[],skipped=[];
     for(const r of data.recipes){
-      const url=normUrl(r.source);
-      if(!r.id||!r.name||!r.category||!url||ids.has(r.id)||urls.has(url)||
-         !Array.isArray(r.ingredients)||!r.ingredients.length||!Array.isArray(r.steps)||!r.steps.length||
-         !/^[a-f0-9]{64}$/.test(r.reviewedRecordSha256||'')||r.photo!=null){
-        throw new Error('Invalid or duplicate published recipe: '+String(r.id));
-      }
-      ids.add(r.id);urls.add(url);
+      const reject=(reason,existingId)=>skipped.push({id:r?.id||null,reason,existingId:existingId||null});
+      if(!r||typeof r.id!=='string'||!r.id||typeof r.name!=='string'||!r.name.trim()||!r.category||
+         !Array.isArray(r.ingredients)||!r.ingredients.length||!r.ingredients.every(x=>typeof x==='string'&&x.trim())||
+         !Array.isArray(r.steps)||!r.steps.length||!r.steps.every(x=>typeof x==='string'&&x.trim())||
+         !/^[a-f0-9]{64}$/.test(r.reviewedRecordSha256||'')||r.photo!=null){reject('invalid_record');continue;}
+      const url=normUrl(r.source),fp=publicationFingerprint(r);
+      if(!url){reject('invalid_source');continue;}
+      if(ids.has(r.id)){reject(publicationFingerprint(ids.get(r.id))===fp?'already_present':'id_conflict',r.id);continue;}
+      if(fingerprints.has(fp)){reject('exact_content_duplicate',fingerprints.get(fp));continue;}
+      // An URL match is a review signal, never proof that two recipes are identical.
+      const matches=sourceIds.get(url)||[];
+      const decision=r.publicationPreflight;
+      if(matches.length&&!(decision?.decision==='distinct_variant'&&decision.reviewedDigest===r.reviewedRecordSha256&&
+          decision.reason&&matches.every(id=>decision.comparedAppIds?.includes(id)))){reject('same_source_needs_review',matches[0]);continue;}
+      accepted.push(r);ids.set(r.id,r);fingerprints.set(fp,r.id);sourceIds.set(url,[...matches,r.id]);
     }
-    RECIPES.push(...data.recipes);
+    RECIPES.push(...accepted);
     CATEGORIES.splice(0,CATEGORIES.length,...new Set(RECIPES.map(r=>r.category)));
     CATEGORIES.sort((a,b)=>a.localeCompare(b,'it'));
     recipeSearchCache=null;pantryIndexCache=null;
     draw();openRecipeDeepLink();
-    window.__saporePublicationImport={status:'loaded',added:data.recipes.length,total:RECIPES.length};
+    window.__saporePublicationImport={status:'loaded',added:accepted.length,total:RECIPES.length,partial:skipped.length>0,skipped};
+    if(skipped.length)console.warn('Sapore publication: individual records skipped; remaining recipes loaded.',skipped);
   }catch(error){
     window.__saporePublicationImport={status:'error',message:String(error)};
     console.error('Sapore publication import: existing catalog retained.',error);
   }
 }
-
