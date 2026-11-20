@@ -1,0 +1,72 @@
+name: Sapore - public Pages QA
+on:
+  workflow_run:
+    workflows: ['pages build and deployment']
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      public_commit:
+        description: 'Exact successfully deployed public commit'
+        required: true
+      pages_run_id:
+        description: 'Successful Pages run for that commit'
+        required: true
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: sapore-public-qa
+  cancel-in-progress: false
+jobs:
+  browser-qa:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.workflow_run.conclusion == 'success' &&
+       github.event.workflow_run.head_repository.full_name == github.repository)
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    env:
+      SAPORE_PUBLIC_COMMIT: ${{ github.event.workflow_run.head_sha || inputs.public_commit }}
+      SAPORE_PAGES_RUN_ID: ${{ github.event.workflow_run.id || inputs.pages_run_id }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.SAPORE_PUBLIC_COMMIT }}
+          fetch-depth: 2
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verify Pages provenance
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/$GITHUB_REPOSITORY/actions/runs/$SAPORE_PAGES_RUN_ID" > /tmp/pages-run.json
+          python - <<'PY'
+          import json, os
+          r = json.load(open('/tmp/pages-run.json'))
+          assert r['conclusion'] == 'success'
+          assert r['head_sha'] == os.environ['SAPORE_PUBLIC_COMMIT']
+          assert r['name'] == 'pages build and deployment'
+          assert r['head_branch'] == 'main'
+          assert r['repository']['full_name'] == os.environ['GITHUB_REPOSITORY']
+          PY
+      - name: Prepare changed recipes from public snapshot
+        env:
+          SAPORE_QA_CANARY: 'true'
+        run: python tools/sapore_public_qa.py
+      - name: Install browser runtime
+        run: |
+          python -m pip install --disable-pip-version-check playwright==1.56.0
+          google-chrome --version
+      - name: Test live desktop and mobile
+        run: python tools/sapore_pages_smoke_r16.py
+      - name: Preserve public evidence
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sapore-public-qa-${{ env.SAPORE_PUBLIC_COMMIT }}
+          path: qa-artifacts/
+          retention-days: 7
+          if-no-files-found: warn
