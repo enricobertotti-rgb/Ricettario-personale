@@ -1,4 +1,4 @@
-"""Focused UI regression for the macrocategory and country index."""
+"""Country index navigation, identity, search and responsive regression."""
 import functools
 import http.server
 import json
@@ -23,47 +23,65 @@ try:
    page.on('pageerror', lambda e: errors.append(str(e)))
    page.goto(url)
    page.wait_for_function("window.__saporePublicationImport?.status === 'loaded'")
-   assert page.locator('#indexCategories .categoryCard').count() == 10
+   assert page.locator('#indexCategories [data-macro]').count() == 10
+   assert page.locator('#indexCategories [data-country-index="open"]').count() == 1
    snapshot = page.evaluate('JSON.stringify(RECIPES)')
-   assert page.evaluate("SAPORE_GROUPS.reduce((n,g)=>n+RECIPES.filter(r=>!r.aliasOf&&saporeGroup(r)[0]===g[0]).length,0)===visibleRecipeCount()")
-   page.screenshot(path=str(out / f'index-{width}.png'), full_page=True)
-   page.locator('[data-macro="primi"]').click()
-   assert page.locator('.saporeChips button').count() == 4
-   page.locator('[data-sub="Riso e cereali"]').click()
-   ids = page.locator('#searchResults button').evaluate_all('(ns)=>ns.map(n=>n.dataset.openid)')
-   assert len(ids) > 1
-   page.locator('#searchResults button').first.click()
+   page.locator('[data-country-index="open"]').click()
+   assert page.locator('.indexTop h2').inner_text() == 'Per paese'
+   countries = page.locator('[data-country]').evaluate_all('(ns)=>ns.map(n=>({country:n.dataset.country,count:parseInt(n.querySelector("small").textContent)}))')
+   assert countries
+   assert sum(row['count'] for row in countries) == page.evaluate('saporeVisibleRecipes().length')
+   page.screenshot(path=str(out / f'countries-{width}.png'), full_page=True)
+   # Every country must expose its exact existing IDs, once each.
+   for row in countries:
+    page.locator('[data-country]').evaluate_all("(ns,c)=>ns.find(n=>n.dataset.country===c).click()",row['country'])
+    ids = page.locator('#searchResults [data-openid]').evaluate_all('(ns)=>ns.map(n=>n.dataset.openid)')
+    expected = page.evaluate('saporeVisibleRecipes().filter(saporeCountryMatches).map(r=>r.id)')
+    assert len(ids) == len(set(ids)) == row['count']
+    assert set(ids) == set(expected)
+    page.locator('[data-country-index="open"]').click()
+   country = next(row['country'] for row in countries if row['country']!='__unknown' and row['count']>1)
+   page.locator('[data-country]').evaluate_all("(ns,c)=>ns.find(n=>n.dataset.country===c).click()",country)
+   ids = page.locator('#searchResults [data-openid]').evaluate_all('(ns)=>ns.map(n=>n.dataset.openid)')
+   page.screenshot(path=str(out / f'country-recipes-{width}.png'), full_page=True)
+   page.locator('#searchResults [data-openid]').first.click()
    assert page.locator('#printRecipe').is_visible()
-   assert page.locator('.recipePosition').inner_text().endswith('/ ' + str(len(ids)))
+   assert page.locator('.recipePosition').inner_text().endswith('/ '+str(len(ids)))
+   assert page.evaluate('selected.id') == ids[0]
    page.locator('#nextRecipe').click()
    assert page.evaluate('selected.id') == ids[1]
    page.locator('#previousRecipe').click()
    assert page.evaluate('selected.id') == ids[0]
    page.locator('#categoryToggle').click()
-   assert page.locator('[data-sub="Riso e cereali"]').get_attribute('aria-pressed') == 'true'
-   page.locator('#indexToggle').click()
-   page.locator('#search').fill('curry')
-   assert page.locator('#searchResults button').count() > 0
+   assert page.locator('.indexTop h2').inner_text() == country
+   title = page.locator('#searchResults strong').first.inner_text()
+   page.locator('#search').fill(title)
+   assert page.locator('#searchResults [data-openid]').count() > 0
+   assert page.evaluate("[...document.querySelectorAll('#searchResults [data-openid]')].every(n=>saporeCountryMatches(RECIPES.find(r=>r.id===n.dataset.openid)))")
    page.locator('#clearSearch').click()
-   page.locator('#countryFilter').select_option('__unknown')
-   assert page.locator('.categoryCard').count() == 10
-   page.locator('[data-macro="primi"]').click()
-   page.locator('#search').fill('riso')
-   assert page.locator('#searchResults button').count() > 0
-   assert page.evaluate("[...document.querySelectorAll('#searchResults [data-openid]')].every(n=>!saporeRecipeCountry(RECIPES.find(r=>r.id===n.dataset.openid)))")
+   group = page.evaluate('saporeGroup(saporeVisibleRecipes().find(saporeCountryMatches))[0]')
+   page.locator('#countryCategoryFilter').select_option(group)
+   assert page.evaluate("[...document.querySelectorAll('#searchResults [data-openid]')].every(n=>saporeScope(RECIPES.find(r=>r.id===n.dataset.openid)))")
+   assert page.locator('#searchResults [data-openid]').count() > 0
    assert page.evaluate('document.documentElement.scrollWidth-innerWidth') <= 2
    page.locator('#indexToggle').click()
-   page.locator('#countryFilter').select_option('')
-   countries = page.locator('#countryFilter option').evaluate_all('(ns)=>ns.map(n=>n.value).filter(v=>v&&v!=="__unknown")')
-   if countries:
-    page.locator('#countryFilter').select_option(countries[0])
-    assert page.evaluate("[...document.querySelectorAll('#indexCategories button')].reduce((n,b)=>n+parseInt(b.querySelector('small').textContent),0)===RECIPES.filter(r=>!r.aliasOf&&saporeRecipeCountry(r)===saporeCountry).length")
+   assert page.locator('#indexCategories [data-macro]').count() == 10
+   assert page.evaluate("!saporeCountry&&!saporeMacro&&!saporeCountryIndex")
+   page.locator('[data-macro="primi"]').click()
+   assert page.locator('.saporeChips button').count() == 4
+   page.locator('[data-sub="Riso e cereali"]').click()
+   assert page.locator('#searchResults [data-openid]').count() > 1
+   page.locator('#countryFilter').select_option('__unknown')
+   assert page.evaluate("[...document.querySelectorAll('#searchResults [data-openid]')].every(n=>!saporeRecipeCountry(RECIPES.find(r=>r.id===n.dataset.openid)))")
+   page.locator('#indexToggle').click()
+   page.locator('#search').fill('curry')
+   assert page.locator('#searchResults [data-openid]').count() > 0
    assert page.evaluate('JSON.stringify(RECIPES)') == snapshot
    assert not errors, errors
-   report.append({'viewport': [width, height], 'ok': True, 'macro_count': 10, 'countries': countries, 'recipes_unchanged': True})
+   report.append({'viewport':[width,height], 'ok':True, 'macro_count':10, 'countries':countries, 'recipes_unchanged':True,'country_identity_navigation_search':True})
    page.close()
   browser.close()
 finally:
  server.shutdown()
- (out / 'report.json').write_text(json.dumps(report, indent=2, ensure_ascii=False))
-print(json.dumps(report, indent=2, ensure_ascii=False))
+ (out/'report.json').write_text(json.dumps(report,indent=2,ensure_ascii=False))
+print(json.dumps(report,indent=2,ensure_ascii=False))
