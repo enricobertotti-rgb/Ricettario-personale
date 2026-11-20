@@ -847,6 +847,49 @@
       "originalYield": "8 persone",
       "originalTimes": "Preparazione 30 minuti; cottura 30 minuti; riposo in frigorifero almeno 1 giorno.",
       "photoDisplayPolicy": "no_image_without_license"
+    },
+    {
+      "id": "SAP-20261115-001-CANELES",
+      "name": "Canelés bordelais al rum e vaniglia",
+      "category": "Biscotti e piccola pasticceria",
+      "serves": "12 canelés",
+      "prep": "10 minuti (più infusione vaniglia 30 minuti)",
+      "cook": "70 minuti (250 °C per 10 minuti, poi 200 °C per 60 minuti)",
+      "rest": "Almeno 12 ore in frigorifero, eventualmente 24–36 ore",
+      "ingredients": [
+        "Impasto: Latte intero 500 ml",
+        "Impasto: Zucchero 200 g",
+        "Impasto: Farina 00 125 g",
+        "Impasto: Uova grandi 2",
+        "Impasto: Burro 50 g",
+        "Impasto: Rum 100 g",
+        "Impasto: Bacca di vaniglia 1",
+        "Stampi: Burro q.b. per ungere"
+      ],
+      "steps": [
+        "Aprire la bacca, recuperare i semi e lasciarli nel latte caldo per circa 30 minuti; filtrare.",
+        "Unire in una terrina zucchero e farina, poi incorporare uova e rum mescolando con frusta.",
+        "Versare gradualmente il latte aromatizzato e, per ultimo, il burro fuso lasciato intiepidire.",
+        "Coprire la pastella liscia e conservarla in frigorifero almeno 12 ore.",
+        "Imburrare gli stampi scanalati e distribuire il composto senza raggiungere il bordo: lasciare circa 1 cm libero.",
+        "Infornare a 250 °C statico per 10 minuti; abbassare a 200 °C e proseguire 60 minuti.",
+        "Sformare i canelés ancora caldi, proteggendosi dal calore; farli assestare su griglia."
+      ],
+      "source": "https://blog.giallozafferano.it/ricettandocondany/ricetta-caneles-bordelais/",
+      "description": "Pasticcini bordolesi aromatizzati con rum e vaniglia, con crosta scura e croccante e interno tenero.",
+      "author": "Ricettando con Dany",
+      "origin": "Bordeaux, Francia; canelés tradizionali.",
+      "temperature": "Forno statico: 250 °C per 10 min, poi 200 °C per 60 min",
+      "notes": "Fonte Ricettando con Dany, pubblicata 25 maggio 2023. La dose di burro per ungere gli stampi non è riportata: conservarla come q.b., senza inventare quantità. Gli stampi vanno riempiti fino a circa 1 cm sotto il bordo. La fonte raccomanda conservazione in scatola chiusa a temperatura ambiente per 3–4 giorni e rinvenimento a 200 °C per 2–3 minuti per ridare croccantezza.\n\nLa stessa autrice consente un riposo della pastella di 24–36 ore in frigorifero invece delle 12 ore minime. Non è documentata un'altra formulazione di ingredienti.\n\nLa versione originale contiene latte, uova, farina di frumento e rum. Maneggiare con cautela gli stampi e sformare con protezione dal calore dopo cottura a 250 °C.",
+      "photo": null,
+      "sourceOriginalId": "SAP-20261115-001-CANELES",
+      "reviewedRecordSha256": "4cc27d3b29fd2ff8ff18157a8ef70de215fababc1195771bc95c15c01c6eafd0",
+      "baseRecordSha256": "c3cb2202448e4eb160fc0b7ea00dd43b68b5fc181da5fe81cdfa7a64e97db3a9",
+      "originalTitle": "Canelés bordelais",
+      "originalCategory": "Biscotti e piccola pasticceria",
+      "originalYield": "12 canelés",
+      "originalTimes": "Preparazione: 10 min (oltre all’infusione); Cottura: 70 min; Riposi: 30 min infusione vaniglia; almeno 12 h in frigorifero (possibile fino a 24–36 h)",
+      "photoDisplayPolicy": "no_image_without_license"
     }
   ]
 }
