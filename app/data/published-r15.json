@@ -1181,6 +1181,51 @@
       "photo": null,
       "reviewedRecordSha256": "49f1c27c4a49f5bca65494344476280019ddd73375d8c416b1e510fb41f426a2",
       "description": "Torta rustica reggiana a due sfoglie sottili, con biete, cipollotti, Parmigiano e lardo."
+    },
+    {
+      "id": "SRC-d324ae197e47221a",
+      "name": "Pane dolce a stella alla cannella di Charlotte Rutledge",
+      "category": "Colazione e lievitati dolci",
+      "source": "https://www.kingarthurbaking.com/recipes/cinnamon-star-bread-recipe",
+      "author": "Charlotte Rutledge",
+      "originalYield": "1 pane a stella, circa 8–12 porzioni",
+      "originalTimes": "Lavorazione manuale indicata 20 minuti; cottura dichiarata 12–13 minuti (nel procedimento 12–15 minuti); tempo totale 2 ore e 42 minuti. Prima lievitazione 60 minuti, riposo dei panetti 15 minuti, seconda lievitazione circa 45 minuti.",
+      "temperature": "Forno 400 °F secondo la fonte, temperatura al cuore 200 °F; eventuale riscaldamento 350 °F per circa 15 minuti. Unità Fahrenheit conservate come documentate, senza conversione.",
+      "serves": "1 pane a stella, circa 8–12 porzioni",
+      "prep": "20 min attivi",
+      "cook": "12–13 min (procedimento 12–15 min)",
+      "rest": "prima lievitazione 60 min; riposo 15 min; seconda lievitazione 45 min",
+      "ingredients": [
+        "IMPASTO — 2 tazze (240 g) farina di frumento per tutti gli usi",
+        "IMPASTO — ¼ tazza (46 g) farina di patate oppure ½ tazza (46 g) fiocchi di patate disidratati",
+        "IMPASTO — ¼ tazza (28 g) latte scremato in polvere",
+        "IMPASTO — ¾ tazza più 2–4 cucchiai (198–227 g) acqua tiepida, secondo assorbimento",
+        "IMPASTO — 4 cucchiai (57 g) burro non salato a temperatura ambiente",
+        "IMPASTO — 1 cucchiaino estratto di vaniglia",
+        "IMPASTO — 2 cucchiaini lievito di birra secco istantaneo",
+        "IMPASTO — 2 cucchiai (25 g) zucchero semolato",
+        "IMPASTO — 1 cucchiaino (6 g) sale fino",
+        "RIPIENO E FINITURA — 1 uovo grande sbattuto, per spennellare",
+        "RIPIENO E FINITURA — ½ tazza (99 g) zucchero semolato",
+        "RIPIENO E FINITURA — 1 cucchiaio cannella in polvere oppure 2 cucchiaini cannella vietnamita"
+      ],
+      "steps": [
+        "Setacciare farina comune, farina di patate e latte in polvere per disperdere eventuali grumi; omettere la setacciatura dei fiocchi di patate se si usa l'alternativa.",
+        "Unire alle polveri tutti gli altri ingredienti dell'impasto, mescolando e impastando a mano o in impastatrice fino a ottenere una massa liscia, morbida ed elastica; regolare l'acqua entro la fascia indicata.",
+        "Mettere l'impasto in una ciotola leggermente unta, coprire e lasciare lievitare per circa 60 minuti fino a un volume quasi raddoppiato.",
+        "Dividere in quattro porzioni uguali, arrotondarle e lasciarle riposare coperte per 15 minuti.",
+        "Mescolare lo zucchero con la cannella; sbattere l'uovo a parte. Stendere il primo pezzo di impasto in un disco di circa 10 pollici di diametro e trasferirlo su carta forno.",
+        "Spennellare il primo disco con poco uovo e distribuire un terzo dello zucchero alla cannella, lasciando libero un bordo di circa ¼ di pollice.",
+        "Stendere il secondo disco e sovrapporlo; ripetere due volte la sequenza uovo-zucchero-cannella e disco, ottenendo quattro strati di impasto e tre di ripieno. Non farcire la superficie del disco superiore.",
+        "Segnare al centro un cerchio da circa 2½–3 pollici di diametro senza tagliarlo; dividere tutt'attorno i quattro dischi sovrapposti in 16 spicchi radiali, incidendo fino al cerchio centrale.",
+        "A coppie, torcere due strisce vicine in direzioni opposte per due giri, poi pizzicare insieme le estremità: ripetere per ottenere otto punte.",
+        "Trasferire la stella su una teglia con la carta forno; coprire e far lievitare circa 45 minuti, finché appare visibilmente gonfia.",
+        "Preriscaldare il forno a 400 °F, spennellare con l'uovo rimasto e cuocere 12–15 minuti fino a doratura; al cuore la fonte indica 200 °F.",
+        "Lasciare intiepidire per circa 10 minuti prima di servire."
+      ],
+      "photo": null,
+      "reviewedRecordSha256": "f7b44a7b7265b8ccfd67b4d00ba16222cd24288e34040cd5a11fdb025b2195fd",
+      "description": "Pane soffice a lievitazione con quattro dischi sovrapposti e tre strati di zucchero alla cannella, inciso e attorcigliato in otto punte di stella."
     }
   ]
 }
