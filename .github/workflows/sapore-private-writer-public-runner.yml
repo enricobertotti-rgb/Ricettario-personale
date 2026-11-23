@@ -1,0 +1,210 @@
+name: Sapore - private serial writer on public runner R28
+
+# No private source data or artefacts are checked into this public repository.
+# Disabled until the owner explicitly enables the repository variable below.
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/sapore-private-writer-public-runner.yml'
+      - 'config/sapore-r28-run.json'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "audit = read only; apply = process private inbox"
+        type: choice
+        required: true
+        default: audit
+        options:
+          - audit
+          - apply
+      expected_private_head:
+        description: "Optional exact private main SHA; fail closed on mismatch"
+        type: string
+        required: false
+  schedule:
+    - cron: "17 1,5,9,13,17,21 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: sapore-r28-public-transport-single-writer
+  cancel-in-progress: false
+
+jobs:
+  private-writer:
+    if: >-
+      github.repository == 'enricobertotti-rgb/Ricettario-personale' &&
+      github.ref == 'refs/heads/main' &&
+      (
+        (github.event_name == 'push' && github.event.head_commit.message != 'ops(sapore): process private inbox R28') ||
+        (github.event_name == 'workflow_dispatch' && inputs.mode == 'audit') ||
+        vars.SAPORE_R28_ENABLED == 'true'
+      )
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      SAPORE_PRIVATE_REPO: enricobertotti-rgb/Sapore-Archivio-Privato
+      SAPORE_MODE: >-
+        ${{ (github.event_name == 'schedule' || (github.event_name == 'push' && github.event.head_commit.message == 'ops(sapore): process private inbox R28')) && 'apply' || inputs.mode || 'audit' }}
+      SAPORE_EXPECTED_PRIVATE_HEAD: ${{ inputs.expected_private_head }}
+    steps:
+      - name: Require secret without disclosing it
+        shell: bash
+        env:
+          PRIVATE_TOKEN: ${{ secrets.SAPORE_PRIVATE_WRITER_TOKEN }}
+        run: |
+          if [[ -z "$PRIVATE_TOKEN" ]]; then
+            echo "::error::Missing private-repository Actions secret SAPORE_PRIVATE_WRITER_TOKEN"
+            exit 1
+          fi
+
+      - name: Checkout ONLY private canonical repository into ephemeral runner
+        uses: actions/checkout@v4
+        with:
+          repository: enricobertotti-rgb/Sapore-Archivio-Privato
+          ref: main
+          token: ${{ secrets.SAPORE_PRIVATE_WRITER_TOKEN }}
+          path: private
+          fetch-depth: 0
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Private canonical preflight without exposing private logs
+        shell: bash
+        working-directory: private
+        env:
+          PYTHONPATH: "."
+        run: |
+          set -euo pipefail
+          umask 077
+          LOG="$RUNNER_TEMP/sapore-r28-private.log"
+          git fetch origin main >>"$LOG" 2>&1 || { echo "::error::Private HEAD fetch failed"; exit 1; }
+          git checkout main >>"$LOG" 2>&1 || { echo "::error::Private branch checkout failed"; exit 1; }
+          git reset --hard origin/main >>"$LOG" 2>&1 || { echo "::error::Private HEAD reset failed"; exit 1; }
+          HEAD_SHA="$(git rev-parse HEAD)"
+          REMOTE_SHA="$(git ls-remote origin refs/heads/main | cut -f1)"
+          if [[ "$HEAD_SHA" != "$REMOTE_SHA" ]]; then
+            echo "::error::Private HEAD changed before preflight"
+            exit 1
+          fi
+          if [[ -n "$SAPORE_EXPECTED_PRIVATE_HEAD" && "$HEAD_SHA" != "$SAPORE_EXPECTED_PRIVATE_HEAD" ]]; then
+            echo "::error::Private HEAD differs from supplied expected SHA"
+            exit 1
+          fi
+          if ! python tools/audit.py >>"$LOG" 2>&1; then
+            echo "::error::Private canonical audit failed; no data written"
+            exit 1
+          fi
+          if ! python tools/r15_audit_ledger.py >>"$LOG" 2>&1; then
+            echo "::error::Private publication ledger audit failed; no data written"
+            exit 1
+          fi
+          if [[ "$SAPORE_MODE" == "audit" ]]; then
+          for suite in r13 r14 r15 r18 r21 r22 r26; do
+            if ! python -m unittest discover -s "tests/$suite" -p 'test_*.py' >>"$LOG" 2>&1; then
+              echo "::error::Private regression suite $suite failed; no data written"
+              exit 1
+            fi
+          done
+          fi
+          echo "Private baseline validated (content remains private)"
+
+      - name: Apply private requests with original R14/R26 writer and CAS
+        id: apply
+        if: env.SAPORE_MODE == 'apply'
+        shell: bash
+        working-directory: private
+        env:
+          SAPORE_INBOX_WRITER: "YES"
+          PYTHONPATH: "."
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          umask 077
+          LOG="$RUNNER_TEMP/sapore-r28-private.log"
+          for attempt in 1 2 3; do
+            if ! (git fetch origin main && git checkout main && git reset --hard origin/main) >>"$LOG" 2>&1; then
+              echo "::error::Unable to refresh private HEAD"
+              exit 1
+            fi
+            if ! python tools/r14_inbox.py >>"$LOG" 2>&1; then
+              echo "::error::Private inbox validation failed; no push attempted"
+              exit 1
+            fi
+            if ! python tools/audit.py >>"$LOG" 2>&1 || ! python tools/r15_audit_ledger.py >>"$LOG" 2>&1; then
+              echo "::error::Canonical or ledger audit failed; no push attempted"
+              exit 1
+            fi
+            if ! python tools/r21_archive.py >>"$LOG" 2>&1; then
+              python - <<'PY'
+          import datetime, json, pathlib
+          p = pathlib.Path("exports/status.json")
+          p.parent.mkdir(exist_ok=True)
+          p.write_text(json.dumps({
+              "status": "STALE_EXPORT",
+              "checked_at": datetime.datetime.now(datetime.timezone.utc).isoformat(),
+              "reason": "R21 archive regeneration failed; canonical transaction may continue."
+          }, indent=2) + "\n")
+          PY
+            fi
+            if ! git diff --check >>"$LOG" 2>&1; then
+              echo "::error::Private diff check failed; no push attempted"
+              exit 1
+            fi
+            git add data/source/ data/editorial/current/ data/master/ data/publication/ config/runtime-targets.json inbox/results/ exports/ >>"$LOG" 2>&1
+            if git diff --cached --quiet; then
+              echo "private_sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+              echo "changed=false" >> "$GITHUB_OUTPUT"
+              echo "No unprocessed changes; no public data written"
+              exit 0
+            fi
+            git -c user.name="Sapore Writer" -c user.email="actions@users.noreply.github.com" commit -m "chore(sapore): apply serial inbox requests via R28" >>"$LOG" 2>&1
+            if git push origin HEAD:refs/heads/main >>"$LOG" 2>&1; then
+              SAVED_SHA="$(git rev-parse HEAD)"
+              REMOTE_SHA="$(git ls-remote origin refs/heads/main | cut -f1)"
+              if [[ "$SAVED_SHA" != "$REMOTE_SHA" ]]; then
+                echo "::error::Private remote SHA differs after push"
+                exit 1
+              fi
+              echo "private_sha=$SAVED_SHA" >> "$GITHUB_OUTPUT"
+              echo "changed=true" >> "$GITHUB_OUTPUT"
+              echo "Private commit and remote readback succeeded"
+              exit 0
+            fi
+          done
+          echo "::error::CAS retry budget exhausted; no force push"
+          exit 1
+
+      - name: Record independent private commit status for this exact SHA
+        if: env.SAPORE_MODE == 'apply'
+        shell: bash
+        working-directory: private
+        env:
+          GH_TOKEN: ${{ secrets.SAPORE_PRIVATE_WRITER_TOKEN }}
+          SAVED_SHA: ${{ steps.apply.outputs.private_sha }}
+        run: |
+          set -euo pipefail
+          if [[ ! "$SAVED_SHA" =~ ^[0-9a-f]{40}$ ]]; then
+            echo "::error::No exact verified private SHA available"
+            exit 1
+          fi
+          REMOTE_SHA="$(git ls-remote origin refs/heads/main | cut -f1)"
+          if [[ "$SAVED_SHA" != "$REMOTE_SHA" ]]; then
+            echo "::error::Private HEAD changed before final attestation"
+            exit 1
+          fi
+          if ! gh api -X POST "repos/$SAPORE_PRIVATE_REPO/statuses/$SAVED_SHA" \
+              -f state=success \
+              -f context="sapore/public-runner-writer-r28" \
+              -f description="R14/R26 audit, CAS push and exact remote readback passed" \
+              -f target_url="https://github.com/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" \
+              > /dev/null 2>&1; then
+            echo "::error::Private commit status could not be attested; verify token Commit statuses:write permission"
+            exit 1
+          fi
+          echo "Private transaction attested through public workflow; no private artefacts uploaded"
