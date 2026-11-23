@@ -8317,6 +8317,181 @@
         "previousAppSha256": "0e71be8f9161ae50e7d903d177f58e3fb7f2fccc60fa452fb37e45a63ca5d3fa",
         "reviewedDigest": "9f7c69b94e4aa52562a1f97f58dc0712322d6ad657c7d4f4ffcb84aea4f83840"
       }
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "25 min",
+      "description": "Trenta bocconcini vegetariani di quinoa e zucchine, insaporiti con Grana Padano, scorza di limone e zenzero, cotti in pirottini da mini muffin.",
+      "id": "GZ-00008",
+      "ingredients": [
+        "Quinoa: 150 g",
+        "Zucchine piccole: 2",
+        "Uovo: 1",
+        "Grana Padano DOP da grattugiare: 50 g",
+        "Scorza grattugiata di limone: 1",
+        "Zenzero fresco da grattugiare: q.b.",
+        "Sale fino: q.b.",
+        "Pepe nero: q.b."
+      ],
+      "name": "Bocconcini di quinoa",
+      "notes": [
+        "La fonte indica 25 minuti di cottura della ricetta e, a parte nel metodo, circa 15–20 minuti per lessare la quinoa. Non sommare arbitrariamente i due tempi.",
+        "Conservazione: massimo 2 giorni in frigorifero ben coperti o in contenitore ermetico; congelazione sconsigliata.",
+        "Varianti facoltative: sostituire Grana Padano con Pecorino oppure accompagnare con salsa tzatziki. Nessuna variazione di quantità della ricetta base.",
+        "La tradizione andina descritta dalla fonte riguarda la quinoa come ingrediente, non è una prova dell'origine geografica di questa preparazione. Autore individuale non indicato."
+      ],
+      "origin": "non documentata dalla fonte",
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "15 min",
+        "rest": "Non dichiarato dalla fonte; raffreddare la quinoa dopo la lessatura."
+      },
+      "originalTitle": "Bocconcini di quinoa",
+      "originalYield": "30 bocconcini",
+      "pdfPage": 22,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b2b3776da343118a77b527f67e1b42ac445e10a0e4f0d445d88651b9ca02aeeb",
+        "previousAppSha256": "b2b3776da343118a77b527f67e1b42ac445e10a0e4f0d445d88651b9ca02aeeb",
+        "reviewedDigest": "71cba9a06cf4d6b04a505d710d220187085b89c87e2f2fbd61776eb3fea7b21c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "71cba9a06cf4d6b04a505d710d220187085b89c87e2f2fbd61776eb3fea7b21c",
+      "serves": "30 bocconcini",
+      "source": "https://ricette.giallozafferano.it/Bocconcini-di-quinoa.html",
+      "steps": [
+        "Risciacquare la quinoa in acqua fredda finché l'acqua risulta limpida, per rimuovere le saponine e il gusto amaro.",
+        "Lessare la quinoa in acqua leggermente salata seguendo le indicazioni della confezione, indicativamente 15–20 minuti, fino a quando i chicchi risultano teneri e hanno assorbito buona parte del liquido.",
+        "Scolare e passare la quinoa cotta sotto acqua fredda per arrestare la cottura.",
+        "Lavare e mondare le due zucchine; mondare lo zenzero e grattugiare entrambi. Disporre le zucchine in una ciotola con scorza di limone grattugiata e zenzero grattugiato a piacere.",
+        "Unire la quinoa cotta, il Grana Padano grattugiato e l'uovo. Insaporire con sale e pepe, mescolando fino a ottenere un composto omogeneo.",
+        "Sistemare pirottini mignon di circa 4–5 cm di diametro e 3 cm di altezza su una teglia, oppure usare stampini per mini muffin. Distribuirvi circa 20 g di impasto ciascuno e compattare con un cucchiaio.",
+        "Cuocere in forno statico già caldo a 180 °C per circa 25 minuti fino a doratura; in alternativa usare forno ventilato a 160 °C per circa 20 minuti. Servire tiepidi."
+      ],
+      "temperature": "Forno statico 180 °C per circa 25 min; alternativa ventilato 160 °C per circa 20 min. Lessatura quinoa circa 15–20 min secondo confezione, non inclusa arbitrariamente nei 25 min della scheda."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "5 min",
+      "description": "Quattro bruschette di pane pugliese tostato, robiola ed erba cipollina, prosciutto crudo dolce e fichi passati sulla griglia con miele di acacia.",
+      "id": "GZ-00011",
+      "ingredients": [
+        "Pane pugliese: 200 g (4 fette)",
+        "Fichi freschi: 200 g",
+        "Prosciutto crudo dolce: 100 g (8 fette)",
+        "Robiola: 200 g",
+        "Erba cipollina: 5 fili",
+        "Miele di acacia: 20 g",
+        "Sale fino: q.b.",
+        "Pepe nero: q.b."
+      ],
+      "name": "Bruschetta con fichi e crudo dolce",
+      "notes": [
+        "La fonte suggerisce di consumare le bruschette appena assemblate per mantenere il pane croccante. È conservabile in frigorifero fino a 2 giorni soltanto la crema di robiola con erba cipollina, in contenitore chiuso; congelamento sconsigliato.",
+        "Varianti facoltative documentate dalla fonte: caprino al posto della robiola, prosciutto crudo tradizionale al posto di quello dolce, oppure fichi freschi non grigliati.",
+        "La curiosità della fonte attribuisce origini laziali e abruzzesi alla parola 'bruschetta', non documenta il paese di origine della specifica variante con fichi. Autore individuale non dichiarato."
+      ],
+      "origin": "non documentata dalla fonte",
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "10 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Bruschetta con fichi e crudo dolce",
+      "originalYield": "4 bruschette",
+      "pdfPage": 25,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "615a5e6046af3d9fc242fb20081e9e53aaaee06772373eccc10ad9997da5e708",
+        "previousAppSha256": "615a5e6046af3d9fc242fb20081e9e53aaaee06772373eccc10ad9997da5e708",
+        "reviewedDigest": "a7ad8ff5b079967c6910883ab07cf0962ac5f19719623373dff11fa2b3f0a20d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "a7ad8ff5b079967c6910883ab07cf0962ac5f19719623373dff11fa2b3f0a20d",
+      "serves": "4 bruschette",
+      "source": "https://ricette.giallozafferano.it/Bruschetta-con-fichi-e-crudo-dolce.html",
+      "steps": [
+        "Ricavare quattro fette di uguale spessore dal pane pugliese e tostarle su una griglia ben calda per alcuni minuti su entrambi i lati; tenere da parte.",
+        "Lavare e tritare finemente i cinque fili di erba cipollina. Amalgamarli con la robiola e regolare di sale e pepe.",
+        "Sciacquare i fichi, dividerli a metà, quindi tagliare ogni metà in tre spicchi. Spennellare gli spicchi con il miele di acacia.",
+        "Cuocere velocemente gli spicchi di fico sulla griglia ben calda, per pochi secondi per lato, girandoli delicatamente.",
+        "Spalmare la crema di robiola ed erba cipollina sulle quattro fette di pane tostate.",
+        "Adagiare due fette di prosciutto crudo dolce su ogni bruschetta e completare con gli spicchi di fico. Servire subito."
+      ],
+      "temperature": "Griglia ben calda; temperatura numerica non dichiarata dalla fonte."
+    },
+    {
+      "author": "Cooker Girl",
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "10 min",
+      "description": "Cubetti di baccalà già dissalato in pastella fredda di farina, birra e paprika, fritti e serviti con salsa di maionese, ketchup, senape, cetriolini e Tabasco. Ricetta proposta da Cooker Girl.",
+      "id": "GZ-01477",
+      "ingredients": [
+        "Baccalà già dissalato: 1 filetto",
+        "Farina 00 fredda: 300 g",
+        "Birra ghiacciata: 300 g",
+        "Paprika dolce: 1 cucchiaino",
+        "Sale fino: 1/2 cucchiaino",
+        "Pepe nero: q.b.",
+        "PER LA SALSA — Maionese: 50 g",
+        "PER LA SALSA — Ketchup: 30 g",
+        "PER LA SALSA — Senape: 1 cucchiaino",
+        "PER LA SALSA — Cetriolini sottaceto: 2",
+        "PER LA SALSA — Tabasco: q.b."
+      ],
+      "name": "Baccalà in pastella",
+      "notes": [
+        "L'olio di frittura è previsto dal procedimento ma non compare nella tabella ingredienti: quantità non dichiarata. Non inventare una dose.",
+        "Il liquido dei cetriolini (2 cucchiaini) è citato e quantificato nel metodo ma non nella lista ingredienti; conservarne la distinzione.",
+        "Fonte italiana originale attribuita esplicitamente a Cooker Girl (ricetta proposta da). Consigliato consumo immediato.",
+        "Variante facoltativa della fonte: acqua frizzante al posto della birra, pastella meno aromatica. Durante la frittura la pastella può essere tenuta in congelatore per restare fredda."
+      ],
+      "origin": "non documentata per questa specifica versione dalla fonte",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": "15 min preliminari in congelatore per farina e ciotola, come indicato dalla fonte"
+      },
+      "originalTitle": "Baccalà in pastella",
+      "originalYield": "4 persone",
+      "pdfPage": 18,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "52a76f0715afacee59fb4667642514804d4c0984603fbecfcb2561168961f8b9",
+        "previousAppSha256": "52a76f0715afacee59fb4667642514804d4c0984603fbecfcb2561168961f8b9",
+        "reviewedDigest": "e72e4cd0e1cebaf79a1c31910af292d2461eba427d2f9e5d4ffd60dd79cdbbe5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "15 min preliminari in congelatore per farina e ciotola, come indicato dalla fonte",
+      "reviewedRecordSha256": "e72e4cd0e1cebaf79a1c31910af292d2461eba427d2f9e5d4ffd60dd79cdbbe5",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Baccala-in-pastella.html",
+      "steps": [
+        "Mettere farina e ciotola in congelatore per 15 minuti affinché siano ben fredde.",
+        "Tritare finemente i due cetriolini. Mescolarli con 50 g di maionese, 30 g di ketchup, un cucchiaino di senape e due cucchiaini del loro liquido di conservazione, quantità citata dalla fonte nel procedimento ma non nell'elenco degli ingredienti.",
+        "Completare la salsa con una punta di Tabasco, mescolare e tenere da parte.",
+        "Privare della pelle il filetto di baccalà già dissalato e tagliarlo a cubetti di circa 4 cm di lato.",
+        "Mescolare in una ciotola la farina fredda con sale, pepe nero e paprika. Incorporare a filo la birra ghiacciata lavorando con una frusta fino a ottenere una pastella liscia e priva di grumi.",
+        "Portare l'olio per friggere a 180 °C in un tegame alto; la fonte non ne specifica la quantità. Immergere nella pastella i cubetti di pesce e friggerne al massimo tre per volta.",
+        "Friggere ogni gruppo per circa 5–8 minuti fino a doratura, scolare su carta assorbente e salare a piacere. Servire immediatamente con la salsa."
+      ],
+      "temperature": "Olio di frittura a 180 °C, circa 5–8 minuti per ciascun gruppo di cubetti. Birra e farina ben fredde, temperatura numerica non dichiarata."
     }
   ]
 }
