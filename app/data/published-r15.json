@@ -10783,6 +10783,511 @@
         "Disporre prima la bieta ben scolata, poi la zucca; coprire con il composto di uova. Cuocere in forno preriscaldato a 170 °C statico per 60 minuti oppure a 150 °C ventilato per 50 minuti; lasciare assestare alcuni minuti."
       ],
       "temperature": "Forno statico 170 °C o ventilato 150 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "1 h 30 min",
+      "description": "Frittelle di farina di ceci.",
+      "id": "GZ-02448",
+      "ingredients": [
+        "300 g farina di ceci",
+        "1 l acqua",
+        "5 g sale fino",
+        "pepe nero q.b.",
+        "700 g olio di arachidi per friggere",
+        "olio per ungere lo stampo (dose non dichiarata)"
+      ],
+      "name": "Panissa ligure",
+      "notes": [
+        "Prima della frittura: 4–5 giorni in frigorifero coperta o congelare; dopo frittura consumare subito. Variante non fritta a fette con cipollotti e formaggio."
+      ],
+      "origin": "Italia, Liguria",
+      "originalTimes": {
+        "cook": "1 h 30 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento e circa 2 h in frigorifero"
+      },
+      "originalTitle": "Panissa ligur",
+      "originalYield": "4 persone",
+      "pdfPage": 559,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "3b169f66f3aca612bafd51d98c82c86ee3b5a6626518f1086460429e32d0b5e0",
+        "previousAppSha256": "3b169f66f3aca612bafd51d98c82c86ee3b5a6626518f1086460429e32d0b5e0",
+        "reviewedDigest": "aa183ed0e20276c913faade0bff9bd79a1408b409497446f3ccf93fec150f159"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento e circa 2 h in frigorifero",
+      "reviewedRecordSha256": "aa183ed0e20276c913faade0bff9bd79a1408b409497446f3ccf93fec150f159",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/panissa-ligur.html",
+      "steps": [
+        "Setacciare la farina, aggiungere sale e pepe e incorporare gradualmente l'acqua con la frusta.",
+        "Cuocere in pentola di rame o acciaio a fuoco molto basso, sempre mescolando; passare al cucchiaio di legno quando si addensa e proseguire circa 80 minuti finché si stacca dalle pareti.",
+        "Versare nello stampo unto di 23 × 10 cm, comprimere e livellare.",
+        "Raffreddare, coprire con pellicola e refrigerare circa 2 ore.",
+        "Sformare, tagliare cubetti di 2–3 cm, friggere a 170 °C circa 5 minuti fino a doratura; scolare su carta e servire caldo."
+      ],
+      "temperature": "170 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "10 min",
+      "description": "Zucchine grigliate farcite.",
+      "id": "GZ-02200",
+      "ingredients": [
+        "2 zucchine",
+        "100 g robiola",
+        "120 g prosciutto crudo",
+        "erba cipollina q.b.",
+        "pepe nero q.b.",
+        "sale fino q.b."
+      ],
+      "name": "Rotolini di zucchine con crudo e robiola",
+      "notes": [
+        "Grasso per ungere la griglia citato senza dose. Conservare in frigorifero in recipiente chiuso 1 giorno; facoltativo legare con erba cipollina."
+      ],
+      "origin": "Italia, Lombardia",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": "Raffreddamento non quantificato"
+      },
+      "originalTitle": "Zucchini rolls with prosciutto and robiola",
+      "originalYield": "12 pezzi",
+      "pdfPage": 51,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e091214daee0b6f53f350da3ae26606e4de900f4312d477db2e7c8d45a8d5581",
+        "previousAppSha256": "e091214daee0b6f53f350da3ae26606e4de900f4312d477db2e7c8d45a8d5581",
+        "reviewedDigest": "03c3b9b2a5916b696722af058f33e3fdad8037bab3a51471ae010a182716795a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento non quantificato",
+      "reviewedRecordSha256": "03c3b9b2a5916b696722af058f33e3fdad8037bab3a51471ae010a182716795a",
+      "serves": "12 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/zucchini-rolls-with-prosciutto-and-robiola.html",
+      "steps": [
+        "Lavare e tagliare 12 fette longitudinali di spessore 0,08–0,12 pollici, come nella fonte.",
+        "Ungere la griglia, cuocere circa 5 minuti sul primo lato, girare e completare dall'altro; disporre su un piatto.",
+        "Schiacciare la robiola con una forchetta e amalgamare sale, pepe ed erba cipollina tritata.",
+        "Spalmare sulle zucchine, aggiungere il prosciutto e arrotolare. Servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "6 min",
+      "description": "Liquore al caffè fatto in casa.",
+      "id": "GZ-03818",
+      "ingredients": [
+        "450 g caffè preparato con moka o espresso",
+        "450 g zucchero",
+        "250 g alcol puro (gradazione non dichiarata)"
+      ],
+      "name": "Liquore al caffè",
+      "notes": [
+        "Conservare fino a 90 giorni in dispensa al riparo da luce e calore. Variante: semi di vaniglia."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "6 min",
+        "prep": "10 min",
+        "rest": "Almeno 2 settimane"
+      },
+      "originalTitle": "Coffee Liqueur",
+      "originalYield": "30 porzioni, circa 1 l",
+      "pdfPage": 69,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "078fbdb97c9c88ca9d70b402d8079839f848d2ef411e37e43db76692daa05bc8",
+        "previousAppSha256": "078fbdb97c9c88ca9d70b402d8079839f848d2ef411e37e43db76692daa05bc8",
+        "reviewedDigest": "d69c411729b781ff2b2814850632bb7533ce818a5d5c5985ff3cbb1e54cec810"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 2 settimane",
+      "reviewedRecordSha256": "d69c411729b781ff2b2814850632bb7533ce818a5d5c5985ff3cbb1e54cec810",
+      "serves": "30 porzioni, circa 1 l",
+      "source": "https://www.giallozafferano.com/recipes/coffee-liqueur.html",
+      "steps": [
+        "Preparare il caffè e versarlo in pentola a bordi alti con zucchero; sciogliere mescolando a fuoco molto basso.",
+        "Trasferire in ciotola e raffreddare completamente; aggiungere alcol e amalgamare.",
+        "Imbottigliare in recipienti puliti e asciutti, fatti scolare capovolti; chiudere e riposare almeno 2 settimane."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "Non applicabile",
+      "description": "Cocktail di prosecco e pesca bianca.",
+      "id": "GZ-03805",
+      "ingredients": [
+        "10 cl prosecco brut",
+        "5 cl purea di pesca bianca",
+        "ghiaccio q.b."
+      ],
+      "name": "Bellini cocktail",
+      "notes": [
+        "Per la purea fresca sono suggeriti limone e sciroppo di zucchero senza dosi. La presentazione attribuisce il cocktail a Giuseppe Cipriani, Venezia, 1948; non è l'autore della scheda."
+      ],
+      "origin": "Italia, Venezia",
+      "originalTimes": {
+        "cook": "Non applicabile",
+        "prep": "10 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "Bellini cocktail",
+      "originalYield": "1 flute",
+      "pdfPage": 58,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "05e3200507685ae8ee3faa49d57b629dad0ac0f17841dc02b165eb187746db06",
+        "previousAppSha256": "05e3200507685ae8ee3faa49d57b629dad0ac0f17841dc02b165eb187746db06",
+        "reviewedDigest": "911648c652d3a387968690da3d601f9d2c11f943c0b3ae276b0d0760259ed67a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "911648c652d3a387968690da3d601f9d2c11f943c0b3ae276b0d0760259ed67a",
+      "serves": "1 flute",
+      "source": "https://ricette.giallozafferano.it/Bellini-cocktail.html",
+      "steps": [
+        "Raffreddare il flute con 2–3 cubetti di ghiaccio e rimuoverli.",
+        "Dosare la purea nel bicchiere e aggiungere metà prosecco.",
+        "Mescolare con cucchiaio da bar dall'alto verso il basso; aggiungere il prosecco restante senza mescolare ancora. Servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "45 min",
+      "description": "Crocchette di riso al pomodoro ripiene.",
+      "id": "GZ-00063",
+      "ingredients": [
+        "320 g riso Carnaroli",
+        "½ cipolla ramata",
+        "250 g passata di pomodoro",
+        "1 l brodo vegetale già salato",
+        "150 g mozzarella per pizza",
+        "30 g Grana Padano DOP grattugiato",
+        "olio extravergine q.b.",
+        "sale fino q.b.",
+        "pepe nero q.b.",
+        "3 uova per panatura",
+        "300 g pangrattato",
+        "olio di mais q.b. per friggere"
+      ],
+      "name": "Supplì mozzarella e pomodoro",
+      "notes": [
+        "Mozzarella per pizza o fiordilatte; possibile riso avanzato, Vialone Nano o altro riso ricco di amido. Frigorifero 1 giorno; varianti con peperoncino o dadini di prosciutto."
+      ],
+      "origin": "Italia, Lazio",
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "40 min",
+        "rest": "Raffreddamento e 2 h in frigorifero"
+      },
+      "originalTitle": "Supplì mozzarella e tomate",
+      "originalYield": "10 pezzi",
+      "pdfPage": 54,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "94dcf463be27d5498b9b5c8ce2a8034cacfbda76558e290445ec984aa84f1428",
+        "previousAppSha256": "94dcf463be27d5498b9b5c8ce2a8034cacfbda76558e290445ec984aa84f1428",
+        "reviewedDigest": "61cbb26d627dba18453b0c2f6370fb62bab00ffe6f86bf659abb2581dde5013b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento e 2 h in frigorifero",
+      "reviewedRecordSha256": "61cbb26d627dba18453b0c2f6370fb62bab00ffe6f86bf659abb2581dde5013b",
+      "serves": "10 pezzi",
+      "source": "https://www.giallozafferano.com.br/receitas/suppli-mozzarella-e-tomate.html",
+      "steps": [
+        "Tritare e rosolare la cipolla circa 3 minuti; tostare il riso circa 5 minuti a fuoco medio.",
+        "Coprire con brodo caldo, aggiungere passata e incorporare altro brodo finché il riso è asciutto; completare con Grana, pepe e sale se necessario.",
+        "Stendere su vassoio con mestolo, raffreddare e refrigerare 2 ore.",
+        "Tagliare la mozzarella a cubetti di 1 cm; con mani umide appiattire una cucchiaiata di riso, inserire mozzarella e chiudere.",
+        "Sbattere le uova con pizzico di sale; passare in uovo e pangrattato ripetendo la panatura.",
+        "Friggere due pezzi per volta a 165–170 °C pochi minuti fino a doratura; scolare e servire."
+      ],
+      "temperature": "165–170 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "10 min",
+      "description": "Preparato di cioccolato con cinque guarnizioni.",
+      "id": "GZ-03811",
+      "ingredients": [
+        "430 g cioccolato fondente",
+        "45 g zucchero a velo",
+        "45 g amido di mais",
+        "22 g cacao amaro",
+        "Mandorla/cardamomo: 1 cucchiaino mandorle a lamelle e 1 pizzico cardamomo",
+        "Pistacchio/peperoncino: 1 cucchiaino pistacchi tritati e 1 pizzico peperoncino verde",
+        "Nocciola/cannella: 1 cucchiaino nocciole e 1 pizzico cannella",
+        "Cocco/zenzero: 1 cucchiaino cocco rapè e 1 pizzico zenzero macinato",
+        "Fiori/sale: fiori eduli essiccati q.b. e 1 pizzico fleur de sel"
+      ],
+      "name": "Cioccolata calda su stecco",
+      "notes": [
+        "Dose di latte non specificata. Possibile addensare su fornello o microonde. Frigorifero 2 settimane o freezer 1 mese."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "15 min",
+        "rest": "Almeno 2 h in frigorifero"
+      },
+      "originalTitle": "Hot chocolate on a stick",
+      "originalYield": "10 stecchi",
+      "pdfPage": 64,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "666aca89c3b8a7b310c4b8150cac8957137b36c5ef0e3931f8ea3fad4f45ebec",
+        "previousAppSha256": "666aca89c3b8a7b310c4b8150cac8957137b36c5ef0e3931f8ea3fad4f45ebec",
+        "reviewedDigest": "664bf448c3cc11a9cdb8de0ad133cc3c7704a3769845f4ce78b483dccb51082c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 2 h in frigorifero",
+      "reviewedRecordSha256": "664bf448c3cc11a9cdb8de0ad133cc3c7704a3769845f4ce78b483dccb51082c",
+      "serves": "10 stecchi",
+      "source": "https://www.giallozafferano.com/recipes/hot-chocolate-on-a-stick.html",
+      "steps": [
+        "Tritare il cioccolato, riempire un quarto di casseruola con acqua e sciogliere in ciotola senza contatto con l'acqua, a fuoco basso.",
+        "Setacciare zucchero a velo, amido e cacao, mescolare e incorporare a cucchiaiate al cioccolato sul calore.",
+        "Trasferire in sac à poche, tagliare la punta e riempire uniformemente 10 cavità di uno stampo da ghiaccio; battere per eliminare bolle.",
+        "Preparare separatamente gli abbinamenti di guarnizioni e distribuirne uno ogni due cavità, ultime due fiori e sale.",
+        "Inserire gli stecchi, refrigerare almeno 2 ore, sformare e scioglierne uno nel latte caldo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "10 min",
+      "description": "Supplì di tonnarelli con formaggio e pepe.",
+      "id": "GZ-00062",
+      "ingredients": [
+        "500 g tonnarelli",
+        "100 g Pecorino Romano",
+        "100 g Parmigiano Reggiano DOP",
+        "pepe nero q.b.",
+        "200 g farina 00",
+        "300 g acqua",
+        "150 g pangrattato rustico",
+        "sale fino q.b.",
+        "1 l olio di girasole"
+      ],
+      "name": "Supplì cacio e pepe",
+      "notes": [
+        "Consumare appena fritti; in frigorifero 1 giorno, riscaldando in forno saranno meno croccanti. Si possono congelare crudi e friggere ancora congelati prolungando la cottura; controllare l'olio."
+      ],
+      "origin": "Italia, Lazio",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "30 min",
+        "rest": "Almeno 2 h in frigorifero dopo raffreddamento"
+      },
+      "originalTitle": "Supplì cacio e pepe",
+      "originalYield": "5 porzioni, circa 10 pezzi",
+      "pdfPage": 53,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "282b649efd44e6cddb1fe398c7e0789fae1175618891d66305aaf477701def78",
+        "previousAppSha256": "282b649efd44e6cddb1fe398c7e0789fae1175618891d66305aaf477701def78",
+        "reviewedDigest": "d01e2a82100ad4e86f4c1fbdfe7c302d8e92ccfa69f2746787de8f40712362fd"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 2 h in frigorifero dopo raffreddamento",
+      "reviewedRecordSha256": "d01e2a82100ad4e86f4c1fbdfe7c302d8e92ccfa69f2746787de8f40712362fd",
+      "serves": "5 porzioni, circa 10 pezzi",
+      "source": "https://www.giallozafferano.es/recetas/suppli-cacio-e-pepe.html",
+      "steps": [
+        "Amalgamare farina e acqua con una frusta per la pastella.",
+        "Lessare i tonnarelli al dente in acqua leggermente salata. Unire ai formaggi grattugiati un mestolo di acqua di cottura e lavorare energicamente; aggiungere abbondante pepe e condire la pasta scolata.",
+        "Stendere uniformemente, coprire con pellicola a contatto, raffreddare a temperatura ambiente e refrigerare almeno 2 ore.",
+        "Con mani bagnate formare cilindri, passare in pastella, sgocciolare con forchetta e rivestire di pangrattato.",
+        "Friggere uno o due pezzi per volta a 160 °C circa 4 minuti, fino a doratura croccante; scolare e servire."
+      ],
+      "temperature": "160 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "5 min",
+      "description": "Liquore al limone con macerazione breve.",
+      "id": "GZ-03816",
+      "ingredients": [
+        "10 limoni non trattati",
+        "1 l alcol puro 96°",
+        "1,2 l acqua",
+        "800 g zucchero"
+      ],
+      "name": "Limoncello veloce",
+      "notes": [
+        "Macerazione iniziale facoltativa di 3 giorni. Conservare al fresco e asciutto, in frigo o freezer; durata non dichiarata. Variante con arancia, mandarino o cedro; recuperare limoni pelati per confettura."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "20 min",
+        "rest": "1 giorno di macerazione + 10 giorni di riposo"
+      },
+      "originalTitle": "Limoncello veloce",
+      "originalYield": "Circa 2,5 l",
+      "pdfPage": 67,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b30cd30f96ce166e3bd9cd0831cb427e85d2ad119f44675ee91ae2fc77851da3",
+        "previousAppSha256": "b30cd30f96ce166e3bd9cd0831cb427e85d2ad119f44675ee91ae2fc77851da3",
+        "reviewedDigest": "232ed590740542c9fa6eba8eed893942f443300ccaa948b0b6d08db9a32caa04"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1 giorno di macerazione + 10 giorni di riposo",
+      "reviewedRecordSha256": "232ed590740542c9fa6eba8eed893942f443300ccaa948b0b6d08db9a32caa04",
+      "serves": "Circa 2,5 l",
+      "source": "https://ricette.giallozafferano.it/Limoncello-veloce.html",
+      "steps": [
+        "Lavare e spazzolare i limoni, prelevare solo la scorza gialla.",
+        "Coprire interamente le scorze con alcol in ciotola, coprire con pellicola e macerare al buio almeno 1 giorno.",
+        "Scaldare acqua e zucchero fino a scioglimento, spegnere e raffreddare completamente.",
+        "Scolare le scorze, unire l'alcol allo sciroppo freddo, mescolare e coprire o chiudere.",
+        "Riporre 10 giorni al fresco e al buio, poi raffreddare per servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "10 min",
+      "description": "Liquore cremoso al limone.",
+      "id": "GZ-03812",
+      "ingredients": [
+        "Scorza di 5 limoni non trattati",
+        "500 g alcol puro 95°",
+        "400 g latte intero",
+        "350 g panna fresca",
+        "400 g zucchero"
+      ],
+      "name": "Crema di limoncello",
+      "notes": [
+        "Riepilogo: circa un mese di riposo; metodo: i due intervalli riportati. La fonte indica circa 3 mesi in frigo o freezer e di agitare se si separa. Servire anche su ghiaccio tritato, gelato o crema di torta; recuperare polpa per limonata o confettura."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": "10 giorni di macerazione + 15–20 giorni in frigorifero"
+      },
+      "originalTitle": "Limoncello cream",
+      "originalYield": "Circa 1,3 l",
+      "pdfPage": 65,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "77404bf51c764509f6134846ae6c883110826975b7e830533ce7ce99e985aa5b",
+        "previousAppSha256": "77404bf51c764509f6134846ae6c883110826975b7e830533ce7ce99e985aa5b",
+        "reviewedDigest": "7189a73b62c9917e97a789b23d4032da958d83b5e93be13ce8f6d1f9fd4111e5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "10 giorni di macerazione + 15–20 giorni in frigorifero",
+      "reviewedRecordSha256": "7189a73b62c9917e97a789b23d4032da958d83b5e93be13ce8f6d1f9fd4111e5",
+      "serves": "Circa 1,3 l",
+      "source": "https://www.giallozafferano.com/recipes/limoncello-cream.html",
+      "steps": [
+        "Lavare e spazzolare i limoni; prelevare scorza senza bianco e immergerla nell'alcol in barattolo chiuso.",
+        "Lasciare al fresco e al buio 10 giorni, agitando una o due volte al giorno.",
+        "Scaldare latte, panna e zucchero quasi a bollore mescolando spesso, trasferire in ciotola e raffreddare completamente.",
+        "Filtrare l'alcol, unirlo alla miscela fredda, mescolare, imbottigliare e refrigerare 15–20 giorni."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "Non dichiarato",
+      "description": "Liquore ottenuto dalla macerazione del basilico.",
+      "id": "GZ-03817",
+      "ingredients": [
+        "50 g basilico",
+        "250 ml alcol puro (90° come indicato nella fonte)",
+        "150 g acqua",
+        "200 g zucchero"
+      ],
+      "name": "Liquore al basilico",
+      "notes": [
+        "Conservazione indicata: 90 giorni in dispensa o frigo. Raffreddare eventualmente alcuni minuti in freezer. Variante: scorza di limone."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "Non dichiarato",
+        "prep": "20 min",
+        "rest": "20 + 20 giorni di macerazione, poi alcuni giorni in frigorifero"
+      },
+      "originalTitle": "Basil Liqueur",
+      "originalYield": "Circa 600 ml",
+      "pdfPage": 68,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ed08a2c5f80398d60462b14728765981aa9357aa8b2f969fb7b2e0b22d9c463d",
+        "previousAppSha256": "ed08a2c5f80398d60462b14728765981aa9357aa8b2f969fb7b2e0b22d9c463d",
+        "reviewedDigest": "d45c55f7064870402a0218f09cd5385f6b1d3a66ba2df2892269d68f81987c8f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "20 + 20 giorni di macerazione, poi alcuni giorni in frigorifero",
+      "reviewedRecordSha256": "d45c55f7064870402a0218f09cd5385f6b1d3a66ba2df2892269d68f81987c8f",
+      "serves": "Circa 600 ml",
+      "source": "https://www.giallozafferano.com/recipes/basil-liqueur.html",
+      "steps": [
+        "Lavare delicatamente e asciugare le foglie non trattate. Coprirle d'alcol in barattolo chiuso e lasciare al fresco e al buio 20 giorni.",
+        "Portare a bollore acqua e zucchero mescolando; raffreddare completamente.",
+        "Aggiungere lo sciroppo al barattolo, chiudere e lasciare altri 20 giorni al buio.",
+        "Filtrare in altro recipiente, imbottigliare con imbuto, chiudere e attendere alcuni giorni in frigorifero prima del servizio."
+      ],
+      "temperature": null
     }
   ]
 }
