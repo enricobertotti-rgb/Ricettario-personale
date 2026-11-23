@@ -11,22 +11,26 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "audit = read only; apply = process private inbox"
+        description: "audit = read only; apply = process inbox and publish; finalize = reconcile exact QA"
         type: choice
         required: true
         default: audit
         options:
           - audit
           - apply
+          - finalize
+      qa_run_id:
+        description: "Exact successful public QA run to reconcile (finalize only)"
+        type: string
+        required: false
+      public_commit:
+        description: "Exact public SHA checked by that QA run (finalize only)"
+        type: string
+        required: false
       expected_private_head:
         description: "Optional exact private main SHA; fail closed on mismatch"
         type: string
         required: false
-  # Completion wakes only finalization, never another publication batch.
-  workflow_run:
-    workflows: ["Sapore - public Pages QA"]
-    types: [completed]
-    branches: [main]
   schedule:
     - cron: "17 1,5,9,13,17,21 * * *"
 
@@ -38,6 +42,7 @@ permissions:
 concurrency:
   group: sapore-r28-public-transport-single-writer
   cancel-in-progress: false
+  queue: max
 
 jobs:
   private-writer:
@@ -45,14 +50,8 @@ jobs:
       github.repository == 'enricobertotti-rgb/Ricettario-personale' &&
       github.ref == 'refs/heads/main' &&
       (
-        github.event_name != 'workflow_run' ||
-        (
-          github.event.workflow_run.conclusion == 'success' &&
-          github.event.workflow_run.head_branch == 'main' &&
-          (github.event.workflow_run.event == 'push' || github.event.workflow_run.event == 'workflow_dispatch') &&
-          github.event.workflow_run.head_repository.full_name == github.repository &&
-          github.event.workflow_run.path == '.github/workflows/sapore-public-qa.yml'
-        )
+        github.event_name != 'workflow_dispatch' || inputs.mode != 'finalize' ||
+        (inputs.qa_run_id != '' && inputs.public_commit != '')
       ) &&
       (
         (github.event_name == 'push' && github.event.head_commit.message != 'ops(sapore): process private inbox R28') ||
@@ -64,7 +63,7 @@ jobs:
     env:
       SAPORE_PRIVATE_REPO: enricobertotti-rgb/Sapore-Archivio-Privato
       SAPORE_MODE: >-
-        ${{ github.event_name == 'workflow_run' && 'finalize' || (github.event_name == 'schedule' || (github.event_name == 'push' && github.event.head_commit.message == 'ops(sapore): process private inbox R28')) && 'apply' || inputs.mode || 'audit' }}
+        ${{ (github.event_name == 'schedule' || (github.event_name == 'push' && github.event.head_commit.message == 'ops(sapore): process private inbox R28')) && 'apply' || inputs.mode || 'audit' }}
       SAPORE_EXPECTED_PRIVATE_HEAD: ${{ inputs.expected_private_head }}
     steps:
       - name: Require secret without disclosing it
@@ -235,8 +234,8 @@ jobs:
           PYTHONPATH: "."
           GH_TOKEN: ${{ github.token }}
           SAPORE_PIPELINE_TOKEN: ${{ secrets.SAPORE_PRIVATE_WRITER_TOKEN }}
-          SAPORE_TRIGGER_QA_RUN_ID: ${{ github.event.workflow_run.id }}
-          SAPORE_TRIGGER_PUBLIC_COMMIT: ${{ github.event.workflow_run.head_sha }}
+          SAPORE_TRIGGER_QA_RUN_ID: ${{ inputs.qa_run_id }}
+          SAPORE_TRIGGER_PUBLIC_COMMIT: ${{ inputs.public_commit }}
         run: |
           set -euo pipefail
           umask 077

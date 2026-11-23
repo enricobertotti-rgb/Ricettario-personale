@@ -88,3 +88,43 @@ jobs:
           path: qa-artifacts/
           retention-days: 7
           if-no-files-found: warn
+
+  # A separate no-checkout job is the only QA job with dispatch permission.
+  # Explicit dispatch is supported with GITHUB_TOKEN; it does not rely on
+  # workflow_run propagation from a bot-dispatched QA run.
+  resume-publication:
+    needs: browser-qa
+    if: >-
+      github.repository == 'enricobertotti-rgb/Ricettario-personale' &&
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'push' || github.event_name == 'workflow_dispatch') &&
+      vars.SAPORE_R28_ENABLED == 'true'
+    permissions:
+      actions: write
+    runs-on: ubuntu-24.04
+    timeout-minutes: 2
+    steps:
+      - name: Resume only finalization of this exact successful QA
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SAPORE_QA_COMMIT: ${{ inputs.public_commit || github.sha }}
+        run: |
+          python - <<'PY'
+          import json, os, re, subprocess
+          commit = os.environ['SAPORE_QA_COMMIT']
+          run_id = os.environ['GITHUB_RUN_ID']
+          assert re.fullmatch(r'[0-9a-f]{40}', commit)
+          assert run_id.isdigit()
+          payload = {
+              'ref': 'main',
+              'inputs': {'mode': 'finalize', 'qa_run_id': run_id,
+                         'public_commit': commit},
+          }
+          subprocess.run([
+              'gh', 'api', '-X', 'POST',
+              'repos/' + os.environ['GITHUB_REPOSITORY'] +
+              '/actions/workflows/sapore-private-writer-public-runner.yml/dispatches',
+              '--input', '-'
+          ], input=json.dumps(payload), text=True, check=True)
+          print('Exact QA finalization dispatched; publication writer remains serialized')
+          PY
