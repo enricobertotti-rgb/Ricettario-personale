@@ -10473,6 +10473,316 @@
         "Farcire quattro gusci con gamberetti usando un cucchiaio, quattro con la crema di rucola e quattro con quella al prosciutto; servire."
       ],
       "temperature": "Forno statico 200 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "25 min",
+      "description": "Involtini di verza con due ripieni, di verdure e noci oppure con aggiunta di pancetta.",
+      "id": "GZ-00044",
+      "ingredients": [
+        "Verza 900 g",
+        "Porri 100 g",
+        "Zucchine 200 g",
+        "Carote 150 g",
+        "Zucca mantovana 250 g",
+        "Noci sgusciate 80 g",
+        "Pancetta affumicata 100 g",
+        "Olio extravergine d'oliva 30 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Porri q.b. (per legare)"
+      ],
+      "name": "Involtini di verza ripieni di verdura",
+      "notes": [
+        "La lista riporta zucca 250 g, mentre il metodo indica 100 g di polpa pulita; mantenuti entrambi i dati senza conversione. I 20 g di pancetta del ripieno sono compresi nei 100 g indicati.",
+        "Consumare subito oppure conservare in frigorifero in contenitore ermetico per 1 giorno; la fonte sconsiglia il congelamento.",
+        "Possibili accompagnamenti: panna acida oppure salsa di senape, miele e peperoncino. Anacardi al posto delle noci, cipolla al posto del porro."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "30 min",
+        "rest": "Raffreddamento non quantificato"
+      },
+      "originalTitle": "Involtini di verza ripieni di verdura",
+      "originalYield": "18 pezzi",
+      "pdfPage": 45,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9d49e45074527c93e73327e32dff02a0147730a6ecc63a9451c04e94662833e6",
+        "previousAppSha256": "9d49e45074527c93e73327e32dff02a0147730a6ecc63a9451c04e94662833e6",
+        "reviewedDigest": "cb246aa1de38fe9d9284a043a137e20fc3caa7f400f806a44db6fa1d6444d36a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento non quantificato",
+      "reviewedRecordSha256": "cb246aa1de38fe9d9284a043a137e20fc3caa7f400f806a44db6fa1d6444d36a",
+      "serves": "18 pezzi",
+      "source": "https://ricette.giallozafferano.it/Involtini-di-verza-ripieni-di-verdura.html",
+      "steps": [
+        "Lavare le verdure; pelare le carote e ridurre carote e zucchine a cubetti di 0,5 cm. Privare la zucca di buccia, semi e filamenti e tagliarla della stessa misura (il metodo indica 100 g di polpa pulita).",
+        "Affettare il porro e soffriggerlo con l'olio, le carote e la zucca per 4 minuti, mescolando. Unire le zucchine e cuocere ancora 4–5 minuti; salare e pepare.",
+        "Dorare a parte 20 g di pancetta per circa 3 minuti, fino a renderla croccante, quindi tritarla. Dividere le verdure in parti uguali; aggiungere le noci tritate a entrambe e la pancetta tritata soltanto a una.",
+        "Lavare 9 foglie di verza, lessarle in acqua salata per 5 minuti, scolarle e raffreddarle su un vassoio. Asportare la costa centrale con un taglio a triangolo e dimezzare ogni foglia.",
+        "Distribuire un cucchiaio di ripieno su ciascuna mezza foglia; ripiegare a pacchetto. Avvolgere gli involtini con carne nelle fettine di pancetta rimaste.",
+        "Sbollentare una foglia di porro per 2 minuti, scolarla e raffreddarla completamente. Ricavarne strisce larghe 0,5 cm e annodarle attorno ai pacchetti senza carne.",
+        "Scaldare un filo d'olio in padella e rosolare prima gli involtini di verdure e poi quelli con pancetta, 1 minuto per lato; salare e girare con una pinza. Servire caldi quando prendono colore."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "25 min (testata); 25–30 min in forno",
+      "description": "Gusci di meringa alle mandorle e aneto con farcitura di salmone affumicato e robiola.",
+      "id": "GZ-02780",
+      "ingredients": [
+        "Albumi 50 g",
+        "Farina di mandorle 50 g",
+        "Zucchero a velo 100 g",
+        "Acqua 50 g",
+        "Zucchero semolato 100 g",
+        "Aneto secco 1 cucchiaino",
+        "Sale fino q.b. (gusci)",
+        "Pepe nero q.b. (gusci)",
+        "Salmone affumicato 200 g (mousse)",
+        "Robiola 200 g (mousse)",
+        "Sale fino q.b. (mousse)",
+        "Pepe nero q.b. (mousse)",
+        "Aneto fresco 1 pizzico (mousse)"
+      ],
+      "name": "Macaron salati al salmone e aneto",
+      "notes": [
+        "La fonte sconsiglia il forno statico e il congelamento. Indica fino a 2 giorni in contenitore ermetico al riparo dall'umidità; conservare il prodotto farcito al freddo.",
+        "La fonte riporta per la mousse separata fino a 5 giorni in frigorifero con pellicola a contatto; dato della fonte, non verifica autonoma di sicurezza alimentare.",
+        "Per un gusto meno piccante usare pepe soltanto nei gusci. La fonte riconduce i macaron alla Francia, senza attribuire una provenienza specifica a questa variante salata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min (testata); 25–30 min in forno",
+        "prep": "25 min",
+        "rest": "Almeno 20 min asciugatura; raffreddamento non quantificato"
+      },
+      "originalTitle": "Macaron salados de salmón y eneldo",
+      "originalYield": "30 macaron (circa 60 gusci)",
+      "pdfPage": 626,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "cc3fb042516f5e9450a377a6ccdf8928fe248a73fa4182982b1c8d9d9251efd0",
+        "previousAppSha256": "cc3fb042516f5e9450a377a6ccdf8928fe248a73fa4182982b1c8d9d9251efd0",
+        "reviewedDigest": "716740e3c66ae1328fd2ffd1eda2a5a25d52b285f133451c56bc4dbf5d0db4ce"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 20 min asciugatura; raffreddamento non quantificato",
+      "reviewedRecordSha256": "716740e3c66ae1328fd2ffd1eda2a5a25d52b285f133451c56bc4dbf5d0db4ce",
+      "serves": "30 macaron (circa 60 gusci)",
+      "source": "https://www.giallozafferano.es/recetas/macaron-salados-de-salmon-y-eneldo.html",
+      "steps": [
+        "Setacciare farina di mandorle e zucchero a velo, unire sale e aneto secco.",
+        "Montare gli albumi a velocità media. Sciogliere a fuoco dolce acqua e zucchero semolato; a 116 °C versare lo sciroppo a filo sugli albumi già spumosi. Montare fino a raffreddamento e consistenza soda.",
+        "Incorporare le polveri con una spatola dal basso verso l'alto.",
+        "Con sac à poche e bocchetta liscia da 12 mm formare su carta forno circa 60 dischi di 3 cm, distanziati almeno 2–3 cm. Battere delicatamente la teglia per appiattirli.",
+        "Cospargere i dischi di pepe macinato e asciugarli almeno 20 minuti a temperatura ambiente. Infornare a 145 °C ventilato già caldo per 25–30 minuti; raffreddare i gusci.",
+        "Frullare il salmone in pezzi con la robiola, sale e pepe fino a una mousse densa e liscia; trasferire in una ciotola e incorporare l'aneto fresco tritato.",
+        "Con il sac à poche distribuire la mousse sulle basi piatte di metà dei gusci, accoppiarli e premere appena per far aderire. Si ottengono 30 macaron."
+      ],
+      "temperature": "Sciroppo 116 °C; forno ventilato 145 °C"
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "50 min (totale dichiarato)",
+      "description": "Quiche di pere saltate nel burro e fontina, con brisée aromatizzata alla salvia.",
+      "id": "GZ-00052",
+      "ingredients": [
+        "Farina 00 200 g (brisée)",
+        "Burro freddo 100 g (brisée)",
+        "Acqua fredda 30 g (brisée)",
+        "Tuorlo 1 (brisée)",
+        "Salvia 8 foglie",
+        "Sale fino 1 pizzico (brisée)",
+        "Pere Bosc/Kaiser 500 g (peso da pulire)",
+        "Fontina 250 g",
+        "Latte intero 100 g",
+        "Panna fresca liquida 100 g",
+        "Uovo 1 (ripieno)",
+        "Tuorlo 1 (ripieno)",
+        "Burro 30 g (ripieno)",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Quiche con pere, salvia e fontina",
+      "notes": [
+        "La fonte inglese riporta Bosc nella lista e Kaiser nella presentazione; preservata la doppia denominazione. Il forno dura 40–45 minuti, la testata dichiara cottura 50 minuti.",
+        "Torta conservabile fino a 2 giorni in frigorifero; brisée al massimo un paio di giorni in contenitore chiuso o congelata per un mese.",
+        "Varianti documentate: taleggio o emmental al posto della fontina; mele Granny Smith al posto delle pere."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "50 min (totale dichiarato)",
+        "prep": "30 min",
+        "rest": "30 min in frigorifero"
+      },
+      "originalTitle": "Pear, Sage and Fontina Quiche",
+      "originalYield": "6 persone",
+      "pdfPage": 49,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b39359e284006ad9bdb9e5270f11455dc08ae1b7f0234bdd0b297b6bb5788337",
+        "previousAppSha256": "b39359e284006ad9bdb9e5270f11455dc08ae1b7f0234bdd0b297b6bb5788337",
+        "reviewedDigest": "cfadf70b2b4bcd421d82fc1426c9a2e08e6f996a96e275487302c854c7fb1840"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min in frigorifero",
+      "reviewedRecordSha256": "cfadf70b2b4bcd421d82fc1426c9a2e08e6f996a96e275487302c854c7fb1840",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/pear-sage-and-fontina-quiche.html",
+      "steps": [
+        "Riunire farina, burro freddo a cubetti, salvia tritata e tuorlo; aggiungere acqua fredda e sale, lavorare rapidamente a mano fino a un impasto liscio. Avvolgere e refrigerare 30 minuti.",
+        "Sbucciare, mondare e tagliare a spicchi le pere, eliminando i torsoli. Sciogliere il burro del ripieno in padella e saltare le pere a fuoco alto qualche minuto; intiepidire.",
+        "Sbattere l'uovo intero, il tuorlo, la panna e il latte con sale e pepe. Affettare la fontina.",
+        "Stendere la brisée, rivestire uno stampo da crostata, premere sul fondo e sui bordi, rifilare e bucherellare la base.",
+        "Distribuire pere e fontina, versare il composto liquido. Cuocere in forno statico preriscaldato a 180 °C (356 °F nella fonte inglese) per 40–45 minuti, fino a doratura. Intiepidire prima di servire."
+      ],
+      "temperature": "Forno statico 180 °C / 356 °F"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "60 min (totale dichiarato)",
+      "description": "Quiche di verdure, prosciutto cotto, scamorza, uova e panna in un guscio di brisée.",
+      "id": "GZ-00054",
+      "ingredients": [
+        "Pasta brisée rotonda 1 rotolo",
+        "Peperoni 100 g",
+        "Zucchine 100 g",
+        "Carote 100 g",
+        "Scamorza bianca 150 g",
+        "Prosciutto cotto a cubetti 200 g",
+        "Parmigiano Reggiano DOP 100 g",
+        "Panna fresca liquida 200 g",
+        "Uova medie 3",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Noce moscata q.b.",
+        "Olio extravergine d'oliva q.b.",
+        "Erba cipollina q.b.",
+        "Panna fresca liquida q.b. (per spennellare)"
+      ],
+      "name": "Quiche svuotafrigo",
+      "notes": [
+        "La lista e la presentazione specificano pasta brisée, ma il metodo usa la parola sfoglia: mantenuta la brisée del dosaggio e segnalata la discrepanza. La fonte indica 60 min complessivi, 8 min padella e 40+10 min forno.",
+        "Fino a 2 giorni in frigorifero in recipiente ermetico; congelabile intera o a fette.",
+        "Varianti suggerite: olive, pomodori secchi, pecorino, salame a cubetti, emmental e verdure di stagione. La fonte descrive lo stile francese, non un'origine nazionale specifica della ricetta."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min (totale dichiarato)",
+        "prep": "20 min",
+        "rest": "Raffreddamento verdure non quantificato"
+      },
+      "originalTitle": "Quiche svuotafrigo",
+      "originalYield": "4 persone",
+      "pdfPage": 50,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "233be7450f62b81d9c3d3f5ed170b84198f77c75de2256782a10b0bcc4dceaeb",
+        "previousAppSha256": "233be7450f62b81d9c3d3f5ed170b84198f77c75de2256782a10b0bcc4dceaeb",
+        "reviewedDigest": "576597275512f456f716f66b6c02900ad3bdd61f9214422d702b6c7d376f3209"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento verdure non quantificato",
+      "reviewedRecordSha256": "576597275512f456f716f66b6c02900ad3bdd61f9214422d702b6c7d376f3209",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Quiche-svuotafrigo.html",
+      "steps": [
+        "Lavare le verdure; pelare le carote, togliere semi e filamenti ai peperoni e spuntare le zucchine. Tagliarle tutte in cubetti di 1 cm.",
+        "Scaldare un filo d'olio, saltare le verdure con sale e pepe a fiamma medio-alta circa 8 minuti; spegnere e far raffreddare.",
+        "Sbattere panna e uova, incorporare il Parmigiano grattugiato e la noce moscata. Tagliare la scamorza a cubetti; incorporare in ordine prosciutto, scamorza, verdure, quindi erba cipollina tritata.",
+        "Srotolare la brisée indicata negli ingredienti e foderare uno stampo da 24 cm con fondo removibile; bucherellare la base, versare il ripieno e pizzicare i bordi verso l'interno.",
+        "Spennellare i bordi con panna; cuocere in forno statico preriscaldato a 180 °C per 40 minuti sul ripiano basso, senza contatto diretto col fondo. Passare a ventilato per altri 10 minuti."
+      ],
+      "temperature": "180 °C statico, poi ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "1 h 20 min",
+      "description": "Torta salata con brisée al timo, bieta, zucca e crema di uova, panna e formaggio.",
+      "id": "GZ-00051",
+      "ingredients": [
+        "Farina 00 200 g (brisée)",
+        "Burro freddo 170 g (brisée)",
+        "Acqua fredda 70 g (brisée)",
+        "Sale 1 pizzico (brisée)",
+        "Timo 1 rametto (brisée)",
+        "Zucca 1 kg",
+        "Bietole 700 g",
+        "Uova medie 3",
+        "Panna fresca liquida 100 g",
+        "Grana Padano DOP 70 g",
+        "Olio extravergine d'oliva 40 g",
+        "Sale q.b.",
+        "Pepe q.b.",
+        "Rosmarino 1 rametto",
+        "Aglio 2 spicchi"
+      ],
+      "name": "Quiche alla zucca e bieta",
+      "notes": [
+        "La fonte indica burro e farina per lo stampo senza dose separata.",
+        "Conservazione: 2 giorni in frigorifero, coperta; congelabile cotta se gli ingredienti erano freschi e non decongelati. Brisée congelabile per 2–3 settimane.",
+        "Varianti documentate: rosmarino nella brisée, pecorino al posto del Grana, cubetti di formaggio morbido. La quiche è presentata come preparazione francese; non è attestato un paese specifico per la variante."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 20 min",
+        "prep": "20 min",
+        "rest": "Almeno 40 min in frigorifero; alcuni minuti dopo cottura"
+      },
+      "originalTitle": "Quiche alla zucca e bieta",
+      "originalYield": "6 persone",
+      "pdfPage": 48,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "11520cddd07af723db32ff9ee7b84def2179c911c60293eadcb104b94ae3cab0",
+        "previousAppSha256": "11520cddd07af723db32ff9ee7b84def2179c911c60293eadcb104b94ae3cab0",
+        "reviewedDigest": "91d8e4a6c5eb7a6a733c0b1cf650e7fe23fb2d44ac386e934a7ec37519cf28fd"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 40 min in frigorifero; alcuni minuti dopo cottura",
+      "reviewedRecordSha256": "91d8e4a6c5eb7a6a733c0b1cf650e7fe23fb2d44ac386e934a7ec37519cf28fd",
+      "serves": "6 persone",
+      "source": "https://ricette.giallozafferano.it/Quiche-alla-zucca-e-bieta.html",
+      "steps": [
+        "Con la foglia della planetaria lavorare farina, burro freddo a pezzi e sale; incorporare gradualmente l'acqua ghiacciata e impastare circa 3 minuti, aggiungendo il timo lavato e asciugato. Ottenere un composto liscio.",
+        "Formare un panetto appiattito, avvolgerlo e lasciarlo in frigorifero almeno 40 minuti.",
+        "Tritare il rosmarino, pelare la zucca e tagliarla in cubetti uniformi. Dorare uno spicchio d'aglio con 20 g d'olio, unire zucca, rosmarino, sale e pepe; coprire e cuocere dolcemente circa 20 minuti. Eliminare l'aglio.",
+        "Lavare le bietole e accorciare le foglie se necessario. Dorare l'altro spicchio d'aglio con gli altri 20 g d'olio, aggiungere le bietole, coprire e cuocere a fuoco molto basso per 5–6 minuti. Togliere l'aglio, condire e scolare accuratamente.",
+        "Sbattere le uova con sale e pepe; incorporare la panna a filo e il Grana grattugiato.",
+        "Stendere la brisée a 2 mm su piano infarinato. Rivestire uno stampo imburrato e infarinato di 24 cm, preferibilmente con fondo forato; far aderire e rifilare.",
+        "Disporre prima la bieta ben scolata, poi la zucca; coprire con il composto di uova. Cuocere in forno preriscaldato a 170 °C statico per 60 minuti oppure a 150 °C ventilato per 50 minuti; lasciare assestare alcuni minuti."
+      ],
+      "temperature": "Forno statico 170 °C o ventilato 150 °C"
     }
   ]
 }
