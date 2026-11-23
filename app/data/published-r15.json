@@ -9483,6 +9483,252 @@
         "previousAppSha256": "c232c97d0fc1f075a0c7798723ea7700eee706284758bea2dda87893b5311310",
         "reviewedDigest": "3d276bcced48aa3cccbbb66ab986d1bd54d653bb81928acc75e29dca07ae909c"
       }
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "5 min",
+      "description": "Crostino di pane tostato al grill, paté di tofu e pistacchi, ortaggi, germogli di barbabietola e olive taggiasche.",
+      "id": "GZ-00026",
+      "ingredients": [
+        "Pane casereccio (4 fette): 200 g",
+        "Olio extravergine di oliva per il paté: 100 g",
+        "Tofu: 100 g",
+        "Pomodorini gialli: 100 g",
+        "Carote: 80 g",
+        "Pistacchi non salati: 50 g",
+        "Olive taggiasche: 30 g",
+        "Germogli di barbabietola: 30 g",
+        "Basilico per il paté: 10 g",
+        "Sale fino: q.b.",
+        "PER CONDIRE IL PANE — Origano: q.b.",
+        "PER CONDIRE IL PANE — Olio extravergine di oliva: q.b.",
+        "PER GUARNIRE — Basilico: q.b."
+      ],
+      "name": "Crostino vegano",
+      "notes": [
+        "La fonte raccomanda il consumo immediato e sconsiglia il congelamento.",
+        "Variante facoltativa: sostituire i germogli di barbabietola con germogli di soia oppure julienne di barbabietola cruda, preventivamente immersa in acqua fredda per fissare il colore. Non sono dichiarate dosi alternative.",
+        "La dose di 100 g d'olio si riferisce al paté e viene incorporata in due frazioni (1/3 iniziale, residuo dopo); l'olio q.b. per il pane è distinto."
+      ],
+      "origin": "Origine geografica della preparazione specifica non dichiarata dalla fonte.",
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "20 min",
+        "rest": "Non previsto dalla fonte"
+      },
+      "originalTitle": "Crostino vegano",
+      "originalYield": "4 crostini (4 pezzi secondo la fonte)",
+      "pdfPage": 36,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "cbb92353a1c94e7c79574e67dddd6c56b25a7eaa96fd7322de7fbcaab1b943d6",
+        "previousAppSha256": "cbb92353a1c94e7c79574e67dddd6c56b25a7eaa96fd7322de7fbcaab1b943d6",
+        "reviewedDigest": "95aaaf1444609ff59b1cdf58fe14bf9cb96789903a3d8650b14ada54dcf80ed3"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto dalla fonte",
+      "reviewedRecordSha256": "95aaaf1444609ff59b1cdf58fe14bf9cb96789903a3d8650b14ada54dcf80ed3",
+      "serves": "4 crostini (4 pezzi secondo la fonte)",
+      "source": "https://ricette.giallozafferano.it/antipasto-vegano.html",
+      "steps": [
+        "Disporre le 4 fette di pane (200 g) su una teglia con carta forno, condire con olio extravergine e origano q.b., poi tostare per 5 minuti in forno già caldo, funzione grill a 240 °C.",
+        "Tagliare il tofu a cubetti e riservarne una parte per la guarnizione. Mettere il resto nel mixer con i 50 g di pistacchi e i 10 g di basilico.",
+        "Versare nel mixer inizialmente un terzo dei 100 g di olio previsti per il paté, frullare a impulsi, aggiungere gradualmente la restante quantità e regolare di sale. Continuare a impulsi finché si ottiene un paté omogeneo e cremoso.",
+        "Lavare e pelare le carote, tagliarle a nastri sottili con il pelapatate e ricavare da questi una julienne. Lavare i pomodorini gialli e dividerli in spicchi.",
+        "Spalmare il paté di tofu e pistacchi sul pane, distribuire carote a julienne, germogli di barbabietola, pomodorini e cubetti di tofu riservati. Completare con 30 g di olive taggiasche, basilico fresco, poco olio e sale, quindi tagliare i crostini a metà e servire."
+      ],
+      "temperature": "Forno già caldo, modalità grill a 240 °C per 5 minuti."
+    },
+    {
+      "author": "Diletta Secco",
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "30 min",
+      "description": "Fagottini di fiori di zucca con verdure, Parmigiano e provola cotti in forno.",
+      "id": "GZ-00028",
+      "ingredients": [
+        "Fiori di zucca: 16",
+        "Zucchine: 3",
+        "Patate: 3",
+        "Aglio: 1 spicchio",
+        "Origano fresco: q.b.",
+        "Prezzemolo: q.b.",
+        "Olio extravergine di oliva: q.b.",
+        "Sale fino: q.b.",
+        "Uovo: 1",
+        "Parmigiano Reggiano grattugiato: 50 g",
+        "Pangrattato: 20 g",
+        "Provola: 50 g"
+      ],
+      "name": "Fagottini di fiori di zucca",
+      "notes": [
+        "La fonte consiglia di conservare i fagottini in frigorifero in contenitore chiuso per un paio di giorni e sconsiglia il congelamento.",
+        "Se il ripieno è troppo molle o acquoso, aggiungere qualche cucchiaio supplementare di pangrattato, senza inventare una dose fissa.",
+        "La fonte attribuisce la preparazione a Diletta Secco. Non è dichiarata una provenienza regionale specifica."
+      ],
+      "origin": "Origine geografica specifica della formulazione non dichiarata dalla fonte.",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "40 min",
+        "rest": "Raffreddamento delle verdure richiesto, durata non quantificata"
+      },
+      "originalTitle": "Fagottini di fiori di zucca",
+      "originalYield": "16 fiori farciti; numero di persone non dichiarato",
+      "pdfPage": 37,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "99185dac3eb92d6903a41d72366fa8bee6a832fe5199d9d45c92f8136416e1cf",
+        "previousAppSha256": "99185dac3eb92d6903a41d72366fa8bee6a832fe5199d9d45c92f8136416e1cf",
+        "reviewedDigest": "b95d019ac74751914b676e52c7253b1459d41c63065826222778d999868ca0ca"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento delle verdure richiesto, durata non quantificata",
+      "reviewedRecordSha256": "b95d019ac74751914b676e52c7253b1459d41c63065826222778d999868ca0ca",
+      "serves": "16 fiori farciti; numero di persone non dichiarato",
+      "source": "https://www.giallozafferano.com/recipes/Zucchini-flower-bundles.html",
+      "steps": [
+        "Pulire i 16 fiori di zucca eliminando gambo, pistillo e sepali appuntiti; aprire ogni fiore in quattro petali separati.",
+        "Lavare le 3 zucchine e tagliarle a dadini. Sbucciare le 3 patate e ridurle a dadini. Schiacciare 1 spicchio d'aglio e farlo rosolare in padella larga con poco olio.",
+        "Aggiungere prima le zucchine e poi le patate, salare per favorire il rilascio d'acqua e insaporire con origano fresco q.b. Coprire e cuocere a fiamma media per circa 15 minuti, mescolando di tanto in tanto.",
+        "Eliminare l'aglio, trasferire le verdure in una ciotola, farle raffreddare e schiacciarle grossolanamente.",
+        "Incorporare 1 uovo, 50 g di Parmigiano grattugiato, prezzemolo tritato e 20 g di pangrattato. Regolare di sale e mescolare. Se il composto è troppo umido, la fonte consiglia di aggiungere ancora qualche cucchiaio di pangrattato, quantità aggiuntiva non prefissata.",
+        "Tagliare i 50 g di provola a cubetti. Formare piccole palline di ripieno con uno o due cubetti di provola al centro, disporre ciascuna pallina al centro di un fiore e avvolgerla con i petali fino a coprirla.",
+        "Disporre i fagottini su teglia con carta forno, condire con un filo d'olio e sale e cuocere in forno statico preriscaldato a 200 °C per 15–20 minuti. Servire dopo cottura."
+      ],
+      "temperature": "Verdure a fiamma media per circa 15 minuti; forno statico preriscaldato a 200 °C per 15–20 minuti."
+    },
+    {
+      "author": "Cooker Girl",
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "40 min",
+      "description": "Dodici crostini di polenta grigliata con tre guarnizioni separate: salamella e stracchino, cavolo nero e funghi, spinaci e Roquefort.",
+      "id": "GZ-00133",
+      "ingredients": [
+        "BASE DI POLENTA — Polenta istantanea: 250 g",
+        "BASE DI POLENTA — Acqua: 1 l",
+        "BASE DI POLENTA — Olio extravergine: 1 cucchiaio",
+        "BASE DI POLENTA — Sale fino: q.b.",
+        "GUARNIZIONE SALAMELLA — Salamella: q.b.",
+        "GUARNIZIONE SALAMELLA — Stracchino: q.b.",
+        "GUARNIZIONE SALAMELLA — Olio extravergine: q.b.",
+        "GUARNIZIONE CAVOLO/FUNGHI — Cavolo nero: q.b.",
+        "GUARNIZIONE CAVOLO/FUNGHI — Funghi champignon: q.b.",
+        "GUARNIZIONE CAVOLO/FUNGHI — Toma: q.b.",
+        "GUARNIZIONE CAVOLO/FUNGHI — Nocciole: q.b.",
+        "GUARNIZIONE CAVOLO/FUNGHI — Burro: q.b.",
+        "GUARNIZIONE CAVOLO/FUNGHI — Aglio: 2 spicchi",
+        "GUARNIZIONE CAVOLO/FUNGHI — Timo: q.b.",
+        "GUARNIZIONE CAVOLO/FUNGHI — Sale e olio extravergine: q.b.",
+        "GUARNIZIONE SPINACI — Spinaci novelli: q.b.",
+        "GUARNIZIONE SPINACI — Roquefort: q.b.",
+        "GUARNIZIONE SPINACI — Chicchi di melagrana: q.b.",
+        "GUARNIZIONE SPINACI — Aglio: 1 spicchio",
+        "GUARNIZIONE SPINACI — Sale e olio extravergine: q.b."
+      ],
+      "name": "Crostini rustici di polenta",
+      "notes": [
+        "La polenta ancora nello stampo può essere conservata in frigorifero per un giorno; i crostini già assemblati vanno consumati subito.",
+        "La fonte propone altre combinazioni facoltative con fontina e speck oppure salsiccia sbriciolata sfumata con vino rosso. Dosi non dichiarate.",
+        "Le tre guarnizioni hanno ingredienti e lavorazioni distinte: non sono versioni alternative da fondere automaticamente in un unico impasto.",
+        "Non attribuire una provenienza regionale precisa a questa composizione, non dichiarata dalla fonte."
+      ],
+      "origin": "Origine geografica specifica della formulazione non dichiarata dalla fonte.",
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "40 min",
+        "rest": "Almeno 1 ora per rassodare la polenta"
+      },
+      "originalTitle": "Crostini rustici di polenta",
+      "originalYield": "12 crostini",
+      "pdfPage": 35,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b404ede6eb63a07de4d055f1d313aa17fa0e5f7c74bf2c0df4c3770d14558821",
+        "previousAppSha256": "b404ede6eb63a07de4d055f1d313aa17fa0e5f7c74bf2c0df4c3770d14558821",
+        "reviewedDigest": "5a6dd39eb163bcc55116b8651a2041655f6b7864ad6e5a33e669814217c57e1a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 1 ora per rassodare la polenta",
+      "reviewedRecordSha256": "5a6dd39eb163bcc55116b8651a2041655f6b7864ad6e5a33e669814217c57e1a",
+      "serves": "12 crostini",
+      "source": "https://www.giallozafferano.com/recipes/rustic-polenta-crostini.html",
+      "steps": [
+        "Portare a bollore 1 litro d'acqua in una casseruola, salare, unire 1 cucchiaio di olio e versare a pioggia i 250 g di polenta istantanea mescolando con la frusta per evitare grumi. Cuocerla fino alla consistenza voluta.",
+        "Distribuire la polenta in uno stampo da plumcake da circa 25 × 13 cm leggermente unto, livellare e farla rassodare per almeno un'ora. La fonte ammette il riposo a temperatura ambiente; se fa caldo o si prepara in anticipo, consiglia il frigorifero.",
+        "Per la prima guarnizione dividere le salamelle nel senso della lunghezza, scaldare un filo d'olio e rosolarle girandole finché ben dorate; la fonte non dichiara un tempo preciso.",
+        "Per la seconda guarnizione saltare le foglie di cavolo nero con 1 spicchio d'aglio mantenendole croccanti; cuocere nella stessa padella gli champignon in quarti con burro, l'altro spicchio d'aglio e timo.",
+        "Per la terza guarnizione saltare gli spinaci novelli con 1 spicchio d'aglio per 2–3 minuti.",
+        "Sformare la polenta rafferma, ricavare 12 fette spesse circa 2 cm, spennellare d'olio e grigliare su piastra ben calda leggermente oliata. Lasciare dorare 2–3 minuti senza girarle, poi voltarle e tostare anche l'altro lato.",
+        "Comporre separatamente tre varianti: salamella cotta con stracchino e pepe; spinaci con Roquefort sbriciolato e chicchi di melagrana; funghi con cavolo nero, lamelle di toma e nocciole tostate. Servire subito."
+      ],
+      "temperature": "Griglia/piastra ben calda; temperatura in gradi non dichiarata."
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "25 min",
+      "description": "Crostini con baccalà mantecato, olio extravergine, prezzemolo e scorza di limone.",
+      "id": "GZ-01559",
+      "ingredients": [
+        "PER IL BACCALÀ — Baccalà dissalato: 300 g",
+        "PER IL BACCALÀ — Olio extravergine di oliva: 100 g",
+        "PER IL BACCALÀ — Sale: q.b.",
+        "PER IL BACCALÀ — Pepe nero: q.b.",
+        "PER I CROSTINI — Pane ciabatta o baguette: 8 fette",
+        "PER I CROSTINI — Olio extravergine di oliva: q.b.",
+        "PER COMPLETARE — Prezzemolo da tritare: q.b.",
+        "PER COMPLETARE — Scorza di limone da grattugiare: 1 limone"
+      ],
+      "name": "Crostini con baccalà mantecato",
+      "notes": [
+        "La fonte consiglia di consumare i crostini assemblati appena pronti. La crema di baccalà si conserva in frigorifero, in recipiente chiuso, per 1–2 giorni.",
+        "Guarnizioni facoltative proposte dalla fonte: olive nere o verdi a rondelle, pomodorini confit oppure cipolle caramellate; quantità non dichiarate.",
+        "La fonte attribuisce la ricetta a Sebastian Fitarau e documenta espressamente l'associazione gastronomica con Veneto e Venezia, non l'origine puntuale di questa variante."
+      ],
+      "origin": "Italia, Veneto/Venezia: contesto territoriale documentato dalla presentazione della fonte.",
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "15 min",
+        "rest": "Non indicato dalla fonte"
+      },
+      "originalTitle": "Crostini con baccalà mantecato",
+      "originalYield": "4 persone",
+      "pdfPage": 34,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b4adfe792b5161ddf6c0fc7a96318cc936bc64e93198873ed248fe5388dec2ee",
+        "previousAppSha256": "b4adfe792b5161ddf6c0fc7a96318cc936bc64e93198873ed248fe5388dec2ee",
+        "reviewedDigest": "9d24197ead6515dc4976b07d85ffd43c5b002bada76101ea1f00e179167e1b86"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non indicato dalla fonte",
+      "reviewedRecordSha256": "9d24197ead6515dc4976b07d85ffd43c5b002bada76101ea1f00e179167e1b86",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/crostini-with-creamed-salt-cod.html",
+      "steps": [
+        "Mettere il baccalà già dissalato in una pentola di acqua fredda, portare a bollore e cuocere per 15–20 minuti finché diventa tenero, eliminando la schiuma che si forma in superficie.",
+        "Nel frattempo tagliare le 8 fette di pane a metà, sistemarle su una teglia rivestita di carta forno e condirle con poco olio extravergine. Tostarle in forno ventilato a circa 200 °C; la fonte non precisa la durata della tostatura.",
+        "Tritare il prezzemolo. Scolare il baccalà, lasciarlo intiepidire, eliminare pelle e spine, quindi sfaldarlo con le mani.",
+        "Trasferire il baccalà in planetaria con frusta piatta e lavorarlo incorporando gradualmente i 100 g di olio extravergine, finché la crema risulta liscia e spumosa. Se troppo asciutta, aggiungere poca acqua di cottura del pesce per volta; in alternativa usare fruste elettriche o frullatore.",
+        "Regolare di sale e pepe, formare quenelle con due cucchiai e distribuirle sui crostini. Completare con prezzemolo tritato e scorza di limone grattugiata, servendo appena preparato."
+      ],
+      "temperature": "Tostatura del pane in forno ventilato a circa 200 °C; tempo non dichiarato."
     }
   ]
 }
