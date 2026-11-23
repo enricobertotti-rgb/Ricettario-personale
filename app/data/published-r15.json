@@ -9900,6 +9900,339 @@
         "previousAppSha256": "cc675bba1a9aae39dceb5e8b0e46e68132094fbcfd29504f8b88701ee91c4e0d",
         "reviewedDigest": "a4ee3c0f3f92ef2e3d954eb5679ef4baca72f980bbbbaa6770cad02fd60c28b7"
       }
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "5 min",
+      "description": "Polpette di fave secche, aromatizzate e fritte.",
+      "id": "GZ-00031",
+      "ingredients": [
+        "Fave secche 500 g",
+        "acqua 35 g",
+        "farina 00 20 g",
+        "prezzemolo 10 g",
+        "cipolla 1",
+        "aglio 1 spicchio",
+        "sale fino 5 g",
+        "cardamomo 2 g",
+        "bicarbonato 2 g",
+        "cumino 1 g",
+        "pepe nero q.b.",
+        "olio di arachidi q.b. per friggere."
+      ],
+      "name": "Falafel di fave",
+      "notes": [
+        "Fonte: 40 pezzi dichiarati e circa 30 g per pezzo nel metodo; valori riportati senza ricalcolo.",
+        "Pepe nero elencato ma fase di aggiunta non indicata; sale di 5 g in elenco e salatura facoltativa finale nel metodo.",
+        "Secondo la fonte, consumo immediato o al massimo un giorno in frigorifero; riscaldare prima del servizio. Non consiglia il forno per questo impasto.",
+        "Varianti facoltative: sostituire le spezie con noce moscata o aggiungere menta fresca."
+      ],
+      "origin": "Tradizione del mondo arabo; l'origine egizia è citata come ipotesi, non come fatto certo.",
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "30 min",
+        "rest": "Una notte in ammollo in acqua fredda; circa 12 ore secondo la scheda storica."
+      },
+      "originalTitle": "Falafel di fave",
+      "originalYield": "40 falafel",
+      "pdfPage": 40,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9b3a0f0db90bc494da4d8b9a7cb7c32c47ea8a0a526ebc7041ca29c301663c05",
+        "previousAppSha256": "9b3a0f0db90bc494da4d8b9a7cb7c32c47ea8a0a526ebc7041ca29c301663c05",
+        "reviewedDigest": "cdf930c962134e52215dd5058bcfe341c0358254e3502f40ab811aa7cbcc2d8c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Una notte in ammollo in acqua fredda; circa 12 ore secondo la scheda storica.",
+      "reviewedRecordSha256": "cdf930c962134e52215dd5058bcfe341c0358254e3502f40ab811aa7cbcc2d8c",
+      "serves": "40 falafel",
+      "source": "https://ricette.giallozafferano.it/Falafel-di-fave.html",
+      "steps": [
+        "Lasciare le fave secche in acqua fredda per una notte. Scolarle e asciugarle con un canovaccio.",
+        "Frullare le fave crude con aglio, cipolla tagliata grossolanamente e prezzemolo finché il composto è compatto.",
+        "Sciogliere il bicarbonato nei 35 g di acqua e incorporarlo; aggiungere cumino e cardamomo, poi la farina per ultima. Frullare brevemente, lasciando la massa granulosa.",
+        "Scaldare l'olio di arachidi senza superare 180 °C. Formare dischetti leggermente schiacciati o usare lo stampo da falafel, pressando l'impasto (la fonte indica circa 30 g per pezzo).",
+        "Friggere, voltando ogni tanto, fino a doratura. Scolare su carta assorbente, salare a piacere e servire caldi."
+      ],
+      "temperature": "Olio fino a 180 °C."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "10 min",
+      "description": "Polpettine speziate di lupini, tahina e sesamo.",
+      "id": "GZ-00032",
+      "ingredients": [
+        "Lupini 300 g",
+        "pangrattato 80 g",
+        "tahina 40 g",
+        "uovo 1",
+        "semi di sesamo 10 g",
+        "cumino in polvere 1/4 cucchiaino",
+        "paprika dolce 1/2 cucchiaino",
+        "curcuma in polvere 1/2 cucchiaino",
+        "prezzemolo q.b.",
+        "aneto q.b.",
+        "sale fino q.b.",
+        "olio di arachidi q.b. per friggere."
+      ],
+      "name": "Falafel di lupini",
+      "notes": [
+        "La fonte suggerisce di servire con salsa allo yogurt, limone e menta, senza dosi per l'accompagnamento.",
+        "Variante senza glutine: patata lessa dello stesso peso del pangrattato. Il forno non è consigliato per questa formulazione.",
+        "La fonte dichiara conservazione dei pezzi crudi per massimo 4–5 giorni in frigorifero o circa un mese congelati; dato della fonte, non validazione microbiologica indipendente."
+      ],
+      "origin": "Variante ispirata ai falafel mediorientali; origine nazionale della variante non documentata.",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Falafel di lupini",
+      "originalYield": "16 falafel",
+      "pdfPage": 41,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1794015f027e37ec896b75b971f668d5c558d0d7916ba8986219ddf47d6b8c36",
+        "previousAppSha256": "1794015f027e37ec896b75b971f668d5c558d0d7916ba8986219ddf47d6b8c36",
+        "reviewedDigest": "63d421c1c387a75087bec0b7249f930eb98d082287f5239876981266dae993a1"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "63d421c1c387a75087bec0b7249f930eb98d082287f5239876981266dae993a1",
+      "serves": "16 falafel",
+      "source": "https://ricette.giallozafferano.it/Falafel-di-lupini.html",
+      "steps": [
+        "Frullare i lupini con la buccia, la tahina e le tre spezie fino a ridurli in purea.",
+        "Unire sale, uovo, aneto e prezzemolo tritati; mescolare con una spatola.",
+        "Incorporare pangrattato e sesamo, lavorando a mano fino a omogeneità. Prelevare circa 30 g alla volta, formare palline e schiacciarle leggermente.",
+        "Portare l'olio di arachidi a circa 180 °C; friggere pochi pezzi per volta per circa 3 minuti, finché dorati.",
+        "Scolare su carta da frittura, aggiustare eventualmente di sale e servire caldi."
+      ],
+      "temperature": "Olio circa 180 °C; circa 3 minuti per frittura."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "5 min",
+      "description": "Bocconcini su dischetti di piadina tostati, con cetriolo e hummus di ceci, tahina e limone.",
+      "id": "GZ-00034",
+      "ingredients": [
+        "PER I FINGER FOOD — Cetrioli: 165 g",
+        "PER I FINGER FOOD — Piadine grandi: 2",
+        "PER I FINGER FOOD — Peperoncino fresco: 10 g",
+        "PER I FINGER FOOD — Finocchietto selvatico: q.b.",
+        "PER L'HUMMUS — Ceci precotti sgocciolati: 100 g",
+        "PER L'HUMMUS — Tahina: 30 g",
+        "PER L'HUMMUS — Succo di limone: 10 g",
+        "PER L'HUMMUS — Olio extravergine di oliva: 10 g",
+        "PER L'HUMMUS — Sale fino: q.b."
+      ],
+      "name": "Finger food di cetrioli e hummus",
+      "notes": [
+        "La fonte consiglia di consumare subito i finger food assemblati.",
+        "Come alternative facoltative, usare una base idonea senza glutine oppure sostituire l'hummus con crema di robiola, scorza di limone e paprika (variante con latticini, non vegana). Non sono dichiarate dosi per questa variante.",
+        "La fonte definisce l'hummus salsa mediorientale, ma non documenta una specifica origine nazionale dell'intero finger food."
+      ],
+      "origin": "Origine della composizione non dichiarata dalla fonte.",
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "15 min",
+        "rest": "Non previsto dalla fonte"
+      },
+      "originalTitle": "Finger food di cetrioli e hummus",
+      "originalYield": "16 pezzi",
+      "pdfPage": 43,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "edab4ae4b763c042e8c4421f07bdbeb15006c455b0d17a34dfb97fae6a710fa7",
+        "previousAppSha256": "edab4ae4b763c042e8c4421f07bdbeb15006c455b0d17a34dfb97fae6a710fa7",
+        "reviewedDigest": "4f79d5794ef7e5f386cc71ee464d165eeba85178f78a1ee709b2df7ba60ce6ca"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto dalla fonte",
+      "reviewedRecordSha256": "4f79d5794ef7e5f386cc71ee464d165eeba85178f78a1ee709b2df7ba60ce6ca",
+      "serves": "16 pezzi",
+      "source": "https://ricette.giallozafferano.it/Finger-food-di-cetrioli-e-hummus.html",
+      "steps": [
+        "Ricavare dalle 2 piadine grandi 16 dischi usando un coppapasta di 5 cm. Scaldare una piastra e tostare i dischi per 2 minuti su un lato e 1 minuto sull'altro; metterli da parte.",
+        "Tagliare 165 g di cetriolo, senza rimuovere la buccia, in rondelle spesse circa 1 cm.",
+        "Per l'hummus frullare 100 g di ceci precotti sgocciolati con 30 g di tahina e sale fino q.b.; aggiungere 10 g di succo di limone e 10 g di olio extravergine, continuando a frullare fino a ottenere una crema liscia e omogenea.",
+        "Rimuovere i semi dal peperoncino fresco (10 g) e tritarlo finemente.",
+        "Appoggiare una rondella di cetriolo su ognuno dei 16 dischetti di piadina, distribuire sopra un cucchiaino di hummus e completare con poco peperoncino e finocchietto selvatico q.b. Consumare appena preparati."
+      ],
+      "temperature": "Piastra calda; tostare i dischi 2 min sul primo lato e 1 min sull'altro; temperatura numerica non dichiarata."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "5 min",
+      "description": "Bevanda cremosa a base di latte, cacao e cioccolato fondente.",
+      "id": "GZ-03808",
+      "ingredients": [
+        "Latte intero 500 g",
+        "Cioccolato fondente 60–69% 120 g",
+        "Cacao amaro in polvere 20 g",
+        "Amido di mais 20 g",
+        "Zucchero 20 g"
+      ],
+      "name": "Cioccolata calda",
+      "notes": [
+        "Consumare subito; la fonte sconsiglia la conservazione.",
+        "Regolare la densità prolungando o abbreviando la cottura, oppure aggiungendo latte o panna se troppo densa.",
+        "Varianti: fecola al posto dell'amido (quantità non equivalente indicata), zucchero a velo o di canna; vaniglia, cannella o panna montata facoltative. Con cioccolato al latte, ridurre o omettere lo zucchero."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Hot chocolate",
+      "originalYield": "2 tazze",
+      "pdfPage": 61,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "bc12e08359251cfde89f310f9b654fdeaf43e334c86204b78aada355114ca5c9",
+        "previousAppSha256": "bc12e08359251cfde89f310f9b654fdeaf43e334c86204b78aada355114ca5c9",
+        "reviewedDigest": "db63d72e495f7b612bf0ef480e27971ea51355d883317d4b10aed56bdaa47b05"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "db63d72e495f7b612bf0ef480e27971ea51355d883317d4b10aed56bdaa47b05",
+      "serves": "2 tazze",
+      "source": "https://www.giallozafferano.com/recipes/Hot-chocolate.html",
+      "steps": [
+        "Tritare finemente il fondente e scioglierlo a bagnomaria a fiamma media, mescolando; tenerlo da parte.",
+        "Versare il latte in un pentolino e incorporarvi l'amido setacciato, poi il cacao, mescolando.",
+        "Scaldare sul fornello lavorando con la frusta; unire lo zucchero e riportare a ebollizione.",
+        "Incorporare il cioccolato fuso e mescolare fino alla consistenza voluta; versare subito nelle tazze."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "10 min",
+      "description": "Cioccolata densa con caffè di moka, brandy e panna montata.",
+      "id": "GZ-03809",
+      "ingredients": [
+        "Latte intero 400 g",
+        "Cioccolato fondente 120 g",
+        "Caffè da moka 30 g",
+        "Cacao amaro in polvere 20 g",
+        "Amido di mais 20 g",
+        "Zucchero 20 g",
+        "Brandy 10 g",
+        "Panna fresca liquida 80 g, per decorare",
+        "Per il servizio — cacao per spolverare e savoiardi: quantità non dichiarate dalla fonte"
+      ],
+      "name": "Cioccolata calda al caffè",
+      "notes": [
+        "La fonte raccomanda consumo immediato; caffè e brandy entrano fuori dal fuoco per conservarne l'aroma.",
+        "Varianti di servizio: omettere il brandy o accompagnare con amaretti sbriciolati al posto dei savoiardi.",
+        "Cacao per spolverare e savoiardi menzionati nel procedimento, ma non quantificati separatamente nell'elenco. Le dosi base in grammi sono quelle riportate dalla fonte; le misure volumetriche tradotte non sono state ricalcolate."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "5 min",
+        "rest": null
+      },
+      "originalTitle": "Coffee Hot Chocolate",
+      "originalYield": "2 persone",
+      "pdfPage": 62,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f4b78fcd5a5093bfdfbd3ec83387f7320e318a2052a50cfd453c4a7e2e1cea51",
+        "previousAppSha256": "f4b78fcd5a5093bfdfbd3ec83387f7320e318a2052a50cfd453c4a7e2e1cea51",
+        "reviewedDigest": "76d1f22eb9cf5ce38c2c6e5b4dc50eb58f4eb05aea1e1e100ba441d206424ff3"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "76d1f22eb9cf5ce38c2c6e5b4dc50eb58f4eb05aea1e1e100ba441d206424ff3",
+      "serves": "2 persone",
+      "source": "https://www.giallozafferano.com/recipes/coffee-hot-chocolate.html",
+      "steps": [
+        "Preparare il caffè di moka e tenere da parte i 30 g previsti; tritare il fondente.",
+        "Mescolare latte, amido, cacao e zucchero in un pentolino; portare a ebollizione a fuoco medio con la frusta per circa 4–5 minuti.",
+        "Quando il composto si addensa, incorporare il cioccolato tritato e continuare solo finché sciolto.",
+        "Fuori dal fuoco aggiungere brandy e caffè e amalgamare.",
+        "Montare la panna con le fruste elettriche e trasferirla in un sac à poche. Versare nelle tazze, guarnire con la panna e, se si segue il servizio della fonte, cacao spolverato e un savoiardo (quantità non dichiarate)."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "10 min",
+      "description": "Bevanda al cioccolato bianco, con due metodi di preparazione.",
+      "id": "GZ-03810",
+      "ingredients": [
+        "Latte intero 800 g",
+        "cioccolato bianco 75 g",
+        "zucchero 25 g",
+        "amido di mais 35 g"
+      ],
+      "name": "Cioccolata calda bianca",
+      "notes": [
+        "Conservare eventualmente il solo preparato secco in un barattolo ermetico al riparo da luce e calore per circa un mese secondo la fonte, non la bevanda pronta.",
+        "La fonte propone fecola di patate in quantità approssimativamente dimezzata rispetto all'amido, con diversa consistenza; cannella, scaglie di fondente o granella di nocciole facoltative.",
+        "Variante distinta suggerita dalla fonte per una tazza: latte 200 g, fondente 48 g, cacao 8 g, amido di mais 8 g, zucchero 8 g; non sostituisce le dosi della ricetta bianca."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Chocolate quente branco",
+      "originalYield": "4 tazze",
+      "pdfPage": 63,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "31819bae08c4898f20004d916db2c52db4e45cf2c9b9bdf1f0477d3d8a77cf74",
+        "previousAppSha256": "31819bae08c4898f20004d916db2c52db4e45cf2c9b9bdf1f0477d3d8a77cf74",
+        "reviewedDigest": "41cb0fa6899b57ac73f8eb11ebd440aa6f9ce1e47ee069d8b284577ddd7cbe8d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "41cb0fa6899b57ac73f8eb11ebd440aa6f9ce1e47ee069d8b284577ddd7cbe8d",
+      "serves": "4 tazze",
+      "source": "https://www.giallozafferano.com.br/receitas/chocolate-quente-branco.html",
+      "steps": [
+        "Per entrambi i metodi grattugiare finemente il cioccolato bianco, unirlo a zucchero e amido e mescolare.",
+        "MICROONDE: per una tazza usare circa 33 g del preparato; scaldare appena 200 g di latte e versarlo gradualmente, mescolando per eliminare i grumi.",
+        "Cuocere la tazza a 900 W per circa 2 minuti, interrompendo ogni 40 secondi per mescolare. Servire subito, ripetendo per le altre tazze.",
+        "FORNELLO: scaldare a fiamma bassa tutto il latte e incorporare gradualmente l'intero preparato con una frusta.",
+        "Proseguire a fuoco basso, mescolando continuamente per circa 5 minuti, fino a densità cremosa. Spegnere e distribuire nelle tazze; consumare subito."
+      ],
+      "temperature": "Microonde 900 W per circa 2 minuti, mescolando ogni 40 secondi; fornello a fuoco basso circa 5 minuti."
     }
   ]
 }
