@@ -64,6 +64,7 @@ function publicationFingerprint(r){
   return JSON.stringify(['ingredients','steps','serves','prep','cook','rest','temperature'].map(k=>Array.isArray(r[k])?r[k].map(norm):norm(r[k])));
 }
 // R26: immutable baseline hash authorizes an overlay, keeping the original ID.
+// The inline catalog snapshot precedes display-only EDITORIAL_ENRICHMENT.
 function saporeCanonicalJson(value){
   if(Array.isArray(value))return '['+value.map(saporeCanonicalJson).join(',')+']';
   if(value!==null&&typeof value==='object')return '{'+Object.keys(value).sort().map(k=>JSON.stringify(k)+':'+saporeCanonicalJson(value[k])).join(',')+'}';
