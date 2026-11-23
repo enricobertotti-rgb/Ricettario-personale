@@ -1,5 +1,1 @@
-{
-  "schema": "sapore.r28.run-signal.v1",
-  "nonce": "20261123-archive-activate-01",
-  "purpose": "Process serial private inbox; no private payload in public repository."
-}
+{"schema":"sapore.r28.run-signal.v1","nonce":"20261123-legacy-adopt-01"}
