@@ -8492,6 +8492,258 @@
         "Friggere ogni gruppo per circa 5–8 minuti fino a doratura, scolare su carta assorbente e salare a piacere. Servire immediatamente con la salsa."
       ],
       "temperature": "Olio di frittura a 180 °C, circa 5–8 minuti per ciascun gruppo di cubetti. Birra e farina ben fredde, temperatura numerica non dichiarata."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "60 min",
+      "description": "Venti arancini ottenuti da spaghetti legati con uova, burro e Grana, farciti con ragù di carne, piselli e scamorza, pastellati e fritti.",
+      "id": "GZ-00078",
+      "ingredients": [
+        "SPAGHETTI — Spaghetti: 500 g",
+        "SPAGHETTI — Burro: 35 g",
+        "SPAGHETTI — Tuorli: 3",
+        "SPAGHETTI — Grana Padano DOP grattugiato: 250 g",
+        "SPAGHETTI — Zafferano: 1 bustina (peso non dichiarato)",
+        "SPAGHETTI — Olio extravergine d'oliva: q.b.",
+        "SPAGHETTI — Sale fino: q.b.",
+        "SPAGHETTI — Pepe nero: q.b.",
+        "RAGÙ — Burro: 25 g",
+        "RAGÙ — Carne bovina macinata: 200 g",
+        "RAGÙ — Cipolla bianca: 1/2",
+        "RAGÙ — Olio extravergine d'oliva: q.b.",
+        "RAGÙ — Pepe nero: q.b.",
+        "RAGÙ — Piselli surgelati: 100 g",
+        "RAGÙ — Concentrato di pomodoro: 40 g",
+        "RAGÙ — Sale fino: q.b.",
+        "RAGÙ — Scamorza: 100 g",
+        "RAGÙ — Vino rosso: 100 ml",
+        "PASTELLA E PANATURA — Pangrattato: 500 g",
+        "PASTELLA E PANATURA — Farina 00: 150 g",
+        "PASTELLA E PANATURA — Acqua: 360 g",
+        "PASTELLA E PANATURA — Sale fino: 1 pizzico",
+        "FRITTURA — Olio di arachidi: q.b."
+      ],
+      "name": "Arancini di spaghetti",
+      "notes": [
+        "Gli arancini sono una variante con spaghetti dei tradizionali arancini di riso: formula e ID GZ-00078 mantenuti distinti da GZ-00003 e GZ-00005.",
+        "La fonte indica uno zafferano in bustina senza peso. Non dedurre il valore in grammi.",
+        "La fonte suggerisce consumo nello stesso giorno e, come variante, provolone dolce o caciocavallo invece della scamorza; quantità sostitutiva non dichiarata.",
+        "Istruzione generica della fonte di aggiungere formaggio e uova 'quanto basta' per compattare l'impasto: la ricetta base resta con le dosi numeriche indicate; non inventare incrementi.",
+        "Ricetta presentata come ispirata agli arancini siciliani, ma l'origine geografica della variante con spaghetti non è esplicitamente attestata; autore individuale non dichiarato."
+      ],
+      "origin": "non documentata dalla fonte per questa specifica ricetta",
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "60 min",
+        "rest": "Una notte in frigorifero per gli spaghetti conditi, più circa 10 min di raffreddamento degli arancini formati (durata in ore non quantificata dalla fonte)."
+      },
+      "originalTitle": "Arancini de espaguete",
+      "originalYield": "20 arancini",
+      "pdfPage": 15,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "09072b5ec17251644617670b4c44feb9180b8814ec98f7bd016a95fb9697f35b",
+        "previousAppSha256": "09072b5ec17251644617670b4c44feb9180b8814ec98f7bd016a95fb9697f35b",
+        "reviewedDigest": "af515a6e5c9ebeff8440dc150c6d042f1bfd6df45f37f56e8759d46526233ee8"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "af515a6e5c9ebeff8440dc150c6d042f1bfd6df45f37f56e8759d46526233ee8",
+      "serves": "20 arancini",
+      "source": "https://www.giallozafferano.com.br/receitas/arancini-de-espaguete.html",
+      "steps": [
+        "Per il ragù sciogliere i 25 g di burro con poco olio; aggiungere la mezza cipolla tritata e lasciarla appassire.",
+        "Unire il macinato e rosolare circa 5 minuti a fiamma alta. Sfumare con il vino rosso; incorporare il concentrato di pomodoro diluito con poca acqua e cuocere circa 20 minuti, regolando sale e pepe.",
+        "Verso fine cottura aggiungere i piselli surgelati e proseguire finché il ragù si addensa; farlo raffreddare e conservare coperto in frigorifero.",
+        "Lessare gli spaghetti in acqua salata, sciogliere lo zafferano in poca acqua di cottura e aggiungerlo alla pasta prima di scolarla.",
+        "Trasferire gli spaghetti in una teglia con poco olio per evitare che si attacchino e farli raffreddare. Incorporare i 35 g di burro, il Grana grattugiato, i tre tuorli e regolare di sale e pepe; tagliare grossolanamente la pasta con forbici da cucina.",
+        "Coprire e lasciare rassodare gli spaghetti conditi in frigorifero per una notte; mantenere al fresco anche il ragù.",
+        "Il giorno dopo tagliare la scamorza a dadini e, con porzioni di spaghetti, modellare palline con una cavità centrale; farcirle con un cucchiaino di ragù e qualche dadino di formaggio, poi richiuderle.",
+        "Tenere gli arancini formati in frigorifero per circa 10 minuti.",
+        "Mescolare farina, 360 g d'acqua e un pizzico di sale fino a creare una pastella omogenea; ricoprire gli arancini prima con la pastella e poi col pangrattato.",
+        "Scaldare l'olio di arachidi e friggere gli arancini pochi per volta per circa 5–6 minuti fino a doratura; scolarli su carta assorbente e servire."
+      ],
+      "temperature": "Ragù rosolato a fuoco vivo poi a calore moderato; frittura in olio ben caldo senza temperatura numerica dichiarata dalla fonte."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "40 min",
+      "description": "Dieci bicchierini a strati con riso Venere, crema di porri, zenzero e basilico, pesce spada saltato e menta.",
+      "id": "GZ-00085",
+      "ingredients": [
+        "Riso Venere: 200 g",
+        "Pesce spada: 250 g",
+        "Scorza di limone: 1 limone",
+        "Olio extravergine di oliva (per riso e spada): q.b.",
+        "Pepe nero: q.b.",
+        "Sale fino: q.b.",
+        "CREMA — Porri: 100 g",
+        "CREMA — Zenzero fresco: 20 g",
+        "CREMA — Basilico: 15 g",
+        "CREMA — Olio extravergine di oliva: 30 g",
+        "CREMA — Sale fino: q.b.",
+        "GUARNIZIONE — Menta fresca: q.b.",
+        "GUARNIZIONE — Olio extravergine di oliva: q.b."
+      ],
+      "name": "Bicchierini di riso venere e spada",
+      "notes": [
+        "La fonte indica la scorza di un limone, non il succo. L'olio per crema è 30 g, mentre altre aggiunte sono q.b.",
+        "Il suggerimento della fonte propone come alternativa riso basmati e coulis, senza dosi o metodo completo per questa variante: non creare una seconda ricetta.",
+        "Conservazione riportata dalla fonte: fino a un giorno in frigorifero, coperti. Non certificare ulteriore durata a temperatura ambiente.",
+        "Autore individuale e origine geografica della specifica ricetta non documentati."
+      ],
+      "origin": "non documentata dalla fonte per questa specifica ricetta",
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "15 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Venus Rice and Swordfish Cups",
+      "originalYield": "10 bicchierini (diametro circa 6,5 cm)",
+      "pdfPage": 20,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "cc3afdfc3b7f0135b5df1e1e1db4e0491a47d53a8d56867223208b12db0b3714",
+        "previousAppSha256": "cc3afdfc3b7f0135b5df1e1e1db4e0491a47d53a8d56867223208b12db0b3714",
+        "reviewedDigest": "91cc85235e1af009ff1a7cfaff605516ccb8fff338316d08d26988d9a74788aa"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "91cc85235e1af009ff1a7cfaff605516ccb8fff338316d08d26988d9a74788aa",
+      "serves": "10 bicchierini (diametro circa 6,5 cm)",
+      "source": "https://www.giallozafferano.com/recipes/venus-rice-and-swordfish-cups.html",
+      "steps": [
+        "Cuocere il riso Venere in abbondante acqua salata per circa 40 minuti.",
+        "Pelare lo zenzero e tagliarlo grossolanamente; pulire il porro e affettarlo a rondelle.",
+        "Scaldare poco olio in un pentolino e rosolare per qualche minuto porro e zenzero.",
+        "Trasferire il soffritto in un contenitore alto, aggiungere il basilico lavato e asciugato e i 30 g d'olio indicati per la crema; frullare con un mixer a immersione fino a ottenere una salsa uniforme e regolare di sale.",
+        "Eliminare la pelle del pesce spada e tagliarlo a piccoli cubetti.",
+        "Scaldare poco olio e saltare i cubetti di spada a fuoco vivace per circa 5 minuti; insaporire con la scorza di limone grattugiata, sale e pepe.",
+        "Scolare il riso e condirlo con un filo d'olio e pepe. Nei dieci bicchierini comporre uno strato di riso, uno di crema di porri e basilico, alcuni cubetti di spada e un altro strato di riso.",
+        "Completare ciascun bicchierino con un filo d'olio e foglie di menta; servire tiepido o a temperatura ambiente senza prolungare la sosta."
+      ],
+      "temperature": "Riso lessato; pesce spada rosolato a fuoco vivo per circa 5 minuti; nessuna temperatura numerica dichiarata."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "10 min",
+      "description": "Mezzi avocado con salmone affumicato, uova al tegamino, lime ed erba cipollina, da servire appena preparati.",
+      "id": "GZ-01463",
+      "ingredients": [
+        "Avocado: 2",
+        "Uova medie: 4",
+        "Salmone affumicato: 90 g",
+        "Erba cipollina: 6 steli",
+        "Lime: 1",
+        "Sale fino: q.b.",
+        "Pepe nero: q.b.",
+        "Pepe rosa in grani: q.b.",
+        "Olio extravergine d'oliva: q.b."
+      ],
+      "name": "Avocado, uova e salmone",
+      "notes": [
+        "Consumo immediato raccomandato dalla fonte; non sono indicati tempi di conservazione.",
+        "Variante facoltativa suggerita dalla fonte: sostituire il salmone affumicato con sottili fette di roast beef; dose sostitutiva non indicata.",
+        "La descrizione definisce la preparazione ispirata alla colazione inglese: non attesta origine geografica britannica. Autore personale non dichiarato."
+      ],
+      "origin": "non documentata dalla fonte per questa specifica ricetta",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "3 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Avocado, eggs, and salmon",
+      "originalYield": "4 persone",
+      "pdfPage": 17,
+      "photo": null,
+      "prep": "3 min",
+      "publicationUpdate": {
+        "baseAppSha256": "259dbba9a23adf68987a4497cda63ca5442bc5966935a33764b7f7f074933224",
+        "previousAppSha256": "259dbba9a23adf68987a4497cda63ca5442bc5966935a33764b7f7f074933224",
+        "reviewedDigest": "1f9a30e5b2ce4742a17d7d724d7c0b9bb78defc7a96139c085d72a772e52a804"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "1f9a30e5b2ce4742a17d7d724d7c0b9bb78defc7a96139c085d72a772e52a804",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/avocado-eggs-and-salmon.html",
+      "steps": [
+        "Grattugiare la scorza del lime e conservarla; tritare i sei steli di erba cipollina.",
+        "Dividere in due i due avocado, eliminare i noccioli e bagnare la polpa con succo di lime; incidere la polpa a griglia senza attraversare la buccia.",
+        "Distribuire il salmone affumicato sulle quattro metà di avocado, condire con sale, pepe nero e scorza grattugiata di lime.",
+        "Scaldare una padella con un poco di olio extravergine e adagiarvi le quattro uova evitando di rompere il tuorlo.",
+        "Cuocere le uova al tegamino per circa 2–3 minuti, quindi trasferire un uovo sopra ciascuna metà di avocado.",
+        "Terminare con pepe rosa e erba cipollina tritata; servire subito."
+      ],
+      "temperature": "Cottura uova in padella; temperatura numerica non dichiarata, fase di 2–3 minuti."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "25 min",
+      "description": "Fagottini di asparagi lessati, avvolti in prosciutto crudo e Grana Padano, quindi in strisce di pasta sfoglia e cotti al forno.",
+      "id": "GZ-01802",
+      "ingredients": [
+        "Asparagi: 800 g",
+        "Pasta sfoglia: 250 g",
+        "Prosciutto crudo: 8 fette",
+        "Grana Padano DOP, in scaglie: 30 g",
+        "Uovo per spennellare: 1"
+      ],
+      "name": "Asparagi in sfoglia con crudo",
+      "notes": [
+        "La fonte distingue 8–10 minuti di lessatura e 15 minuti di forno; 25 minuti è il tempo complessivo di cottura dichiarato.",
+        "Facoltativo dalla fonte: semi di sesamo sulla superficie dopo l'uovo; quantità non dichiarata.",
+        "La presentazione tradotta cita Gruyère e senape Dijon, ma non compaiono nell'elenco ingredienti né nel procedimento: esclusi dalla formula verificata.",
+        "Autore personale e paese d'origine della ricetta non documentati dalla fonte."
+      ],
+      "origin": "non documentata dalla fonte per questa specifica ricetta",
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "30 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Asparagus in puff pastry with prosciutto",
+      "originalYield": "4 persone (8 involtini di sfoglia)",
+      "pdfPage": 16,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "5a34da5f2b2fd12ff630a915772873329387c5111a103950ad53b3de3d012299",
+        "previousAppSha256": "5a34da5f2b2fd12ff630a915772873329387c5111a103950ad53b3de3d012299",
+        "reviewedDigest": "761e7ccea2246aaaca930d3b6b3bb052069ae2f67b226bab8a71bd249187a4cf"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "761e7ccea2246aaaca930d3b6b3bb052069ae2f67b226bab8a71bd249187a4cf",
+      "serves": "4 persone (8 involtini di sfoglia)",
+      "source": "https://www.giallozafferano.com/recipes/asparagus-in-puff-pastry-with-prosciutto.html",
+      "steps": [
+        "Eliminare la parte dura e chiara dei gambi degli asparagi e pulirne la superficie più fibrosa; legarli a mazzetto con spago da cucina.",
+        "Lessare gli asparagi in acqua salata per 8–10 minuti, mantenendoli consistenti. Scolarli, farli intiepidire e asciugarli.",
+        "Stendere la pasta sfoglia, appiattirla delicatamente e ricavare 8 strisce larghe circa 3 cm.",
+        "Distribuire il Grana Padano a scaglie sulle 8 fette di prosciutto e avvolgervi porzioni di asparagi.",
+        "Avvolgere ogni porzione nella corrispondente striscia di sfoglia, procedendo a spirale; spennellare tutta la superficie con l'uovo sbattuto.",
+        "Disporre su teglia rivestita di carta da forno e cuocere a 200 °C per circa 15 minuti, fino a doratura della sfoglia. Servire caldi."
+      ],
+      "temperature": "Asparagi lessati in acqua bollente; forno a 200 °C (392 °F) per circa 15 minuti."
     }
   ]
 }
