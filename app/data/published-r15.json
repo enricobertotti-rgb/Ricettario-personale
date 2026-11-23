@@ -9729,6 +9729,177 @@
         "Regolare di sale e pepe, formare quenelle con due cucchiai e distribuirle sui crostini. Completare con prezzemolo tritato e scorza di limone grattugiata, servendo appena preparato."
       ],
       "temperature": "Tostatura del pane in forno ventilato a circa 200 °C; tempo non dichiarato."
+    },
+    {
+      "id": "GZ-00089",
+      "name": "Budini di riso salati",
+      "category": "Antipasti e aperitivi",
+      "serves": "12 budini",
+      "prep": "30 min",
+      "cook": "1 h 20 min",
+      "rest": "Pasta brisée in frigorifero almeno 40 min; raffreddamento del risotto non quantificato",
+      "ingredients": [
+        "PER LA PASTA BRISÉE — Burro freddo: 100 g",
+        "PER LA PASTA BRISÉE — Farina 00: 200 g",
+        "PER LA PASTA BRISÉE — Acqua ghiacciata: 70 ml",
+        "PER LA PASTA BRISÉE — Sale fino: q.b.",
+        "PER IL RISOTTO — Riso Carnaroli: 300 g",
+        "PER IL RISOTTO — Piselli: 150 g",
+        "PER IL RISOTTO — Prosciutto cotto a cubetti: 100 g",
+        "PER IL RISOTTO — Taleggio: 100 g",
+        "PER IL RISOTTO — Brodo vegetale: 500 ml",
+        "PER IL RISOTTO — Vino bianco: 100 ml",
+        "PER IL RISOTTO — Burro: 50 g (elencato tra gli ingredienti; fase di impiego non esplicitata nel procedimento della fonte)",
+        "PER IL RISOTTO — Scalogno: 1",
+        "PER IL RISOTTO — Concentrato di pomodoro triplo: 1 cucchiaio",
+        "PER IL RISOTTO — Olio extravergine di oliva: q.b.",
+        "PER IL RISOTTO — Sale fino: q.b."
+      ],
+      "steps": [
+        "Preparare la brisée: lavorare 200 g di farina 00 con 100 g di burro freddo a pezzetti e sale q.b. fino a ottenere un composto sabbioso; aggiungere gradualmente 70 ml di acqua ghiacciata e impastare rapidamente fino a formare un panetto compatto ed elastico.",
+        "Avvolgere il panetto nella pellicola e lasciare in frigorifero per almeno 40 minuti.",
+        "In una padella scaldare poco olio extravergine e far appassire uno scalogno tritato; unire i 300 g di riso Carnaroli, tostare per qualche minuto e sfumare con 100 ml di vino bianco.",
+        "Aggiungere un mestolo del brodo vegetale previsto (500 ml in totale). Sciogliere separatamente un cucchiaio di concentrato triplo di pomodoro in 50 ml del brodo previsto, versarlo nel riso e proseguire la cottura aggiungendo gradualmente il brodo restante, mescolando all'occorrenza.",
+        "A metà cottura unire 150 g di piselli. Continuare finché il riso è molto al dente, poiché proseguirà la cottura in forno; mantecare con 100 g di Taleggio e incorporare 100 g di prosciutto cotto a cubetti. Lasciar raffreddare il risotto. La fonte elenca anche 50 g di burro per il risotto senza specificarne il punto di aggiunta.",
+        "Stendere la pasta brisée a uno spessore di circa 3 mm e ritagliare dischi del diametro di circa 12 cm. Rivestire con i dischi gli incavi di uno stampo da muffin imburrato.",
+        "Riempire i gusci con il risotto, cuocere in forno statico preriscaldato a 350 °F (temperatura espressa dalla pagina ufficiale) per 60 minuti; lasciar intiepidire e sformare delicatamente."
+      ],
+      "photo": null,
+      "source": "https://www.giallozafferano.com/recipes/savory-rice-pudding.html",
+      "pdfPage": 26,
+      "description": "Budini salati con guscio di pasta brisée e risotto al pomodoro, piselli, prosciutto cotto e Taleggio.",
+      "reviewedRecordSha256": "2eb76a6d0135cd0a67be3b1b97191437f3c72713531c48154b1a808f4716b823",
+      "author": null,
+      "originalTitle": "Savory rice pudding",
+      "originalYield": "12 budini",
+      "originalTimes": {
+        "cook": "1 h 20 min",
+        "prep": "30 min",
+        "rest": "Pasta brisée in frigorifero almeno 40 min; raffreddamento del risotto non quantificato"
+      },
+      "temperature": "Forno statico preriscaldato a 350 °F per 60 min; risotto molto al dente prima del forno.",
+      "notes": [
+        "La pagina ufficiale riporta 50 g di burro nell'elenco per il risotto, ma nel metodo cita la mantecatura con il solo Taleggio; non assegnare al burro un passaggio inesistente nella fonte.",
+        "Conservazione dichiarata dalla fonte: frigorifero al massimo un paio di giorni; congelamento possibile con ingredienti freschi.",
+        "Varianti suggerite: sostituire verdure del risotto con ingredienti stagionali; brie al posto del Taleggio; mortadella o pancetta affumicata al posto del prosciutto cotto. Sono proposte facoltative, non dosi dell'originale.",
+        "La presentazione richiama la Toscana, ma non certifica la provenienza puntuale di questa formulazione."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "La presentazione richiama la tradizione toscana; origine specifica della formulazione non certificata.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "ee52875843a794df525c1e9e7c7e63adad332b1767b1f4a78e8feffe316fa0cf",
+        "previousAppSha256": "ee52875843a794df525c1e9e7c7e63adad332b1767b1f4a78e8feffe316fa0cf",
+        "reviewedDigest": "2eb76a6d0135cd0a67be3b1b97191437f3c72713531c48154b1a808f4716b823"
+      }
+    },
+    {
+      "id": "GZ-00037",
+      "name": "Involtini di pancarrè prosciutto e formaggio",
+      "category": "Antipasti e aperitivi",
+      "serves": "8 involtini",
+      "prep": "10 min",
+      "cook": "10 min",
+      "rest": "1 ora in frigorifero",
+      "ingredients": [
+        "Pancarrè senza crosta: 8 fette",
+        "Prosciutto cotto: 8 fette",
+        "Emmentaler: 90 g",
+        "Latte intero: 150 g",
+        "Pangrattato: 100 g",
+        "Uovo: 1",
+        "Pepe nero: q.b.",
+        "Olio extravergine di oliva: q.b. (elenco della fonte; procedimento cita invece olio di semi)"
+      ],
+      "steps": [
+        "Appiattire le 8 fette di pancarrè con il mattarello; tagliare 90 g di Emmentaler in fette più piccole del pane, spesse circa 1 cm.",
+        "Su ciascuna fetta di pane disporre una delle 8 fette di prosciutto cotto e il formaggio. Con l'aiuto di pellicola per alimenti arrotolare il pane strettamente e sigillare le estremità della pellicola.",
+        "Mettere gli 8 rotolini in frigorifero per 1 ora. Intanto sbattere in una pirofila l'uovo con 150 g di latte intero e pepe nero q.b.",
+        "Rimuovere la pellicola. Immergere ogni rotolino nella miscela di uovo e latte, quindi passarlo nei 100 g di pangrattato.",
+        "Scaldare un filo d'olio in padella (la fonte elenca olio extravergine, ma nel passaggio cita olio di semi). Dorare gli involtini a fuoco medio-alto per circa 10 minuti, girandoli frequentemente su ogni lato fino a colorazione uniforme.",
+        "Trasferire gli involtini sulla carta assorbente per eliminare l'olio in eccesso e servire ben caldi."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Involtini-di-pancarre-prosciutto-e-formaggio.html",
+      "pdfPage": 44,
+      "description": "Involtini di pancarrè farciti con prosciutto cotto ed Emmentaler, impanati e dorati in padella.",
+      "reviewedRecordSha256": "34f9ca46a1798352c294824a1e5faaab5b33869c2e7dbc914289e4a244ee5c77",
+      "author": null,
+      "originalTitle": "Involtini di pancarrè prosciutto e formaggio",
+      "originalYield": "8 involtini",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": "1 ora in frigorifero"
+      },
+      "temperature": "Cottura in padella a fuoco medio-alto per circa 10 min; temperatura numerica non dichiarata.",
+      "notes": [
+        "La fonte elenca olio extravergine tra gli ingredienti, ma il metodo menziona olio di semi; discrepanza testuale conservata, tipo di olio da confermare se necessario.",
+        "Secondo la fonte, conservare in frigorifero per un paio di giorni; congelamento sconsigliato.",
+        "Variante alla pizzaiola suggerita dalla fonte: 100 g di mozzarella, 5 cucchiai di passata di pomodoro e qualche fogliolina di basilico, al posto della farcitura principale; non fonderla con l'originale.",
+        "Girare spesso in padella per doratura uniforme e ripieno filante."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Origine geografica della formulazione non dichiarata dalla fonte.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "ca8ae05e47903c27f959494af52a4bd7cf98be398f8fac9f7b22804e6062b216",
+        "previousAppSha256": "ca8ae05e47903c27f959494af52a4bd7cf98be398f8fac9f7b22804e6062b216",
+        "reviewedDigest": "34f9ca46a1798352c294824a1e5faaab5b33869c2e7dbc914289e4a244ee5c77"
+      }
+    },
+    {
+      "id": "GZ-00059",
+      "name": "Spiedini di melone, feta e rucola",
+      "category": "Antipasti e aperitivi",
+      "serves": "12 spiedini (4 persone; almeno 3 a testa come antipasto)",
+      "prep": "15 min",
+      "cook": "Non prevista",
+      "rest": "Non previsto dalla fonte",
+      "ingredients": [
+        "Melone cantalupo: 1 da circa 1,2 kg",
+        "Feta: 300 g",
+        "Rucola: 15 g"
+      ],
+      "steps": [
+        "Tagliare il melone a metà seguendo le sue linee naturali, eliminare i semi con un cucchiaio e ricavare palline di polpa con uno scavino semisferico.",
+        "Tagliare 300 g di feta in cubetti quadrati con lato di circa 2 cm. Preparare 15 g di rucola e 12 stecchini.",
+        "Per ogni stecchino infilzare una pallina di melone, un paio di foglie di rucola ripiegate e un cubetto di feta; ripetere la successione fino ad avere 3 palline di melone e 3 cubetti di feta per spiedino, separati da foglie di rucola.",
+        "Preparare in questo modo 12 spiedini. Distribuirli sul piatto da portata e, se rimangono ingredienti, usarli per guarnire. Servire freschi."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Spiedini-di-melone-feta-e-rucola.html",
+      "pdfPage": 52,
+      "description": "Spiedini freddi con melone cantalupo, feta e rucola per un antipasto estivo.",
+      "reviewedRecordSha256": "a4ee3c0f3f92ef2e3d954eb5679ef4baca72f980bbbbaa6770cad02fd60c28b7",
+      "author": null,
+      "originalTitle": "Spiedini di melone, feta e rucola",
+      "originalYield": "12 spiedini (4 persone; almeno 3 a testa come antipasto)",
+      "originalTimes": {
+        "cook": "Non prevista",
+        "prep": "15 min",
+        "rest": "Non previsto dalla fonte"
+      },
+      "temperature": "Nessuna cottura prevista.",
+      "notes": [
+        "La fonte consiglia melone maturo e dolce ma sodo e feta compatta da tagliare in cubetti di circa 2 cm.",
+        "Suggerimenti facoltativi: una spolverata di pepe misto macinato, qualche goccia di crema di aceto balsamico o un filo di olio extravergine. Non sono dosi degli ingredienti della formulazione base.",
+        "La provenienza greca della feta non prova una specifica origine nazionale di questi spiedini."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Origine nazionale della composizione non documentata dalla fonte.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "cc675bba1a9aae39dceb5e8b0e46e68132094fbcfd29504f8b88701ee91c4e0d",
+        "previousAppSha256": "cc675bba1a9aae39dceb5e8b0e46e68132094fbcfd29504f8b88701ee91c4e0d",
+        "reviewedDigest": "a4ee3c0f3f92ef2e3d954eb5679ef4baca72f980bbbbaa6770cad02fd60c28b7"
+      }
     }
   ]
 }
