@@ -8043,6 +8043,57 @@
       "notes": "Versione bianca con spaghetti, distinta da GZ-00087 Bucatini con sarde: differenti pasta, 100 g finocchietto, cipollotto, filetti di acciughe e 100 g mollica. 500 g sarde è peso intero prima della pulizia; 2 ore di ammollo per uvetta. Allergeni: pesce, cereali, frutta a guscio.",
       "photo": null,
       "author": "Sonia Peronaci"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "18 min",
+      "description": "Albicocche intere farcite con scamorza, racchiuse nella pasta sfoglia e cotte al forno.",
+      "id": "GZ-03895",
+      "ingredients": [
+        "Albicocche: 6",
+        "Pasta sfoglia rotonda: 230 g",
+        "Scamorza: 30 g",
+        "Per spennellare — tuorlo: 1",
+        "Per spennellare — latte intero: 10 g",
+        "Per guarnire — semi di lino: 1 cucchiaino",
+        "Per guarnire — pepe rosa in grani: 1 cucchiaino"
+      ],
+      "name": "Albicocche in sfoglia",
+      "notes": [
+        "La fonte propone il gorgonzola come sostituzione facoltativa della scamorza.",
+        "Autore individuale e origine geografica specifica non dichiarati dalla fonte."
+      ],
+      "originalTimes": {
+        "cook": "18 min",
+        "prep": "10 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalYield": "6 pezzi",
+      "pdfPage": 10,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "dbbe739908eba9db0589ec8c048a3819f099960ef7b253f058cce941f69e8b47",
+        "previousAppSha256": "dbbe739908eba9db0589ec8c048a3819f099960ef7b253f058cce941f69e8b47",
+        "reviewedDigest": "ff56752fe52ef43c2a55de99f98366cbfcce69c30d57edde24b708ac5d3bf540"
+      },
+      "rest": "",
+      "reviewedRecordSha256": "ff56752fe52ef43c2a55de99f98366cbfcce69c30d57edde24b708ac5d3bf540",
+      "serves": "6 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/apricots-in-puff-pastry.html",
+      "steps": [
+        "Tagliare la scamorza a cubetti. Lavare le albicocche, asciugarle, dividerle a metà e togliere il nocciolo.",
+        "Ricavare sei dischi di pasta sfoglia di circa 10 cm di diametro.",
+        "Sistemare metà albicocca al centro di ogni disco, riempire la cavità con scamorza e richiudere con l'altra metà.",
+        "Avvolgere ciascun frutto nella sfoglia sigillando le giunzioni, disporre su una teglia con carta forno e spennellare con tuorlo e latte.",
+        "Praticare piccoli fori in superficie, cospargere con semi di lino e pepe rosa e cuocere in forno statico a 200 °C per 15–18 minuti, fino a doratura.",
+        "Lasciare intiepidire brevemente prima di servire."
+      ],
+      "temperature": "Forno statico preriscaldato a 200 °C (392 °F), ripiano centrale; 15–18 minuti."
     }
   ]
 }
