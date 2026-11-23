@@ -10233,6 +10233,246 @@
         "Proseguire a fuoco basso, mescolando continuamente per circa 5 minuti, fino a densità cremosa. Spegnere e distribuire nelle tazze; consumare subito."
       ],
       "temperature": "Microonde 900 W per circa 2 minuti, mescolando ogni 40 secondi; fornello a fuoco basso circa 5 minuti."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "40 min",
+      "description": "Involtini di verza con patate, salsiccia e Casera.",
+      "id": "GZ-00041",
+      "ingredients": [
+        "Verza 4 foglie",
+        "Salsiccia 200 g",
+        "Patate 350 g",
+        "Casera della Valtellina 100 g",
+        "Olio extravergine d'oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Rosmarino 1 rametto",
+        "Aglio 1 spicchio (ripieno)",
+        "Salvia 4 foglie (condimento)",
+        "Burro 50 g (condimento)",
+        "Aglio 2 spicchi (condimento)"
+      ],
+      "name": "Involtini di verza",
+      "notes": [
+        "Conservazione indicata dalla fonte: massimo 2 giorni in frigorifero in contenitore chiuso; possibile congelare se gli ingredienti sono freschi. Assemblabili in anticipo e cuocibili successivamente.",
+        "Per ripieno più morbido usare patate lessate e schiacciate unite alla salsiccia rosolata. L'ammollo riduce l'amido."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "30 min",
+        "rest": "15 min ammollo patate"
+      },
+      "originalTitle": "Rollitos de col",
+      "originalYield": "4 involtini",
+      "pdfPage": 75,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "cbf9ef7c9a369825e398c3ea2cbf36976bccec919e7d9a235d1a7a816a1cc165",
+        "previousAppSha256": "cbf9ef7c9a369825e398c3ea2cbf36976bccec919e7d9a235d1a7a816a1cc165",
+        "reviewedDigest": "3047d86c3988c2df9d1c82526ac193de0dc1559f530b9819dc611d6c05a512be"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "15 min ammollo patate",
+      "reviewedRecordSha256": "3047d86c3988c2df9d1c82526ac193de0dc1559f530b9819dc611d6c05a512be",
+      "serves": "4 involtini",
+      "source": "https://www.giallozafferano.es/recetas/rollitos-de-col.html",
+      "steps": [
+        "Lavare le patate senza sbucciarle, ridurle a cubi di massimo 1 cm e lasciarle in acqua con mezzo cucchiaio di sale per 15 minuti.",
+        "Scaldare olio, rosmarino e uno spicchio d'aglio in una padella ampia; scolare le patate, saltarle, coprire e farle dorare a fiamma alta per 5–10 minuti.",
+        "Privare la salsiccia del budello e tagliarla a pezzi grandi come le patate. Rimuovere gli aromi, aggiungere poco olio e la salsiccia; rosolare circa 5 minuti, salare, pepare e raffreddare.",
+        "Scartare le foglie dure della verza, sbollentare quattro foglie chiare in acqua salata per un paio di minuti, passare in acqua fredda e asciugare.",
+        "Grattugiare il Casera e distribuirlo sulle foglie insieme a circa un cucchiaio di ripieno di patate e salsiccia per ciascuna. Ripiegare i bordi e arrotolare.",
+        "Fondere il burro con i due spicchi d'aglio sbucciati e tagliati; quando il burro è ambrato e l'aglio dorato, spegnere e filtrare.",
+        "Disporre gli involtini su carta forno, porre una foglia di salvia su ciascuno e irrorare con il burro. Cuocere sul ripiano medio-alto a 240 °C per 10–15 minuti."
+      ],
+      "temperature": "Forno 240 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "Nessuna cottura",
+      "description": "Quaranta tartine con tre guarnizioni e una crema base di ricotta e stracchino.",
+      "id": "GZ-00067",
+      "ingredients": [
+        "Base: pancarrè 10 fette",
+        "Ricotta vaccina 140 g",
+        "Stracchino 60 g",
+        "Scorza di limone 1",
+        "Olio extravergine d'oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Salmone: salmone affumicato 70 g",
+        "Erba cipollina q.b.",
+        "Pepe rosa q.b.",
+        "Mortadella: mortadella a fette 50 g",
+        "Granella di pistacchi 10 g",
+        "Vegetariane: pomodori secchi sott'olio 2",
+        "Mandorle in scaglie 10 g",
+        "Timo q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Tris di tartine",
+      "notes": [
+        "Servire subito; creme preparabili qualche ora prima e conservabili in frigorifero.",
+        "Facoltativo tostare il pancarrè o ritagliarlo con stampini. Le croste possono essere recuperate come pane aromatizzato con olio, aglio e rosmarino."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "Nessuna cottura",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Tris di tartine",
+      "originalYield": "40 tartine (10 persone)",
+      "pdfPage": 56,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e5f1155893cd3b7372bb39fbf8056aa30240bcbe526963d27b2bcc89a51ae670",
+        "previousAppSha256": "e5f1155893cd3b7372bb39fbf8056aa30240bcbe526963d27b2bcc89a51ae670",
+        "reviewedDigest": "bb7700ba9e8745cb015687dc460c7276b7ae5332cfd11027fd0a9779be73a856"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "bb7700ba9e8745cb015687dc460c7276b7ae5332cfd11027fd0a9779be73a856",
+      "serves": "40 tartine (10 persone)",
+      "source": "https://ricette.giallozafferano.it/Tris-di-tartine.html",
+      "steps": [
+        "Eliminare le croste del pancarrè e ricavare quattro quadrati per fetta.",
+        "Lavorare ricotta e stracchino con scorza grattugiata, sale, pepe e un filo d'olio; usare mixer o frusta e suddividere la crema in tre ciotole.",
+        "Salmone: tritare l'erba cipollina, distribuire un cucchiaio di crema base per quadrato, aggiungere salmone, cipollina e pepe rosa.",
+        "Mortadella: incorporare la granella alla seconda crema riservandone una parte per decorare; spalmare un cucchiaio per quadrato, aggiungere mortadella e granella restante.",
+        "Vegetariane: frullare timo e mandorle con la terza crema, riservandone un poco per guarnire; scolare e tritare i pomodori. Spalmare un cucchiaio di crema, completare con timo, mandorle, pomodoro e pepe."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "45 min",
+      "description": "Involtini di verza con maiale, salsiccia, porro, soia e zenzero.",
+      "id": "GZ-00042",
+      "ingredients": [
+        "Verza 10 foglie",
+        "Carne macinata di maiale 400 g",
+        "Salsiccia 200 g",
+        "Olio extravergine d'oliva q.b.",
+        "Salsa di soia 30 g",
+        "Porro 1",
+        "Aglio 1 spicchio",
+        "Peperoncino fresco 1",
+        "Zenzero fresco 20 g",
+        "Sale un pizzico (indicato nel procedimento)"
+      ],
+      "name": "Involtini di verza all'orientale",
+      "notes": [
+        "La fonte indica 2–3 giorni di conservazione in frigorifero.",
+        "Variante facoltativa: cubetti di formaggio nel ripieno, senza quantità dichiarata. Ispirazione orientale, non origine geografica attestata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Rollitos de col a la oriental",
+      "originalYield": "10 involtini",
+      "pdfPage": 75,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b688ff824bca6b8e5b6111b0936f28db19d5dfbb18ad89281e3a0fec6be85c45",
+        "previousAppSha256": "b688ff824bca6b8e5b6111b0936f28db19d5dfbb18ad89281e3a0fec6be85c45",
+        "reviewedDigest": "c3ca8722ccf303ce3974dcc3788ff59632413fe942f0a9a77904457ad889feef"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "c3ca8722ccf303ce3974dcc3788ff59632413fe942f0a9a77904457ad889feef",
+      "serves": "10 involtini",
+      "source": "https://www.giallozafferano.es/recetas/rollitos-de-col-a-la-oriental.html",
+      "steps": [
+        "Insaporire l'olio con aglio e peperoncino, aggiungere macinato e salsiccia sgranandoli.",
+        "Unire il porro a rondelle e la salsa di soia; rosolare per circa 10 minuti mescolando spesso fino a doratura della carne. Togliere l'aglio e trasferire in una ciotola.",
+        "Staccare dieci foglie integre di verza; sbollentarle poche alla volta per 4–5 minuti, scolarle con pinze e asciugarle senza lacerarle.",
+        "Mettere il ripieno nella parte inferiore di ciascuna foglia; ripiegare i lati e arrotolare. Sistemare in teglia.",
+        "Condire con un pizzico di sale, zenzero grattugiato e un filo d'olio; cuocere in forno statico a 190 °C per 20 minuti."
+      ],
+      "temperature": "Forno statico 190 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "15 min",
+      "description": "Dodici gusci di sfoglia con tre ripieni, quattro pezzi per tipo.",
+      "id": "GZ-00068",
+      "ingredients": [
+        "Gusci: pasta sfoglia rettangolare 3 rotoli",
+        "Uovo 1",
+        "Gamberetti: gamberetti 50 g",
+        "Maionese 30 g",
+        "Ketchup 50 g",
+        "Erba cipollina q.b.",
+        "Olio, sale e pepe q.b. (indicati nel procedimento dei gamberetti)",
+        "Robiola e rucola: robiola 50 g",
+        "Rucola 10 g",
+        "Olio extravergine d'oliva 2 cucchiai",
+        "Prosciutto: prosciutto cotto 170 g",
+        "Ricotta vaccina 150 g",
+        "Granella di pistacchi q.b."
+      ],
+      "name": "Vol-au-vent fantasia",
+      "notes": [
+        "La granella di pistacchi è nell'elenco del ripieno al prosciutto, ma la fonte non specifica dove aggiungerla nel metodo.",
+        "Gusci preparabili il giorno prima; farcire poco prima del servizio. Alternative suggerite: pere e taleggio, peperoni cipolle e Casera, primo sale e spinacino, mousse di tonno, salmone, prosciutto o mortadella.",
+        "Recuperare i dischetti centrali cuocendoli con uovo e semi di sesamo o formaggio; la sfoglia restante può essere cotta con pesto di pomodori secchi a 200 °C per 15 minuti."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Vol-au-vent fantasia",
+      "originalYield": "12 pezzi",
+      "pdfPage": 57,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "42885b56607b5e9f2d166e393477d5062511a831476871a585107483d928b0fe",
+        "previousAppSha256": "42885b56607b5e9f2d166e393477d5062511a831476871a585107483d928b0fe",
+        "reviewedDigest": "49246fe9cbd317c42755fce163b7193c0ba8a4dd71a0d2cafcb76512e3983baf"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "49246fe9cbd317c42755fce163b7193c0ba8a4dd71a0d2cafcb76512e3983baf",
+      "serves": "12 pezzi",
+      "source": "https://ricette.giallozafferano.it/Vol-au-vent-fantasia.html",
+      "steps": [
+        "Ricavare 12 dischi da 6 cm da ciascun rotolo (36 totali). Sistemarne 12 in teglia e bucherellarli; ritagliare il centro dei 24 rimanenti con stampo da 4 cm.",
+        "Spennellare ogni disco base con uovo sbattuto, sovrapporre due anelli spennellando anche ciascuno di questi.",
+        "Infornare nella parte bassa del forno statico preriscaldato a 200 °C per circa 15 minuti, fino a doratura. Raffreddare su griglia e abbassare il centro gonfio con un cucchiaino.",
+        "Per la farcia vegetariana frullare robiola, due cucchiai d'olio e rucola fino a crema uniforme.",
+        "Per la farcia di pesce saltare i gamberetti in poco olio, sale e pepe per pochi minuti fino a rosolatura; intiepidire, poi incorporare ketchup, maionese ed erba cipollina tritata.",
+        "Frullare ricotta e prosciutto fino a crema liscia; mettere questa crema e quella di rucola in due sac à poche distinte.",
+        "Farcire quattro gusci con gamberetti usando un cucchiaio, quattro con la crema di rucola e quattro con quella al prosciutto; servire."
+      ],
+      "temperature": "Forno statico 200 °C"
     }
   ]
 }
