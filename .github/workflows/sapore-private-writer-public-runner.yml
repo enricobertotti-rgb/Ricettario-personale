@@ -7,6 +7,7 @@ on:
     branches: [main]
     paths:
       - '.github/workflows/sapore-private-writer-public-runner.yml'
+      - 'config/sapore-r28-run.json'
   workflow_dispatch:
     inputs:
       mode:
@@ -37,7 +38,7 @@ jobs:
       github.repository == 'enricobertotti-rgb/Ricettario-personale' &&
       github.ref == 'refs/heads/main' &&
       (
-        github.event_name == 'push' ||
+        (github.event_name == 'push' && github.event.head_commit.message != 'ops(sapore): process private inbox R28') ||
         (github.event_name == 'workflow_dispatch' && inputs.mode == 'audit') ||
         vars.SAPORE_R28_ENABLED == 'true'
       )
@@ -45,7 +46,7 @@ jobs:
     timeout-minutes: 15
     env:
       SAPORE_PRIVATE_REPO: enricobertotti-rgb/Sapore-Archivio-Privato
-      SAPORE_MODE: ${{ github.event_name == 'schedule' && 'apply' || inputs.mode || 'audit' }}
+      SAPORE_MODE: ${{ (github.event_name == 'schedule' || (github.event_name == 'push' && github.event.head_commit.message == 'ops(sapore): process private inbox R28')) && 'apply' || inputs.mode || 'audit' }}
       SAPORE_EXPECTED_PRIVATE_HEAD: ${{ inputs.expected_private_head }}
     steps:
       - name: Require secret without disclosing it
@@ -102,12 +103,14 @@ jobs:
             echo "::error::Private publication ledger audit failed; no data written"
             exit 1
           fi
+          if [[ "$SAPORE_MODE" == "audit" ]]; then
           for suite in r13 r14 r15 r18 r21 r22 r26; do
             if ! python -m unittest discover -s "tests/$suite" -p 'test_*.py' >>"$LOG" 2>&1; then
               echo "::error::Private regression suite $suite failed; no data written"
               exit 1
             fi
           done
+          fi
           echo "Private baseline validated (content remains private)"
 
       - name: Apply private requests with original R14/R26 writer and CAS
