@@ -8744,6 +8744,265 @@
         "Disporre su teglia rivestita di carta da forno e cuocere a 200 °C per circa 15 minuti, fino a doratura della sfoglia. Servire caldi."
       ],
       "temperature": "Asparagi lessati in acqua bollente; forno a 200 °C (392 °F) per circa 15 minuti."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "45 min",
+      "description": "Dodici arancini siciliani di riso allo zafferano, ripieni di ragù bianco con manzo, maiale e piselli e cubetti di caciocavallo.",
+      "id": "GZ-00003",
+      "ingredients": [
+        "Per il riso — Riso Vialone Nano: 500 g",
+        "Acqua per il riso: 1200 g",
+        "Caciocavallo da grattugiare: 100 g",
+        "Burro freddo: 30 g",
+        "Zafferano: 0,45 g (3 bustine da 0,15 g)",
+        "Sale fino per il riso: q.b.",
+        "Per il ragù — Carne macinata di manzo: 50 g",
+        "Carne macinata di maiale: 50 g",
+        "Piselli: 80 g",
+        "Sedano: 1 costa",
+        "Carota: 1",
+        "Cipolla dorata: 1",
+        "Parmigiano Reggiano DOP grattugiato: 50 g",
+        "Vino bianco: 40 g",
+        "Olio extravergine d'oliva: q.b.",
+        "Sale fino per il ragù: q.b.",
+        "Pepe nero per il ragù: q.b.",
+        "Per il ripieno — Caciocavallo a cubetti: 50 g",
+        "Per la pastella — Farina 00: 200 g",
+        "Acqua fredda per la pastella: 340 g",
+        "Sale fino per la pastella: 1 pizzico",
+        "Per impanare — Pangrattato: q.b.",
+        "Per friggere — Olio di semi di arachidi: q.b."
+      ],
+      "name": "Arancini al ragù bianco",
+      "notes": [
+        "La fonte propone una variante distinta degli arancini classici: ragù bianco senza pomodoro, con manzo e maiale 50 g ciascuno. Non fondere con GZ-00005 che contiene passata e due ripieni.",
+        "La fonte descrive il raffreddamento del riso per un paio d'ore fuori dal frigorifero; la trascrizione non è una validazione delle condizioni igienico-sanitarie. Non estendere questa indicazione come regola generale.",
+        "Conservazione indicata dalla fonte: prodotto cotto due giorni in frigorifero; congelazione prima della frittura con ingredienti freschi. Alternativa facoltativa al caciocavallo: provolone o mozzarella ben sgocciolata."
+      ],
+      "origin": "Italia — Sicilia, tradizione dichiarata nella presentazione della fonte.",
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "60 min",
+        "rest": "almeno un paio d'ore di raffreddamento del riso secondo la fonte"
+      },
+      "originalTitle": "White Ragù Arancini",
+      "originalYield": "12 pezzi",
+      "pdfPage": 12,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9f35f57c83e09a3373b3a310c47881206216aca95d3279dffa1251f0d5003ace",
+        "previousAppSha256": "9f35f57c83e09a3373b3a310c47881206216aca95d3279dffa1251f0d5003ace",
+        "reviewedDigest": "8b745c1c7bb59b1e280f8df96474381cb82867c0b00233a6f7c78baf97f99e11"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "8b745c1c7bb59b1e280f8df96474381cb82867c0b00233a6f7c78baf97f99e11",
+      "serves": "12 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/white-ragu-arancini.html",
+      "steps": [
+        "Cuocere 500 g di riso Vialone Nano in 1200 g d'acqua bollente leggermente salata per circa 15 minuti, fino all'assorbimento dell'acqua.",
+        "Sciogliere lo zafferano con poca acqua calda, incorporarlo al riso, poi mantecare con burro e 100 g di caciocavallo grattugiato.",
+        "Stendere il riso su un vassoio basso, coprire la superficie e lasciar raffreddare completamente per almeno un paio d'ore, secondo la fonte.",
+        "Tritare sedano, carota e cipolla; farli appassire con poco olio circa 5 minuti a fuoco basso, poi aggiungere manzo e maiale macinati e rosolarli.",
+        "Sfumare con il vino bianco, salare e pepare, coprire e cuocere a fuoco basso almeno 15 minuti. A metà aggiungere i piselli; il ragù deve restare denso. Incorporare il Parmigiano e far raffreddare.",
+        "Con le mani bagnate modellare 12 porzioni di riso: formare un incavo, aggiungere poco ragù bianco e cubetti di caciocavallo, richiudere e dare forma appuntita.",
+        "Mescolare farina 00, acqua fredda e un pizzico di sale fino a ottenere una pastella liscia; immergere ciascun arancino e passarlo nel pangrattato.",
+        "Scaldare l'olio di semi di arachidi a circa 170 °C; friggere uno o al massimo due arancini per volta fino a doratura, scolare e servire caldi."
+      ],
+      "temperature": "Riso in acqua bollente; ragù a fuoco basso; frittura dell'olio a circa 170 °C."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "50 min",
+      "description": "Arancini siciliani con due ripieni autentici: ragù al pomodoro con carne di maiale, piselli e caciocavallo, oppure prosciutto cotto e mozzarella.",
+      "id": "GZ-00005",
+      "ingredients": [
+        "Riso Vialone Nano 500 g",
+        "Acqua 1,25 l, per il riso",
+        "Caciocavallo stagionato grattugiato 100 g",
+        "Burro 30 g",
+        "Zafferano 0,15 g",
+        "Sale grosso 1 cucchiaio",
+        "Carne macinata di maiale 150 g, per il ragù",
+        "Passata di pomodoro 200 g",
+        "Piselli 80 g",
+        "Cipolla bianca 50 g",
+        "Vino rosso 50 g",
+        "Olio extravergine d’oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Caciocavallo fresco 50 g, per il ragù",
+        "Prosciutto cotto 120 g, per il ripieno bianco",
+        "Mozzarella 120 g, per il ripieno bianco",
+        "Farina 00 200 g, per la pastella",
+        "Acqua 350 g, per la pastella",
+        "Sale fino 1 pizzico, per la pastella",
+        "Pangrattato 200 g",
+        "Olio di semi 3 l, per friggere"
+      ],
+      "name": "Arancini di riso",
+      "notes": [
+        "La fonte riporta 1,25 litri di acqua per il riso negli ingredienti e 1,2 litri nel procedimento: discrepante; mantenere la dose della lista ingredienti senza dichiarare risolta la differenza.",
+        "Sono due ripieni descritti dalla stessa fonte, non duplicati: prosciutto cotto e mozzarella (al burro), oppure ragù rosso con piselli e caciocavallo.",
+        "Distinta da GZ-00003 (ragù bianco di manzo e maiale, senza passata): stessi nomi tradizionali non provano identità gastronomica.",
+        "La fonte lascia raffreddare il riso per circa due ore a temperatura ambiente; il dato è riportato a titolo documentale, senza certificazione di sicurezza alimentare."
+      ],
+      "origin": "Italia — Sicilia; appartenenza gastronomica dichiarata dalla fonte.",
+      "originalTimes": {
+        "cook": "50 min",
+        "prep": "60 min",
+        "rest": "circa 2 ore di raffreddamento del riso secondo la fonte"
+      },
+      "originalTitle": "Arancini de arroz",
+      "originalYield": "circa 12 arancini",
+      "pdfPage": 13,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1ab02adcdb3f119358e6a40b1f961a1333d7aee2d671044565243e7b736c548b",
+        "previousAppSha256": "1ab02adcdb3f119358e6a40b1f961a1333d7aee2d671044565243e7b736c548b",
+        "reviewedDigest": "86ee75a5d0b611f9c8df52a36cc3694be14548140c11b1c5c172baf3292d303c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "86ee75a5d0b611f9c8df52a36cc3694be14548140c11b1c5c172baf3292d303c",
+      "serves": "circa 12 arancini",
+      "source": "https://www.giallozafferano.com.br/receitas/Arancini-de-arroz.html",
+      "steps": [
+        "Cuocere il riso Vialone Nano in acqua bollente con sale grosso per circa 15 minuti fino ad assorbimento; aggiungere lo zafferano pochi minuti prima della fine della cottura.",
+        "Spegnere il fuoco e mantecare con il burro e il caciocavallo stagionato grattugiato; stendere il riso in un vassoio basso, coprire e lasciarlo raffreddare completamente per circa due ore secondo la fonte.",
+        "Per il ragù, tritare e appassire la cipolla nell'olio; rosolare la carne di maiale, salare e pepare, sfumare con vino rosso.",
+        "Unire la passata di pomodoro, cuocere coperto a fuoco basso almeno 20 minuti; aggiungere i piselli a metà cottura. Mantenere il ragù ben denso.",
+        "Tagliare a cubetti prosciutto cotto, mozzarella e caciocavallo fresco. Bagnando le mani, formare cavità in porzioni di riso da circa 120 g.",
+        "Farcire circa metà degli arancini con prosciutto cotto e mozzarella, chiudendo in forma tondeggiante; riempire gli altri con un cucchiaino di ragù e caciocavallo fresco, chiudendo in forma a punta.",
+        "Mescolare farina 00, acqua e un pizzico di sale per ottenere una pastella liscia. Rivestire ogni arancino e passarlo nel pangrattato.",
+        "Friggere uno o due pezzi alla volta in olio di semi a 160–170 °C fino a doratura; scolare su carta assorbente e servire caldi."
+      ],
+      "temperature": "Frittura a 160–170 °C; ragù a fuoco basso."
+    },
+    {
+      "author": "Francesco Munarini",
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "30 min",
+      "description": "Stoccafisso ammollato mantecato con olio di semi di girasole, ricetta tradizionale veneziana dello chef Francesco Munarini.",
+      "id": "GZ-01480",
+      "ingredients": [
+        "Stoccafisso già ammollato: 800 g",
+        "Olio di semi di girasole: 500 g",
+        "Alloro: 2 foglie",
+        "Sale fino: q.b.",
+        "Pepe nero: q.b.",
+        "Per guarnire — Prezzemolo fresco: q.b.",
+        "Per guarnire — Pepe nero: q.b."
+      ],
+      "name": "Baccalà mantecato alla veneziana",
+      "notes": [
+        "Ricetta attribuita dalla fonte a Francesco Munarini, chef della Osteria Do Spade di Venezia.",
+        "La variante di questa fonte usa stoccafisso già ammollato (non baccalà salato), olio di semi di girasole e alloro: non confondere con brandacujun GZ-03967, che contiene patate.",
+        "In alcune versioni domestiche la fonte suggerisce 150 ml di latte nell'acqua di cottura; è una possibilità separata e NON un ingrediente della ricetta principale.",
+        "Consumo preferibilmente immediato; la fonte ammette alternativamente un paio di giorni in frigorifero."
+      ],
+      "origin": "Italia — Venezia, Veneto; ricetta tradizionale dichiarata dalla fonte.",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "Nessun riposo obbligatorio dichiarato dalla fonte"
+      },
+      "originalTitle": "Bacalao a la crema a la veneciana",
+      "originalYield": "4 porzioni",
+      "pdfPage": 364,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6a35acb3c0c0841de166d366467d02fbd2f63eb6e6dcfd03d4dcffc4c909cad5",
+        "previousAppSha256": "6a35acb3c0c0841de166d366467d02fbd2f63eb6e6dcfd03d4dcffc4c909cad5",
+        "reviewedDigest": "d29df96b0d34d7698119d6529feb7ea490afeecc4d6afb45da724e44b77d42c5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "d29df96b0d34d7698119d6529feb7ea490afeecc4d6afb45da724e44b77d42c5",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.es/recetas/Bacalao-a-la-crema-a-la-veneciana.html",
+      "steps": [
+        "Sciacquare più volte sotto acqua corrente fredda lo stoccafisso già ammollato, eliminare le spine e tagliare il pesce in grossi pezzi.",
+        "Trasferire lo stoccafisso in una casseruola alta insieme alle due foglie di alloro e coprire con acqua fredda.",
+        "Portare a ebollizione, schiumare quando necessario e proseguire per circa 30 minuti dal bollore, finché il pesce inizia a sfaldarsi.",
+        "Scolare il pesce, trasferirlo nella planetaria con frusta e avviare a velocità medio-bassa.",
+        "Versare lentamente a filo l'olio di semi di girasole, salare e pepare; aumentare la velocità e continuare a montare fino a ottenere una crema soffice, circa 10 minuti totali di lavorazione.",
+        "Con due cucchiai formare quenelle; servire sui crostini di pane tostato o di polenta, completando con prezzemolo tritato e pepe macinato."
+      ],
+      "temperature": "Bollitura del pesce; temperatura numerica non dichiarata."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "1 h 30 min",
+      "description": "Preparazione tradizionale ligure a base di stoccafisso ammollato e patate, mantecati con olio extravergine, aglio, prezzemolo e limone.",
+      "id": "GZ-03967",
+      "ingredients": [
+        "Stoccafisso già ammollato 600 g",
+        "patate 300 g",
+        "olio EVO 100 g",
+        "aglio 1 spicchio",
+        "prezzemolo 15 g",
+        "scorza di limone 1",
+        "sale fino q.b.",
+        "pepe bianco q.b."
+      ],
+      "name": "Brandacujun",
+      "notes": [
+        "Proporzione stoccafisso/patate 2:1; la fonte la considera importante per la consistenza.",
+        "Variante facoltativa secondo la fonte: accompagnare con olive taggiasche e pinoli tostati. Non inserirli tra gli ingredienti della formula principale.",
+        "Conservazione indicata dalla fonte: 2–3 giorni in frigorifero; congelazione sconsigliata.",
+        "Distinta da GZ-01480 baccalà mantecato alla veneziana: qui patate, olio EVO, aglio e limone, anziché olio di girasole e alloro."
+      ],
+      "origin": "Italia — Liguria, origine esplicitamente dichiarata dalla fonte.",
+      "originalTimes": {
+        "cook": "1 h 30 min",
+        "prep": "20 min",
+        "rest": "Nessun riposo dichiarato dalla fonte"
+      },
+      "originalTitle": "Brandacujun",
+      "originalYield": "4 persone",
+      "pdfPage": 865,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c3650b6e06ae83379e3bafc7e20860143d46a55421e81ba82f19c05f2d8e22ae",
+        "previousAppSha256": "c3650b6e06ae83379e3bafc7e20860143d46a55421e81ba82f19c05f2d8e22ae",
+        "reviewedDigest": "119703e16c7b29debaf1ceec0a5e6a1116351620f62b35f3d9c1a32b122dd09a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "119703e16c7b29debaf1ceec0a5e6a1116351620f62b35f3d9c1a32b122dd09a",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/brandacujun.html",
+      "steps": [
+        "Tagliare lo stoccafisso già ammollato in pezzi grandi; sbucciare le patate e tagliarle grossolanamente. Lavare e tritare il prezzemolo.",
+        "Mettere pesce e patate in pentola, coprire con acqua fredda, portare a ebollizione e cuocere circa 30–40 minuti a fuoco medio-alto, rimuovendo la schiuma.",
+        "Quando il pesce inizia a sfaldarsi, scolare e lasciar intiepidire; eliminare pelle e spine, quindi sfilacciare la polpa.",
+        "Tritare l'aglio e farlo insaporire in una casseruola con una prima parte dell'olio extravergine a calore moderato.",
+        "Aggiungere stoccafisso, patate, prezzemolo e parte dell'olio; coprire e cuocere circa un'ora a fuoco basso, ruotando la casseruola fuori dal fuoco ogni 5–7 minuti e aggiungendo gradualmente l'olio restante.",
+        "Quando pesce e patate sono amalgamati e sfatti, regolare di sale e pepe bianco, togliere dal fuoco e profumare con la scorza del limone. Servire caldo, tiepido o freddo sui crostoni."
+      ],
+      "temperature": "Prima bollitura a fuoco medio-alto, seconda cottura a fuoco basso; temperatura numerica non dichiarata."
     }
   ]
 }
