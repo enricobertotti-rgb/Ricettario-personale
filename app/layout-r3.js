@@ -95,7 +95,8 @@ async function loadPublishedRecipesR15(){
       if(!url){reject('invalid_source');continue;}
       if(ids.has(r.id)){
         const previous=ids.get(r.id),proof=r.publicationUpdate;
-        if(proof?.reviewedDigest===r.reviewedRecordSha256&&proof.baseAppSha256===await saporeRecordSha256(previous)){
+        const baseline=typeof SAPORE_ORIGINAL_RECORDS!=='undefined'&&SAPORE_ORIGINAL_RECORDS.has(r.id)?SAPORE_ORIGINAL_RECORDS.get(r.id):previous;
+        if(proof?.reviewedDigest===r.reviewedRecordSha256&&proof.baseAppSha256===await saporeRecordSha256(baseline)){
           if(fingerprints.has(fp)&&fingerprints.get(fp)!==r.id){reject('exact_content_duplicate',fingerprints.get(fp));continue;}
           updates.push(r);ids.set(r.id,r);fingerprints.delete(publicationFingerprint(previous));fingerprints.set(fp,r.id);
           const oldUrl=normUrl(previous.source);sourceIds.set(oldUrl,(sourceIds.get(oldUrl)||[]).filter(id=>id!==r.id));
