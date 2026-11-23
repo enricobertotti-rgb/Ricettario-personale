@@ -46,7 +46,8 @@ jobs:
     timeout-minutes: 15
     env:
       SAPORE_PRIVATE_REPO: enricobertotti-rgb/Sapore-Archivio-Privato
-      SAPORE_MODE: ${{ (github.event_name == 'schedule' || (github.event_name == 'push' && github.event.head_commit.message == 'ops(sapore): process private inbox R28')) && 'apply' || inputs.mode || 'audit' }}
+      SAPORE_MODE: >-
+        ${{ (github.event_name == 'schedule' || (github.event_name == 'push' && github.event.head_commit.message == 'ops(sapore): process private inbox R28')) && 'apply' || inputs.mode || 'audit' }}
       SAPORE_EXPECTED_PRIVATE_HEAD: ${{ inputs.expected_private_head }}
     steps:
       - name: Require secret without disclosing it
