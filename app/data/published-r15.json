@@ -8094,6 +8094,229 @@
         "Lasciare intiepidire brevemente prima di servire."
       ],
       "temperature": "Forno statico preriscaldato a 200 °C (392 °F), ripiano centrale; 15–18 minuti."
+    },
+    {
+      "id": "GZ-00002",
+      "name": "Antipasto crudo e avocado",
+      "category": "Antipasti e aperitivi",
+      "serves": "12 pezzi",
+      "prep": "15 min",
+      "cook": "15 min",
+      "rest": "",
+      "ingredients": [
+        "Avocado sodi, non eccessivamente maturi: 2",
+        "Farina di ceci: 50 g",
+        "Farina 00: 50 g",
+        "Lievito istantaneo per preparazioni salate: 1/4 cucchiaino",
+        "Acqua a temperatura ambiente: 120 g",
+        "Sale fino: 5 g",
+        "Prosciutto crudo: 12 fette",
+        "Marmellata di arance: 2 cucchiai"
+      ],
+      "steps": [
+        "Setacciare la farina di ceci e la farina 00 in una ciotola, quindi unire il lievito istantaneo e il sale.",
+        "Versare gradualmente i 120 g di acqua mescolando con una frusta fino a ottenere una pastella liscia e senza grumi.",
+        "Scaldare una piccola padella antiaderente, versare una porzione di impasto, cuocere 2–3 minuti per lato e proseguire fino a ottenere 12 blinis.",
+        "Dividere a metà gli avocado, eliminare il nocciolo e sbucciarli; ricavare fettine molto sottili.",
+        "Per ogni rosa disporre circa dieci fettine affiancate, aprirle a ventaglio e arrotolarle delicatamente a spirale.",
+        "Mettere su ogni blinis una fetta di prosciutto crudo e una rosa di avocado.",
+        "Lavorare, se necessario, la marmellata di arance con un frullatore a immersione per renderla più fluida; accompagnare i bocconcini con la marmellata e servire subito."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Antipasto-crudo-e-avocado.html",
+      "pdfPage": 11,
+      "description": "Blinis di farina di ceci e farina 00 con prosciutto crudo, rose di avocado e marmellata di arance.",
+      "reviewedRecordSha256": "544009ffcc3cdc0b3dcd1f197a37749b5c97095b24453f419c615be2e98297c3",
+      "author": null,
+      "originalTitle": "Antipasto crudo e avocado",
+      "originalYield": "12 pezzi",
+      "originalTimes": {
+        "prep": "15 min",
+        "cook": "15 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "temperature": "Cottura in padella antiaderente; temperatura numerica non dichiarata.",
+      "notes": [
+        "La fonte consiglia di consumare subito l'antipasto assemblato. Solo i blinis già cotti possono essere conservati in frigorifero per circa 3 giorni; congelazione sconsigliata.",
+        "Il salmone affumicato è suggerito come sostituzione facoltativa; l'originale utilizza prosciutto crudo. La nota della fonte cita impropriamente prosciutto cotto, non modificare l'ingrediente originale.",
+        "Autore individuale e paese d'origine non dichiarati dalla fonte."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "non documentata dalla fonte",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "931caf9e5f87159125ca2650c4a7ed88d2c7122617e158bd89d1ce5e9372a333",
+        "previousAppSha256": "931caf9e5f87159125ca2650c4a7ed88d2c7122617e158bd89d1ce5e9372a333",
+        "reviewedDigest": "544009ffcc3cdc0b3dcd1f197a37749b5c97095b24453f419c615be2e98297c3"
+      }
+    },
+    {
+      "id": "GZ-00007",
+      "name": "Bocconcini di prugne e bacon",
+      "category": "Antipasti e aperitivi",
+      "serves": "8 bocconcini, per circa 4 persone",
+      "prep": "5 min",
+      "cook": "25 min",
+      "rest": "",
+      "ingredients": [
+        "Prugne disidratate denocciolate: 8",
+        "Bacon: 8 fette",
+        "Salvia fresca: 8 foglie"
+      ],
+      "steps": [
+        "Stendere le otto fettine di bacon su un tagliere e posizionare una prugna denocciolata su un'estremità di ciascuna.",
+        "Arrotolare ogni fetta di bacon in modo da avvolgere completamente la prugna.",
+        "Disporre gli otto rotolini ben distanziati su una teglia rivestita con carta forno.",
+        "Cuocere in forno statico a 180 °C per circa 25 minuti, fino alla doratura del bacon.",
+        "Sfornare, lasciare intiepidire e servire guarnendo ciascun bocconcino con una foglia di salvia."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Bocconcini-di-prugne-e-bacon.html",
+      "pdfPage": 21,
+      "description": "Prugne secche denocciolate avvolte nel bacon e cotte in forno; salvia fresca al servizio.",
+      "reviewedRecordSha256": "d039a8667cf49b55e4072045e9a6e8ccf99175e0855d28486e4b85a494ff72c9",
+      "author": null,
+      "originalTitle": "Bocconcini di prugne e bacon",
+      "originalYield": "8 bocconcini, per circa 4 persone",
+      "originalTimes": {
+        "prep": "5 min",
+        "cook": "25 min",
+        "rest": "Solo breve intiepidimento, durata non dichiarata"
+      },
+      "temperature": "Forno statico a 180 °C per circa 25 minuti.",
+      "notes": [
+        "La fonte consiglia di consumare i bocconcini al momento.",
+        "Variante facoltativa suggerita dalla fonte: un cubetto di formaggio all'interno di ciascun involtino; tipo e dose non specificati.",
+        "Autore individuale e paese d'origine non dichiarati dalla fonte."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "non documentata dalla fonte",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "432617818892408deef2e97fe7d55b3d16158e8a8012f60d9e06389a994d0386",
+        "previousAppSha256": "432617818892408deef2e97fe7d55b3d16158e8a8012f60d9e06389a994d0386",
+        "reviewedDigest": "d039a8667cf49b55e4072045e9a6e8ccf99175e0855d28486e4b85a494ff72c9"
+      }
+    },
+    {
+      "id": "GZ-00009",
+      "name": "Bocconcini di sfoglia con formaggio e miele",
+      "category": "Antipasti e aperitivi",
+      "serves": "20 bocconcini",
+      "prep": "20 min",
+      "cook": "10 min",
+      "rest": "",
+      "ingredients": [
+        "Pasta sfoglia rotonda: 230 g",
+        "Caprino: 80 g",
+        "Miele di castagno: 60 g",
+        "Timo: q.b.",
+        "Olio extravergine d'oliva: q.b.",
+        "Sale fino: q.b.",
+        "Pepe nero: q.b.",
+        "Per spennellare — tuorlo: 1",
+        "Per spennellare — latte intero: 1 cucchiaio"
+      ],
+      "steps": [
+        "Mescolare il caprino con poco olio extravergine, sale e pepe fino a ottenere una crema uniforme.",
+        "Srotolare la pasta sfoglia e ricavare 40 dischi di 3,5 cm di diametro; adagiarne 20 su una teglia con carta forno.",
+        "Dai restanti 20 dischi togliere il centro con un coppapasta di 2,5 cm, ottenendo 20 anelli larghi circa 1 cm.",
+        "Bucherellare i 20 dischi di base con una forchetta, sbattere tuorlo e latte e usarli per spennellare i fondi.",
+        "Sovrapporre un anello a ciascun fondo e distribuire al centro circa un cucchiaino di crema di caprino.",
+        "Cuocere in forno statico preriscaldato a 200 °C per 10 minuti; sfornare e lasciare intiepidire, quindi aggiungere foglioline di timo.",
+        "Mescolare il miele di castagno con timo sfogliato e versarlo sui bocconcini; servire con l'eventuale miele rimasto a parte."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Bocconcini-di-sfoglia-con-formaggio-e-miele.html",
+      "pdfPage": 23,
+      "description": "Piccoli vol-au-vent di sfoglia con caprino e miele di castagno aromatizzato al timo.",
+      "reviewedRecordSha256": "0f1542baa5bd70ba4923b7c997bcd94f5fd34e96a18a7d041baec96a76cdeb28",
+      "author": null,
+      "originalTitle": "Bocconcini di sfoglia con formaggio e miele",
+      "originalYield": "20 bocconcini",
+      "originalTimes": {
+        "prep": "20 min",
+        "cook": "10 min",
+        "rest": "Solo intiepidimento, durata non dichiarata"
+      },
+      "temperature": "Forno statico preriscaldato a 200 °C, 10 minuti.",
+      "notes": [
+        "I due ingredienti per spennellare sono un gruppo di lavorazione della stessa ricetta, non una seconda preparazione.",
+        "La fonte consiglia di consumare subito per conservare la fragranza.",
+        "Paprika sui dischi e granella di frutta secca nel caprino sono varianti facoltative suggerite, senza quantità specificate.",
+        "Autore individuale e origine geografica specifica non dichiarati."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "non documentata dalla fonte",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "ce43c12ba622b132f786cef244de4449543ea05e6854c04e2f3bfda98d68a0df",
+        "previousAppSha256": "ce43c12ba622b132f786cef244de4449543ea05e6854c04e2f3bfda98d68a0df",
+        "reviewedDigest": "0f1542baa5bd70ba4923b7c997bcd94f5fd34e96a18a7d041baec96a76cdeb28"
+      }
+    },
+    {
+      "id": "GZ-00010",
+      "name": "Bruschetta caprese",
+      "category": "Antipasti e aperitivi",
+      "serves": "4 persone (4 bruschette)",
+      "prep": "10 min",
+      "cook": "5 min",
+      "rest": "",
+      "ingredients": [
+        "Pane casereccio: 4 fette",
+        "Mozzarella di bufala: 250 g",
+        "Pomodorini ciliegino: 10",
+        "Olive nere: 12",
+        "Basilico: 8 foglie",
+        "Aglio: 1 spicchio",
+        "Origano: 2 pizzichi",
+        "Olio extravergine d'oliva: q.b.",
+        "Sale fino: q.b."
+      ],
+      "steps": [
+        "Tagliare quattro fette di pane di circa 2 cm di spessore e abbrustolirle da entrambi i lati, sotto il grill del forno oppure in una padella antiaderente.",
+        "Quando il pane è ancora caldo, strofinare ogni fetta con il medesimo spicchio d'aglio.",
+        "Scolare bene la mozzarella di bufala e tagliarla a dadini; dividere i pomodorini ciliegino in quarti.",
+        "Mescolare in una ciotola mozzarella, pomodorini e olive nere con basilico spezzettato, origano, olio extravergine e poco sale.",
+        "Distribuire il condimento sulle quattro fette in parti uguali, aggiungere un filo d'olio e servire appena preparato."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Bruschetta-caprese.html",
+      "pdfPage": 24,
+      "description": "Pane tostato e strofinato con aglio, condito con mozzarella di bufala, pomodorini, olive e aromi freschi.",
+      "reviewedRecordSha256": "9f7c69b94e4aa52562a1f97f58dc0712322d6ad657c7d4f4ffcb84aea4f83840",
+      "author": null,
+      "originalTitle": "Bruschetta caprese",
+      "originalYield": "4 persone (4 bruschette)",
+      "originalTimes": {
+        "prep": "10 min",
+        "cook": "5 min",
+        "rest": "Non previsto dalla fonte"
+      },
+      "temperature": "Pane tostato sotto grill o in padella; temperatura numerica non dichiarata.",
+      "notes": [
+        "La fonte definisce la bruschetta caprese una specialità partenopea: origine del piatto Italia, Campania (Napoli); non è attestato l'autore della specifica ricetta.",
+        "Olio extravergine e sale sono due ingredienti separati, entrambi q.b.; non inventare una quantità numerica.",
+        "La fonte consiglia ingredienti freschi e consumo immediato; nessuna durata di conservazione certificata.",
+        "Autore individuale non dichiarato dalla fonte."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Italia, Campania (Napoli), come documentato dalla fonte",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "0e71be8f9161ae50e7d903d177f58e3fb7f2fccc60fa452fb37e45a63ca5d3fa",
+        "previousAppSha256": "0e71be8f9161ae50e7d903d177f58e3fb7f2fccc60fa452fb37e45a63ca5d3fa",
+        "reviewedDigest": "9f7c69b94e4aa52562a1f97f58dc0712322d6ad657c7d4f4ffcb84aea4f83840"
+      }
     }
   ]
 }
