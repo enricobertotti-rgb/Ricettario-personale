@@ -22,11 +22,18 @@ on:
         description: "Optional exact private main SHA; fail closed on mismatch"
         type: string
         required: false
+  # Completion wakes only finalization, never another publication batch.
+  workflow_run:
+    workflows: ["Sapore - public Pages QA"]
+    types: [completed]
+    branches: [main]
   schedule:
     - cron: "17 1,5,9,13,17,21 * * *"
 
 permissions:
-  contents: read
+  contents: write
+  actions: write
+  pages: write
 
 concurrency:
   group: sapore-r28-public-transport-single-writer
@@ -38,16 +45,26 @@ jobs:
       github.repository == 'enricobertotti-rgb/Ricettario-personale' &&
       github.ref == 'refs/heads/main' &&
       (
+        github.event_name != 'workflow_run' ||
+        (
+          github.event.workflow_run.conclusion == 'success' &&
+          github.event.workflow_run.head_branch == 'main' &&
+          (github.event.workflow_run.event == 'push' || github.event.workflow_run.event == 'workflow_dispatch') &&
+          github.event.workflow_run.head_repository.full_name == github.repository &&
+          github.event.workflow_run.path == '.github/workflows/sapore-public-qa.yml'
+        )
+      ) &&
+      (
         (github.event_name == 'push' && github.event.head_commit.message != 'ops(sapore): process private inbox R28') ||
         (github.event_name == 'workflow_dispatch' && inputs.mode == 'audit') ||
         vars.SAPORE_R28_ENABLED == 'true'
       )
     runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    timeout-minutes: 25
     env:
       SAPORE_PRIVATE_REPO: enricobertotti-rgb/Sapore-Archivio-Privato
       SAPORE_MODE: >-
-        ${{ (github.event_name == 'schedule' || (github.event_name == 'push' && github.event.head_commit.message == 'ops(sapore): process private inbox R28')) && 'apply' || inputs.mode || 'audit' }}
+        ${{ github.event_name == 'workflow_run' && 'finalize' || (github.event_name == 'schedule' || (github.event_name == 'push' && github.event.head_commit.message == 'ops(sapore): process private inbox R28')) && 'apply' || inputs.mode || 'audit' }}
       SAPORE_EXPECTED_PRIVATE_HEAD: ${{ inputs.expected_private_head }}
     steps:
       - name: Require secret without disclosing it
@@ -105,7 +122,7 @@ jobs:
             exit 1
           fi
           if [[ "$SAPORE_MODE" == "audit" ]]; then
-          for suite in r13 r14 r15 r18 r21 r22 r26; do
+          for suite in r13 r14 r15 r18 r21 r22 r26 r30; do
             if ! python -m unittest discover -s "tests/$suite" -p 'test_*.py' >>"$LOG" 2>&1; then
               echo "::error::Private regression suite $suite failed; no data written"
               exit 1
@@ -208,3 +225,29 @@ jobs:
             exit 1
           fi
           echo "Private transaction attested through public workflow; no private artefacts uploaded"
+
+      - name: Continue approved publication through Pages QA and final receipts
+        if: env.SAPORE_MODE == 'apply' || env.SAPORE_MODE == 'finalize'
+        shell: bash
+        working-directory: private
+        env:
+          SAPORE_INBOX_WRITER: "YES"
+          PYTHONPATH: "."
+          GH_TOKEN: ${{ github.token }}
+          SAPORE_PIPELINE_TOKEN: ${{ secrets.SAPORE_PRIVATE_WRITER_TOKEN }}
+          SAPORE_TRIGGER_QA_RUN_ID: ${{ github.event.workflow_run.id }}
+          SAPORE_TRIGGER_PUBLIC_COMMIT: ${{ github.event.workflow_run.head_sha }}
+        run: |
+          set -euo pipefail
+          umask 077
+          LOG="$RUNNER_TEMP/sapore-r30-private.log"
+          CHAIN_MODE=advance
+          if [[ "$SAPORE_MODE" == "finalize" ]]; then
+            CHAIN_MODE=finalize
+          fi
+          if ! python -m tools.r30_pipeline --mode "$CHAIN_MODE" \
+              --max-wait-seconds 600 --max-recipes 20 >>"$LOG" 2>&1; then
+            echo "::error::Publication chain stopped safely; inspect private checkpoint and receipts"
+            exit 1
+          fi
+          echo "Publication chain completed or deferred safely; no private artefacts exposed"
