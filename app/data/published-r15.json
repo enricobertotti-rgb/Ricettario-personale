@@ -9003,6 +9003,486 @@
         "Quando pesce e patate sono amalgamati e sfatti, regolare di sale e pepe bianco, togliere dal fuoco e profumare con la scorza del limone. Servire caldo, tiepido o freddo sui crostoni."
       ],
       "temperature": "Prima bollitura a fuoco medio-alto, seconda cottura a fuoco basso; temperatura numerica non dichiarata."
+    },
+    {
+      "id": "GZ-00132",
+      "name": "Crocchette di riso giallo con stracchino",
+      "category": "Antipasti e aperitivi",
+      "serves": "circa 30 crocchette",
+      "prep": "30 min",
+      "cook": "30 min",
+      "rest": "almeno 30 min di raffreddamento",
+      "ingredients": [
+        "Per circa 30 crocchette — Riso Vialone Nano: 200 g",
+        "Zafferano in pistilli: 0,3 g",
+        "Brodo vegetale: q.b.",
+        "Burro: 100 g",
+        "Parmigiano Reggiano DOP: 100 g",
+        "Olio extravergine d'oliva per il risotto: q.b.",
+        "Sale fino per il risotto: q.b.",
+        "Per ripieno e panatura — Stracchino: 120 g",
+        "Uova: 2",
+        "Panko: q.b.",
+        "Sale fino: q.b.",
+        "Per friggere — Olio di semi di girasole: q.b."
+      ],
+      "steps": [
+        "Mettere lo zafferano in infusione in poco brodo vegetale caldo, coprendo il recipiente.",
+        "Tostare il riso con poco olio extravergine per alcuni minuti, quindi cuocerlo con il brodo vegetale caldo aggiunto progressivamente.",
+        "A metà cottura unire l'infusione di zafferano; completare la cottura, salare e mantecare fuori dal fuoco con burro e Parmigiano.",
+        "Stendere il riso su un vassoio, coprirlo e farlo rassodare in frigorifero per almeno 30 minuti.",
+        "Ricavare circa 30 porzioni di riso da circa 30 g ciascuna, creare una cavità, farcire con lo stracchino ammorbidito e richiudere a pallina.",
+        "Passare le palline nelle 2 uova sbattute e poi nel panko.",
+        "Friggere poche crocchette per volta in olio di girasole a circa 140 °C fino a doratura, scolare su carta assorbente e salare leggermente."
+      ],
+      "photo": null,
+      "source": "https://www.giallozafferano.com/recipes/yellow-rice-croquettes-with-stracchino.html",
+      "pdfPage": 93,
+      "description": "Ci siamo ispirati alla tradizione meneghina per realizzare uno sfizioso antipasto dal cuore tenero... crocchette di riso giallo con stracchino!",
+      "reviewedRecordSha256": "71d892d00c181587c0ff1fe4872dbd2c5233d9e413c168bc480d80439da01af3",
+      "author": null,
+      "originalTitle": "Yellow Rice Croquettes with Stracchino",
+      "originalYield": "circa 30 crocchette",
+      "originalTimes": {
+        "prep": "30 min",
+        "cook": "30 min",
+        "rest": "Almeno 30 min in frigorifero per compattare il risotto."
+      },
+      "temperature": "Frittura in olio a circa 140 °C, come da fonte.",
+      "notes": [
+        "Formate ma non ancora panate, le crocchette possono essere conservate in frigorifero fino a 12 ore; la fonte riporta anche congelamento da crude e conservazione da cotte per un paio di giorni.",
+        "La fonte permette pangrattato normale invece del panko; per un'alternativa senza glutine propone pangrattato idoneo o farina di mais fine, verificando gli altri ingredienti.",
+        "Ispirazione al risotto alla milanese dichiarata, ma non attestazione di origine tradizionale della specifica crocchetta; variante distinta dalle crocchette di riso al forno."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Ispirazione lombarda (risotto alla milanese); origine specifica della variante non attestata.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "3dcff512dbb3255eced3bea7b3d6e3badd2fa033ca17824e29a1c4e72dd131dd",
+        "previousAppSha256": "3dcff512dbb3255eced3bea7b3d6e3badd2fa033ca17824e29a1c4e72dd131dd",
+        "reviewedDigest": "71d892d00c181587c0ff1fe4872dbd2c5233d9e413c168bc480d80439da01af3"
+      }
+    },
+    {
+      "id": "GZ-00018",
+      "name": "carpaccio di ananas e speck",
+      "category": "Antipasti e aperitivi",
+      "serves": "4 persone",
+      "prep": "20 min",
+      "cook": "Non prevista",
+      "rest": "",
+      "ingredients": [
+        "Ananas: 1",
+        "Speck affettato sottile: 200 g",
+        "Origano fresco: q.b.",
+        "Grana Padano DOP in scaglie: 50 g",
+        "Per accompagnare — gelatina d'uva: q.b.",
+        "Per accompagnare — taralli: q.b."
+      ],
+      "steps": [
+        "Eliminare ciuffo e buccia dell'ananas, quindi affettare la polpa molto sottilmente con affettatrice o coltello affilato.",
+        "Distribuire le fette di ananas sui piatti alternandole alle fette sottili di speck.",
+        "Ricavare scaglie fini di Grana Padano e distribuirle sui piatti insieme a origano fresco.",
+        "Accompagnare con ciotoline di taralli e gelatina d'uva e servire immediatamente."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Carpaccio-di-ananas-e-speck.html",
+      "pdfPage": 28,
+      "description": "La newsletter presenta questo piatto, ma non ne conserva una descrizione completa. La fonte è disponibile tramite il collegamento qui sotto",
+      "reviewedRecordSha256": "463810809e3da23efc9b605672a6fa5123f45fe59cbce76ead972f99d0b904cb",
+      "author": null,
+      "originalTitle": "Pineapple and Speck Carpaccio",
+      "originalYield": "4 persone",
+      "originalTimes": {
+        "prep": "20 min",
+        "cook": "Non prevista",
+        "rest": "Non previsto"
+      },
+      "temperature": "Non applicabile: nessuna cottura.",
+      "notes": [
+        "La fonte consiglia il consumo immediato dopo l'assemblaggio.",
+        "Come alternativa FACOLTATIVA alla gelatina d'uva propone vincotto o sapa, senza dosaggi dichiarati.",
+        "Lo speck è presentato come salume tirolese: ciò non documenta una provenienza regionale della specifica ricetta."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Origine geografica specifica della ricetta non documentata nella fonte.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "32ef66c137fc127e0eebdc5e23c97e3bd4cc04c71ceb53863ea5eccbe5a1acc0",
+        "previousAppSha256": "32ef66c137fc127e0eebdc5e23c97e3bd4cc04c71ceb53863ea5eccbe5a1acc0",
+        "reviewedDigest": "463810809e3da23efc9b605672a6fa5123f45fe59cbce76ead972f99d0b904cb"
+      }
+    },
+    {
+      "id": "GZ-00022",
+      "name": "Chupitos di melone con fagottini di feta",
+      "category": "Antipasti e aperitivi",
+      "serves": "4 chupitos e 16 fagottini",
+      "prep": "20 min",
+      "cook": "3 min",
+      "rest": "",
+      "ingredients": [
+        "Per 4 chupitos — Melone: 460 g",
+        "Olio extravergine d'oliva per il melone: 10 g",
+        "Sale fino per il melone: q.b.",
+        "Pepe nero per il melone: q.b.",
+        "Per 16 fagottini — Pasta fillo: 150 g (4 fogli da 48 × 34 cm)",
+        "Feta: 100 g",
+        "Pomodorini datterini: 80 g",
+        "Olive nere: 25 g",
+        "Cipolla rossa di Tropea: 60 g",
+        "Erba cipollina: q.b.",
+        "Olio extravergine d'oliva per i fagottini: 10 g",
+        "Sale fino per i fagottini: q.b.",
+        "Olio di semi di arachide per friggere: q.b."
+      ],
+      "steps": [
+        "Pulire il melone eliminando buccia, semi e filamenti; tagliare 460 g di polpa, frullare con 10 g di olio extravergine e poco sale e refrigerare la purea.",
+        "Tritare la cipolla e l'erba cipollina, tagliare a cubetti datterini e feta e affettare le olive; mescolare con 10 g di olio extravergine e poco sale.",
+        "Sovrapporre due fogli di pasta fillo da 48 × 34 cm e ricavare 8 strisce larghe circa 6 cm; inumidirle leggermente.",
+        "Mettere una piccola quantità di ripieno all'inizio di ogni striscia, ripiegarla a triangolo lungo tutta la lunghezza, quindi sigillare con poca acqua; ripetere con gli altri due fogli per ottenere 16 fagottini.",
+        "Friggere pochi fagottini per volta in olio di arachide a circa 170–180 °C per circa 30 secondi per lato; scolare e salare leggermente.",
+        "Versare il frullato freddo in quattro bicchierini e completare con pepe; servire con i 16 fagottini ancora caldi."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Chupitos-di-melone-con-fagottini-di-feta.html",
+      "pdfPage": 29,
+      "description": "I chupitos di melone con fagottini di feta sono un modo originale di gustare all'ora dell'aperitivo o come antipasto un nuovo classico dell'estate...melone e feta!",
+      "reviewedRecordSha256": "b060468c83fd7ec6186fb4918cebc94839d3c257f7e1a797a3060eebd3c53570",
+      "author": null,
+      "originalTitle": "Melon shots with feta bundles",
+      "originalYield": "4 chupitos e 16 fagottini",
+      "originalTimes": {
+        "prep": "20 min",
+        "cook": "3 min",
+        "rest": "Raffreddamento del melone in frigorifero, durata non quantificata."
+      },
+      "temperature": "Olio di arachide per frittura: 170–180 °C.",
+      "notes": [
+        "Sono due preparazioni abbinate: 4 chupitos di melone e 16 fagottini di feta. Non fondere le due sezioni ingredienti.",
+        "La fonte suggerisce di preparare i fagottini crudi il giorno precedente e conservarli coperti in frigorifero; congelabili da crudi con ingredienti freschi e mai scongelati. Purea di melone: massimo 1 giorno coperta in frigorifero.",
+        "La presentazione definisce l'abbinamento di ispirazione greca; non certifica l'origine nazionale della formulazione."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Ispirazione greca dichiarata, provenienza specifica della ricetta non certificata.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "6f07d1d87ee2ba3cb504803ea837a4875298f3086197e893c956799633251387",
+        "previousAppSha256": "6f07d1d87ee2ba3cb504803ea837a4875298f3086197e893c956799633251387",
+        "reviewedDigest": "b060468c83fd7ec6186fb4918cebc94839d3c257f7e1a797a3060eebd3c53570"
+      }
+    },
+    {
+      "id": "GZ-00023",
+      "name": "Crocchette cacio e pepe",
+      "category": "Antipasti e aperitivi",
+      "serves": "20 crocchette",
+      "prep": "20 min",
+      "cook": "60 min",
+      "rest": "",
+      "ingredients": [
+        "Per circa 20 crocchette — Patate rosse: 1 kg",
+        "Pecorino Romano stagionato: 100 g",
+        "Pepe nero in grani: 2 cucchiaini",
+        "Pepe bianco in grani: 2 cucchiaini",
+        "Uovo per l'impasto: 1",
+        "Per la panatura — Uova: 3",
+        "Pangrattato: 100 g",
+        "Per friggere — Olio vegetale di semi: q.b."
+      ],
+      "steps": [
+        "Lavare le patate e lessarle intere, partendo da acqua fredda, per circa 40 minuti dall'ebollizione; scolarle e schiacciarle.",
+        "Pestare insieme pepe nero e bianco; grattugiare il Pecorino Romano stagionato.",
+        "Lasciare intiepidire le patate e amalgamarle con il Pecorino, i due pepi e l'uovo dell'impasto.",
+        "Con le mani leggermente umide formare circa 20 crocchette cilindriche, appiattendo leggermente le estremità.",
+        "Sbattere le 3 uova destinate alla panatura; passare ogni crocchetta nell'uovo, poi nel pangrattato e ripetere una seconda volta per la doppia panatura.",
+        "Friggere al massimo due crocchette alla volta in olio a circa 170 °C per circa 3 minuti fino a doratura; scolarle su carta assorbente e servire calde."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Crocchette-cacio-e-pepe.html",
+      "pdfPage": 30,
+      "description": "Le crocchette cacio e pepe nascono da due delle ricette più amate della nostra cucina e sono perfette da accompagnare a un bicchiere di bollicine!",
+      "reviewedRecordSha256": "8abd887f4e82cbf4ad5d95de5a0c8a6f28e3d0e788dc65f05b1640e7523e7ff2",
+      "author": null,
+      "originalTitle": "Croquettes cacio e pepe",
+      "originalYield": "20 crocchette",
+      "originalTimes": {
+        "prep": "20 min",
+        "cook": "60 min",
+        "rest": "Raffreddamento delle patate prima di impastare, durata non dichiarata."
+      },
+      "temperature": "Frittura in olio a circa 170 °C.",
+      "notes": [
+        "La fonte GialloZafferano francese distingue l'uovo nell'impasto dalle 3 uova per la panatura. Conservare le due dosi separate.",
+        "Da consumare preferibilmente appena cotte. È citata la possibilità di congelarle crude prima della panatura; salsa allo yogurt solo accompagnamento facoltativo senza dosi.",
+        "La ricetta reinterpreta il piatto cacio e pepe: tale ispirazione non stabilisce l'origine geografica delle crocchette."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Ispirazione alla preparazione romana cacio e pepe, origine specifica delle crocchette non certificata.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "cea83ad6cce9baed5c41721d76bb94f0154638bcb4e3b77b17e8a6452d163f94",
+        "previousAppSha256": "cea83ad6cce9baed5c41721d76bb94f0154638bcb4e3b77b17e8a6452d163f94",
+        "reviewedDigest": "8abd887f4e82cbf4ad5d95de5a0c8a6f28e3d0e788dc65f05b1640e7523e7ff2"
+      }
+    },
+    {
+      "id": "GZ-00130",
+      "name": "Crocchette di riso al forno",
+      "category": "Antipasti e aperitivi",
+      "serves": "26 pezzi",
+      "prep": "60 min",
+      "cook": "50 min",
+      "rest": "brodo circa 1 h 30 min",
+      "ingredients": [
+        "Per 26 crocchette — Riso Carnaroli: 500 g",
+        "Scalogno: 80 g",
+        "Olio extravergine d'oliva: 30 g",
+        "Vino bianco: 100 g (in lista ingredienti)",
+        "Per il brodo — Acqua: 1 l",
+        "Carote: 100 g",
+        "Sedano: 100 g",
+        "Cipolle bianche: 200 g",
+        "Pepe nero in grani: 10 g",
+        "Per la panatura — Pangrattato: 200 g",
+        "Uova medie: 4",
+        "Sale fino: q.b.",
+        "Per il ripieno — Prosciutto cotto: 220 g",
+        "Piselli: 180 g",
+        "Provola affumicata: 150 g"
+      ],
+      "steps": [
+        "Per il brodo, lavare e tagliare carote, sedano e cipolle; unirli a 1 litro d'acqua con il pepe, portare a bollore, salare, coprire e cuocere circa 90 minuti, poi filtrare.",
+        "Tritare lo scalogno e farlo appassire nell'olio a fuoco basso circa 10 minuti, aggiungendo poco brodo se occorre; unire il riso e tostarlo.",
+        "Sfumare il risotto con il vino bianco e portarlo a cottura in circa 20 minuti aggiungendo brodo caldo poco per volta. Stenderlo in una pirofila, coprire e lasciar raffreddare.",
+        "Tagliare a dadini prosciutto e provola e cuocere i piselli al vapore per circa 2 minuti.",
+        "Dividere il riso ormai freddo in 26 porzioni; schiacciarle e farcirle con prosciutto, piselli e provola, quindi richiudere formando crocchette allungate.",
+        "Passare ogni crocchetta nelle uova sbattute e nel pangrattato, ripetendo la doppia panatura.",
+        "Disporle sulla teglia e irrorarle leggermente con olio extravergine, senza aggiungere una dose non dichiarata; cuocere in forno statico preriscaldato a 200 °C per 30–35 minuti fino a doratura."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Crocchette-di-riso-al-forno.html",
+      "pdfPage": 32,
+      "description": "Le crocchette di riso al forno sono un'ottima variante alle solite crocchette fritte, ma in egual modo croccanti. Ideali da servire per un aperitivo o come sfizioso spuntino",
+      "reviewedRecordSha256": "28f982d79fcceb725eee09447fb565f847d935e4c00ec88f4f9c8da632dad0c2",
+      "author": null,
+      "originalTitle": "Baked Rice Croquettes",
+      "originalYield": "26 pezzi",
+      "originalTimes": {
+        "prep": "60 min",
+        "cook": "50 min (oltre al brodo)",
+        "rest": "Preparazione del brodo circa 90 min aggiuntivi; raffreddamento del riso senza durata specificata."
+      },
+      "temperature": "Forno statico a 200 °C per 30–35 min.",
+      "notes": [
+        "La fonte riporta 100 g di vino nella lista ingredienti, ma 100 ml nel procedimento: mantenuta la quantità originaria della lista e documentata la discrepanza, senza conversione arbitraria.",
+        "La fonte raccomanda consumo immediato oppure congelamento delle crocchette da crude; ripieni alternativi con ragù o erbette saltate senza dosi dichiarate.",
+        "La presentazione colloca la preparazione in Lombardia, ma non stabilisce una denominazione tradizionale certificata. Distinta dagli arancini siciliani e dalle crocchette fritte."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Italia — Lombardia, attribuzione geografica dichiarata nella presentazione della fonte.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "f8a0e540d86cfb3ea2856fb6706077ffe191cab7b9cf3c2957973292ec51de29",
+        "previousAppSha256": "f8a0e540d86cfb3ea2856fb6706077ffe191cab7b9cf3c2957973292ec51de29",
+        "reviewedDigest": "28f982d79fcceb725eee09447fb565f847d935e4c00ec88f4f9c8da632dad0c2"
+      }
+    },
+    {
+      "id": "GZ-00024",
+      "name": "Crocchette di prosciutto",
+      "category": "Antipasti e aperitivi",
+      "serves": "10 crocchette",
+      "prep": "25 min",
+      "cook": "25 min",
+      "rest": "Almeno 2 ore in frigorifero, dopo raffreddamento a temperatura ambiente",
+      "ingredients": [
+        "Prosciutto crudo affettato sottile: 160 g",
+        "Latte intero: 500 g",
+        "Burro: 70 g",
+        "Farina 00: 90 g",
+        "Sale fino: 1 cucchiaino",
+        "Noce moscata: 1 cucchiaino",
+        "Cipolla dorata: 1",
+        "PER IMPANARE E FRIGGERE — Uova: 3",
+        "PER IMPANARE E FRIGGERE — Pangrattato: 100 g",
+        "PER IMPANARE E FRIGGERE — Olio di semi di girasole: q.b."
+      ],
+      "steps": [
+        "Tritare finemente la cipolla, sciogliere il burro in una casseruola e fare stufare la cipolla per 10 minuti a fuoco medio-basso.",
+        "Nel frattempo tagliare a listarelle i 160 g di prosciutto crudo; aggiungerlo alla cipolla e cuocere per 1 minuto.",
+        "Versare tutti i 90 g di farina 00 in una sola volta e tostarla per 2 minuti mescolando al composto.",
+        "Incorporare i 500 g di latte intero in tre riprese; aggiungere la noce moscata prevista e mescolare per ottenere una besciamella molto densa, cuocendo almeno 6 minuti. Il sale è elencato nella fonte ma questa non specifica la fase della sua aggiunta.",
+        "Stendere il composto denso in una teglia, farlo raffreddare a temperatura ambiente e poi riporlo in frigorifero per almeno 2 ore affinché rassodi.",
+        "Capovolgere l'impasto su un tagliere, dividerlo in 10 rettangoli uguali e formare crocchette con le mani inumidite.",
+        "Passare ogni crocchetta prima nelle 3 uova sbattute e poi nei 100 g di pangrattato, quindi disporla su un vassoio.",
+        "Portare l'olio di semi di girasole a 170 °C e friggere per circa 3 minuti, massimo 2 crocchette alla volta, fino a doratura. Scolare su carta assorbente e servire subito."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Crocchette-di-prosciutto.html",
+      "pdfPage": 31,
+      "description": "Crocchette di prosciutto crudo con composto a base di besciamella densa, rassodato in frigorifero, impanato e fritto.",
+      "reviewedRecordSha256": "9dfd22670286863bb7b028fc3a47076b42b37f9b321b0d040eb81df8ba288570",
+      "author": null,
+      "originalTitle": "Crocchette di prosciutto",
+      "originalYield": "10 crocchette",
+      "originalTimes": {
+        "prep": "25 min",
+        "cook": "25 min",
+        "rest": "Almeno 2 ore in frigorifero, dopo raffreddamento a temperatura ambiente"
+      },
+      "temperature": "Olio di frittura a 170 °C.",
+      "notes": [
+        "La fonte prescrive una besciamella molto densa e almeno 6 minuti di addensamento, oltre al riposo di almeno 2 ore prima di formare i pezzi.",
+        "Il sale è indicato nella lista ingredienti (1 cucchiaino) ma non è specificato il momento dell'aggiunta nella procedura ufficiale.",
+        "Consigliata la consumazione immediata; facoltativi come accompagnamento purè, crema di piselli o salsa di yogurt, senza dosi espresse.",
+        "Questa versione usa prosciutto crudo e non va unita a crocchette con prosciutto cotto o patate."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Origine geografica specifica della formulazione non dichiarata dalla fonte.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "6cc685b1b5e0623b57702c9aa870574c0dc73519ee6a9915664b4cf6aefb218f",
+        "previousAppSha256": "6cc685b1b5e0623b57702c9aa870574c0dc73519ee6a9915664b4cf6aefb218f",
+        "reviewedDigest": "9dfd22670286863bb7b028fc3a47076b42b37f9b321b0d040eb81df8ba288570"
+      }
+    },
+    {
+      "id": "GZ-00025",
+      "name": "Croque monsieur finger food con sfoglia classica",
+      "category": "Antipasti e aperitivi",
+      "serves": "12 pezzi",
+      "prep": "30 min",
+      "cook": "25 min",
+      "rest": "",
+      "ingredients": [
+        "Sfoglie croccanti al forno già pronte: 24",
+        "Prosciutto cotto: 60 g",
+        "Groviera: 90 g",
+        "PER LA BESCIAMELLA — Latte intero: 250 ml",
+        "PER LA BESCIAMELLA — Burro: 25 g",
+        "PER LA BESCIAMELLA — Farina 00: 25 g",
+        "PER LA BESCIAMELLA — Sale fino: q.b.",
+        "PER LA BESCIAMELLA — Pepe nero: q.b.",
+        "PER LA BESCIAMELLA — Noce moscata: q.b."
+      ],
+      "steps": [
+        "Preparare la besciamella: sciogliere i 25 g di burro in un pentolino, aggiungere 25 g di farina setacciata mescolando continuamente fino a ottenere un roux.",
+        "Unire gradualmente 250 ml di latte caldo al roux, sempre mescolando con una frusta. A fiamma bassa portare a inizio bollore e condire con sale e noce moscata; il pepe figura fra gli ingredienti ma la fonte non specifica quando usarlo.",
+        "Coprire il pentolino e cuocere la besciamella a fuoco basso per circa 15 minuti, mescolando di tanto in tanto, fino ad addensamento.",
+        "Grattugiare finemente 90 g di groviera e tagliare i 60 g di prosciutto cotto in quadratini.",
+        "Distribuire sulle prime 12 sfoglie già cotte un cucchiaino di besciamella e una manciata di groviera grattugiato per ciascuna.",
+        "Sulle altre 12 sfoglie già cotte distribuire per ciascuna un cucchiaino di besciamella, un quadratino di prosciutto cotto e una manciata di groviera.",
+        "Sovrapporre le sfoglie due a due, posizionando quella con sola besciamella e groviera sopra quella con anche il prosciutto, per ottenere 12 piccoli sandwich.",
+        "Disporre i sandwich su una leccarda rivestita di carta forno e gratinare a forno caldo a 180 °C, oppure sotto il grill, per 1–2 minuti. Sfornare e consumare subito."
+      ],
+      "photo": null,
+      "source": "https://ricette.giallozafferano.it/Croque-monsieur-finger-food-con-sfoglia-classica.html",
+      "pdfPage": 33,
+      "description": "Versione finger food del croque monsieur, preparata con sfoglie croccanti già cotte, besciamella, prosciutto cotto e groviera, gratinata brevemente.",
+      "reviewedRecordSha256": "7b5b5002082f8dedc54718a4b5c67c0de1d89b6da3bb868146255cf997130cfc",
+      "author": null,
+      "originalTitle": "Croque monsieur finger food con sfoglia classica",
+      "originalYield": "12 pezzi",
+      "originalTimes": {
+        "prep": "30 min",
+        "cook": "25 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "temperature": "Gratinatura a 180 °C oppure sotto grill, per 1–2 minuti.",
+      "notes": [
+        "La fonte riporta 25 minuti di cottura nel sommario, mentre la gratinatura finale è di 1–2 minuti e la besciamella cuoce per 15 minuti; non uniformare arbitrariamente i valori.",
+        "Le 24 sfoglie sono un ingrediente già cotto, non una pasta sfoglia cruda da cuocere.",
+        "Consumo consigliato appena preparati.",
+        "Versione finger food ispirata al sandwich francese: la fonte non documenta l'origine geografica di questa specifica variante.",
+        "Pepe nero presente tra ingredienti della besciamella, senza fase d'impiego esplicita nel testo."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Ispirata al croque monsieur francese; origine della variante con sfoglie non documentata.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "cfdca566081e4d9ba6b32031c50ecaa416bb43a2f78c9bb059e824f18eb51b09",
+        "previousAppSha256": "cfdca566081e4d9ba6b32031c50ecaa416bb43a2f78c9bb059e824f18eb51b09",
+        "reviewedDigest": "7b5b5002082f8dedc54718a4b5c67c0de1d89b6da3bb868146255cf997130cfc"
+      }
+    },
+    {
+      "id": "GZ-02318",
+      "name": "Barchette di pane ripiene",
+      "category": "Antipasti e aperitivi",
+      "serves": "8 barchette",
+      "prep": "30 min",
+      "cook": "15 min nella scheda sintetica; 25 min di forno nel procedimento",
+      "rest": "",
+      "ingredients": [
+        "Panini multicereali: 8",
+        "Uova per il ripieno: 6",
+        "Ricotta: 40 g",
+        "Parmigiano Reggiano DOP da grattugiare: 20 g",
+        "Erba cipollina: q.b.",
+        "Sale fino: q.b.",
+        "Pepe nero: q.b.",
+        "Olio extravergine di oliva: 3 cucchiai",
+        "Pancetta: 70 g",
+        "Melanzana: 140 g",
+        "Prosciutto cotto: 100 g",
+        "Zucchine: 200 g",
+        "PER SPENNELLARE — Uovo: 1"
+      ],
+      "steps": [
+        "Con un coltello scavare l'interno degli 8 panini multicereali, lasciando un fondo robusto che possa sostenere il peso del ripieno.",
+        "Ridurre a cubetti i 200 g di zucchine e i 140 g di melanzana; scaldare l'olio extravergine previsto in padella antiaderente e saltare gli ortaggi per circa 10 minuti, poi lasciarli raffreddare.",
+        "Sbattere in una ciotola le 6 uova destinate al ripieno e aggiungere 40 g di ricotta.",
+        "Unire alle uova gli ortaggi raffreddati, l'erba cipollina tritata e i 20 g di Parmigiano grattugiato.",
+        "Incorporare 100 g di prosciutto cotto e 70 g di pancetta tagliati a cubetti; regolare con sale e pepe q.b.",
+        "Riempire i panini fino al bordo aiutandosi con un mestolo, distribuendo verdure e componente liquida in equilibrio: evitare un eccesso di liquido che inzupperebbe il pane.",
+        "Sbattere separatamente l'uovo rimasto, destinato soltanto alla spennellatura, e spennellare i panini farciti.",
+        "Cuocere in forno ventilato già caldo a 350 °F per 25 minuti, finché il ripieno si rassoda e la superficie è ben dorata. Servire tiepidi o freddi, interi o affettati."
+      ],
+      "photo": null,
+      "source": "https://www.giallozafferano.com/recipes/bread-boats-stuffed.html",
+      "pdfPage": 19,
+      "description": "Panini multicereali scavati, farciti con verdure saltate, uova, ricotta, Parmigiano, prosciutto e pancetta, poi cotti al forno.",
+      "reviewedRecordSha256": "3d276bcced48aa3cccbbb66ab986d1bd54d653bb81928acc75e29dca07ae909c",
+      "author": null,
+      "originalTitle": "Bread Boats Stuffed",
+      "originalYield": "8 barchette",
+      "originalTimes": {
+        "prep": "30 min",
+        "cook": "15 min nella scheda sintetica; 25 min di forno nel procedimento",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "temperature": "Forno ventilato preriscaldato a 350 °F, per 25 minuti secondo il procedimento.",
+      "notes": [
+        "Discrepanza interna della fonte: riepilogo cottura 15 min, procedimento 25 min; entrambi conservati senza correzione arbitraria.",
+        "Gli ortaggi sono saltati circa 10 minuti e fatti raffreddare prima di incorporarli alle uova; l'uovo destinato a spennellare è distinto dalle sei uova per il ripieno.",
+        "Fonte ufficiale raccomanda massimo 2 giorni in frigorifero e consente il congelamento dopo la cottura.",
+        "Emilia-Romagna e Lombardia vengono citate come esempi di farciture variabili, non come prova di origine geografica."
+      ],
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "origin": "Origine regionale specifica non documentata; la pagina descrive utilizzo diffuso in Italia.",
+      "publisher": "GialloZafferano",
+      "publicationUpdate": {
+        "baseAppSha256": "c232c97d0fc1f075a0c7798723ea7700eee706284758bea2dda87893b5311310",
+        "previousAppSha256": "c232c97d0fc1f075a0c7798723ea7700eee706284758bea2dda87893b5311310",
+        "reviewedDigest": "3d276bcced48aa3cccbbb66ab986d1bd54d653bb81928acc75e29dca07ae909c"
+      }
     }
   ]
 }
