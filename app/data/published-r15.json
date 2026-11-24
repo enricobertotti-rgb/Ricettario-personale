@@ -14687,6 +14687,861 @@
         "Completare con briciole, cubetti rimasti e lamelle di mandorle."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "15 min",
+      "description": "Gelato alla fragola: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02744",
+      "ingredients": [
+        "Latte intero 500 ml",
+        "Fragole 500 g",
+        "Zucchero 150 g",
+        "Panna fresca liquida 100 g",
+        "Albumi medi 2"
+      ],
+      "name": "Gelato alla fragola",
+      "notes": [
+        "In freezer fino a una settimana. Variante con pezzetti di fragole dopo mantecatura o semi di vaniglia nel latte.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "40 min",
+        "rest": "almeno 4 h freezer, meglio una notte"
+      },
+      "originalTitle": "Strawberry Ice Cream",
+      "originalYield": "circa 1 kg",
+      "pdfPage": 141,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "82a427848d87e9c8e64046314f32407d173c0a54ac7bfc603f65ee121d5dc52f",
+        "previousAppSha256": "82a427848d87e9c8e64046314f32407d173c0a54ac7bfc603f65ee121d5dc52f",
+        "reviewedDigest": "881baf409eeba4079308ca424fdf0e9b1e5e6ed93b509d399014cea70640e5a5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 4 h freezer, meglio una notte",
+      "reviewedRecordSha256": "881baf409eeba4079308ca424fdf0e9b1e5e6ed93b509d399014cea70640e5a5",
+      "serves": "circa 1 kg",
+      "source": "https://www.giallozafferano.com/recipes/Strawberry-Ice-Cream.html",
+      "steps": [
+        "Lavare e scolare le fragole, mondarle, frullarle e filtrare la purea per eliminare i semi.",
+        "Scaldare il latte con lo zucchero a fuoco basso, mescolando 1–2 minuti finché sciolto.",
+        "Amalgamare panna e albumi con frusta; aggiungerli al latte e portare a 181 °F (83 °C).",
+        "Trasferire in una ciotola, raffreddare rapidamente su ghiaccio mescolando e incorporare la purea solo quando la miscela è ben fredda.",
+        "Mescolare fino a omogeneità e mantecare 30–35 minuti almeno fino a consistenza soda e cremosa. Senza macchina, congelare in ciotola mescolando ogni mezz'ora.",
+        "Trasferire in contenitore e consolidare in freezer almeno 4 ore, meglio una notte; servire eventualmente con cialde."
+      ],
+      "temperature": "181 °F (83 °C)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "30 min dichiarati",
+      "description": "Gelato al latte di cocco: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02738",
+      "ingredients": [
+        "Latte di cocco 300 g (grassi inferiori al 18%)",
+        "Latte di mandorla 100 g",
+        "Zucchero di canna 50 g",
+        "Cioccolato fondente 100 g"
+      ],
+      "name": "Gelato al latte di cocco",
+      "notes": [
+        "Conservazione in freezer fino a una settimana. Alternative della fonte: miele e cannella o sciroppo di amarene al posto del cioccolato. Distinto dalla versione senza gelatiera GZ-02739.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min dichiarati",
+        "prep": "5 min",
+        "rest": "almeno 30 min frigorifero"
+      },
+      "originalTitle": "Coconut milk ice cream",
+      "originalYield": "circa 500 g, 4 porzioni",
+      "pdfPage": 137,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a0d68d9d18383d4cce5b01a656640792462790cd5ba009afdf7793d437fff7b9",
+        "previousAppSha256": "a0d68d9d18383d4cce5b01a656640792462790cd5ba009afdf7793d437fff7b9",
+        "reviewedDigest": "0c85eeac839472f01783000b5c51aea334a80823478a084c9c5c7d294e60d1d8"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 30 min frigorifero",
+      "reviewedRecordSha256": "0c85eeac839472f01783000b5c51aea334a80823478a084c9c5c7d294e60d1d8",
+      "serves": "circa 500 g, 4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/Coconut-milk-ice-cream.html",
+      "steps": [
+        "Scaldare il latte di mandorla con lo zucchero finché sciolto.",
+        "Mescolare con il latte di cocco, coprire e refrigerare almeno 30 minuti.",
+        "Versare nella gelatiera autorefrigerante e mantecare almeno 25 minuti.",
+        "Tritare e fondere il cioccolato a bagnomaria o in microonde; quando il composto è consistente versarlo lentamente a filo con la macchina in funzione.",
+        "Continuare circa 10 minuti fino alla consistenza desiderata. Servire o trasferire in un contenitore a bordi alti in freezer."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Chef Mulan",
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "12 min",
+      "description": "Gelato fritto: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02755",
+      "ingredients": [
+        "Gelato alla panna ben congelato 200 g",
+        "Rotolo di pan di Spagna farcito 250 g",
+        "Pastella: farina 00 200 g",
+        "Pastella: acqua fredda 170 g",
+        "Pastella: lievito chimico per dolci 24 g",
+        "Pastella: olio di arachidi 1 cucchiaiata",
+        "Frittura: olio di arachidi q.b."
+      ],
+      "name": "Gelato fritto",
+      "notes": [
+        "Le palline non fritte si possono preparare in anticipo e conservare in freezer fino a 7 giorni. Variante con altro gusto di gelato o pan di Spagna semplice; zucchero a velo facoltativo."
+      ],
+      "origin": "Cina",
+      "originalTimes": {
+        "cook": "12 min",
+        "prep": "40 min",
+        "rest": "almeno 30 min freezer"
+      },
+      "originalTitle": "Helado frito",
+      "originalYield": "4 palline",
+      "pdfPage": 621,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "cd90312a748e471bca0754a3080a40f88edce45cb2ad0fc851df222139905076",
+        "previousAppSha256": "cd90312a748e471bca0754a3080a40f88edce45cb2ad0fc851df222139905076",
+        "reviewedDigest": "41e5e493931ff5776e3d3cf78efb14e8ea8a0e71315c1de245003a41ce8b1785"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 30 min freezer",
+      "reviewedRecordSha256": "41e5e493931ff5776e3d3cf78efb14e8ea8a0e71315c1de245003a41ce8b1785",
+      "serves": "4 palline",
+      "source": "https://www.giallozafferano.es/recetas/helado-frito.html",
+      "steps": [
+        "Affettare il rotolo in 16 fette di circa mezzo centimetro. Avvolgere ogni pallina di gelato con tre fette e chiudere con una quarta; modellare delicatamente.",
+        "Avvolgere ciascuna pallina in pellicola, disporre su vassoio e congelare almeno 30 minuti.",
+        "Setacciare la farina, unire lievito, olio e acqua fredda; sbattere fino a ottenere una pastella liscia e cremosa.",
+        "Portare l'olio di frittura a 170–180 °C. Togliere la pellicola, immergere una pallina alla volta nella pastella coprendola completamente e friggere 2–3 minuti fino a doratura.",
+        "Scolare su carta assorbente; ripetere e servire subito."
+      ],
+      "temperature": "170–180 °C"
+    },
+    {
+      "author": "Sergio Dondoli",
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "5 min",
+      "description": "Gelato al cioccolato: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02735",
+      "ingredients": [
+        "Sciroppo: acqua 150 g",
+        "Sciroppo: zucchero 350 g",
+        "Miscela: latte intero 510 g",
+        "Miscela: tuorli 60 g",
+        "Miscela: cacao amaro 35 g",
+        "Miscela: cioccolato fondente 75% 120 g",
+        "Miscela: farina di semi di carrube 5 g",
+        "Miscela: 9,5 oz dello sciroppo preparato"
+      ],
+      "name": "Gelato al cioccolato",
+      "notes": [
+        "La fonte indica anche 3 ore di freezer nella nota iniziale; conservazione in freezer in contenitore ermetico fino a un mese. Rispettare la capacità della gelatiera. Nessuna conversione delle unità originali."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "40 min",
+        "rest": "almeno 2 h frigorifero; 3 h freezer (nota fonte)"
+      },
+      "originalTitle": "Chocolate Ice Cream",
+      "originalYield": "circa 1,75 lb",
+      "pdfPage": 134,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "770a43ba879912be4a6e8fa26260f94208edf31a8e2f002252f609f3a64acdfd",
+        "previousAppSha256": "770a43ba879912be4a6e8fa26260f94208edf31a8e2f002252f609f3a64acdfd",
+        "reviewedDigest": "20ed104e2362cfaf60eb3e11d65f202a85a2395a379f6439c07c95b9b0655e13"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 2 h frigorifero; 3 h freezer (nota fonte)",
+      "reviewedRecordSha256": "20ed104e2362cfaf60eb3e11d65f202a85a2395a379f6439c07c95b9b0655e13",
+      "serves": "circa 1,75 lb",
+      "source": "https://www.giallozafferano.com/recipes/Chocolate-Ice-Cream.html",
+      "steps": [
+        "Scaldare acqua e zucchero fino a 185 °F e alle prime bolle; versare in un recipiente e raffreddare.",
+        "Pesare 9,5 oz di sciroppo e trasferirli in casseruola con latte e tuorli.",
+        "Unire cacao e farina di semi di carrube, mescolare con frusta e scaldare a 140 °F.",
+        "Aggiungere cioccolato tritato, mescolare e raggiungere 185 °F: la miscela deve risultare liscia e densa.",
+        "Trasferire in una ciotola, coprire a contatto, raffreddare e refrigerare almeno due ore.",
+        "Mantecare la miscela ben fredda nella gelatiera fino alla consistenza desiderata; il tempo varia con la macchina. Servire in coppette, eventualmente con scaglie o biscotti."
+      ],
+      "temperature": "185 °F sciroppo; 140 °F miscela; 185 °F miscela"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "non prevista",
+      "description": "Cheesecake al cocco: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02580",
+      "ingredients": [
+        "Base: biscotti Digestive 200 g",
+        "Base: burro 100 g",
+        "Crema: formaggio spalmabile 500 g",
+        "Crema: panna fresca liquida 200 g",
+        "Crema: yogurt al cocco 100 g",
+        "Crema: cocco rapè 30 g",
+        "Crema: zucchero a velo 70 g",
+        "Decorazione: cocco fresco 40 g"
+      ],
+      "name": "Cheesecake al cocco",
+      "notes": [
+        "Conservare 2 giorni in frigorifero, non congelare; evitare soste al caldo. Riposo notturno facoltativo; decorazioni alternative di cioccolato o frutta tropicale.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "non prevista",
+        "prep": "15 min",
+        "rest": "30 min base + 2–3 h frigorifero"
+      },
+      "originalTitle": "Coconut Cheesecake",
+      "originalYield": "8 persone, stampo da 8 pollici",
+      "pdfPage": 126,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e1bff807e01d770affc9689ae54398ad797afcf4b9816e257fbafd8d7759ab76",
+        "previousAppSha256": "e1bff807e01d770affc9689ae54398ad797afcf4b9816e257fbafd8d7759ab76",
+        "reviewedDigest": "7f2675a39a5bd690365f1da8e08381040dfec47236f30b582b62f15b830c489a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min base + 2–3 h frigorifero",
+      "reviewedRecordSha256": "7f2675a39a5bd690365f1da8e08381040dfec47236f30b582b62f15b830c489a",
+      "serves": "8 persone, stampo da 8 pollici",
+      "source": "https://www.giallozafferano.com/recipes/coconut-cheesecake.html",
+      "steps": [
+        "Ridurre i biscotti in briciole fini; unire il burro fuso intiepidito.",
+        "Rivestire il fondo dello stampo apribile con carta forno e i lati con acetato o carta; compattare la base e refrigerare 30 minuti.",
+        "Montare panna, zucchero a velo, formaggio e yogurt fino a consistenza sostenuta senza montare eccessivamente.",
+        "Aggiungere il cocco rapè e lavorare brevemente; distribuire e livellare la crema sulla base.",
+        "Refrigerare 2–3 ore, sformare e guarnire con fettine sottili di cocco fresco."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "60 min",
+      "description": "Risolatte allo zafferano: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-04718",
+      "ingredients": [
+        "Riso Vialone Nano 300 g",
+        "Latte di mandorla non zuccherato 1,5 l",
+        "Zafferano in pistilli 0,3 g",
+        "Zucchero 85 g",
+        "Vaniglia 1/2 bacca",
+        "Semi di finocchio 1 cucchiaiata",
+        "Sale fino q.b.",
+        "Decorazione: mandorle a lamelle 20 g",
+        "Decorazione: pistilli di zafferano q.b."
+      ],
+      "name": "Risolatte allo zafferano",
+      "notes": [
+        "Il momento di aggiunta del sale non è indicato. Frigorifero 2–3 giorni, non congelare. Se latte già dolce regolare lo zucchero; burro o margarina come variante facoltativa.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "20 min",
+        "rest": "non dichiarato"
+      },
+      "originalTitle": "Saffron Rice Pudding",
+      "originalYield": "6 bicchieri da 2/3 cup",
+      "pdfPage": 132,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6898c06121cdc18cd5c57448b39e618fbba19d40283c93e39f5c8c51b5d19eb3",
+        "previousAppSha256": "6898c06121cdc18cd5c57448b39e618fbba19d40283c93e39f5c8c51b5d19eb3",
+        "reviewedDigest": "2a1438e493c9e1ac2a9fc0eafa00b7a996e488d36fb50237f7cea487511a954d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "non dichiarato",
+      "reviewedRecordSha256": "2a1438e493c9e1ac2a9fc0eafa00b7a996e488d36fb50237f7cea487511a954d",
+      "serves": "6 bicchieri da 2/3 cup",
+      "source": "https://www.giallozafferano.com/recipes/Saffron-Rice-Pudding.html",
+      "steps": [
+        "Scaldare a fuoco dolce il latte di mandorla con semi e bacca di vaniglia e semi di finocchio per 10 minuti, senza bollire; filtrare finemente.",
+        "Unire lo zucchero, mescolare fino a sfiorare il bollore, aggiungere il riso e cuocere a fuoco medio per 25 minuti evitando l'ebollizione.",
+        "Aggiungere lo zafferano conservando qualche pistillo per decorare; cuocere ancora 25 minuti fino a riso morbido e composto cremoso.",
+        "Tostare le mandorle in padella a fiamma vivace muovendole; distribuire il riso nei bicchieri e decorare con mandorle e pistilli."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "senza forno",
+      "description": "Torta biscotto senza cottura: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-03580",
+      "ingredients": [
+        "Base: biscotti al cacao 250 g",
+        "Base: cioccolato fondente 130 g",
+        "Base: burro 50 g",
+        "Crema: panna fresca liquida 200 g",
+        "Crema: formaggio fresco spalmabile 750 g",
+        "Crema: gelatina in fogli 10 g",
+        "Crema: zucchero a velo 100 g",
+        "Crema: estratto di vaniglia 1 cucchiaino",
+        "Crema: biscotti al cacao 100 g",
+        "Finitura: cioccolato fondente 100 g"
+      ],
+      "name": "Torta biscotto senza cottura",
+      "notes": [
+        "La fonte attuale elenca esplicitamente il cioccolato della finitura. Frigorifero 3–4 giorni coperta; per copertura morbida versare appena prima del servizio. Biscotti secchi nella stessa dose, riccioli o gocce di cioccolato come varianti.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "senza forno",
+        "prep": "30 min",
+        "rest": "almeno 4 h frigorifero + solidificazione finitura"
+      },
+      "originalTitle": "Torta biscotto senza cottura",
+      "originalYield": "8 persone, stampo 20 cm",
+      "pdfPage": 133,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e9c6be5b439fcb5284e2a3e3bc9ce7181620d8947475abd9418bca74be57925a",
+        "previousAppSha256": "e9c6be5b439fcb5284e2a3e3bc9ce7181620d8947475abd9418bca74be57925a",
+        "reviewedDigest": "cbf69e7338f80d4575c315a514cf6bc8f01b437f48ac7fdc55da9ca48ea762d1"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 4 h frigorifero + solidificazione finitura",
+      "reviewedRecordSha256": "cbf69e7338f80d4575c315a514cf6bc8f01b437f48ac7fdc55da9ca48ea762d1",
+      "serves": "8 persone, stampo 20 cm",
+      "source": "https://ricette.giallozafferano.it/Torta-biscotto-senza-cottura.html",
+      "steps": [
+        "Frullare 250 g di biscotti; sciogliere 130 g di cioccolato e separatamente il burro, quindi mescolarli e incorporarli ai biscotti.",
+        "Posare un anello da 20 cm su teglia rivestita, foderarne il lato con acetato, pressare la base con un cucchiaio e refrigerare.",
+        "Ammollare la gelatina in acqua fredda. Lavorare formaggio e vaniglia con fruste a bassa velocità, aggiungendo zucchero e 100 g di panna fino a crema ariosa.",
+        "Scaldare i restanti 100 g di panna, sciogliervi la gelatina scolata e fare intiepidire prima di incorporarla alla crema.",
+        "Unire i 100 g di biscotti spezzati a mano, versare sulla base, livellare e refrigerare almeno 4 ore.",
+        "Sformare, eliminare l'acetato, fondere i 100 g di cioccolato della finitura e versarli al centro a disco senza coprire tutta la superficie. Refrigerare finché solidificati."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Ugo Alciati",
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "5 min",
+      "description": "Gelato al fiordilatte: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02737",
+      "ingredients": [
+        "Latte intero 1 l",
+        "Panna fresca liquida fredda 190 g",
+        "Zucchero 230 g",
+        "Baccello di vaniglia 1",
+        "Farina di semi di carrube 2,5 g"
+      ],
+      "name": "Gelato al fiordilatte",
+      "notes": [
+        "In freezer pochi giorni: perde cremosità. Variante proposta: 50 g di amido di mais al posto della farina di semi di carrube. Il baccello svuotato può aromatizzare lo zucchero; il cuoco consiglia latte biologico.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "10 min",
+        "rest": "4–12 h frigorifero; mantecatura 40–50 min"
+      },
+      "originalTitle": "Gelato de leite",
+      "originalYield": "circa 1,5 kg, 15 porzioni",
+      "pdfPage": 136,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "80e5a5807c30ea00f43145166166a595c0b45afedb7d825c048188016f6cad61",
+        "previousAppSha256": "80e5a5807c30ea00f43145166166a595c0b45afedb7d825c048188016f6cad61",
+        "reviewedDigest": "67bf08a06968838eb7d611ae26b362ab1909f65fbbf3da3dde56f3f9ceb1cc5e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "4–12 h frigorifero; mantecatura 40–50 min",
+      "reviewedRecordSha256": "67bf08a06968838eb7d611ae26b362ab1909f65fbbf3da3dde56f3f9ceb1cc5e",
+      "serves": "circa 1,5 kg, 15 porzioni",
+      "source": "https://www.giallozafferano.com.br/receitas/gelato-de-leite.html",
+      "steps": [
+        "Scaldare il latte con i semi della vaniglia, mescolando fino al primo bollore.",
+        "Miscelare zucchero e farina di semi di carrube; fuori dal fuoco aggiungerli lentamente al latte con frusta, evitando grumi.",
+        "Riportare al leggero bollore, quindi immergere la casseruola in acqua e ghiaccio e mescolare per raffreddare rapidamente.",
+        "Sotto 30 °C incorporare la panna fredda, coprire e maturare in frigorifero da 4 a 12 ore.",
+        "Rimescolare per ridistribuire zuccheri e grassi; dosare la quantità compatibile con la gelatiera e mantecare 40–50 minuti circa fino a cremosità.",
+        "Servire subito, anche in quenelle, o trasferire in freezer."
+      ],
+      "temperature": "panna aggiunta sotto 30 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "non dichiarata",
+      "description": "Granita al caffè con panna: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-03814",
+      "ingredients": [
+        "Granita: caffè espresso 250 ml",
+        "Granita: acqua 250 ml",
+        "Granita: zucchero 70 g",
+        "Guarnizione: panna fresca liquida 200 ml",
+        "Guarnizione: zucchero a velo 30 g"
+      ],
+      "name": "Granita al caffè con panna",
+      "notes": [
+        "La granita senza panna si conserva in freezer fino a 30 giorni; montare la panna al servizio. Usare bicchieri freddi. La fonte documenta la tradizione messinese.",
+        "Autore individuale non dichiarato nella fonte consultata."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "non dichiarata",
+        "prep": "45 min",
+        "rest": "alternativa senza gelatiera: almeno 1 h freezer + intervalli di 30 min"
+      },
+      "originalTitle": "Coffee Granita with Whipped Cream",
+      "originalYield": "2 porzioni, circa 400 g granita",
+      "pdfPage": 145,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "fbef89f00e669fb9e773c3c2e578090de441e47ac31a3580ce7c1f82604e26dc",
+        "previousAppSha256": "fbef89f00e669fb9e773c3c2e578090de441e47ac31a3580ce7c1f82604e26dc",
+        "reviewedDigest": "ced201aa3baf2854bde26ddf0ea725227f452d259df088cf1daf282cdf68c39f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "alternativa senza gelatiera: almeno 1 h freezer + intervalli di 30 min",
+      "reviewedRecordSha256": "ced201aa3baf2854bde26ddf0ea725227f452d259df088cf1daf282cdf68c39f",
+      "serves": "2 porzioni, circa 400 g granita",
+      "source": "https://www.giallozafferano.com/recipes/coffee-granita-with-whipped-cream.html",
+      "steps": [
+        "Preparare l'espresso, raffreddarlo a temperatura ambiente e sciogliervi lo zucchero con frusta; unire l'acqua a temperatura ambiente.",
+        "Mantecare circa 30 minuti. In alternativa versare in recipiente largo, congelare almeno un'ora, poi rompere i cristalli con forchetta ogni mezz'ora fino alla consistenza voluta.",
+        "Montare la panna ben fredda con frusta fredda aggiungendo gradualmente lo zucchero a velo, fino a consistenza soda.",
+        "Distribuire la granita in due bicchieri da 200 g e guarnire con panna montata mediante sac à poche."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "non dichiarata",
+      "description": "Gelato al pistacchio senza gelatiera: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02741",
+      "ingredients": [
+        "Latte intero 200 g",
+        "Panna fresca 200 g",
+        "Acqua 100 g",
+        "Zucchero 100 g",
+        "Pistacchi 100 g"
+      ],
+      "name": "Gelato al pistacchio senza gelatiera",
+      "notes": [
+        "Consumare entro pochi giorni di freezer; scaglie di cioccolato oppure mandorle/nocciole come varianti.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "non dichiarata",
+        "prep": "15 min",
+        "rest": "una notte in freezer + almeno 6 h"
+      },
+      "originalTitle": "Easy pistachio ice cream",
+      "originalYield": "circa 700 g, 4 persone",
+      "pdfPage": 140,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1b0a0826ea6e07fcfda96dfaf7f21a182b693e2204c723a99f211f657cff77cb",
+        "previousAppSha256": "1b0a0826ea6e07fcfda96dfaf7f21a182b693e2204c723a99f211f657cff77cb",
+        "reviewedDigest": "52d5fcea1d8416d942b90043949a676fbea8efb6ba3006d0240e646fc550d22c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "una notte in freezer + almeno 6 h",
+      "reviewedRecordSha256": "52d5fcea1d8416d942b90043949a676fbea8efb6ba3006d0240e646fc550d22c",
+      "serves": "circa 700 g, 4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Easy-pistachio-ice-cream.html",
+      "steps": [
+        "Scaldare acqua e zucchero a fuoco dolce fino al bollore, poi raffreddare lo sciroppo.",
+        "Mescolare latte e panna con lo sciroppo e frullare a immersione; versare in stampi di silicone e congelare per una notte.",
+        "Sformare i cubetti e frullarli nel robot fino a consistenza cremosa.",
+        "Aggiungere i pistacchi e frullare nuovamente fino a omogeneità; trasferire in un contenitore di alluminio, ceramica o vetro e congelare almeno 6 ore.",
+        "Lasciare ammorbidire 5–10 minuti prima di servire, lavorando progressivamente con il cucchiaio."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "3 min",
+      "description": "Gelato alla panna: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02745",
+      "ingredients": [
+        "Panna fresca liquida 170 g",
+        "Latte intero 370 g",
+        "Zucchero 140 g",
+        "Baccello di vaniglia 1"
+      ],
+      "name": "Gelato alla panna",
+      "notes": [
+        "Conservare in freezer in contenitore ermetico al massimo una settimana.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "3 min",
+        "prep": "40 min",
+        "rest": "almeno 3 h freezer"
+      },
+      "originalTitle": "Helado de nata",
+      "originalYield": "circa 600 g",
+      "pdfPage": 619,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4fb6c5ee80de91fecf34eff44f80ad58c0556a1f7530b9acf5cfbcd93afb53c0",
+        "previousAppSha256": "4fb6c5ee80de91fecf34eff44f80ad58c0556a1f7530b9acf5cfbcd93afb53c0",
+        "reviewedDigest": "4ac4107aee84cb91dd7dc5bd9b289eb1eb6ca1cc83a79123f2beaefed92f6bc1"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 3 h freezer",
+      "reviewedRecordSha256": "4ac4107aee84cb91dd7dc5bd9b289eb1eb6ca1cc83a79123f2beaefed92f6bc1",
+      "serves": "circa 600 g",
+      "source": "https://www.giallozafferano.es/recetas/helado-de-nata.html",
+      "steps": [
+        "Incidere la vaniglia e ricavare i semi.",
+        "Riunire latte, panna, zucchero, semi e baccello in casseruola alta; scaldare dolcemente mescolando 2–3 minuti fino a sciogliere lo zucchero e sfiorare il bollore.",
+        "Spegnere, eliminare il baccello e far raffreddare a temperatura ambiente.",
+        "Mantecare circa 30 minuti fino a consistenza densa e cremosa. Il cestello della macchina usata dalla fonte non richiede preraffreddamento.",
+        "Trasferire in un recipiente basso e largo di vetro o acciaio, chiudere e congelare almeno 3 ore."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "15 min",
+      "description": "Fagottini di crepes alle fragole: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-00027",
+      "ingredients": [
+        "Crepes: uova 2",
+        "Crepes: farina 00 125 g",
+        "Crepes: latte intero 250 ml",
+        "Crepes: sale 1 pizzico",
+        "Crepes: burro 20 g",
+        "Crepes: zucchero 30 g",
+        "Crepes: baccello di vaniglia 1",
+        "Ripieno: fragole 200 g",
+        "Ripieno: mascarpone 350 g",
+        "Ripieno: zucchero a velo 100 g",
+        "Ganache: panna fresca 125 ml",
+        "Ganache: cioccolato fondente 125 g",
+        "Ganache: burro 15 g",
+        "Padella: burro 30 g"
+      ],
+      "name": "Fagottini di crepes alle fragole",
+      "notes": [
+        "Il sale è nell'elenco, ma il momento di aggiunta non è esplicitato. Consumare subito; componenti separati coperti in frigorifero, non congelare. Varianti con pesche o crema chantilly.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "25 min",
+        "rest": "almeno 30 min frigorifero"
+      },
+      "originalTitle": "Fagottini di crepes alle fragole",
+      "originalYield": "6 persone",
+      "pdfPage": 128,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "14bcdbfc31b13edf1e51bd4f193e82e2792a8067bf192bcfdcfc6022ab3c58d1",
+        "previousAppSha256": "14bcdbfc31b13edf1e51bd4f193e82e2792a8067bf192bcfdcfc6022ab3c58d1",
+        "reviewedDigest": "c55cf1c1c3ff86c6e774dc7b2b07da4c84891ac3e91f58a782aa4d7f46bc46f3"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 30 min frigorifero",
+      "reviewedRecordSha256": "c55cf1c1c3ff86c6e774dc7b2b07da4c84891ac3e91f58a782aa4d7f46bc46f3",
+      "serves": "6 persone",
+      "source": "https://ricette.giallozafferano.it/Fagottini-di-crepes-alle-fragole.html",
+      "steps": [
+        "Setacciare la farina, incorporare il latte a temperatura ambiente con la frusta; aggiungere 20 g di burro fuso intiepidito, zucchero e semi di vaniglia. Sbattere le uova a parte e unirle; coprire e refrigerare almeno 30 minuti.",
+        "Ungere una padella con parte dei 30 g di burro; versare un mestolo di pastella, distribuirla, cuocere circa un minuto, girare e cuocere l'altro lato. Ripetere e impilare le crepes.",
+        "Lavorare mascarpone e zucchero a velo; lavare, mondare e tagliare le fragole, incorporarle alla crema.",
+        "Ricavare strisce dal baccello di vaniglia; porre una cucchiaiata di ripieno al centro di ogni crepe, richiudere a fagottino e legare. Coprire con pellicola.",
+        "Scaldare a fuoco dolce panna e 15 g di burro; aggiungere il cioccolato e mescolare fino a ottenere una ganache liscia. Distribuirla sui piatti e adagiare i fagottini."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "5 min",
+      "description": "Gelato alla crema: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02743",
+      "ingredients": [
+        "Latte intero 500 ml",
+        "Tuorli 100 g",
+        "Zucchero 175 g",
+        "Baccello di vaniglia 1"
+      ],
+      "name": "Gelato alla crema",
+      "notes": [
+        "Conservare in freezer ermetico al massimo una settimana. Adatto ad accompagnare strudel, torte e biscotti.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "40 min",
+        "rest": "almeno 2 h frigorifero + almeno 3–4 h freezer"
+      },
+      "originalTitle": "Helado de crema",
+      "originalYield": "circa 700 g",
+      "pdfPage": 619,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "df33690ebcf38f418cbacb45e51380d8cdcb7578be18d4243b80614afaac60dd",
+        "previousAppSha256": "df33690ebcf38f418cbacb45e51380d8cdcb7578be18d4243b80614afaac60dd",
+        "reviewedDigest": "d2a707eb7337610b198d9eabd18039309f5f94bccbc7a9317db1e6a2cdb84bc9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 2 h frigorifero + almeno 3–4 h freezer",
+      "reviewedRecordSha256": "d2a707eb7337610b198d9eabd18039309f5f94bccbc7a9317db1e6a2cdb84bc9",
+      "serves": "circa 700 g",
+      "source": "https://www.giallozafferano.es/recetas/helado-de-crema.html",
+      "steps": [
+        "Versare latte e zucchero in casseruola, mescolare e aggiungere i tuorli con una frusta.",
+        "Unire semi e baccello di vaniglia, scaldare mescolando fino a 85 °C senza superare questa temperatura; spegnere ed eliminare il baccello.",
+        "Raffreddare rapidamente la casseruola in acqua e ghiaccio mescolando; refrigerare almeno due ore.",
+        "Prima della mantecatura porre in freezer finché la miscela è molto fredda ma ancora liquida, quindi mantecare fino a consistenza densa e cremosa.",
+        "Trasferire in recipiente chiuso e congelare almeno 3–4 ore, preferibilmente una notte."
+      ],
+      "temperature": "85 °C, non superare"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "5 min",
+      "description": "Granita al limone: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02764",
+      "ingredients": [
+        "Acqua 335 g",
+        "Zucchero 90 g",
+        "Succo di limone 75 g (circa 2 limoni)",
+        "Scorza di 2 limoni"
+      ],
+      "name": "Granita al limone",
+      "notes": [
+        "Conservare in freezer in recipiente ermetico per circa un mese. La scorza è facoltativa; preferire limoni non trattati. La fonte consiglia di far girare a vuoto la gelatiera qualche minuto prima.",
+        "Autore individuale non dichiarato nella fonte consultata."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "10 min",
+        "rest": "60 min raffreddamento"
+      },
+      "originalTitle": "Lemon Granita",
+      "originalYield": "4 persone, circa 17,6 oz",
+      "pdfPage": 146,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "25f0376d80ed45a2570988ad07d0f1ec66d9c990ee322e727acd9c485b3fad86",
+        "previousAppSha256": "25f0376d80ed45a2570988ad07d0f1ec66d9c990ee322e727acd9c485b3fad86",
+        "reviewedDigest": "89969c381a533980e4b6b71c68a175e8bf827d2230fc40441777bbf8dff8d663"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "60 min raffreddamento",
+      "reviewedRecordSha256": "89969c381a533980e4b6b71c68a175e8bf827d2230fc40441777bbf8dff8d663",
+      "serves": "4 persone, circa 17,6 oz",
+      "source": "https://www.giallozafferano.com/recipes/Lemon-Granita.html",
+      "steps": [
+        "Riunire acqua e zucchero in un pentolino e cuocere circa 5 minuti a fuoco basso per formare lo sciroppo; spegnere e raffreddare (60 minuti nella nota della fonte).",
+        "Grattugiare la scorza di due limoni, spremerli e filtrare 75 g di succo.",
+        "Unire succo e scorza allo sciroppo freddo.",
+        "Mantecare in gelatiera 35–40 minuti fino a una granita compatta ma cremosa; servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "non prevista",
+      "description": "Cheesecake alle pesche senza lattosio e senza glutine: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-02593",
+      "ingredients": [
+        "Base: biscotti senza glutine 200 g",
+        "Base: burro di soia 75 g",
+        "Crema: formaggio spalmabile senza lattosio 525 g",
+        "Crema: panna fresca senza lattosio 250 g",
+        "Crema: fruttosio 160 g",
+        "Crema: gelatina in fogli 10 g",
+        "Decorazione: pesche 200 g",
+        "Decorazione: fragole 60 g",
+        "Decorazione: ribes 30 g",
+        "Decorazione: menta q.b.",
+        "Succo di limone (quantità non dichiarata nel metodo)"
+      ],
+      "name": "Cheesecake alle pesche senza lattosio e senza glutine",
+      "notes": [
+        "Il limone compare nel metodo ma senza dose. Conservare in frigorifero 2–3 giorni; congelabile se preparata con ingredienti freschi. Usare ingredienti certificati senza glutine e verificare le etichette.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "non prevista",
+        "prep": "25 min",
+        "rest": "30 min base; 6 h crema; decorazione 20 min"
+      },
+      "originalTitle": "Cheesecake de melocotón sin lactosa y sin gluten",
+      "originalYield": "8 porzioni, stampo 22 cm",
+      "pdfPage": 589,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "682bd8cc8cf1d0ebc2a035e6f737c0a2ee1d1eaf070e6993babb43147a6679a9",
+        "previousAppSha256": "682bd8cc8cf1d0ebc2a035e6f737c0a2ee1d1eaf070e6993babb43147a6679a9",
+        "reviewedDigest": "bfd83dd4ae70137b00eaf789e48f9def56f2de95847c176d1e9d8aefb22663d4"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min base; 6 h crema; decorazione 20 min",
+      "reviewedRecordSha256": "bfd83dd4ae70137b00eaf789e48f9def56f2de95847c176d1e9d8aefb22663d4",
+      "serves": "8 porzioni, stampo 22 cm",
+      "source": "https://www.giallozafferano.es/recetas/cheesecake-de-melocoton-sin-lactosa-y-sin-gluten.html",
+      "steps": [
+        "Ungere e rivestire lo stampo. Tritare i biscotti, amalgamarli con il burro di soia fuso, compattare sul fondo e refrigerare 30 minuti.",
+        "Ammollare la gelatina in acqua fredda 10 minuti; montare 200 g di panna. Mescolare formaggio e fruttosio.",
+        "Scaldare i restanti 50 g di panna e sciogliervi la gelatina scolata, fuori dal fuoco. Fare intiepidire alla temperatura della crema per evitare grumi.",
+        "Incorporare gradualmente la miscela di gelatina al formaggio, quindi la panna montata con movimenti dal basso verso l'alto.",
+        "Versare sulla base, livellare, coprire e refrigerare 6 ore.",
+        "Lavare le pesche, affettarle senza sbucciarle e irrorarle con succo di limone. Sformare, togliere carta e fondo con spatola; disporre pesche all'esterno, fragole all'interno, ribes lavato e asciugato al centro e menta. Servire fredda."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "40 min dichiarati",
+      "description": "Risolatte: revisione della scheda storica con dosi, procedimento e note verificati sulla fonte originale.",
+      "id": "GZ-04717",
+      "ingredients": [
+        "Riso Carnaroli 300 g",
+        "Latte intero 1 l",
+        "Zucchero 90 g",
+        "Scorza di 1 limone",
+        "Vaniglia 1/2 bacca",
+        "Sale fino 1 pizzico",
+        "Cacao amaro in polvere o cannella in polvere q.b."
+      ],
+      "name": "Risolatte",
+      "notes": [
+        "Frigorifero 2 giorni coperto; non congelare. La fonte suggerisce anche Arborio, uvetta, pinoli, cocco o frutta secca e aromatizzazioni con liquore.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico della preparazione non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min dichiarati",
+        "prep": "20 min",
+        "rest": "non dichiarato"
+      },
+      "originalTitle": "Rice pudding (Risolatte)",
+      "originalYield": "4 persone",
+      "pdfPage": 131,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e7fadde98de5490514ba9cbdfdbe4b16080e589361c6d861fc8814197f54f024",
+        "previousAppSha256": "e7fadde98de5490514ba9cbdfdbe4b16080e589361c6d861fc8814197f54f024",
+        "reviewedDigest": "a033f0abe164efe40b9e42ce6ab6879288cc95577bf91caa24a5f2ed5e5593b9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "non dichiarato",
+      "reviewedRecordSha256": "a033f0abe164efe40b9e42ce6ab6879288cc95577bf91caa24a5f2ed5e5593b9",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Rice-pudding-Risolatte.html",
+      "steps": [
+        "Scaldare il latte in una casseruola con semi e bacca di vaniglia, scorza di limone, zucchero e sale.",
+        "Quando il latte accenna al bollore aggiungere il riso; cuocere dolcemente circa 30 minuti mescolando, aggiungendo altro latte caldo se asciuga troppo (dose non dichiarata).",
+        "Quando è cremoso eliminare scorza e bacca, distribuire nelle coppette e spolverizzare con cacao o cannella. Servire caldo o freddo."
+      ],
+      "temperature": null
     }
   ]
 }
