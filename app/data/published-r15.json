@@ -26625,6 +26625,1056 @@
         "Gratinare in forno preriscaldato alla massima temperatura, modalità grill, 8–10 minuti. Servire caldo o tiepido."
       ],
       "temperature": "Grill alla massima temperatura"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "25 min dichiarati nella scheda; 10 min per le cipolle e 30 min in forno nel procedimento",
+      "description": "Frittata al forno: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-01940",
+      "ingredients": [
+        "Uova 8",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Panna fresca liquida 150 g",
+        "Origano 2 rametti",
+        "Gruyère DOP 100 g",
+        "Cipolle rosse 350 g",
+        "Olio extravergine di oliva 1 cucchiaio per le cipolle",
+        "Sale q.b. per le cipolle"
+      ],
+      "name": "Frittata al forno",
+      "notes": "Il tempo dichiarato nell'intestazione (25 minuti) non coincide con le durate operative esplicite: preservate entrambe, senza dichiarare 25 minuti sufficienti. Frigorifero massimo un giorno; congelabile dopo cottura. Alternative al Gruyère: provolone, scamorza affumicata, fontina, tomini o caciocavallo. Panna sostituibile con pari quantità di latte, oppure omissibile.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min dichiarati nella scheda; 10 min per le cipolle e 30 min in forno nel procedimento",
+        "prep": "10 min",
+        "rest": "Raffreddare le cipolle prima di unirle alle uova"
+      },
+      "originalTitle": "Baked Frittata",
+      "originalYield": "4 porzioni",
+      "pdfPage": 347,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "fe79ecf2ce82a8bda576490b85aec1de48d5423ba39002fd888200625fb6e800",
+        "previousAppSha256": "fe79ecf2ce82a8bda576490b85aec1de48d5423ba39002fd888200625fb6e800",
+        "reviewedDigest": "cbaac53be5fc9b6271232c2d4ffc078cf80555d0ef1de8d9c989ffce50513d34"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddare le cipolle prima di unirle alle uova",
+      "reviewedRecordSha256": "cbaac53be5fc9b6271232c2d4ffc078cf80555d0ef1de8d9c989ffce50513d34",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/Baked-Frittata.html",
+      "steps": [
+        "Affettare finemente le cipolle; metterle in padella con l'olio e il sale, coprire e lasciarle appassire a fuoco medio per circa 10 minuti. Tagliare il formaggio a cubetti e lasciare raffreddare le cipolle.",
+        "Sbattere energicamente le uova con sale, pepe, foglie di origano e panna, incorporando aria. Unire le cipolle raffreddate e mescolare.",
+        "Trasferire in una teglia rettangolare da 10 × 7,5 pollici rivestita di carta forno. Distribuire uniformemente il formaggio e cuocere a 375 °F statico per circa 30 minuti. Se serve più doratura, usare il grill alla massima potenza per un paio di minuti. Servire calda."
+      ],
+      "temperature": "375 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "30 min",
+      "description": "Frittata di patate e carciofi: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-01952",
+      "ingredients": [
+        "Uova medie 6",
+        "Carciofi mammole 2",
+        "Patate rosse 300 g",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Grana Padano DOP 30 g",
+        "Aglio 1 spicchio",
+        "Timo q.b.",
+        "Acqua acidulata con limone (quantità non indicate, per i carciofi)"
+      ],
+      "name": "Frittata di patate e carciofi",
+      "notes": "Conservazione in frigorifero, in contenitore ermetico, al massimo un giorno; non congelare la frittata. Si può sostituire l'aglio con scalogno. I carciofi puliti e affettati si possono congelare crudi.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Tortilla de patatas y alcachofas",
+      "originalYield": "4 porzioni",
+      "pdfPage": 460,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "de9a8532c22f33041b75a39fb1435a95602d0df7e3e1bf0974029796094105c4",
+        "previousAppSha256": "de9a8532c22f33041b75a39fb1435a95602d0df7e3e1bf0974029796094105c4",
+        "reviewedDigest": "f3238e698e03d9c7814d66f40c3bb119adb2cec46eb72d1246beca04154eb462"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "f3238e698e03d9c7814d66f40c3bb119adb2cec46eb72d1246beca04154eb462",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.es/recetas/tortilla-de-patatas-y-alcachofas.html",
+      "steps": [
+        "Pulire i carciofi eliminando foglie dure e punte, pelare i gambi e togliere la barba interna. Affettarli a circa mezzo centimetro e immergerli in acqua acidulata. Pelare e affettare sottilmente le patate.",
+        "In una padella antiaderente da 28 cm scaldare un filo d'olio e dorare l'aglio schiacciato con la buccia. Unire i carciofi e le patate, salare e cuocere a fuoco vivo 4–5 minuti; coprire e proseguire a calore moderato per 10–12 minuti, finché le verdure siano tenere. Togliere l'aglio.",
+        "Sbattere le uova con il Grana grattugiato, sale, pepe e timo; versare sulle verdure e coprire. Cuocere circa 7 minuti, compattando i bordi con una spatola.",
+        "Girare la frittata e cuocere dall'altro lato per altri 4–5 minuti senza coperchio. Servire calda o tiepida."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Andriana Kulchytska",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "30 min",
+      "description": "Banana bread al cioccolato: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02533",
+      "ingredients": [
+        "Banane mature da pulire 250 g",
+        "Farina 00 100 g",
+        "Zucchero di canna 85 g",
+        "Cacao amaro 50 g",
+        "Uova 2",
+        "Burro di arachidi 75 g",
+        "Gocce di cioccolato 30 g",
+        "Latte 30 g, da aggiungere secondo consistenza",
+        "Lievito per dolci 7 g",
+        "Cannella in polvere 1/2 cucchiaino",
+        "Sale 1 pizzico",
+        "Decorazione: cioccolato al latte 100 g",
+        "Decorazione: gocce di cioccolato q.b."
+      ],
+      "name": "Banana bread al cioccolato",
+      "notes": "Conservare coperto o in recipiente ermetico a temperatura ambiente per 2–3 giorni; si può congelare già cotto, raffreddato e affettato. Frutta secca a piacere. Nelle risposte della redazione non è indicata una sostituzione sperimentata per le uova, né equivalenze precise per farina di avena e sciroppo d’acero.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento prima della decorazione"
+      },
+      "originalTitle": "Banana bread al cioccolato",
+      "originalYield": "6 persone",
+      "pdfPage": 328,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e014105915d84f4ba99b455541f11dbae40ef0e3429caa387d51382c30f9e5ce",
+        "previousAppSha256": "e014105915d84f4ba99b455541f11dbae40ef0e3429caa387d51382c30f9e5ce",
+        "reviewedDigest": "88e105c47d0a1b979aa5d2d5c7152f5ee76b9a308ee4253dccd7fb869966466d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento prima della decorazione",
+      "reviewedRecordSha256": "88e105c47d0a1b979aa5d2d5c7152f5ee76b9a308ee4253dccd7fb869966466d",
+      "serves": "6 persone",
+      "source": "https://ricette.giallozafferano.it/Banana-bread-al-cioccolato.html",
+      "steps": [
+        "Sbucciare e schiacciare le banane; unire uova e burro di arachidi, quindi sale, zucchero e cannella. Amalgamare con la frusta.",
+        "Setacciare farina, cacao e lievito e incorporarli; aggiungere il latte secondo la consistenza, poi le gocce di cioccolato.",
+        "Trasferire in uno stampo da 20 × 7 cm rivestito di carta forno. Cuocere a 180 °C in forno statico per circa 30 minuti e controllare con uno stecchino.",
+        "Lasciare raffreddare nello stampo e sformare. Sciogliere il cioccolato al latte a bagnomaria o al microonde, distribuirlo sul dolce e completare con altre gocce."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "40 min",
+      "description": "Torta di nocciole: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-03050",
+      "ingredients": [
+        "Nocciole intere spellate 150 g",
+        "Farina 00 150 g",
+        "Burro a temperatura ambiente 150 g",
+        "Zucchero 150 g",
+        "Lievito per dolci 8 g (mezza bustina)",
+        "Uova a temperatura ambiente 2",
+        "Zucchero a velo q.b. (facoltativo)",
+        "Per lo stampo: burro e farina, quantità non dichiarate"
+      ],
+      "name": "Torta di nocciole",
+      "notes": "Conservare in frigorifero fino a 2–3 giorni o sotto una campana in luogo fresco; congelabile preferibilmente a fette. Varianti: nocciole a metà o gocce di cioccolato. Origine piemontese esplicitata dalla fonte. La redazione ammette la fecola come alternativa alla farina ma avverte che la consistenza può cambiare.",
+      "origin": "Italia – Piemonte",
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento completo"
+      },
+      "originalTitle": "Torta di nocciole",
+      "originalYield": "8 persone",
+      "pdfPage": 680,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "db821b441909e46395e24b6d1f3e821c051e569fcb3d5d7aea0ad5287e7d6558",
+        "previousAppSha256": "db821b441909e46395e24b6d1f3e821c051e569fcb3d5d7aea0ad5287e7d6558",
+        "reviewedDigest": "d4e7f4ca0078a82c8f8ada9915cfa9c452a39e67a4b69e4083e865c9f060fcf1"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento completo",
+      "reviewedRecordSha256": "d4e7f4ca0078a82c8f8ada9915cfa9c452a39e67a4b69e4083e865c9f060fcf1",
+      "serves": "8 persone",
+      "source": "https://ricette.giallozafferano.it/Torta-di-nocciole.html",
+      "steps": [
+        "Tritare le nocciole a impulsi in modo da mantenerle granulose. Montare il burro morbido a pezzi con lo zucchero per circa 10 minuti, fino a composto chiaro e spumoso.",
+        "Unire le uova leggermente sbattute in più riprese, aspettando ogni volta che siano assorbite. Setacciare farina e lievito e incorporare un cucchiaio alla volta con le fruste in funzione.",
+        "Aggiungere le nocciole tutte insieme e mescolare. Imburrare e infarinare una tortiera da 24 cm, versare l’impasto e livellare.",
+        "Cuocere sul ripiano inferiore del forno statico preriscaldato, senza appoggiare lo stampo sul fondo, a 180 °C per circa 30 minuti; proseguire se necessario a 170 °C per altri 10 minuti, regolando i tempi in base al forno.",
+        "Fare raffreddare completamente prima di sformare; spolverare a piacere con zucchero a velo."
+      ],
+      "temperature": "180 °C statico, poi 170 °C"
+    },
+    {
+      "author": "Lucake",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "40 min",
+      "description": "Brownies paradiso: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02550",
+      "ingredients": [
+        "Base: cioccolato fondente 55% 230 g",
+        "Burro 220 g",
+        "Zucchero 220 g",
+        "Uova 4",
+        "Farina 00 140 g",
+        "Cacao amaro 20 g",
+        "Lievito per dolci 5 g",
+        "Sale 1 pizzico",
+        "Crema: panna fresca liquida 250 g",
+        "Mascarpone 150 g",
+        "Latte condensato 80 g",
+        "Miele millefiori 20 g"
+      ],
+      "name": "Brownies paradiso",
+      "notes": "Conservare in frigorifero in contenitore ermetico per 2–3 giorni. Se la crema risulta troppo densa, la fonte suggerisce 2–3 cucchiai di latte. La durata complessiva di cottura indicata nella scheda è 40 minuti, quella in forno nel procedimento 30–35 minuti.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "20 min",
+        "rest": "Almeno 2 ore in frigorifero, oltre al raffreddamento della base"
+      },
+      "originalTitle": "Paradise brownies",
+      "originalYield": "9 pezzi grandi o 16 piccoli",
+      "pdfPage": 336,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "34f5b1ba6c2881833bc7dcb0de87dc883bd93800b8bda2b402dbe41f3a3bab7a",
+        "previousAppSha256": "34f5b1ba6c2881833bc7dcb0de87dc883bd93800b8bda2b402dbe41f3a3bab7a",
+        "reviewedDigest": "d28861ef8a19a509285a6a782a05cd71900f9aae4ff9585e7908976e3009284e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 2 ore in frigorifero, oltre al raffreddamento della base",
+      "reviewedRecordSha256": "d28861ef8a19a509285a6a782a05cd71900f9aae4ff9585e7908976e3009284e",
+      "serves": "9 pezzi grandi o 16 piccoli",
+      "source": "https://www.giallozafferano.com/recipes/paradise-brownies.html",
+      "steps": [
+        "Sciogliere a bagnomaria cioccolato, burro e sale; lasciare intiepidire.",
+        "Montare uova e zucchero fino a composto spumoso; aggiungere il cioccolato intiepidito. Setacciare farina, cacao e lievito e incorporare.",
+        "Ungere e rivestire uno stampo da 10 × 10 pollici; versare il composto e cuocere sul ripiano centrale del forno statico a 350 °F per 30–35 minuti. Lasciare raffreddare completamente.",
+        "Montare mascarpone, miele e panna, quindi incorporare il latte condensato con una spatola.",
+        "Distribuire la crema sulla base fredda e refrigerare almeno 2 ore. Tagliare in 9 pezzi grandi o 16 piccoli."
+      ],
+      "temperature": "350 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "60 min",
+      "description": "Chiffon cake: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02625",
+      "ingredients": [
+        "Zucchero extrafine 300 g",
+        "Farina 00 290 g",
+        "Acqua 200 g",
+        "Olio di semi di girasole 120 g",
+        "Uova grandi 6 (390–400 g circa)",
+        "Vaniglia 1 bacca",
+        "Scorza di 1 limone non trattato",
+        "Lievito per dolci 1 cucchiaino",
+        "Cremor tartaro 8 g",
+        "Sale fino 2 g",
+        "Zucchero a velo q.b."
+      ],
+      "name": "Chiffon cake",
+      "notes": "Conservare 2–3 giorni sotto una campana; congelamento sconsigliato. Varianti suggerite: uvetta, gocce di cioccolato o aroma di arancia. La fonte descrive l’origine americana del dolce.",
+      "origin": "Stati Uniti",
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "25 min",
+        "rest": "Raffreddamento completo capovolta"
+      },
+      "originalTitle": "Chiffon cake",
+      "originalYield": "8 persone",
+      "pdfPage": 340,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a25bdf04b73cb6aa920e92a4356fbaa4550b30f8eefb712cfcaf5cc2ad45786c",
+        "previousAppSha256": "a25bdf04b73cb6aa920e92a4356fbaa4550b30f8eefb712cfcaf5cc2ad45786c",
+        "reviewedDigest": "09dab3f76802b369214bf923a70bd3b37b0623b9edf8d61fd1fd15a395513dd8"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento completo capovolta",
+      "reviewedRecordSha256": "09dab3f76802b369214bf923a70bd3b37b0623b9edf8d61fd1fd15a395513dd8",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.com/recipes/Chiffon-cake.html",
+      "steps": [
+        "Setacciare farina e lievito; mescolare con zucchero e sale. Separare le uova.",
+        "Amalgamare i tuorli con acqua a temperatura ambiente, olio, scorza di limone e semi di vaniglia senza montarli. Versare tutto sulle polveri e mescolare con la frusta fino a ottenere una crema liscia.",
+        "Montare gli albumi; quando sono spumosi aggiungere il cremor tartaro e proseguire. Unirne una prima parte per alleggerire l’impasto, quindi incorporare il resto poco alla volta con movimenti dal basso verso l’alto.",
+        "Versare nello stampo da chiffon non unto né infarinato (base 22 cm, apertura 26 cm, altezza 10 cm); distribuire uniformemente. Cuocere sul ripiano basso a 160 °C statico per circa 60 minuti, oppure 150 °C ventilato per 45–50 minuti.",
+        "Capovolgere lo stampo sui piedini, lasciare raffreddare completamente e staccare delicatamente la torta con un coltello sottile. Spolverare di zucchero a velo."
+      ],
+      "temperature": "160 °C statico; alternativa ventilato 150 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "5 min",
+      "description": "Bastoncini di carote fritte: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-01805",
+      "ingredients": [
+        "Carote 500 g",
+        "Parmigiano Reggiano DOP 100 g",
+        "Paprika 2 cucchiai",
+        "Rosmarino q.b.",
+        "Timo q.b.",
+        "Sale fino q.b.",
+        "Olio di semi di arachide q.b.",
+        "Confettura di mirtilli rossi q.b.",
+        "Solo per la variante croccante: 2 tuorli, acqua fredda q.b., farina 00 q.b."
+      ],
+      "name": "Bastoncini di carote fritte",
+      "notes": "Le due versioni sono alternative, con la stessa base e gli ingredienti aggiuntivi esplicitati per quella croccante. Consumare subito. Possibili varianti della panatura: origano, pecorino con Parmigiano, paprika affumicata o piccante, zenzero, pangrattato o panko. La fonte riporta anche 350 °F accanto a 180 °C: mantenuto il valore metrico esplicito, senza conversione.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Carrot fries",
+      "originalYield": "4 porzioni",
+      "pdfPage": 357,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "3ea1cdb7b111a6bdba5e02c80b22fa3c0fd818451f56874ee32bd0b54f86dcf5",
+        "previousAppSha256": "3ea1cdb7b111a6bdba5e02c80b22fa3c0fd818451f56874ee32bd0b54f86dcf5",
+        "reviewedDigest": "3cd7b5719fa01a450c5ed36fece0faafbdc87fe19d5cad424cf692d1df6ec64c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "3cd7b5719fa01a450c5ed36fece0faafbdc87fe19d5cad424cf692d1df6ec64c",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/Carrot-fries.html",
+      "steps": [
+        "Preparare la panatura con il formaggio grattugiato, il rosmarino tritato, le foglioline di timo e la paprika. Pelare le carote, eliminare le estremità e tagliarle a bastoncini di circa 1 cm.",
+        "Variante semplice senza uova: massaggiare i bastoncini nella panatura per farla aderire. Friggere in olio di arachide a 180 °C, controllando con un termometro; scolare quando dorati, asciugare su carta assorbente, aggiungere panatura rimasta e poco sale. Servire con confettura di mirtilli rossi.",
+        "Variante più croccante: asciugare i bastoncini, sbattere separatamente i due tuorli con poca acqua fredda. Passare i bastoncini prima nella farina, poi nei tuorli e infine nella panatura al formaggio. Friggere a 180 °C per circa un minuto fino a doratura, scolare e servire con confettura. Non riutilizzare panatura che abbia toccato l'uovo crudo."
+      ],
+      "temperature": "180 °C (dato metrico esplicito della fonte)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "60 min",
+      "description": "Torta di pane: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-03052",
+      "ingredients": [
+        "Pane 400 g (circa 300 g di mollica senza crosta)",
+        "Latte 400 g",
+        "Uvetta 100 g",
+        "Scorza di 1 limone",
+        "Burro a temperatura ambiente 100 g",
+        "Zucchero 100 g",
+        "Pangrattato 30 g",
+        "Uovo 1",
+        "Grappa 20 g",
+        "Pinoli 50 g",
+        "Farina 00 100 g",
+        "Acqua q.b. per l'uvetta"
+      ],
+      "name": "Torta di pane",
+      "notes": "Conservare 2–3 giorni sotto campana a temperatura ambiente. La fonte suggerisce di omettere la grappa o sostituirla con aroma al rum. Preparazione tradizionale italiana, senza attribuzione a una sola regione; modalità forno non precisata.",
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "20 min",
+        "rest": "Pane 10 min, uvetta 5 min; raffreddamento"
+      },
+      "originalTitle": "Torta di pane",
+      "originalYield": "10 porzioni",
+      "pdfPage": 680,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "18faa998ea9563c3673660d89b1c5c9a5c1bff40446fdf702c7113d043cb8f00",
+        "previousAppSha256": "18faa998ea9563c3673660d89b1c5c9a5c1bff40446fdf702c7113d043cb8f00",
+        "reviewedDigest": "2209453d453c0bea8eb3ce990815ff56439df483a153c1627cc116d116ac6c51"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Pane 10 min, uvetta 5 min; raffreddamento",
+      "reviewedRecordSha256": "2209453d453c0bea8eb3ce990815ff56439df483a153c1627cc116d116ac6c51",
+      "serves": "10 porzioni",
+      "source": "https://ricette.giallozafferano.it/Torta-di-pane.html",
+      "steps": [
+        "Eliminare la crosta del pane e mettere la mollica nel latte per 10 minuti; ammollare separatamente l'uvetta in acqua per 5 minuti.",
+        "Imburrare uno stampo da 22 cm con parte del burro previsto e cospargerlo di pangrattato.",
+        "Strizzare la mollica, unirvi zucchero, uovo e il burro rimanente, mescolando. Aggiungere grappa, uvetta scolata, scorza grattugiata, pinoli e farina setacciata; amalgamare fino a ottenere un composto compatto.",
+        "Distribuire nello stampo e livellare. Cuocere a 180 °C per circa 60 minuti, fino a doratura. Lasciar raffreddare."
+      ],
+      "temperature": "180 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "30 min",
+      "description": "Brownies: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02548",
+      "ingredients": [
+        "Cioccolato fondente 55% 260 g",
+        "Nocciole intere pelate 170 g",
+        "Zucchero 160 g",
+        "Burro 150 g",
+        "Uova a temperatura ambiente 110 g (circa 2 medie)",
+        "Farina 90 g",
+        "Cacao amaro 20 g",
+        "Sale fino 1 pizzico"
+      ],
+      "name": "Brownies",
+      "notes": "La scheda dichiara 30 minuti di cottura, il procedimento 25 minuti in forno. Conservare 3–4 giorni a temperatura ambiente; congelabili cotti. Varianti suggerite: spezie, frutta secca tostata diversa, cioccolato 65–70%, sostituzione fino al 50% del burro con olio di cocco.",
+      "origin": "Stati Uniti",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "Raffreddamento completo prima del taglio"
+      },
+      "originalTitle": "Brownies",
+      "originalYield": "8 persone",
+      "pdfPage": 334,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "3bfa238af35c381b16e786038f654179e98b083a6acaa7b77332abe95b769639",
+        "previousAppSha256": "3bfa238af35c381b16e786038f654179e98b083a6acaa7b77332abe95b769639",
+        "reviewedDigest": "da38a78344879286cc1dcfeabac87791da8c4b87be39ffa8dc66a20f4de3c6e2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento completo prima del taglio",
+      "reviewedRecordSha256": "da38a78344879286cc1dcfeabac87791da8c4b87be39ffa8dc66a20f4de3c6e2",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.com/recipes/Brownies.html",
+      "steps": [
+        "Tritare e fondere il cioccolato al microonde o a bagnomaria; fondere a parte il burro, unirlo al cioccolato, mescolare e far intiepidire.",
+        "Tostare le nocciole in padella. Montare uova, zucchero e sale con le fruste fino a composto chiaro e spumoso.",
+        "Incorporare gradualmente il cioccolato con il burro, mescolando. Setacciare farina e cacao e amalgamare fino a ottenere un impasto lucido e uniforme; unire le nocciole.",
+        "Versare in teglia da 8,3 × 11 pollici rivestita di carta forno, livellare e cuocere in forno preriscaldato a 350 °F per 25 minuti.",
+        "Lasciare raffreddare del tutto e tagliare a quadrati."
+      ],
+      "temperature": "350 °F"
+    },
+    {
+      "author": "Raffaele Minghini",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "35 min",
+      "description": "Brownie vegan: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02547",
+      "ingredients": [
+        "Cioccolato fondente 70% 120 g",
+        "Nocciole tritate 120 g",
+        "Farina 00 150 g",
+        "Cacao amaro 75 g",
+        "Zucchero di canna 150 g",
+        "Zucchero integrale Dulcita 150 g",
+        "Olio di girasole 90 g",
+        "Acqua 150 g",
+        "Sale 1 pizzico",
+        "Cremor tartaro 12 g",
+        "Per la coulis: fragole 500 g",
+        "Lamponi 100 g",
+        "Zucchero 50 g",
+        "Succo di limone 50 g",
+        "Poca acqua (quantità non indicata)",
+        "Zucchero a velo q.b."
+      ],
+      "name": "Brownie vegan",
+      "notes": "Conservazione indicata: 3 giorni in frigorifero. Dulcita sostituibile con altro zucchero integrale di canna. Cottura di 20 minuti per consistenza più morbida, 25 per più soda. Non contiene avocado né olio di cocco, erroneamente richiamati nella descrizione precedente.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento completo"
+      },
+      "originalTitle": "Vegan Brownie",
+      "originalYield": "8 porzioni",
+      "pdfPage": 333,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ae8eb0fb80e058e04f4f769dcfd6d7aa511183bbcf7be199cab5a7739f985401",
+        "previousAppSha256": "ae8eb0fb80e058e04f4f769dcfd6d7aa511183bbcf7be199cab5a7739f985401",
+        "reviewedDigest": "81fc11daea31b7d52d1854b777b0e689721e0d85a6706d8d5cd1f78070639677"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento completo",
+      "reviewedRecordSha256": "81fc11daea31b7d52d1854b777b0e689721e0d85a6706d8d5cd1f78070639677",
+      "serves": "8 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/vegan-brownie.html",
+      "steps": [
+        "Riunire farina, Dulcita, cacao e cremor tartaro; aggiungere lo zucchero di canna, le nocciole e il cioccolato spezzettato grossolanamente.",
+        "Incorporare acqua e olio, poi il sale; lavorare fino a ottenere un impasto denso e uniforme.",
+        "Stendere in uno stampo rivestito di carta forno da 13¾ × 11 pollici, alto 1 3/16 pollici. Cuocere a 356 °F ventilato per 20–25 minuti.",
+        "Per la coulis, scaldare poca acqua con lo zucchero fino al bollore, aggiungere il limone e riportare a ebollizione; unire fragole e lamponi e cuocere circa 10 minuti fino ad addensamento. Frullare, passare al setaccio e raffreddare.",
+        "Raffreddare completamente il brownie, rifilare i bordi, dividere in otto e servire con zucchero a velo e coulis."
+      ],
+      "temperature": "356 °F, ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "55 min",
+      "description": "Banana bread light: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02535",
+      "ingredients": [
+        "Polpa di banane mature 300 g",
+        "Farina tipo 0 250 g",
+        "Sciroppo d’acero 85 g",
+        "Olio di cocco 85 g",
+        "Latte di riso 80 g",
+        "Tuorli 30 g (circa 2)",
+        "Lievito per dolci 9 g",
+        "Per lo stampo: olio di cocco e farina tipo 0 q.b.",
+        "Noci pecan 20 g"
+      ],
+      "name": "Banana bread light",
+      "notes": "Conservare coperto per 2 giorni a temperatura ambiente; congelabile cotto. Possibili varianti: olio di nocciola o altro olio vegetale nella stessa dose; sciroppo d’agave con differenza di dolcezza; latte vaccino o altra bevanda vegetale. Contiene zuccheri dello sciroppo d’acero.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "55 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento nello stampo"
+      },
+      "originalTitle": "Light banana bread",
+      "originalYield": "6 porzioni",
+      "pdfPage": 330,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a27815efd97b180238edd11c159addde7ff585f1ea2c2fad671a748d1c7fba02",
+        "previousAppSha256": "a27815efd97b180238edd11c159addde7ff585f1ea2c2fad671a748d1c7fba02",
+        "reviewedDigest": "7e53ee07466ca41bc970fd24c2b288a2eca6219217056fbefa226f95ac7d4e86"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento nello stampo",
+      "reviewedRecordSha256": "7e53ee07466ca41bc970fd24c2b288a2eca6219217056fbefa226f95ac7d4e86",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/light-banana-bread.html",
+      "steps": [
+        "Schiacciare la polpa delle banane e amalgamare con lo sciroppo d’acero e i tuorli usando una frusta.",
+        "Incorporare l’olio di cocco a temperatura ambiente, quindi farina e lievito setacciati; aggiungere il latte di riso e lavorare fino a ottenere un composto omogeneo.",
+        "Tritare le pecan. Ungere e infarinare lo stampo da plumcake (base 17 × 8 cm, apertura 20 × 11 cm, altezza 2,75 pollici come indicata dalla fonte). Versare l’impasto, incidere longitudinalmente con un coltello oliato e distribuire le noci.",
+        "Cuocere in forno statico preriscaldato a 350 °F per 50–55 minuti; verificare con uno stecchino e lasciare raffreddare nello stampo prima di sformare."
+      ],
+      "temperature": "350 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "20 min dichiarati; durate dei passaggi indicate separatamente",
+      "description": "Asparagi in padella: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-01801",
+      "ingredients": [
+        "Asparagi 500 g",
+        "Vino bianco 40 g",
+        "Burro q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Asparagi in padella",
+      "notes": "La scheda dichiara 20 minuti complessivi, mentre il metodo indica anche rosolature precedenti: rispettare i singoli passaggi e la tenerezza finale. Conservare in frigorifero in recipiente ermetico massimo due giorni. Se necessario aggiungere poca acqua durante la cottura; facoltativo uno spicchio d'aglio nel burro. La fonte colloca questa preparazione nella tradizione lombarda.",
+      "origin": "Italia – Lombardia",
+      "originalTimes": {
+        "cook": "20 min dichiarati; durate dei passaggi indicate separatamente",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Asparagus in the pan",
+      "originalYield": "4 porzioni",
+      "pdfPage": 356,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "bdab86821784e6e1ad388511fc5cb72bcc2f8cabbf7debaf42d89c8e251dca84",
+        "previousAppSha256": "bdab86821784e6e1ad388511fc5cb72bcc2f8cabbf7debaf42d89c8e251dca84",
+        "reviewedDigest": "8b0d8201197f0d9c0b8eaad2240ebe5dbc518632501ad1eb6dbbcf663ebeb6bf"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "8b0d8201197f0d9c0b8eaad2240ebe5dbc518632501ad1eb6dbbcf663ebeb6bf",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/asparagus-in-the-pan.html",
+      "steps": [
+        "Lavare gli asparagi, spezzare la parte finale dura del gambo e pelare le estremità.",
+        "Sciogliere il burro in padella, disporre gli asparagi senza sovrapporli e dorare a fuoco medio-alto 4–5 minuti. Girarli, attendere 3–4 minuti e sfumare con il vino.",
+        "Lasciare evaporare l'alcol, regolare di sale e pepe, coprire e abbassare leggermente la fiamma. Cuocere circa 20 minuti, fino a quando gli asparagi sono teneri; servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Cooker Girl",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "45 min",
+      "description": "Torta cremosa di mele: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-03001",
+      "ingredients": [
+        "Mele Golden pulite 700 g",
+        "Uova medie 2",
+        "Latte intero 110 g",
+        "Burro 50 g",
+        "Zucchero 70 g",
+        "Farina 00 70 g",
+        "Cannella in polvere ½ cucchiaino",
+        "Sale fino q.b.",
+        "Zucchero di canna q.b.",
+        "Per lo stampo: burro e zucchero, quantità non dichiarate"
+      ],
+      "name": "Torta cremosa di mele",
+      "notes": "Conservazione indicata dalla fonte: 2–3 giorni in recipiente ermetico, temperatura non specificata; non congelare. Alternativa: scorza di limone al posto della cannella; 30 g di olio di semi al posto del burro; bevanda vegetale al posto del latte (in tal caso la fonte indica di unire gli ingredienti a freddo).",
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento prima di servire"
+      },
+      "originalTitle": "Tarta cremosa de manzanas",
+      "originalYield": "8 persone",
+      "pdfPage": 670,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1e7d9efce7e57fe28fa27a9597c990896de98fa92991efd90ef89ce4aca03893",
+        "previousAppSha256": "1e7d9efce7e57fe28fa27a9597c990896de98fa92991efd90ef89ce4aca03893",
+        "reviewedDigest": "7ed737e0664a87f87ea12748c2661c36a942e4f55ddf17c453a370115b20c5bf"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento prima di servire",
+      "reviewedRecordSha256": "7ed737e0664a87f87ea12748c2661c36a942e4f55ddf17c453a370115b20c5bf",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.es/recetas/tarta-cremosa-de-manzanas.html",
+      "steps": [
+        "Sbucciare e detorsolare le mele, pesandone 700 g pulite, poi tagliarle a fette sottilissime.",
+        "Scaldare latte e burro fino a sciogliere il burro; far intiepidire. Sbattere uova, zucchero, cannella e sale.",
+        "Unire la farina, poi versare a filo il latte con il burro mescolando fino a eliminare i grumi.",
+        "Incorporare delicatamente le mele per rivestirle di pastella. Trasferire in uno stampo da 24 cm imburrato e zuccherato, livellare e cospargere di zucchero di canna.",
+        "Cuocere in forno statico preriscaldato a 190 °C per circa 45 minuti, finché la superficie è dorata e caramellata. Lasciare raffreddare prima di servire."
+      ],
+      "temperature": "190 °C statico"
+    },
+    {
+      "author": "Iginio Massari",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "60 min",
+      "description": "Dolce di Varese a base di farina di mais fioretto, mandorle e burro, secondo la ricetta di Iginio Massari.",
+      "id": "GZ-00074",
+      "ingredients": [
+        "Uovo 63 g (circa 1)",
+        "Tuorli 50 g (circa 2)",
+        "Zucchero 115 g",
+        "Sale fino 1 g",
+        "Vaniglia 1 baccello",
+        "Scorza di 1 limone non trattato",
+        "Farina di mandorle 68 g",
+        "Farina 00 45 g",
+        "Lievito per dolci 4 g",
+        "Farina di mais fioretto 38 g",
+        "Burro 125 g per l'impasto",
+        "Per il composto di mandorle: burro 12 g e farina di mandorle 13 g",
+        "Burro e farina per lo stampo, zucchero a velo per finire: quantità non dichiarate"
+      ],
+      "name": "Amor polenta",
+      "notes": "Conservare sotto campana a temperatura ambiente fino a una settimana, o congelare circa un mese. Alternativa: stampo da plumcake delle stesse dimensioni; pinoli facoltativi. La versione spagnola ufficiale conferma tutti i pesi metrici, evitando le equivalenze volumetriche incongruenti in inglese. La lista spagnola cita mezzo limone, ma il suo procedimento e la fonte canonica indicano un limone: preservata la formula canonica. La fonte attribuisce la ricetta a Iginio Massari e documenta l'origine varesina. Numero di porzioni non dichiarato.",
+      "origin": "Italia – Varese, Lombardia",
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento prima di sformare"
+      },
+      "originalTitle": "Amor Polenta (Polenta sponge cake)",
+      "originalYield": "1 torta nello stampo 20 × 7,5 cm",
+      "pdfPage": 326,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "efbf72a0aca544647ae80f920a610d6b8570962ba2349b6bd7840ebf693d1067",
+        "previousAppSha256": "efbf72a0aca544647ae80f920a610d6b8570962ba2349b6bd7840ebf693d1067",
+        "reviewedDigest": "6e3d10a76bae4618ea170217a1adeae02e4821d477f3d3f12d2251576faf1569"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento prima di sformare",
+      "reviewedRecordSha256": "6e3d10a76bae4618ea170217a1adeae02e4821d477f3d3f12d2251576faf1569",
+      "serves": "1 torta nello stampo 20 × 7,5 cm",
+      "source": "https://www.giallozafferano.com/recipes/amor-polenta-polenta-sponge-cake.html",
+      "steps": [
+        "Frullare 12 g di burro con 13 g di farina di mandorle fino a ottenere una pasta uniforme e tenerla da parte. Sciogliere separatamente i 125 g di burro a fuoco molto basso e lasciarli intiepidire.",
+        "Montare l'uovo con lo zucchero; continuando a montare aggiungere i tuorli e i semi della vaniglia. Unire la scorza grattugiata, il sale e la pasta di burro e mandorle.",
+        "Setacciare insieme farina di mandorle, lievito, farina di mais e farina 00. Incorporarle delicatamente alla massa montata, quindi versare il burro fuso e amalgamare senza smontare.",
+        "Imburrare e infarinare lo stampo scanalato da 20 × 7,5 cm. Versare il composto e cuocere in forno statico a 165 °C per 60 minuti.",
+        "Lasciare raffreddare prima di sformare; completare con zucchero a velo."
+      ],
+      "temperature": "165 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "60 min",
+      "description": "Torta dolce di zucchine: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-03071",
+      "ingredients": [
+        "Zucchine 300 g",
+        "Farina 00 250 g",
+        "Farina di mandorle 100 g",
+        "Uova 3",
+        "Olio di semi di mais 200 ml",
+        "Zucchero 250 g",
+        "Lievito per dolci 1 bustina",
+        "Vaniglia 1 baccello",
+        "Zucchero a velo q.b. per servire",
+        "Burro e farina q.b. per lo stampo, oppure carta forno"
+      ],
+      "name": "Torta dolce di zucchine",
+      "notes": "La preparazione indica la farina di nocciole come alternativa alla farina di mandorle dell'elenco. Durata e condizioni di conservazione non dichiarate.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento prima di sformare"
+      },
+      "originalTitle": "Torta dolce di zucchine",
+      "originalYield": "1 torta da 24–26 cm",
+      "pdfPage": 342,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "003ce934ff43e6e7a48ff537dbb2ee2eb8646c63b836c9018445367d03a15194",
+        "previousAppSha256": "003ce934ff43e6e7a48ff537dbb2ee2eb8646c63b836c9018445367d03a15194",
+        "reviewedDigest": "f97ebd8d46326fc0db2ba6dc6b7374dced72f9258978439abbb8ef9cb59ba199"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento prima di sformare",
+      "reviewedRecordSha256": "f97ebd8d46326fc0db2ba6dc6b7374dced72f9258978439abbb8ef9cb59ba199",
+      "serves": "1 torta da 24–26 cm",
+      "source": "https://ricette.giallozafferano.it/Torta-dolce-di-zucchine.html",
+      "steps": [
+        "Lavare e spuntare le zucchine, grattugiarle grossolanamente e strizzarle leggermente.",
+        "Montare uova e zucchero fino a ottenere una massa chiara e spumosa; incorporare le farine e il lievito setacciati, quindi i semi di vaniglia.",
+        "Aggiungere l'olio, amalgamare e unire per ultime le zucchine. Versare in uno stampo da 24–26 cm imburrato e infarinato o rivestito di carta forno.",
+        "Cuocere a 180 °C statico per circa 60 minuti, verificando con uno stecchino. Se la superficie scurisce troppo dopo i primi 40 minuti, proteggerla con alluminio.",
+        "Lasciare raffreddare prima di sformare e servire con zucchero a velo."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "55 min",
+      "description": "Banana bread al cocco: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02534",
+      "ingredients": [
+        "Latte di cocco 250 g",
+        "Banane mature 200 g",
+        "Farina 00 200 g",
+        "Zucchero di canna 100 g",
+        "Olio di cocco 60 g",
+        "Gocce di cioccolato fondente 60 g",
+        "Cocco rapè 30 g",
+        "Lievito per dolci 10 g",
+        "Olio di cocco e farina 00 q.b. per lo stampo",
+        "Scaglie di cocco disidratato q.b.",
+        "Frutta secca mista (nocciole, noci, mandorle) q.b."
+      ],
+      "name": "Banana bread al cocco",
+      "notes": "Conservazione 2–3 giorni a temperatura ambiente o in frigorifero nelle giornate più calde. L'olio di cocco può essere sostituito da olio vegetale; cannella o zenzero facoltativi. Variante distinta dal banana bread classico, senza uova né burro.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "55 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento prima di sformare"
+      },
+      "originalTitle": "Coconut Banana Bread",
+      "originalYield": "6 porzioni",
+      "pdfPage": 329,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c9bfa9487fb34d018e2a1879769fda3400669779fedc8e964eb3d4faac45e733",
+        "previousAppSha256": "c9bfa9487fb34d018e2a1879769fda3400669779fedc8e964eb3d4faac45e733",
+        "reviewedDigest": "e5cc833c2428ca2755eb2c5faeb33894db18d7c4f8a41d2145d0e4673c9b3254"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento prima di sformare",
+      "reviewedRecordSha256": "e5cc833c2428ca2755eb2c5faeb33894db18d7c4f8a41d2145d0e4673c9b3254",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/coconut-banana-bread.html",
+      "steps": [
+        "Schiacciare le banane mature con la forchetta, unire lo zucchero di canna e l'olio di cocco; mescolare con la frusta. Incorporare il latte di cocco.",
+        "Aggiungere farina, lievito e cocco rapè, mescolando fino a un composto uniforme; incorporare per ultime le gocce di cioccolato.",
+        "Versare in uno stampo da plumcake da 8 × 4 pollici unto con olio di cocco e infarinato; decorare con scaglie di cocco e frutta secca.",
+        "Cuocere in forno statico preriscaldato a 350 °F per 50–55 minuti. Lasciare raffreddare prima di sformare e servire."
+      ],
+      "temperature": "350 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "60 min",
+      "description": "Cheesecake al cioccolato: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02579",
+      "ingredients": [
+        "Biscotti secchi al cioccolato 250 g",
+        "Burro 100 g",
+        "Ricotta vaccina 450 g",
+        "Formaggio spalmabile 250 g",
+        "Cioccolato fondente 55% 200 g",
+        "Zucchero 120 g",
+        "Uova 110 g (circa 2)",
+        "Amido di mais 50 g",
+        "Cacao amaro 20 g",
+        "Vaniglia 1 baccello",
+        "Cioccolato fondente per riccioli q.b."
+      ],
+      "name": "Cheesecake al cioccolato",
+      "notes": "Conservare in frigorifero fino a tre giorni. Se la ricotta è acquosa, scolarla. Varianti suggerite: cioccolato al 70%, fava tonka o un cucchiaino di estratto di vaniglia. Se i biscotti sono più morbidi ridurre il burro, senza dose alternativa indicata.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "30 min",
+        "rest": "Base: almeno 1 ora in frigo o 30 min in freezer; dolce: raffreddamento e almeno 2 ore in frigo"
+      },
+      "originalTitle": "Chocolate Cheesecake",
+      "originalYield": "10 porzioni",
+      "pdfPage": 339,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8424aff3790f466fae203f973bcbe48ce9318bd7f7c8a09edb41cc9b8a63defd",
+        "previousAppSha256": "8424aff3790f466fae203f973bcbe48ce9318bd7f7c8a09edb41cc9b8a63defd",
+        "reviewedDigest": "e9feac009775aa76f1ee64991428006443f6a759b476e60ef1274c2c12f366d0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Base: almeno 1 ora in frigo o 30 min in freezer; dolce: raffreddamento e almeno 2 ore in frigo",
+      "reviewedRecordSha256": "e9feac009775aa76f1ee64991428006443f6a759b476e60ef1274c2c12f366d0",
+      "serves": "10 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/Chocolate-Cheesecake.html",
+      "steps": [
+        "Tritare i biscotti e mescolarli al burro fuso e intiepidito. Imburrare e foderare uno stampo apribile da 22 cm; pressare il composto sul fondo e sui bordi. Raffreddare almeno un'ora in frigorifero o mezz'ora in freezer.",
+        "Sciogliere il cioccolato e lasciarlo intiepidire. Lavorare ricotta, formaggio, semi di vaniglia e zucchero nel mixer; incorporare amido e cacao setacciati, poi le uova e infine il cioccolato. Ottenere una crema uniforme e densa.",
+        "Versare sulla base, livellare e cuocere a 329 °F statico per 60 minuti, mettendo nel forno anche un piccolo recipiente con acqua.",
+        "Lasciare raffreddare nello stampo, poi refrigerare almeno due ore. Ricavare riccioli dal cioccolato e mantenerli al fresco. Sformare e decorare."
+      ],
+      "temperature": "329 °F, statico"
+    },
+    {
+      "author": "Lulù Gargari",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "40 min",
+      "description": "Banana bread senza burro: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02537",
+      "ingredients": [
+        "Banane mature 450 g (3)",
+        "Farina di riso 220 g",
+        "Zucchero 120 g",
+        "Latte di soia 100 g",
+        "Lievito per dolci 16 g",
+        "Cannella in polvere 1 cucchiaino",
+        "Banana 1 per decorare",
+        "Zucchero a velo q.b."
+      ],
+      "name": "Banana bread senza burro",
+      "notes": "Conservare a temperatura ambiente sotto campana per due giorni. Latte di soia sostituibile con altra bevanda vegetale o latte vaccino. Formula distinta dal banana bread classico: farina di riso, senza burro né uova; controllare gli ingredienti per eventuali esigenze senza glutine.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "20 min",
+        "rest": "Lasciare intiepidire"
+      },
+      "originalTitle": "Pan de plátano sin mantequilla",
+      "originalYield": "6 porzioni",
+      "pdfPage": 332,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c74a277de480b94a374cab60f9f9fc3678c85ae465885adf1b9a64eda646130a",
+        "previousAppSha256": "c74a277de480b94a374cab60f9f9fc3678c85ae465885adf1b9a64eda646130a",
+        "reviewedDigest": "88a419e66fa92d6a3b503cf009cf0f4d31732126ba92abb5092150e942dea62e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Lasciare intiepidire",
+      "reviewedRecordSha256": "88a419e66fa92d6a3b503cf009cf0f4d31732126ba92abb5092150e942dea62e",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.es/recetas/pan-de-platano-sin-mantequilla.html",
+      "steps": [
+        "Sbucciare e schiacciare le tre banane fino a ottenere una polpa uniforme; aggiungere il latte di soia, lo zucchero e la cannella. Mescolare con le fruste elettriche.",
+        "Incorporare farina di riso e lievito, mescolando ancora. Rivestire di carta forno uno stampo da plumcake di 25 × 11 cm, versare l'impasto e livellare.",
+        "Tagliare la banana per la decorazione a metà nel senso della lunghezza e posare le due metà sull'impasto. Cuocere in forno ventilato preriscaldato a 180 °C per circa 40 minuti.",
+        "Lasciare intiepidire e spolverare con zucchero a velo."
+      ],
+      "temperature": "180 °C ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "50 min",
+      "description": "Charlotte alle mele: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02573",
+      "ingredients": [
+        "Burro 70 g",
+        "Latte 150 ml",
+        "Brandy 50 ml",
+        "Zucchero 50 g",
+        "Scorza di 1 limone",
+        "Vaniglia 1 baccello",
+        "Confettura di albicocche 150 g, più 1 cucchiaio per spennellare",
+        "Mele renette 1 kg",
+        "Cannella 1 cucchiaino",
+        "Savoiardi 250 g"
+      ],
+      "name": "Charlotte alle mele",
+      "notes": "Conservazione: fino a due giorni sotto campana; temperatura non specificata. Il brandy può essere sostituito da altro liquore.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "50 min",
+        "prep": "30 min",
+        "rest": "Raffreddamento su griglia"
+      },
+      "originalTitle": "Apple Charlotte",
+      "originalYield": "6 porzioni",
+      "pdfPage": 338,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e498bbc9eef5d5e42f7555339ba1ed4ba36bbdbbe25f2731ef9a436acae354f4",
+        "previousAppSha256": "e498bbc9eef5d5e42f7555339ba1ed4ba36bbdbbe25f2731ef9a436acae354f4",
+        "reviewedDigest": "b880336c236f0e374fbb7757b65dfd88fb44d59cb938463b0d9f3883551dda56"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento su griglia",
+      "reviewedRecordSha256": "b880336c236f0e374fbb7757b65dfd88fb44d59cb938463b0d9f3883551dda56",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/apple-charlotte.html",
+      "steps": [
+        "Sbucciare e mondare le mele; affettarle sottilmente (circa 1/8 di pollice). Sciogliere 3½ cucchiai di burro a fuoco basso e unire le mele; sfumare con il brandy.",
+        "Mescolare zucchero, semi di vaniglia e cannella; aggiungerli alle mele insieme alla scorza. Cuocere dolcemente fino a quando saranno tenere, aggiungendo poca acqua se necessario.",
+        "Imburrare con parte del burro uno stampo alto da 7 pollici e rivestirlo di carta forno. Accorciare i savoiardi affinché arrivino a 1½ pollici sotto il bordo, passarli rapidamente nel latte e rivestire prima le pareti, poi il fondo; tenere i ritagli.",
+        "Incorporare 150 g di confettura alle mele ancora calde, riempire lo stampo e livellare. Rifilare i savoiardi sporgenti, distribuire i ritagli sopra e irrorare con i restanti 1½ cucchiai di burro fuso.",
+        "Cuocere a 350 °F statico per 35–40 minuti. Lasciare riposare su una griglia, capovolgere, rimuovere la carta e spennellare con il cucchiaio di confettura setacciata. Servire ancora tiepida."
+      ],
+      "temperature": "350 °F, statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "30 min",
+      "description": "Brownies in friggitrice ad aria: ricetta revisionata sulla fonte originale.",
+      "id": "GZ-02549",
+      "ingredients": [
+        "Cioccolato fondente 50% 240 g",
+        "Zucchero 120 g",
+        "Burro 120 g",
+        "Uova 110 g (circa 2)",
+        "Farina 00 90 g",
+        "Gocce di cioccolato fondente 50 g",
+        "Cacao amaro 20 g",
+        "Sale 1 pizzico"
+      ],
+      "name": "Brownies in friggitrice ad aria",
+      "notes": "Conservare per 3–4 giorni a temperatura ambiente; si possono congelare cotti. Facoltativi zucchero a velo o frutta secca. Variante in friggitrice del dolce americano.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "15 min",
+        "rest": "Breve raffreddamento prima del taglio"
+      },
+      "originalTitle": "Air fryer brownies",
+      "originalYield": "8 pezzi",
+      "pdfPage": 335,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "5436e32d5099aa2204d48767f96c1e276a1228ff60b4672a66e7ca3ec3539965",
+        "previousAppSha256": "5436e32d5099aa2204d48767f96c1e276a1228ff60b4672a66e7ca3ec3539965",
+        "reviewedDigest": "6ab58ea073da40043fe763acd90d3676d6be2ee5910b9d156ef76d0b8b85eea2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Breve raffreddamento prima del taglio",
+      "reviewedRecordSha256": "6ab58ea073da40043fe763acd90d3676d6be2ee5910b9d156ef76d0b8b85eea2",
+      "serves": "8 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/air-fryer-brownies.html",
+      "steps": [
+        "Tritare e sciogliere il cioccolato; sciogliere separatamente il burro e lasciare intiepidire.",
+        "Montare uova, zucchero e sale per circa 10 minuti. Aggiungere cioccolato e burro fusi e continuare a montare per un paio di minuti.",
+        "Setacciare farina e cacao e incorporarli fino a ottenere un composto liscio e lucido.",
+        "Rivestire uno stampo da 8 × 8 pollici con carta forno bagnata e strizzata, versare e livellare il composto, distribuire le gocce.",
+        "Cuocere in friggitrice ad aria da 6 quarti a 320 °F in modalità dolci per 30 minuti. Lasciare intiepidire e tagliare in otto pezzi."
+      ],
+      "temperature": "320 °F"
     }
   ]
 }
