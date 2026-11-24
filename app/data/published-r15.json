@@ -27675,6 +27675,162 @@
         "Cuocere in friggitrice ad aria da 6 quarti a 320 °F in modalità dolci per 30 minuti. Lasciare intiepidire e tagliare in otto pezzi."
       ],
       "temperature": "320 °F"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: Crema di patate con seppioline",
+      "id": "GZ-00990",
+      "ingredients": [
+        "Per la crema: patate 800 g",
+        "Porro 1",
+        "Brodo vegetale 400 ml",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Per le seppioline: seppioline 300 g",
+        "Peperoni verdi 50 g",
+        "Peperoni rossi 50 g",
+        "Aglio 1 spicchio",
+        "Scorza di limone 1",
+        "Succo di limone ½",
+        "Timo 2 rametti",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Crema di patate con seppioline",
+      "notes": "Conservare separatamente in frigorifero: crema 2–3 giorni e seppioline al massimo 1 giorno; congelabili separatamente soltanto se preparate con ingredienti freschi non decongelati. Possibili zucchine o melanzane al posto dei peperoni o insieme a essi. Se troppo densa, allungare la crema con un mestolo di brodo.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Crema di patate con seppioline",
+      "originalYield": "4 persone",
+      "pdfPage": 322,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f65c8a63d49f383705f7c3ca0e26a25e8b3639f6a0fcec99e3fefc2403db7dc8",
+        "previousAppSha256": "f65c8a63d49f383705f7c3ca0e26a25e8b3639f6a0fcec99e3fefc2403db7dc8",
+        "reviewedDigest": "4f85c17f74486a78bd1b5b72268cef4b594300fd237d033cc92293dad29781a7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "4f85c17f74486a78bd1b5b72268cef4b594300fd237d033cc92293dad29781a7",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Crema-di-patate-con-seppioline.html",
+      "steps": [
+        "Preparare il brodo vegetale con sedano, carota e cipolla. Affettare finemente il porro, sbucciare le patate e tagliarle a dadini.",
+        "Appassire il porro in poco olio a fiamma dolce per 10–15 minuti. Unire le patate e il brodo, salare e proseguire a fuoco medio con coperchio per circa 15 minuti.",
+        "Privare i peperoni di semi e picciolo e ridurli a listarelle. Pulire le seppioline se necessario, sciacquarle e tagliarle in strisce larghe mezzo centimetro. Grattugiare la scorza del limone e spremere mezzo limone.",
+        "Profumare l’olio con l’aglio; saltare i peperoni per qualche minuto lasciandoli croccanti, rimuovere l’aglio e aggiungere le seppioline. Unire timo, scorza e succo di limone, salare e pepare; cuocere pochi minuti e spegnere.",
+        "Frullare le patate fino a ottenere una crema densa, regolare sale e pepe, distribuire nei piatti. Sistemare le seppioline al centro e finire con olio a crudo; servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: Finta carbonara",
+      "id": "GZ-00142",
+      "ingredients": [
+        "Spaghetti 320 g",
+        "Peperoni gialli 1,4 kg (quantità metrica indicata dalla fonte)",
+        "Mortadella 250 g",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Finta carbonara",
+      "notes": "Conservare la pasta in frigorifero in contenitore chiuso; la fonte non specifica durata e sconsiglia congelarla. La sola crema di peperoni si può congelare o conservare in frigorifero 2–3 giorni. Opzionale formaggio grattugiato; per varianti vegetariane sostituire la mortadella con melanzane o zucchine a dadini. Le due unità della quantità dei peperoni nella fonte EN non concordano: mantenuta la quantità metrica 1,4 kg già presente nell’originale storico.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "25 min",
+        "rest": "Circa 10 min per i peperoni"
+      },
+      "originalTitle": "Fake Carbonara",
+      "originalYield": "4 persone",
+      "pdfPage": 238,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "2d2f927eddd1807767f8c4c1ac73f198e1c5d656fc358d0d48c4529f9152bc20",
+        "previousAppSha256": "2d2f927eddd1807767f8c4c1ac73f198e1c5d656fc358d0d48c4529f9152bc20",
+        "reviewedDigest": "d2f665fa2efab6f66404a64efbc0ef83414aa15523cbce27e5fbdf9a38f8609b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 10 min per i peperoni",
+      "reviewedRecordSha256": "d2f665fa2efab6f66404a64efbc0ef83414aa15523cbce27e5fbdf9a38f8609b",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fake-carbonara.html",
+      "steps": [
+        "Lavare i peperoni gialli, disporli su una teglia con carta forno e arrostirli in forno statico a 482 °F per 40–45 minuti, oppure ventilato a 446 °F per circa 35 minuti. Metterli in un sacchetto adatto agli alimenti per circa 10 minuti per facilitare la spellatura.",
+        "Tagliare la mortadella a cubetti e dorarla in un’ampia padella antiaderente senza aggiungere grassi.",
+        "Privare i peperoni di pelle, picciolo e semi, poi frullarli fino a ottenere una crema liscia.",
+        "Versare la crema sulla mortadella, mescolare a fuoco medio per pochi minuti e regolare sale e pepe. Lessare gli spaghetti in acqua salata.",
+        "Scolare al dente conservando 1–2 mestoli di acqua di cottura. Amalgamare gli spaghetti al condimento con 1–2 mestoli della stessa acqua, per un paio di minuti a fiamma bassa; finire con un filo d’olio."
+      ],
+      "temperature": "482 °F statico oppure 446 °F ventilato (valori della fonte originale)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: Fettuccine al tartufo",
+      "id": "GZ-00139",
+      "ingredients": [
+        "Fettuccine all’uovo 250 g",
+        "Tartufo nero 80 g",
+        "Aglio 1 spicchio",
+        "Olio extravergine di oliva 50 g",
+        "Sale fino q.b.",
+        "Burro 40 g"
+      ],
+      "name": "Fettuccine al tartufo",
+      "notes": "La fonte consiglia di affettare il tartufo poco prima del servizio; per il tartufo crudo indica un massimo di 7–8 giorni al fresco, in garza traspirante entro un vasetto di vetro. Conservare al fresco in frigorifero; non è indicata una durata per la pasta cotta. Tartufo nero estivo oppure bianco d’Alba; possibili tagliolini, tagliatelle o spaghetti.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Truffle fettuccine",
+      "originalYield": "4 persone",
+      "pdfPage": 236,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "dd51983904c18f8dfd19beeb5faf44e4a19f81ce4bda3a7a69d417018513d759",
+        "previousAppSha256": "dd51983904c18f8dfd19beeb5faf44e4a19f81ce4bda3a7a69d417018513d759",
+        "reviewedDigest": "a786258446ff89e9b35cf94b9e214414d6fbafd983ce6907b278b3f5cc84ab85"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "a786258446ff89e9b35cf94b9e214414d6fbafd983ce6907b278b3f5cc84ab85",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Truffle-fettuccine.html",
+      "steps": [
+        "Eliminare il terriccio dal tartufo con acqua corrente fredda e una spazzola semirigida. Asciugarlo e tagliarlo in lamelle sottilissime con l’apposita mandolina, conservandone alcune per la finitura.",
+        "Sciogliere il burro nell’olio a fiamma bassa. Unire l’aglio sbucciato e privato del germoglio, lasciarlo dorare leggermente per qualche minuto e toglierlo.",
+        "Fuori dal fuoco aggiungere quasi tutto il tartufo affettato e mescolare delicatamente per profumare il condimento.",
+        "Lessare le fettuccine in abbondante acqua salata; scolarle al dente e amalgamarle al condimento, aggiungendo poca acqua di cottura se necessaria.",
+        "Servire con le lamelle di tartufo tenute da parte."
+      ],
+      "temperature": null
     }
   ]
 }
