@@ -20533,6 +20533,455 @@
         "Capovolgere aiutandosi con un piatto o coperchio e cuocere altri 10 minuti senza coperchio."
       ],
       "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "1 h 15 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi al pomodoro e burrata.",
+      "id": "GZ-00188",
+      "ingredients": [
+        "Patate rosse 1 kg",
+        "Farina 00 300 g",
+        "Uovo 1",
+        "Semola rimacinata q.b.",
+        "Sale fino q.b.",
+        "Polpa fine di pomodoro 400 g",
+        "Burrata 100 g",
+        "Cipolla bianca 50 g",
+        "Basilico q.b.",
+        "Parmigiano Reggiano DOP 50 g",
+        "Sale per il sugo q.b.",
+        "Pepe nero q.b.",
+        "Olio extravergine di oliva q.b."
+      ],
+      "name": "Gnocchi al pomodoro e burrata",
+      "notes": [
+        "Consumare subito; il sugo si può preparare in anticipo e conservare in frigorifero per 2 giorni. Gli gnocchi crudi si possono congelare distanziati e poi raccogliere in sacchetti, cuocendoli da congelati. La fonte consiglia di togliere la burrata dal frigorifero circa mezz'ora prima del servizio."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 15 min",
+        "prep": "60 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Gnocchi with tomato and burrata",
+      "originalYield": "4 porzioni",
+      "pdfPage": 248,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8929da0a73483939d228fba98ea032da16b230494d8fe8fe80c43960ca039a61",
+        "previousAppSha256": "8929da0a73483939d228fba98ea032da16b230494d8fe8fe80c43960ca039a61",
+        "reviewedDigest": "e3d6800821dceca99e2e86371908ff794c68f16911b934408874af2a7c698ae8"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "e3d6800821dceca99e2e86371908ff794c68f16911b934408874af2a7c698ae8",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/gnocchi-with-tomato-and-burrata.html",
+      "steps": [
+        "Lessare le patate 30–40 minuti dal bollore, controllando con la forchetta. Schiacciarle calde e salare; incorporare uovo battuto e farina, impastando poco fino a una massa morbida ma consistente.",
+        "Ricavare filoncini e pezzi di circa 3/4 di pollice come indicato dalla fonte, tenendo coperto l'impasto residuo; rigare con semola e disporre distanziati su un telo infarinato.",
+        "Tritare la cipolla e stufarla con olio e un pizzico di sale a fuoco basso per 10 minuti. Unire il pomodoro e cuocere scoperto a fuoco medio-basso per 30–40 minuti; regolare di sale.",
+        "Lessare gli gnocchi in acqua salata e prelevarli appena a galla; unirli al sugo e, se necessario, aggiungere un mestolo dell'acqua di cottura.",
+        "Spegnere il fuoco, incorporare Parmigiano grattugiato e un filo di olio; impiattare con burrata, basilico fresco e pepe."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi alla mediterranea.",
+      "id": "GZ-00189",
+      "ingredients": [
+        "Patate 1 kg",
+        "Farina 00 300 g",
+        "Uovo medio 1",
+        "Sale fino 2 pizzichi (lista fonte)",
+        "Carote 150 g",
+        "Zucchine 180 g",
+        "Melanzane 300 g",
+        "Cipollotto fresco 50 g",
+        "Olio extravergine di oliva 40 g",
+        "Sale fino per il condimento q.b.",
+        "Pepe nero q.b.",
+        "Farina 00 per spolverare q.b."
+      ],
+      "name": "Gnocchi alla mediterranea",
+      "notes": [
+        "Il metodo indica un pizzico di sale per l'impasto, mentre l'elenco ne riporta due: discrepanza della fonte, mantenuta esplicita. Refrigerare il piatto cotto in contenitore ermetico fino a 2 giorni. Congelare eventualmente gnocchi crudi e verdure cotte separatamente. Variante: pomodorini e olive nere."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "40 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Mediterranean Gnocchi",
+      "originalYield": "4 porzioni",
+      "pdfPage": 104,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ee198613a9347abee151b04a4fccfab97b004b6b7d87e7bb07277bc0292fdafd",
+        "previousAppSha256": "ee198613a9347abee151b04a4fccfab97b004b6b7d87e7bb07277bc0292fdafd",
+        "reviewedDigest": "259e0c1a7f313a70e13df78f9834bc239447e4252ebae68c714b5004bb50df4e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "259e0c1a7f313a70e13df78f9834bc239447e4252ebae68c714b5004bb50df4e",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/mediterranean-gnocchi.html",
+      "steps": [
+        "Lessare le patate lavate con la buccia in acqua salata. Pelarle calde e schiacciarle; unire alla farina setacciata e iniziare a impastare con il sale, poi aggiungere l'uovo battuto fino a ottenere un composto liscio e compatto.",
+        "Formare filoncini e tagliare bocconcini grandi circa una nocciola; rigare con forchetta o rigagnocchi e disporre su un vassoio infarinato.",
+        "Affettare sottilmente la parte bianca del cipollotto, tagliare le carote a bastoncini, poi preparare zucchine e melanzane.",
+        "Scaldare l'olio, saltare cipollotto e carote 5 minuti, salare e pepare, aggiungere zucchine e melanzane e cuocere altri 10 minuti lasciando le verdure croccanti.",
+        "Lessare gli gnocchi in acqua salata, prelevarli quando affiorano e trasferirli nella padella delle verdure. Insaporire brevemente e servire caldi."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi alla sorrentina.",
+      "id": "GZ-00192",
+      "ingredients": [
+        "Patate rosse 1 kg",
+        "Farina 00 300 g",
+        "Uovo medio 1",
+        "Sale fino q.b.",
+        "Semola q.b.",
+        "Passata di pomodoro 600 g",
+        "Basilico 6 foglie",
+        "Aglio 1 spicchio",
+        "Olio extravergine di oliva q.b.",
+        "Sale per il sugo q.b.",
+        "Pepe (quantità non dichiarata nella lista)",
+        "Mozzarella 250 g",
+        "Parmigiano Reggiano DOP 70 g"
+      ],
+      "name": "Gnocchi alla sorrentina",
+      "notes": [
+        "Pepe citato solo nel metodo, senza dose. Conservare il piatto in frigorifero per un giorno; possibile congelamento con ingredienti freschi, anche degli gnocchi crudi (indicazione redazione: fino a un mese)."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "30 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Gnocchi alla sorrentina",
+      "originalYield": "4 persone",
+      "pdfPage": 250,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "dd6007589c466c9d4ec2b0837d64d3add8934e60136dcd0b9015799954f67d08",
+        "previousAppSha256": "dd6007589c466c9d4ec2b0837d64d3add8934e60136dcd0b9015799954f67d08",
+        "reviewedDigest": "80bd5c3394dbb7edea50703fa207e081fa47ad7e3944a7a63f46ea45f9a26908"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "80bd5c3394dbb7edea50703fa207e081fa47ad7e3944a7a63f46ea45f9a26908",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Gnocchi-alla-sorrentina.html",
+      "steps": [
+        "Lessare le patate lavate per 30–40 minuti, controllando con la forchetta. In un tegame scaldare olio, aglio schiacciato intero e passata; salare, pepare e aggiungere basilico. Cuocere coperto a fuoco medio-basso circa 30 minuti.",
+        "Schiacciare le patate ancora calde sulla farina setacciata, unire uovo e sale e impastare rapidamente fino a ottenere una massa omogenea, morbida e non appiccicosa. Coprire con un telo asciutto.",
+        "Ricavare filoncini di 2–3 cm, spolverare con semola, tagliare e rigare gli gnocchi. Tenere il resto dell'impasto coperto.",
+        "Lessare in acqua salata a bollore moderato in 2–3 lotti; appena a galla raccogliere gli gnocchi. Rimuovere l'aglio dal sugo, tenerne un po' per il fondo della pirofila e condire delicatamente gli gnocchi con il resto.",
+        "Mettere sugo e olio sul fondo della pirofila; distribuire metà degli gnocchi, metà mozzarella e Parmigiano, poi ripetere con il resto. Gratinare circa 5 minuti sotto il grill statico a 250 °C e servire."
+      ],
+      "temperature": "250 °C grill statico, circa 5 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "10 min (metadato fonte; patate 30–40 min nel metodo)",
+      "description": "Revisione editoriale della fonte originale: Gnocchi al gorgonzola.",
+      "id": "GZ-00186",
+      "ingredients": [
+        "Patate farinose 1 kg",
+        "Farina 300 g",
+        "Uovo 1",
+        "Sale q.b.",
+        "Gorgonzola piccante 150 g",
+        "Salvia 1 rametto",
+        "Burro 100 g",
+        "Grana Padano DOP da grattugiare 50 g"
+      ],
+      "name": "Gnocchi al gorgonzola",
+      "notes": [
+        "Servire subito. Per congelare gli gnocchi crudi, lasciarli distanziati su un vassoio in freezer circa 20 minuti, poi trasferirli in sacchetto; cuocere senza scongelare. Il gorgonzola dolce è una variante del ripieno."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min (metadato fonte; patate 30–40 min nel metodo)",
+        "prep": "30 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Gnocchi al gorgonzola",
+      "originalYield": "8 persone",
+      "pdfPage": 104,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ec077f285cd2c8f49b701a37bba7595e6f30dd4d88ac1d565e592a561d7c7f3a",
+        "previousAppSha256": "ec077f285cd2c8f49b701a37bba7595e6f30dd4d88ac1d565e592a561d7c7f3a",
+        "reviewedDigest": "aa04b027d6088f71db40d69d2b8c165c32c19367372c02f2ee5c83e6e99cfa1a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "aa04b027d6088f71db40d69d2b8c165c32c19367372c02f2ee5c83e6e99cfa1a",
+      "serves": "8 persone",
+      "source": "https://ricette.giallozafferano.it/Gnocchi-al-gorgonzola.html",
+      "steps": [
+        "Coprire le patate con acqua fredda; lessarle 30–40 minuti dal bollore, fino a quando la forchetta penetra facilmente. Pelarle calde e schiacciarle sulla farina.",
+        "Incorporare l'uovo battuto con un pizzico di sale, lavorando brevemente fino a ottenere un impasto morbido ma compatto.",
+        "Formare cilindri di 3 cm di diametro e ricavare pezzi spessi 2 cm. Appiattirli, inserire un cubetto di gorgonzola e chiuderli bene.",
+        "Arrotondare e rigare ogni gnocco; se appiccica aiutarsi con farina. Sistemare distanziati su un vassoio infarinato.",
+        "Sciogliere il burro con alcune foglie di salvia. Lessare gli gnocchi in acqua salata e, quando affiorano, trasferirli nel burro con una schiumarola.",
+        "Fuori dal fuoco unire il Grana grattugiato e un mestolo di acqua di cottura; amalgamare e servire caldi."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "45 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi ai 4 formaggi.",
+      "id": "GZ-00185",
+      "ingredients": [
+        "Patate 1 kg",
+        "Farina 00 300 g",
+        "Uovo 1",
+        "Sale fino 1 pizzico",
+        "Semola per spolverare (quantità non dichiarata)",
+        "Gorgonzola dolce 150 g",
+        "Valtellina Casera 100 g",
+        "Fontina 100 g",
+        "Emmental 100 g",
+        "Panna fresca 250 g",
+        "Pepe nero q.b."
+      ],
+      "name": "Gnocchi ai 4 formaggi",
+      "notes": [
+        "La semola compare nel procedimento senza dose. Salsa conservabile in frigorifero per 2 giorni; non congelare la salsa. La gratinatura degli avanzi è un suggerimento, non una fase della preparazione base."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "40 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Four-cheese gnocchi",
+      "originalYield": "4 porzioni",
+      "pdfPage": 104,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "025af20978f8320fd68f1ce6fbb29f063a567593f1aa942451e5902f32fc643d",
+        "previousAppSha256": "025af20978f8320fd68f1ce6fbb29f063a567593f1aa942451e5902f32fc643d",
+        "reviewedDigest": "7ac028af0395a8570130e430c40c4566e67c800fcfe038ccf81297a61207f6c2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "7ac028af0395a8570130e430c40c4566e67c800fcfe038ccf81297a61207f6c2",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/four-cheese-gnocchi.html",
+      "steps": [
+        "Lessare le patate partendo da acqua fredda; dal bollore calcolare 30–40 minuti secondo grandezza, verificando con la forchetta. Pelarle calde e schiacciarle sulla farina.",
+        "Unire l'uovo leggermente battuto e il sale; impastare soltanto finché la massa è morbida e compatta.",
+        "Formare filoncini da circa 2 cm, spolverando con semola. Coprire il resto dell'impasto con un telo; tagliare e rigare i pezzi con rigagnocchi o forchetta. Disporli distanziati su un telo infarinato.",
+        "Tagliare a pezzetti i quattro formaggi. Scaldare la panna, aggiungere tutti i formaggi e scioglierli a fuoco basso per circa 20 minuti, mescolando spesso.",
+        "Lessare gli gnocchi per 2–5 minuti; appena affiorano prelevarli con una schiumarola, unirli alla salsa, mescolare con delicatezza, pepare e servire."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "55 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi con salsiccia e mele.",
+      "id": "GZ-00201",
+      "ingredients": [
+        "Patate rosse 1 kg",
+        "Farina 00 300 g",
+        "Uovo medio 1",
+        "Sale fino q.b.",
+        "Maggiorana q.b.",
+        "Semola q.b.",
+        "Mele Fuji 240 g",
+        "Salsiccia 400 g",
+        "Birra scura 100 g",
+        "Semi di finocchio 4 g",
+        "Sale per il ragù q.b.",
+        "Pepe nero q.b.",
+        "Olio extravergine di oliva q.b.",
+        "Acqua 40 g"
+      ],
+      "name": "Gnocchi con salsiccia e mele",
+      "notes": [
+        "In frigorifero fino a 2 giorni. Congelare eventualmente gli gnocchi crudi distanziati circa 20 minuti prima di riporli in sacchetti, cuocerli da congelati pochi alla volta. Suggerimenti della fonte: caciocavallo, erbe a scelta o paprika affumicata."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "55 min",
+        "prep": "30 min",
+        "rest": "In frigorifero mentre si prepara il ragù"
+      },
+      "originalTitle": "Gnocchi with sausage and apples",
+      "originalYield": "4 porzioni",
+      "pdfPage": 107,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "527de9b58161e2b8c876e5752b45ad31fd2e6b34fccea44da060b8a92c4c0959",
+        "previousAppSha256": "527de9b58161e2b8c876e5752b45ad31fd2e6b34fccea44da060b8a92c4c0959",
+        "reviewedDigest": "d297c931d9ed794a3e96dd8c6b8c3c6833930db067f4fa0f17e701ef3c0cd6be"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "In frigorifero mentre si prepara il ragù",
+      "reviewedRecordSha256": "d297c931d9ed794a3e96dd8c6b8c3c6833930db067f4fa0f17e701ef3c0cd6be",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/gnocchi-with-sausage-and-apples.html",
+      "steps": [
+        "Lessare le patate lavate per 30–40 minuti dal bollore; pelarle calde e schiacciarle sulla farina a fontana. Aggiungere uovo, sale e maggiorana tritata; impastare fino a una massa compatta e morbida.",
+        "Formare filoncini di circa 3/4 di pollice, con semola sul piano; coprire il resto dell'impasto. Tagliare e rigare gli gnocchi, disporli distanziati su telo spolverato di semola e refrigerare.",
+        "Togliere il budello della salsiccia e tagliarla a pezzi; lavare le mele, togliere il torsolo e tagliarle a pezzi medi.",
+        "Rosolare la salsiccia in olio per alcuni minuti. Aggiungere semi di finocchio e mele, rosolare a fuoco medio e sfumare con la birra mescolando fino a evaporazione.",
+        "Salare, pepare e unire l'acqua; abbassare la fiamma e cuocere coperto 15 minuti, poi scoperto a fuoco medio altri 10 minuti.",
+        "Lessare gli gnocchi in acqua salata e raccoglierli appena affiorano. Riservare un mestolo di acqua, unirli al ragù, saltarli brevemente aggiungendo acqua se necessario e servire caldi."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi alla romana.",
+      "id": "GZ-00190",
+      "ingredients": [
+        "Semolino 250 g",
+        "Latte intero 1 l",
+        "Burro 100 g (30 g nel latte, 70 g per finire)",
+        "Tuorli 2",
+        "Parmigiano Reggiano DOP grattugiato 100 g",
+        "Pecorino 40 g",
+        "Sale fino 7 g",
+        "Noce moscata q.b.",
+        "Burro per la teglia (quantità non dichiarata nel metodo)"
+      ],
+      "name": "Gnocchi alla romana",
+      "notes": [
+        "In contenitore chiuso in frigorifero fino a 2 giorni. Si possono congelare con formaggio e burro a fiocchetti invece di fuso, cuocendo direttamente da congelati. Variante: foglie di salvia fra i dischi. La fonte segnala attribuzioni regionali contrastanti (Roma o Piemonte)."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "15 min",
+        "rest": "Circa 20 min in frigorifero"
+      },
+      "originalTitle": "Gnocchi alla Romana",
+      "originalYield": "5 porzioni (circa 40 pezzi)",
+      "pdfPage": 249,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "710986139c954cd4e196b067713c02c90297cb984d269d7904cff5ad76f583a9",
+        "previousAppSha256": "710986139c954cd4e196b067713c02c90297cb984d269d7904cff5ad76f583a9",
+        "reviewedDigest": "39b297b2765d12569a7095cdfff83299f14456af8ba26210f17d02229dc6cb8d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 20 min in frigorifero",
+      "reviewedRecordSha256": "39b297b2765d12569a7095cdfff83299f14456af8ba26210f17d02229dc6cb8d",
+      "serves": "5 porzioni (circa 40 pezzi)",
+      "source": "https://www.giallozafferano.com/recipes/Gnocchi-alla-Romana.html",
+      "steps": [
+        "Scaldare il latte con 30 g di burro, sale e noce moscata. Al bollore versare il semolino gradualmente, mescolando con la frusta per evitare grumi.",
+        "Cuocere a fuoco basso per pochi minuti finché addensa. Togliere dal fuoco, incorporare i due tuorli con un cucchiaio di legno e poi il Parmigiano.",
+        "Dividere la massa ancora calda su due fogli di carta forno; modellare due cilindri uniformi con mani raffreddate sotto acqua corrente per evitare scottature, avvolgere e refrigerare per circa 20 minuti.",
+        "Tagliare circa 40 dischi con lama bagnata e sistemarli in teglia imburrata. Distribuire 70 g di burro fuso ma non caldo e il Pecorino.",
+        "Cuocere in forno statico preriscaldato a 200 °C per 20–25 minuti oppure ventilato a 180 °C per 15 minuti; gratinare 4–5 minuti sotto il grill e servire caldo."
+      ],
+      "temperature": "200 °C statico oppure 180 °C ventilato; grill finale"
+    },
+    {
+      "author": "Lulù Gargari",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Fusilloni con crema di cavolo nero.",
+      "id": "GZ-00167",
+      "ingredients": [
+        "Fusilloni 320 g",
+        "Cavolo nero da pulire 300 g",
+        "Parmigiano Reggiano DOP 100 g",
+        "Paprika dolce q.b.",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Fusilloni con crema di cavolo nero",
+      "notes": [
+        "Servire subito o refrigerare in recipiente chiuso fino a 2 giorni. Chips in contenitore ermetico a temperatura ambiente al massimo un giorno: perdono croccantezza. Varianti: formaggio spalmabile nella crema oppure pancetta croccante. Non classificare come senza glutine senza verifica della pasta."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Fusilloni con crema di cavolo nero",
+      "originalYield": "4 persone",
+      "pdfPage": 246,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "86c51748643f58cd1d451cdf3865145ab38f0fa907cbc7c251bb38f03795886d",
+        "previousAppSha256": "86c51748643f58cd1d451cdf3865145ab38f0fa907cbc7c251bb38f03795886d",
+        "reviewedDigest": "300e0a1d9cef6eab3d3f7d79f8ebddb41dfb23564bc26b0c15285dfb96565f69"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "300e0a1d9cef6eab3d3f7d79f8ebddb41dfb23564bc26b0c15285dfb96565f69",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Fusilloni-con-crema-di-cavolo-nero.html",
+      "steps": [
+        "Lavare e asciugare il cavolo, eliminare le coste. Sbollentare tre quarti delle foglie in acqua salata per circa 5 minuti (chiarimento redazione); scolare e conservare l'acqua.",
+        "Frullare le foglie cotte con olio, sale, pepe e paprika; aggiungere un mestolo dell'acqua se necessario, fino a ottenere una crema uniforme.",
+        "Disporre le foglie rimaste su carta forno, condire con olio e paprika e cuocere 10 minuti in forno statico preriscaldato a 190 °C.",
+        "Cuocere la pasta nell'acqua del cavolo. Scaldare la crema in padella, unirvi i fusilloni al dente e completare la cottura con un mestolo dell'acqua della pasta.",
+        "Distribuire nei piatti con chips e Parmigiano grattugiato."
+      ],
+      "temperature": "190 °C statico"
     }
   ]
 }
