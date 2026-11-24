@@ -22612,6 +22612,759 @@
         "Togliere la scorza dal couscous, sgranare, unire pomodoro a dadini ed erbe rimaste, poi piselli e gamberi; amalgamare in padella. Servire caldo o freddo."
       ],
       "temperature": "Non dichiarata"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Fregola con scampi e gamberi.",
+      "id": "GZ-00154",
+      "ingredients": [
+        "Fregola 250 g",
+        "Gamberi 400 g",
+        "Scampi 300 g",
+        "Fumetto di pesce 500 g",
+        "Polpa di pomodoro 200 g",
+        "Peperoncino fresco 1/2",
+        "Aglio 1 spicchio",
+        "Olio EVO 20 g",
+        "Scorza di limone 1",
+        "Basilico e sale fino q.b."
+      ],
+      "name": "Fregola con scampi e gamberi",
+      "notes": [
+        "Frigorifero in recipiente di vetro coperto fino a 2 giorni; la fonte ammette il congelamento con possibile variazione di consistenza. Possibili aggiunte: molluschi aperti separatamente, moscardini o calamari."
+      ],
+      "origin": "Italia — Sardegna",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Fregola with scampi and prawns",
+      "originalYield": "4 persone",
+      "pdfPage": 276,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "66c67ba30c8e11d3eb829bd41193903f5ce2f1057c4ffb186d1a8e09bbf29dee",
+        "previousAppSha256": "66c67ba30c8e11d3eb829bd41193903f5ce2f1057c4ffb186d1a8e09bbf29dee",
+        "reviewedDigest": "407ce63c3af35643b93b2347f86c80ded7eddda2f5f841916820d8ddf20633be"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "407ce63c3af35643b93b2347f86c80ded7eddda2f5f841916820d8ddf20633be",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fregola-with-scampi-and-prawns.html",
+      "steps": [
+        "Pulire i crostacei, staccare teste e code e rimuovere il filo intestinale; usare gli scarti per preparare il fumetto. Affettare finemente il peperoncino e mondare l’aglio.",
+        "Soffriggere aglio e peperoncino nell’olio qualche minuto, unire la polpa di pomodoro per 5 minuti, quindi eliminare l’aglio.",
+        "Versare la fregola, mescolare brevemente e aggiungere gradualmente il fumetto caldo, come per un risotto.",
+        "Dopo 10 minuti unire i gamberi, dopo altri 5 minuti gli scampi; completare la cottura della fregola e dei crostacei, aggiustare di sale e spegnere.",
+        "Terminare con basilico spezzettato e scorza di limone grattugiata; servire calda."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Risotto agli asparagi.",
+      "id": "GZ-00701",
+      "ingredients": [
+        "Riso Carnaroli 320 g",
+        "Asparagi 750 g",
+        "Grana Padano DOP 50 g",
+        "Burro 50 g",
+        "Scalogno 1",
+        "Olio EVO q.b. (15 g per la crema, come nel metodo)",
+        "BRODO: carote 2",
+        "Sedano 1 costa",
+        "Cipolla 1",
+        "Acqua 2 l",
+        "Sale fino, pepe nero e olio EVO q.b."
+      ],
+      "name": "Risotto agli asparagi",
+      "notes": [
+        "La fonte suggerisce di piegare il gambo per individuare la parte legnosa, pelarlo se spesso, frullare gli asparagi freddi e gratinare gli avanzi con provola. Conservazione dichiarata 2–3 giorni in frigorifero, non congelare; per il riso seguire la nota prudenziale.",
+        "Nota di sicurezza separata: la FSA raccomanda di raffreddare il riso rapidamente, idealmente entro un'ora, conservarlo in frigorifero e consumarlo entro 24 ore; riscaldarlo una sola volta fino a quando è caldo in ogni parte. https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker#rice (24/11/2026)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "60 min",
+        "rest": "2 min coperto prima della mantecatura"
+      },
+      "originalTitle": "risotto agli asparagi",
+      "originalYield": "4 persone",
+      "pdfPage": 280,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ca86543b6fa8e0bc88767645dc1571f275f4721bec6610184ba1cce6a413df23",
+        "previousAppSha256": "ca86543b6fa8e0bc88767645dc1571f275f4721bec6610184ba1cce6a413df23",
+        "reviewedDigest": "f0e3e5b370ba96fe7f046e72452e213a548bd96322c4461225da0810480ace7e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 min coperto prima della mantecatura",
+      "reviewedRecordSha256": "f0e3e5b370ba96fe7f046e72452e213a548bd96322c4461225da0810480ace7e",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Risotto-agli-asparagi.html",
+      "steps": [
+        "Separare le estremità legnose degli asparagi, riservare le punte per la finitura e affettare il resto a rondelle sottili. Tagliare grossolanamente carote, sedano e cipolla.",
+        "Mettere verdure e scarti degli asparagi in pentola con 2 l di acqua fredda e bollire almeno 30 minuti.",
+        "Rosolare lo scalogno tritato in olio per alcuni minuti, aggiungere metà delle rondelle e cuocere 2 minuti mescolando; salare, versare un mestolo di brodo e cuocere coperto circa 5 minuti. Lasciare raffreddare.",
+        "Sbollentare le punte in acqua salata circa 2 minuti, poi raffreddarle in acqua e ghiaccio. Frullare le rondelle cotte con 15 g di olio fino a crema liscia.",
+        "In un tegame largo tostare il riso con olio e un pizzico di sale per 3–4 minuti. Coprire con brodo e proseguire aggiungendolo quando serve; a metà cottura unire le rondelle restanti.",
+        "Tenere da parte due cucchiai di crema e incorporare il resto negli ultimi 2–3 minuti. A cottura ultimata riposare coperto 2 minuti.",
+        "Mantecare con burro, Grana grattugiato, pepe, un filo d’olio e crema tenuta da parte; servire caldo con le punte."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Fregola con vongole e bottarga.",
+      "id": "GZ-00155",
+      "ingredients": [
+        "Fregola 360 g",
+        "Vongole veraci già spurgate 500 g",
+        "Bottarga di muggine q.b.",
+        "Polpa di pomodoro 100 g",
+        "Vino bianco 1/2 bicchiere",
+        "Aglio 1 spicchio",
+        "Peperoncino fresco 2",
+        "Prezzemolo 1 mazzetto",
+        "Olio EVO e sale q.b."
+      ],
+      "name": "Fregola con vongole e bottarga",
+      "notes": [
+        "Consumare subito; eventuali avanzi in frigorifero in recipiente chiuso per massimo 2 giorni secondo la fonte. Verdure stagionali, spezie ed erbe a piacere; moderare il piccante."
+      ],
+      "origin": "Sardegna, Italia; presentazione della fonte",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Fregola con vongole e bottarga",
+      "originalYield": "4 persone",
+      "pdfPage": 277,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4584c2d0dc66b3112fda0f1a1749125b611c81f90629ff9628cc104dc63c8fb9",
+        "previousAppSha256": "4584c2d0dc66b3112fda0f1a1749125b611c81f90629ff9628cc104dc63c8fb9",
+        "reviewedDigest": "73576425eaf070f2e0edd5e63dd6836d4553b205cd2fbdc30a1b941dcab9a8c9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "73576425eaf070f2e0edd5e63dd6836d4553b205cd2fbdc30a1b941dcab9a8c9",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Fregola-con-vongole-e-bottarga.html",
+      "steps": [
+        "Rosolare aglio, gambi del prezzemolo e peperoncino in olio a fiamma alta per alcuni minuti. Aggiungere le vongole, sfumare con il vino e coprire fino all’apertura.",
+        "Filtrare il liquido, sgusciare le vongole conservandone alcune intere per il servizio.",
+        "Tostare la fregola nella stessa padella a fiamma bassa per 2 minuti, poi bagnare con il fondo filtrato e aggiungere il pomodoro.",
+        "Portare a cottura aggiungendo acqua calda poco per volta se necessaria. Regolare il sale; incorporare alla fine le vongole e il prezzemolo tritato.",
+        "Mantecare con olio, servire con vongole intere, prezzemolo, bottarga grattugiata e un filo d’olio."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Fregola con le melanzane.",
+      "id": "GZ-00150",
+      "ingredients": [
+        "Fregola 200 g",
+        "Melanzane 400 g",
+        "Pomodori a grappolo 400 g",
+        "Aglio 1 spicchio",
+        "Capperi sotto sale dissalati 10 g",
+        "Olive verdi denocciolate 30 g",
+        "Olio EVO 3 cucchiai",
+        "Sale fino e pepe nero q.b."
+      ],
+      "name": "Fregola con le melanzane",
+      "notes": [
+        "Servire subito o conservare in frigorifero in recipiente chiuso al massimo 2 giorni. Varianti facoltative: pecorino sardo, feta, peperoncino, basilico o prezzemolo."
+      ],
+      "origin": "Italia — Sardegna",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Fregola with eggplants",
+      "originalYield": "4 persone",
+      "pdfPage": 274,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "3e169ac4094e9b3b2b8115890baf0d4d4fab852af639478f096c81e5cf9bff30",
+        "previousAppSha256": "3e169ac4094e9b3b2b8115890baf0d4d4fab852af639478f096c81e5cf9bff30",
+        "reviewedDigest": "43b2921999e86063277e7805fb0dd3c504e3e38000c433a8fcd59d2fd6309fe3"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "43b2921999e86063277e7805fb0dd3c504e3e38000c433a8fcd59d2fd6309fe3",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fregola-with-eggplants.html",
+      "steps": [
+        "Lavare, asciugare e spuntare le melanzane, tagliarle a cubetti di 1 pollice come indicato dalla fonte; tagliare a dadini i pomodori.",
+        "Insaporire per qualche minuto l’aglio in olio, aggiungere le melanzane e cuocere 15 minuti a fuoco moderato.",
+        "Unire pomodori, sale e pepe. Quando le melanzane sono tenere, aggiungere le olive a rondelle e i capperi; insaporire ancora pochi minuti.",
+        "Lessare la fregola in abbondante acqua salata, scolarla e amalgamarla al condimento; completare con un filo d’olio."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "25 min, oltre cottura ceci circa 2 h",
+      "description": "Revisione editoriale della fonte originale: Fregola con vongole e ceci.",
+      "id": "GZ-00156",
+      "ingredients": [
+        "Fregola 250 g",
+        "Vongole 1 kg",
+        "Ceci secchi 100 g",
+        "Pomodori pelati 200 g",
+        "Prezzemolo tritato 2 cucchiai",
+        "Rosmarino 1 rametto",
+        "Brodo vegetale 1 l",
+        "Doppio concentrato di pomodoro 1 cucchiaio",
+        "Sale fino e olio EVO q.b.",
+        "Aglio: 2 spicchi per le vongole e 2 per il sugo, indicati nel procedimento ma non nella lista",
+        "Pepe: citato nel metodo, quantità non dichiarata"
+      ],
+      "name": "Fregola con vongole e ceci",
+      "notes": [
+        "La fonte dichiara 25 min di cottura oltre a ceci e ammollo. Frigorifero in recipiente ermetico al massimo un giorno, non congelare. Cannellini alternativi ai ceci, più brodo se si preferisce una consistenza liquida."
+      ],
+      "origin": "Sardegna, Italia; presentazione della fonte",
+      "originalTimes": {
+        "cook": "25 min, oltre cottura ceci circa 2 h",
+        "prep": "25 min",
+        "rest": "Ammollo ceci almeno 12 h; spurgo vongole circa 30 min"
+      },
+      "originalTitle": "Fregola con vongole e ceci",
+      "originalYield": "4 persone",
+      "pdfPage": 278,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c04deb1a350919bb87ea7ba7618bc7c424c9e45e4660d76cbe02eb69900dc36b",
+        "previousAppSha256": "c04deb1a350919bb87ea7ba7618bc7c424c9e45e4660d76cbe02eb69900dc36b",
+        "reviewedDigest": "b8ba2920c42c22849d39786f951b479199e34bd2888bf37dc538dc82c6e18f8e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Ammollo ceci almeno 12 h; spurgo vongole circa 30 min",
+      "reviewedRecordSha256": "b8ba2920c42c22849d39786f951b479199e34bd2888bf37dc538dc82c6e18f8e",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fregola-with-clams-and-chickpeas.html",
+      "steps": [
+        "Ammollare i ceci in acqua per almeno 12 ore; scolarli e lessarli in acqua salata fino a tenerezza, circa 2 ore. Alternativa della fonte: ceci secchi in pentola a pressione con sale e rosmarino per circa 50 minuti.",
+        "Sciacquare e spurgare le vongole circa 30 minuti sotto un filo d’acqua corrente in un colino. Scaldare olio e due spicchi d’aglio, aggiungere le vongole e coprire fino all’apertura.",
+        "Togliere l’aglio, scolare conservando il liquido, sgusciare le vongole e lasciarne alcune intere. Filtrare il fondo e usarlo per diluire il concentrato.",
+        "In padella calda aggiungere olio, altri due spicchi di aglio e un cucchiaio di prezzemolo; unire pelati e concentrato diluito, cuocere alcuni minuti. Bagnare con due mestoli di brodo vegetale e togliere l’aglio.",
+        "Versare la fregola e cuocere 10–15 minuti aggiungendo brodo gradualmente. A metà cottura incorporare i ceci; alla fine le vongole sgusciate, poi spegnere.",
+        "Regolare sale e pepe, aggiungere il secondo cucchiaio di prezzemolo, le vongole intere e un filo d’olio. Servire caldo, eventualmente con pane carasau."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Hummus di funghi.",
+      "id": "GZ-03852",
+      "ingredients": [
+        "Funghi Portobello 240 g",
+        "Aglio 1 spicchio",
+        "Olio extravergine di oliva, sale, pepe, maggiorana e timo q.b.",
+        "Ceci precotti 170 g",
+        "Tahina 45 g",
+        "Succo di 1/2 limone"
+      ],
+      "name": "Hummus di funghi",
+      "notes": [
+        "Conservare in recipiente chiuso in frigorifero fino a 2 giorni secondo la fonte, eventualmente con un velo di olio; non è una conserva da dispensa. Varianti: altri funghi oppure burro di nocciole tostate in pari peso al posto della tahina. Il riferimento nella fonte alla pulizia dei porcini non modifica l’ingrediente Portobello."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Mushroom hummus",
+      "originalYield": "4 persone",
+      "pdfPage": 286,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "846c287179acfb471b1d1ab1f65db6b95237233ccc9e1cc8c71a8e3533b1a23b",
+        "previousAppSha256": "846c287179acfb471b1d1ab1f65db6b95237233ccc9e1cc8c71a8e3533b1a23b",
+        "reviewedDigest": "97403299d1a9ab1a4ac99dee0f9e181c26af4a3fcd97d04156221b65b5075bc6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "97403299d1a9ab1a4ac99dee0f9e181c26af4a3fcd97d04156221b65b5075bc6",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/mushroom-hummus.html",
+      "steps": [
+        "Pulire i Portobello con un panno umido, tagliarli grossolanamente e disporli in una pirofila. Condire con aglio, erbe aromatiche, sale, pepe e abbondante olio, distribuendo il condimento sui funghi.",
+        "Cuocere per 20 minuti nel forno statico preriscaldato a 392 °F. Conservare un cucchiaio di funghi per decorare.",
+        "Frullare gli altri funghi con ceci, tahina, succo di limone, olio e sale fino a una crema liscia.",
+        "Servire con i funghi tenuti da parte, pepe, olio, timo e maggiorana; accompagnare eventualmente con pane tostato."
+      ],
+      "temperature": "392 °F, forno statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "8 min",
+      "description": "Revisione editoriale della fonte originale: Burro di mandorle.",
+      "id": "GZ-03609",
+      "ingredients": [
+        "Mandorle pelate 200 g",
+        "Olio di sesamo 1 cucchiaio",
+        "Sale fino 1/2 cucchiaino",
+        "Miele millefiori 1/2 cucchiaino",
+        "Cannella in polvere 1/4 cucchiaino"
+      ],
+      "name": "Burro di mandorle",
+      "notes": [
+        "La fonte indica un mese in frigorifero; usare contenitore pulito e chiuso. Preferire un mixer con lame vicine al fondo."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "8 min",
+        "prep": "20 min",
+        "rest": "1 h in frigorifero"
+      },
+      "originalTitle": "Almond butter",
+      "originalYield": "circa 7 oz",
+      "pdfPage": 281,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1e74b77991c38ce4e8c17769737b8dc49967e06ad734644fe40eccf11c84dfdb",
+        "previousAppSha256": "1e74b77991c38ce4e8c17769737b8dc49967e06ad734644fe40eccf11c84dfdb",
+        "reviewedDigest": "206da9b11440727da8e1509a870a83f55e217d1481fc95cf4e3af101bb08e3cc"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1 h in frigorifero",
+      "reviewedRecordSha256": "206da9b11440727da8e1509a870a83f55e217d1481fc95cf4e3af101bb08e3cc",
+      "serves": "circa 7 oz",
+      "source": "https://www.giallozafferano.com/recipes/almond-butter.html",
+      "steps": [
+        "Distribuire le mandorle su una teglia e tostarle per 8 minuti nel forno ventilato preriscaldato a 370 °F.",
+        "Trasferirle ancora tiepide nel mixer e lavorarle a bassa velocità: dalla granella si passa a una massa compatta, poi fluida dopo circa 6–7 minuti. Interrompere se il motore si scalda.",
+        "Dopo circa 10 minuti di lavorazione incorporare cannella e sale, poi miele e olio di sesamo. Frullare ancora circa 5 minuti fino a ottenere una crema uniforme.",
+        "Trasferire in un contenitore e lasciare rassodare in frigorifero per almeno 1 ora."
+      ],
+      "temperature": "370 °F, forno ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Risotto all’Amarone.",
+      "id": "GZ-03829",
+      "ingredients": [
+        "Riso Vialone Nano 320 g",
+        "Amarone della Valpolicella 350 ml",
+        "Monte Veronese da grattugiare 60 g",
+        "Scalogno 50 g",
+        "Burro 60 g",
+        "Midollo di bue 60 g",
+        "Brodo di carne 1 l",
+        "Sale fino q.b."
+      ],
+      "name": "Risotto all’Amarone",
+      "notes": [
+        "La fonte indica frigorifero in recipiente chiuso fino a 2 giorni e non congelare; seguire la nota prudenziale sul riso. Parmigiano o Grana in alternativa al Monte Veronese; se si omette il midollo aggiungere 20 g di burro alla prima fase.",
+        "Nota di sicurezza separata: la FSA raccomanda di raffreddare il riso rapidamente, idealmente entro un'ora, conservarlo in frigorifero e consumarlo entro 24 ore; riscaldarlo una sola volta fino a quando è caldo in ogni parte. https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker#rice (24/11/2026)."
+      ],
+      "origin": "Verona e Valpolicella, Veneto, Italia; fonte",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Risotto all'amarone",
+      "originalYield": "4 persone",
+      "pdfPage": 836,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4a7bb31e2181d213e17851acd150118994472736a6e8e9d2a42a2358bbc41866",
+        "previousAppSha256": "4a7bb31e2181d213e17851acd150118994472736a6e8e9d2a42a2358bbc41866",
+        "reviewedDigest": "9f200cac391b45a9bffb2eea3246179f91b4ec71dcbe6f39683e4842efe1f894"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "9f200cac391b45a9bffb2eea3246179f91b4ec71dcbe6f39683e4842efe1f894",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/risotto-all-amarone.html",
+      "steps": [
+        "Tritare lo scalogno. Sciogliere 30 g di burro con il midollo, aggiungere lo scalogno e farlo appassire con un mestolo di brodo.",
+        "Tostare il riso e versare l’Amarone in due o tre riprese, aspettando ogni volta l’assorbimento; mescolare per almeno 5 minuti.",
+        "Continuare la cottura a fuoco lento aggiungendo il brodo caldo un mestolo per volta.",
+        "A riso al dente spegnere e mantecare con i 30 g di burro rimasti e il Monte Veronese grattugiato; servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "10 min",
+      "description": "Revisione editoriale della fonte originale: Caramello salato.",
+      "id": "GZ-03612",
+      "ingredients": [
+        "Zucchero 270 g",
+        "Burro 130 g",
+        "Panna fresca liquida 200 g",
+        "Sale fino 10 g"
+      ],
+      "name": "Caramello salato",
+      "notes": [
+        "La fonte indica conservazione in frigorifero fino a 6 giorni, non a temperatura ambiente. Evitare il cucchiaio di legno durante la fusione; la panna va aggiunta calda per limitare lo shock termico."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": "Raffreddamento non quantificato"
+      },
+      "originalTitle": "Salted caramel",
+      "originalYield": "Resa non dichiarata",
+      "pdfPage": 282,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "0a15b509cd0d329e700abc49375839f037b00b8db33cdbfef1365b36fd836122",
+        "previousAppSha256": "0a15b509cd0d329e700abc49375839f037b00b8db33cdbfef1365b36fd836122",
+        "reviewedDigest": "80effe8facaf3248e27997f6b35db467a86a56d1dcda20f3cb3943464f48f522"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento non quantificato",
+      "reviewedRecordSha256": "80effe8facaf3248e27997f6b35db467a86a56d1dcda20f3cb3943464f48f522",
+      "serves": "Resa non dichiarata",
+      "source": "https://www.giallozafferano.com/recipes/salted-caramel.html",
+      "steps": [
+        "In una casseruola a fondo spesso di circa 8 pollici sciogliere lo zucchero a fuoco medio-basso, ruotando il recipiente per uniformare la fusione. Scaldare separatamente la panna.",
+        "Quando lo zucchero è ambrato abbassare la fiamma, incorporare burro e sale e mescolare con la frusta fino a scioglimento.",
+        "Versare con cautela la panna calda e mescolare fino a una salsa liscia; proteggersi dagli schizzi di caramello bollente.",
+        "Trasferire in un vasetto sterilizzato, fare raffreddare a temperatura ambiente e poi conservare in frigorifero."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "2 h",
+      "description": "Revisione editoriale della fonte originale: Fregola con cozze, vongole e ceci.",
+      "id": "GZ-00147",
+      "ingredients": [
+        "Fregola 250 g",
+        "Cozze 1 kg",
+        "Vongole 1 kg",
+        "Ceci secchi 150 g",
+        "Acqua circa 2 l",
+        "Sedano 1/2 costa",
+        "Scalogno 1",
+        "Passata di pomodoro 40 g",
+        "Prezzemolo 4 ciuffi",
+        "Peperoncino fresco 1",
+        "Aglio 1 spicchio",
+        "Sale grosso 15 g",
+        "Sale fino, pepe bianco e olio EVO q.b."
+      ],
+      "name": "Fregola con cozze, vongole e ceci",
+      "notes": [
+        "Conservare in frigorifero in contenitore ermetico al massimo 1 giorno; congelazione sconsigliata. Crostini facoltativi; cannellini in alternativa ai ceci."
+      ],
+      "origin": "Italia — Sardegna",
+      "originalTimes": {
+        "cook": "2 h",
+        "prep": "45 min",
+        "rest": "Ceci almeno 12 h; vongole 1–2 h"
+      },
+      "originalTitle": "Fregola with mussels, clams and chickpeas",
+      "originalYield": "4 persone",
+      "pdfPage": 273,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "abaeb15bf7ef25aba4d26fa8d483e9531a86ddc159fdc7f2a51da5f31051786c",
+        "previousAppSha256": "abaeb15bf7ef25aba4d26fa8d483e9531a86ddc159fdc7f2a51da5f31051786c",
+        "reviewedDigest": "3a0d227cdd7886f4644570b5be9df6fa45bfd23fddb6aa81594cffe11b78c729"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Ceci almeno 12 h; vongole 1–2 h",
+      "reviewedRecordSha256": "3a0d227cdd7886f4644570b5be9df6fa45bfd23fddb6aa81594cffe11b78c729",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fregola-with-mussels-clams-and-chickpeas.html",
+      "steps": [
+        "Ammollare i ceci almeno 12 ore. Spurgare le vongole in acqua fredda e sale grosso per 1–2 ore, cambiando l’acqua finché limpida; pulire le cozze eliminando barbe e impurità.",
+        "Soffriggere pochi secondi aglio, prezzemolo e peperoncino tritati nell’olio. Unire i molluschi sciacquati, bagnare con 3 mestoli d’acqua e cuocere coperto fino all’apertura.",
+        "Filtrare il liquido in una pentola con circa 2 l d’acqua, portare a ebollizione e sgusciare i molluschi.",
+        "Soffriggere scalogno e sedano tritati per 1 minuto; aggiungere i ceci scolati, coprirli con brodo, versare la passata e cuocere piano almeno 1 ora e 40 minuti, rabboccando se necessario.",
+        "Schiacciare due cucchiai di ceci, rimetterli in pentola e addensare qualche minuto. Aggiungere la fregola e cuocerla dolcemente con brodo progressivo.",
+        "Unire cozze e vongole per gli ultimi 4–5 minuti, fino a consistenza di zuppa densa; regolare sale e pepe."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "1 h 10 min (totale dichiarato dalla fonte)",
+      "description": "Revisione editoriale della fonte originale: Fregola con lenticchie.",
+      "id": "GZ-00151",
+      "ingredients": [
+        "Fregola 320 g",
+        "Lenticchie secche 250 g",
+        "Prosciutto crudo 200 g",
+        "Porri 100 g",
+        "Passata di pomodoro 400 g",
+        "Brodo vegetale 1,3 l",
+        "Olio EVO 30 g",
+        "Sale fino, pepe nero e maggiorana q.b."
+      ],
+      "name": "Fregola con lenticchie",
+      "notes": [
+        "I tempi parziali riportati dalla fonte superano il totale dichiarato: seguire i tempi dei passaggi e la cottura effettiva senza alterare il dato originale. Servire subito; sugo preparabile in anticipo, congelazione sconsigliata. Alternative al prosciutto: pancetta, speck o cotechino avanzato; possibili lenticchie decorticate."
+      ],
+      "origin": "Italia — variante della fregola sarda",
+      "originalTimes": {
+        "cook": "1 h 10 min (totale dichiarato dalla fonte)",
+        "prep": "20 min",
+        "rest": "Nessun ammollo necessario; facoltativo 1–2 h al massimo"
+      },
+      "originalTitle": "Fregola con lenticchie",
+      "originalYield": "4 persone",
+      "pdfPage": 275,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ed015ed4f323a9c2f101bc1204776a87bfc35d4a79890a2bca53080e39c34590",
+        "previousAppSha256": "ed015ed4f323a9c2f101bc1204776a87bfc35d4a79890a2bca53080e39c34590",
+        "reviewedDigest": "836e039b6c9509299abf47ac3b39d146e382b57854cdab67e1b01697c2cf4dbc"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Nessun ammollo necessario; facoltativo 1–2 h al massimo",
+      "reviewedRecordSha256": "836e039b6c9509299abf47ac3b39d146e382b57854cdab67e1b01697c2cf4dbc",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Fregola-con-lenticchie.html",
+      "steps": [
+        "Preparare il brodo e sciacquare le lenticchie. Mondare il porro e affettarlo; tagliare il prosciutto a fette di 3–4 mm e poi a piccoli cubetti.",
+        "Cuocere il porro nell’olio a fuoco basso 6–7 minuti, aggiungere il prosciutto per altri 2–3 minuti, mescolando.",
+        "Unire la passata e le lenticchie, salare e pepare; versare 500 g di brodo e cuocere coperto a fuoco basso circa 45 minuti, aggiungendo altro brodo se necessario.",
+        "Aggiungere la fregola, cuocerla come un risotto con il brodo residuo versato a mestoli e mescolare frequentemente. La fonte indica circa 30 minuti per la propria fregola; attenersi alla confezione e alla cottura effettiva.",
+        "Aggiungere la maggiorana tritata e servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "Non applicabile con ceci precotti",
+      "description": "Revisione editoriale della fonte originale: Hummus di avocado.",
+      "id": "GZ-03851",
+      "ingredients": [
+        "Avocado 2 (polpa 450 g)",
+        "Ceci precotti 240 g",
+        "Tahina 20 g",
+        "Succo di limone 40 g",
+        "Olio extravergine di oliva 50 g",
+        "Aglio 1 spicchio",
+        "Semi di sesamo bianchi e neri q.b.",
+        "Sale e pepe q.b."
+      ],
+      "name": "Hummus di avocado",
+      "notes": [
+        "Conservare coperto in frigorifero per 2–3 giorni secondo la fonte; non congelare. Variante: menta o scorza di limone. Se si usano ceci secchi, la fonte indica 120 g, ammollo 12 ore e cottura circa un’ora, fino a tenerezza."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "Non applicabile con ceci precotti",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Avocado hummus",
+      "originalYield": "circa 800 g",
+      "pdfPage": 285,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "0e40e7a90b86e1c501e1adef518237ded7086d4b6ebc93f39d5325d4d9910ea4",
+        "previousAppSha256": "0e40e7a90b86e1c501e1adef518237ded7086d4b6ebc93f39d5325d4d9910ea4",
+        "reviewedDigest": "ae63a9d665185bc4422ba0a9153dbe0a3a4c076a30b7c0dba4e0758343a92057"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "ae63a9d665185bc4422ba0a9153dbe0a3a4c076a30b7c0dba4e0758343a92057",
+      "serves": "circa 800 g",
+      "source": "https://www.giallozafferano.com/recipes/Avocado-hummus.html",
+      "steps": [
+        "Tagliare gli avocado, togliere nocciolo e buccia e ridurre a pezzi la polpa. Spremere e filtrare il limone.",
+        "Scolare i ceci e riunirli nel mixer con avocado, aglio, tahina, succo di limone, sale e pepe.",
+        "Aggiungere l’olio e lavorare a velocità media fino a una crema uniforme. Servire con entrambi i tipi di sesamo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Couscous con verdure.",
+      "id": "GZ-00127",
+      "ingredients": [
+        "COUSCOUS: couscous precotto 200 g",
+        "Brodo vegetale caldo 400 g",
+        "Curcuma 1 cucchiaio",
+        "Olio EVO 1 cucchiaio",
+        "Sale fino q.b.",
+        "VERDURE: melanzane 150 g",
+        "Zucchine 150 g",
+        "Carote 150 g",
+        "Peperoni rossi 150 g",
+        "Cipolle rosse 100 g",
+        "Piselli 50 g",
+        "Peperoncino fresco 1/2",
+        "Mandorle a lamelle 20 g",
+        "Aglio 1 spicchio",
+        "Basilico, olio EVO e sale fino q.b.",
+        "Pepe: citato nel metodo, quantità non dichiarata"
+      ],
+      "name": "Couscous con verdure",
+      "notes": [
+        "Frigorifero in contenitore ermetico fino a 2 giorni; non congelare secondo la fonte. Acqua bollente alternativa al brodo; seguire le proporzioni della confezione. Facoltativi yogurt greco, scorza di limone, feta, altre verdure o spezie; riutilizzare gli scarti nel brodo.",
+        "Variante distinta da GZ-00124/GZ-00119: ingredienti, quantità e metodo differenti."
+      ],
+      "origin": "Variante mediterranea di una preparazione di origine nordafricana (fonte).",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "25 min",
+        "rest": "5 min couscous"
+      },
+      "originalTitle": "Cuscús con verduras",
+      "originalYield": "4 persone",
+      "pdfPage": 92,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "961ade09583c022ae63e9564591cba8119758220a4a86add26d28b062a07117d",
+        "previousAppSha256": "961ade09583c022ae63e9564591cba8119758220a4a86add26d28b062a07117d",
+        "reviewedDigest": "de00051698b800b7e169cb8ab477cf34437866ecc58098d7befa491eaf840370"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "5 min couscous",
+      "reviewedRecordSha256": "de00051698b800b7e169cb8ab477cf34437866ecc58098d7befa491eaf840370",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/Cuscus-con-verduras.html",
+      "steps": [
+        "Scaldare il brodo. Eliminare il centro bianco delle zucchine e ridurre la parte verde, le carote pelate e i peperoni a dadini; tritare la cipolla, affettare il peperoncino e tagliare le melanzane a triangolini.",
+        "Dorare le melanzane in olio per 5 minuti a fuoco medio-alto, salando a metà, quindi trasferirle in un piatto.",
+        "Nella stessa padella aggiungere olio, aglio, peperoncino e cipolla, poi carote e peperoni; salare, pepare e saltare 6 minuti a fiamma alta.",
+        "Aggiungere le zucchine per 3–4 minuti, togliere l’aglio, unire piselli e melanzane, regolare il sale e cuocere altri 2 minuti. A fuoco spento incorporare basilico e mandorle e lasciare intiepidire.",
+        "Condire il couscous con sale, curcuma e il cucchiaio d’olio; versare il brodo bollente, mescolare e lasciare coperto 5 minuti.",
+        "Sgranare con la forchetta, mescolare con le verdure e finire con basilico e olio a crudo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "Non applicabile",
+      "description": "Revisione editoriale della fonte originale: Finta maionese di avocado.",
+      "id": "GZ-03667",
+      "ingredients": [
+        "Avocado 1 (polpa circa 9 oz)",
+        "Olio di sesamo 100 g",
+        "Latte di riso 50 g",
+        "Succo di lime 15 g",
+        "Sale 1 pizzico",
+        "Tabasco 2 g"
+      ],
+      "name": "Finta maionese di avocado",
+      "notes": [
+        "Varianti della fonte: olio extravergine di oliva nella stessa quantità oppure latte di soia al posto del latte di riso.",
+        "La fonte indica conservazione in frigorifero in vasetto ermetico per 3–4 giorni e congelamento solo se tutti gli ingredienti sono freschi; per la variante agrodolce, poche gocce di sciroppo d'acero o agave."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "Non applicabile",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Fake avocado mayonnaise",
+      "originalYield": "6 porzioni, circa 14 oz",
+      "pdfPage": 804,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a0158abdbc3e7e4099aa009c182f82b9de88aa12b3b961c161724a823cbc6984",
+        "previousAppSha256": "a0158abdbc3e7e4099aa009c182f82b9de88aa12b3b961c161724a823cbc6984",
+        "reviewedDigest": "045cf1b84e0cbf43bd0894fd83ae25e77cd5b3edf3e9dcc52419b121e17eee5d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "045cf1b84e0cbf43bd0894fd83ae25e77cd5b3edf3e9dcc52419b121e17eee5d",
+      "serves": "6 porzioni, circa 14 oz",
+      "source": "https://www.giallozafferano.com/recipes/fake-avocado-mayonnaise.html",
+      "steps": [
+        "Scegliere un avocado maturo ma consistente, eliminare buccia e nocciolo e tagliare la polpa a cubetti.",
+        "Riunire polpa e succo di lime nel bicchiere del frullatore a immersione; aggiungere olio di sesamo, sale e latte di riso e frullare fino a una salsa liscia.",
+        "Unire il Tabasco e amalgamare, regolando secondo il gusto."
+      ],
+      "temperature": null
     }
   ]
 }
