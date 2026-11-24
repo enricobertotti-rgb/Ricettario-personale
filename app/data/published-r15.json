@@ -12053,6 +12053,1069 @@
         "Servire subito ben freddo."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-00021",
+      "ingredients": [
+        "Pasta sfoglia rettangolare 1 rotolo",
+        "fragole 250 g",
+        "panna fresca liquida 250 g",
+        "zucchero semolato 2 cucchiai",
+        "zucchero a velo 1 cucchiaio."
+      ],
+      "name": "Cestini panna e fragole",
+      "notes": [
+        "Conserva i gusci vuoti al fresco in recipiente chiuso per qualche giorno; panna e fragole fresche, non congelare. Varianti: fragole caramellate e raffreddate oppure cioccolato."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Cestini panna e fragole",
+      "originalYield": "6 cestini",
+      "pdfPage": 89,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ca35a42a2ffe1d7637a36f25722e22f5a79fbf68d304f092e27f24876560858f",
+        "previousAppSha256": "ca35a42a2ffe1d7637a36f25722e22f5a79fbf68d304f092e27f24876560858f",
+        "reviewedDigest": "31a61b2f765babcc074d88a947a78b012a4195897502460660d5bd0efbf80899"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "31a61b2f765babcc074d88a947a78b012a4195897502460660d5bd0efbf80899",
+      "serves": "6 cestini",
+      "source": "https://ricette.giallozafferano.it/Cestini-panna-e-fragole.html",
+      "steps": [
+        "Taglia la sfoglia in sei quadrati da circa 6 × 6 cm, sistemali negli incavi di uno stampo da muffin rivestito, bucherella il fondo.",
+        "Cuoci in ventilato a 180 °C per 18–20 minuti fino a doratura e raffredda completamente.",
+        "Lava e taglia le fragole, mescola con due cucchiai di zucchero semolato e tieni al fresco.",
+        "Monta la panna fredda; dopo circa un minuto aggiungi lo zucchero a velo e prosegui fino a consistenza sostenuta.",
+        "Farcisci con bocchetta a stella o cucchiaio e completa con fragole poco prima del servizio."
+      ],
+      "temperature": "180 °C ventilato 18–20 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "25 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-02545",
+      "ingredients": [
+        "Latte intero 130 g — choux",
+        "Acqua 110 g",
+        "Burro 90 g",
+        "Farina 00 150 g",
+        "Zucchero 15 g",
+        "Uova 225 g (circa 4 medie)",
+        "Sale fino 1 pizzico",
+        "Zucchero 80 g — craquelin",
+        "Farina 00 80 g — craquelin",
+        "Burro freddo 60 g — craquelin",
+        "Panna fresca liquida 300 g — crema",
+        "Zucchero a velo 60 g",
+        "Bacca di vaniglia 1/2"
+      ],
+      "name": "Bigné craquelin",
+      "notes": [
+        "Gusci vuoti in frigo fino a due giorni o congelabili. La fonte propone forno statico con temperatura di 10 °F superiore."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "40 min",
+        "rest": "Craquelin 1 ora in frigorifero; raffreddamento dei bignè non quantificato"
+      },
+      "originalTitle": "Craquelin choux",
+      "originalYield": "24 bignè",
+      "pdfPage": 78,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "58f0de56b01016c68137ae17f2b1234051509b6d578dc97165dd59c7a139be66",
+        "previousAppSha256": "58f0de56b01016c68137ae17f2b1234051509b6d578dc97165dd59c7a139be66",
+        "reviewedDigest": "5cc24eb5303783c27a28ca961bab58ba1d41d7887b61f42b1874c9d2b0b9b12b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Craquelin 1 ora in frigorifero; raffreddamento dei bignè non quantificato",
+      "reviewedRecordSha256": "5cc24eb5303783c27a28ca961bab58ba1d41d7887b61f42b1874c9d2b0b9b12b",
+      "serves": "24 bignè",
+      "source": "https://www.giallozafferano.com/recipes/craquelin-choux.html",
+      "steps": [
+        "Impasta il burro freddo con 80 g di zucchero e 80 g di farina; compatta, avvolgi e raffredda un'ora. Stendi a 1/8 di pollice, ricava 24 dischi da circa 1¼ pollici e tienili in frigo.",
+        "Porta latte, acqua, burro, 15 g di zucchero e sale a leggero bollore; fuori dal fuoco unisci la farina tutta insieme, poi asciuga sul fuoco per qualche minuto finché si stacca.",
+        "Fai intiepidire mescolando, incorpora le uova una per volta fino a pasta elastica.",
+        "Forma 24 bignè da circa 1¼ pollici con bocchetta liscia da 3/8 di pollice, sovrapponi i dischi e cuoci sul ripiano centrale in ventilato a 355 °F per circa 25 minuti. Raffredda.",
+        "Monta panna, zucchero a velo e vaniglia, taglia la calotta poco sopra metà altezza e farcisci con bocchetta a stella."
+      ],
+      "temperature": "355 °F ventilato, circa 25 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "15 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-03601",
+      "ingredients": [
+        "Nocciole intere spellate 100 g",
+        "Farina 00 200 g",
+        "Burro 120 g",
+        "Uovo medio 1",
+        "Zucchero 120 g",
+        "Tuorlo 1",
+        "Zucchero a velo 300 g — glassa",
+        "Acqua bollente q.b.",
+        "Coloranti alimentari arancione e verde q.b."
+      ],
+      "name": "Biscotti glassati a forma di zucca",
+      "notes": [
+        "Con colorante liquido ridurre l'acqua, con quello in polvere usarne poco. Arancione ottenibile da rosso e giallo."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "20 min",
+        "rest": "Almeno 1 ora in frigorifero"
+      },
+      "originalTitle": "Pumpkin-shaped glazed cookies",
+      "originalYield": "6 persone",
+      "pdfPage": 79,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9c7da832cd7953db2a39d80c3a816e18511be4458486e0edd3fd9caddf784ac6",
+        "previousAppSha256": "9c7da832cd7953db2a39d80c3a816e18511be4458486e0edd3fd9caddf784ac6",
+        "reviewedDigest": "9b8339d5b335dd688c03fc0a6dae5795a53c885307cace18a944421d78ed4d30"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 1 ora in frigorifero",
+      "reviewedRecordSha256": "9b8339d5b335dd688c03fc0a6dae5795a53c885307cace18a944421d78ed4d30",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/pumpkin-shaped-glazed-cookies.html",
+      "steps": [
+        "Trita le nocciole con un cucchiaio dello zucchero previsto e mescolale con la farina.",
+        "Aggiungi lo zucchero restante e il burro freddo a cubetti, lavora a briciole, incorpora uovo e tuorlo. Compatta e raffredda almeno un'ora.",
+        "Stendi a 1/8 di pollice, ritaglia le zucche e disponile sulla teglia rivestita.",
+        "Cuoci in ventilato a 355 °F per 12–14 minuti fino a doratura e raffredda completamente su griglia.",
+        "Versa gradualmente acqua bollente nello zucchero a velo fino a glassa densa; colora una piccola parte verde e la restante arancione, mescolando per evitare cristallizzazione.",
+        "Distribuisci la glassa arancione con un cucchiaino, fai rassodare, decora picciolo e nervature col verde usando un conetto o una siringa; lascia asciugare."
+      ],
+      "temperature": "355 °F ventilato 12–14 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-02568",
+      "ingredients": [
+        "Uova 120 g (circa 2)",
+        "Zucchero 50 g — impasto",
+        "Farina 00 200 g",
+        "Burro morbido 40 g",
+        "Scorza di limone 1/2",
+        "Liquore all'anice 10 g",
+        "Sale fino 1 pizzico",
+        "Lievito per dolci 8 g",
+        "Baccello di vaniglia 1 — impasto",
+        "Latte intero 200 g",
+        "Panna fresca liquida 50 g",
+        "Baccello di vaniglia 1 — crema",
+        "Tuorli 2",
+        "Zucchero 70 g — crema",
+        "Amido di mais 22 g",
+        "Olio di arachide q.b.",
+        "Zucchero q.b. per copertura"
+      ],
+      "name": "Castagnole ripiene",
+      "notes": [
+        "Farcite in frigorifero massimo un giorno; crema due giorni. Non congelare. Varianti di crema al cioccolato, agrumi o chantilly."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "15 min",
+        "rest": "Raffreddamento crema, durata non dichiarata"
+      },
+      "originalTitle": "Filled castagnole",
+      "originalYield": "circa 20 pezzi",
+      "pdfPage": 87,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "dcb4ee732cfc606d583679fa2a0c13be4c39144b67996e2a8929098542e87ddd",
+        "previousAppSha256": "dcb4ee732cfc606d583679fa2a0c13be4c39144b67996e2a8929098542e87ddd",
+        "reviewedDigest": "1ccfd3d69247bf1557da3dd231f8cc38439b1f043ac8a486bdc1cd4796ec2dd3"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento crema, durata non dichiarata",
+      "reviewedRecordSha256": "1ccfd3d69247bf1557da3dd231f8cc38439b1f043ac8a486bdc1cd4796ec2dd3",
+      "serves": "circa 20 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/filled-castagnole.html",
+      "steps": [
+        "Scalda latte e panna con il baccello di vaniglia. Mescola i tuorli con 70 g di zucchero, semi di vaniglia e amido.",
+        "Elimina il baccello, stempera con i liquidi caldi, rimetti sul fuoco basso e fai addensare mescolando; fuori dal fuoco lavora con la frusta. Trasferisci in recipiente basso, copri a contatto, lascia raffreddare e refrigera.",
+        "Setaccia farina e lievito, aggiungi 50 g di zucchero, vaniglia, uova, burro, scorza, anice e sale. Lavora prima con forchetta poi a mano fino a massa uniforme.",
+        "Forma filoncini, taglia pezzi da circa 0,7 once e arrotonda.",
+        "Friggi pochi alla volta a 285 °F fino a doratura controllando la temperatura; scola e rotola subito nello zucchero.",
+        "Farcisci con crema fredda usando una tasca con bocchetta stretta."
+      ],
+      "temperature": "285 °F per friggere"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "10 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-00004",
+      "ingredients": [
+        "Farina 00 300 g",
+        "Uovo 53 g (circa 1)",
+        "Burro morbido 25 g",
+        "Latte intero 125 g",
+        "Lievito di birra fresco 10 g",
+        "Zucchero 30 g, per l’impasto",
+        "Zucchero 100 g, per il ripieno",
+        "Scorza di 2 arance",
+        "Olio di semi di arachide q.b., per friggere"
+      ],
+      "name": "Arancini di Carnevale",
+      "notes": [
+        "Consumare appena preparati o entro poche ore. Variante con limone, detta limoncini; la fonte cita anche il Mistrà."
+      ],
+      "origin": "Italia — Marche",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "20 min",
+        "rest": "2 h 30 min di lievitazione"
+      },
+      "originalTitle": "Carnival Rice Balls",
+      "originalYield": "22 dolcetti",
+      "pdfPage": 74,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "734aeb8ea3baba26295599527fbf689d5a43bc0e16fdbe4e43770408ba7ed1e9",
+        "previousAppSha256": "734aeb8ea3baba26295599527fbf689d5a43bc0e16fdbe4e43770408ba7ed1e9",
+        "reviewedDigest": "561c145d611c3065edfa11fc8c85d48a424b2903e832a4c552db130f260cdb62"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 h 30 min di lievitazione",
+      "reviewedRecordSha256": "561c145d611c3065edfa11fc8c85d48a424b2903e832a4c552db130f260cdb62",
+      "serves": "22 dolcetti",
+      "source": "https://www.giallozafferano.com/recipes/carnival-rice-balls.html",
+      "steps": [
+        "Sciogli il lievito nel latte intiepidito.",
+        "Impasta farina, burro morbido, uovo, 30 g di zucchero e latte con lievito fino a ottenere un impasto uniforme.",
+        "Copri e lascia lievitare al caldo circa 2 ore, fino a triplicare il volume.",
+        "Mescola i 100 g di zucchero destinati al ripieno con la scorza delle due arance.",
+        "Stendi a rettangolo circa 50 × 35 cm, distribuisci il ripieno e arrotola dal lato corto.",
+        "Taglia rondelle di circa 1 cm, distanziale e lascia lievitare altri 30 minuti.",
+        "Friggi pochi pezzi alla volta a 170 °C fino a doratura, scola su carta adatta ai fritti che non aderisca al caramello e servi."
+      ],
+      "temperature": "170 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "10 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-02561",
+      "ingredients": [
+        "Ricotta di pecora 750 g",
+        "Pasta di pistacchio 100 g",
+        "Gocce di cioccolato 80 g",
+        "Zucchero a velo 350 g",
+        "Pasta fillo 240 g",
+        "Albume 1",
+        "Burro 70 g",
+        "Granella di pistacchio q.b."
+      ],
+      "name": "Cannoli di pasta fillo al pistacchio",
+      "notes": [
+        "Servire appena farciti. Crema in frigo 1–2 giorni; gusci sotto campana o in sacchetto, congelabili. Se la ricotta è troppo soda la fonte suggerisce latte o panna; zucchero semolato e altra granella come varianti."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "25 min",
+        "rest": "Una notte sgocciolamento ricotta; almeno 30 min crema"
+      },
+      "originalTitle": "Phyllo dough cannoli with pistachio",
+      "originalYield": "circa 35 cannoli",
+      "pdfPage": 81,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "56a13c94859f25da6a8a64a6f1de5485663032d73e7f343d3c9f036e4fde98c7",
+        "previousAppSha256": "56a13c94859f25da6a8a64a6f1de5485663032d73e7f343d3c9f036e4fde98c7",
+        "reviewedDigest": "ba2cedbc7d105db60e4a2d157ec4f658982d4f3cdca2def0ffab84f20d72f298"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Una notte sgocciolamento ricotta; almeno 30 min crema",
+      "reviewedRecordSha256": "ba2cedbc7d105db60e4a2d157ec4f658982d4f3cdca2def0ffab84f20d72f298",
+      "serves": "circa 35 cannoli",
+      "source": "https://www.giallozafferano.com/recipes/phyllo-dough-cannoli-with-pistachio.html",
+      "steps": [
+        "Sgocciola la ricotta in frigo una notte, setacciala due volte, amalgama zucchero a velo e pasta di pistacchio. Copri a contatto e raffredda almeno mezz'ora.",
+        "Fondi il burro; sovrapponi tre fogli di fillo spennellandoli, tenendo coperti i fogli inutilizzati.",
+        "Ritaglia quadrati da circa 2 pollici, avvolgili sugli stampi e sigilla gli angoli con albume appena sbattuto, evitando che tocchi lo stampo.",
+        "Cuoci su carta forno a 390 °F statico 8–10 minuti oppure a 355 °F ventilato 5–6 minuti fino a doratura; raffredda e sfila gli stampi.",
+        "Setaccia nuovamente due volte la crema, incorpora le gocce poco prima del servizio, farcisci con tasca e decora con granella."
+      ],
+      "temperature": "390 °F statico 8–10 min oppure 355 °F ventilato 5–6 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "35 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-04000",
+      "ingredients": [
+        "Pistacchi sgusciati non salati 150 g",
+        "Cioccolato bianco 60 g",
+        "Farina 00 300 g",
+        "Lievito per dolci 2 g",
+        "Uova 2",
+        "Zucchero 80 g",
+        "Panna fresca liquida 60 g",
+        "Sale fino 1 pizzico",
+        "Uovo 1 per spennellare"
+      ],
+      "name": "Cantucci al pistacchio e cioccolato bianco",
+      "notes": [
+        "Conservazione in scatola fino a due settimane; abbinamento suggerito Vin Santo."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Pistachio and white chocolate cantucci",
+      "originalYield": "30 biscotti",
+      "pdfPage": 83,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "656ca845c9e27712bf5f6542b9e52ea3670292051dd37cb52f126740bed400ab",
+        "previousAppSha256": "656ca845c9e27712bf5f6542b9e52ea3670292051dd37cb52f126740bed400ab",
+        "reviewedDigest": "b1b6a2f78b96848e535367e05b6809b0f593aaa230423977f6c83168672db8c7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "b1b6a2f78b96848e535367e05b6809b0f593aaa230423977f6c83168672db8c7",
+      "serves": "30 biscotti",
+      "source": "https://www.giallozafferano.com/recipes/pistachio-and-white-chocolate-cantucci.html",
+      "steps": [
+        "Tosta i pistacchi a 320 °F statico 20 minuti oppure 285 °F ventilato 15 minuti senza farli scurire.",
+        "Fondi il bianco a bagnomaria senza contatto con l'acqua; porta la panna a bollore, incorporala al cioccolato, amalgama e lascia intiepidire.",
+        "Monta le due uova con zucchero, aggiungi la crema tiepida. Unisci a cucchiaiate farina, lievito e sale setacciati; con la foglia incorpora i pistacchi.",
+        "Forma due filoni da circa 14 pollici, spennella con l'uovo e cuoci a 375 °F statico 20 minuti oppure 340 °F ventilato 10–15 minuti.",
+        "Affetta ancora caldi in diagonale, spessore circa 0,4 pollici; cuoci di nuovo a 340 °F statico 15 minuti oppure 300 °F ventilato 8–10 minuti. Raffredda su griglia."
+      ],
+      "temperature": "320 °F statico 20 min tostatura; 375 °F statico 20 min e 340 °F statico 15 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "25 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-03610",
+      "ingredients": [
+        "Pasta sfoglia rettangolare 460 g (2 rotoli)",
+        "Zucchero a velo q.b.",
+        "Latte intero 500 g",
+        "Tuorli 75 g (circa 5)",
+        "Estratto di vaniglia 1 cucchiaino",
+        "Zucchero 120 g",
+        "Amido di mais 40 g",
+        "Farina di nocciole q.b. per decorare"
+      ],
+      "name": "Cannoncini di sfoglia con crema pasticcera",
+      "notes": [
+        "Farciti in frigo fino a due giorni; gusci vuoti in scatola 4–5 giorni. Varianti con agrumi, mandorle o pistacchi."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "30 min",
+        "rest": "Crema almeno 1 ora in frigorifero"
+      },
+      "originalTitle": "Cañas de hojaldre con crema pastelera",
+      "originalYield": "32 cannoncini",
+      "pdfPage": 792,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "5025dce979d5e9ebf24b22c551e78db579cc8b20cb480da5372a92a897cb450d",
+        "previousAppSha256": "5025dce979d5e9ebf24b22c551e78db579cc8b20cb480da5372a92a897cb450d",
+        "reviewedDigest": "3774d246e57e052e3ee655769e9742c3e020fb95ed0f5ca8c1f10ce9d8fb1367"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Crema almeno 1 ora in frigorifero",
+      "reviewedRecordSha256": "3774d246e57e052e3ee655769e9742c3e020fb95ed0f5ca8c1f10ce9d8fb1367",
+      "serves": "32 cannoncini",
+      "source": "https://www.giallozafferano.es/recetas/canas-de-hojaldre-con-crema-pastelera.html",
+      "steps": [
+        "Scalda il latte senza bollirlo; mescola tuorli, zucchero, amido e vaniglia in un'altra casseruola.",
+        "Stempera con parte del latte caldo, unisci il resto e cuoci mescolando a fuoco basso fino al primo bollore.",
+        "Trasferisci in un recipiente largo e basso, copri a contatto, raffredda e refrigera almeno un'ora.",
+        "Taglia la sfoglia a strisce larghe circa 1 cm e avvolgile sui cilindri sovrapponendo leggermente i giri; sigilla le estremità.",
+        "Spolvera con zucchero a velo, cuoci a 200 °C statico 15 minuti e termina con grill 3–5 minuti fino a doratura.",
+        "Raffredda, sfila i cilindri, farcisci con la crema mediante tasca e decora con farina di nocciole."
+      ],
+      "temperature": "200 °C statico 15 min; grill 3–5 min"
+    },
+    {
+      "author": "Iginio Massari",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "12 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-03255",
+      "ingredients": [
+        "Burro 300 g",
+        "Zucchero 300 g",
+        "Farina di mandorle 300 g",
+        "Farina 00 300 g",
+        "Albumi 50 g",
+        "Sale fino 3 g",
+        "Cioccolato fondente 375 g per farcire"
+      ],
+      "name": "Baci di dama",
+      "notes": [
+        "La ricetta di Massari usa mandorle; la nocciola è una variante citata, non un ingrediente di questa formulazione.",
+        "Gusci non farciti in scatola al fresco circa una settimana; biscotti accoppiati congelabili un mese, palline crude due mesi."
+      ],
+      "origin": "Italia — Piemonte, Tortona",
+      "originalTimes": {
+        "cook": "12 min",
+        "prep": "45 min",
+        "rest": "2–3 ore in frigorifero"
+      },
+      "originalTitle": "Baci di dama (Hazelnut cookies)",
+      "originalYield": "125 biscotti accoppiati",
+      "pdfPage": 75,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d1965fd0658e7248f96fa00d619aaf7439d001a873a7d09b46aacafa151cbf81",
+        "previousAppSha256": "d1965fd0658e7248f96fa00d619aaf7439d001a873a7d09b46aacafa151cbf81",
+        "reviewedDigest": "2ef58cf7c58781a33c0e4ca482dcd98a9bf7fec99dc0e6a5499649e8792e1cb1"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2–3 ore in frigorifero",
+      "reviewedRecordSha256": "2ef58cf7c58781a33c0e4ca482dcd98a9bf7fec99dc0e6a5499649e8792e1cb1",
+      "serves": "125 biscotti accoppiati",
+      "source": "https://www.giallozafferano.com/recipes/baci-di-dama-hazelnut-cookies.html",
+      "steps": [
+        "Lavora burro morbido ma consistente e zucchero con la foglia a bassa velocità; aggiungi la farina di mandorle.",
+        "Sciogli il sale negli albumi e incorporali; unisci la farina 00 setacciata senza prolungare la lavorazione.",
+        "Appiattisci l'impasto, coprilo e refrigeralo 2–3 ore.",
+        "Stendi a 1 cm, ricava piccoli pezzi da 4–5 g e arrotondali: occorrono 250 semisfere per 125 coppie. Disponile distanziate su teglia.",
+        "Cuoci a 180 °C statico circa 12 minuti fino a doratura, senza aprire il forno durante la cottura; raffredda.",
+        "Ammorbidisci il fondente, distribuiscilo sulla parte piatta di metà biscotti, accoppiali e lascia consolidare, in frigo se fa caldo."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": "Edoardo Dolcimascolo",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "15 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-02563",
+      "ingredients": [
+        "Farina 00 250 g — cialde",
+        "Zucchero 30 g — cialde",
+        "Strutto 30 g",
+        "Marsala 50 g",
+        "Uovo medio 1",
+        "Aceto di vino bianco 10 g",
+        "Sale 1 pizzico",
+        "Scorza di 1 arancia",
+        "Cannella 2 g",
+        "Ricotta di pecora 1 kg",
+        "Zucchero 300 g — crema",
+        "Gocce di cioccolato fondente q.b.",
+        "Tuorlo q.b. per sigillare",
+        "Olio vegetale 1 l per friggere",
+        "Zucchero a velo q.b.",
+        "Pistacchi tritati q.b.",
+        "Arancia candita q.b."
+      ],
+      "name": "Cannoli siciliani",
+      "notes": [
+        "Crema in frigorifero un paio di giorni; cialde non farcite 2–3 giorni protette."
+      ],
+      "origin": "Italia — Sicilia",
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "60 min",
+        "rest": "Ricotta una notte; impasto 2 ore in frigorifero"
+      },
+      "originalTitle": "Sicilian cannoli",
+      "originalYield": "circa 30 cannoli",
+      "pdfPage": 82,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "807d4cdb1d356e163bb16f5e3290696b68228df3ad74c74b83ec332efe5bffd9",
+        "previousAppSha256": "807d4cdb1d356e163bb16f5e3290696b68228df3ad74c74b83ec332efe5bffd9",
+        "reviewedDigest": "77b785780f35ee614472a9e43edaf974613632d0b7a0e8fd33fc9c0c2037b9ab"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Ricotta una notte; impasto 2 ore in frigorifero",
+      "reviewedRecordSha256": "77b785780f35ee614472a9e43edaf974613632d0b7a0e8fd33fc9c0c2037b9ab",
+      "serves": "circa 30 cannoli",
+      "source": "https://www.giallozafferano.com/recipes/sicilian-cannoli.html",
+      "steps": [
+        "Sgocciola la ricotta in frigorifero una notte. Sciogli il sale nell'aceto.",
+        "Mescola farina e cannella, aggiungi strutto, 30 g di zucchero, scorza d'arancia, uovo, Marsala e aceto; impasta, forma un panetto e raffredda coperto due ore.",
+        "Lavora la ricotta con 300 g di zucchero, setacciala, incorpora le gocce e conserva al fresco.",
+        "Preleva un terzo di impasto per volta lasciando coperto il resto. Passa alla macchina per la pasta, ripiegando e assottigliando; ricava i dischi, avvolgili sui cilindri e sigilla con poco tuorlo senza sporcare il metallo.",
+        "Friggi a 350 °F fino a doratura, scola, raffredda e sfila i cilindri.",
+        "Farcisci solo al momento di servire; guarnisci con pistacchi, canditi e zucchero a velo."
+      ],
+      "temperature": "350 °F per friggere"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "25 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-02567",
+      "ingredients": [
+        "Ricotta vaccina 240 g",
+        "Farina 00 135 g + q.b. per infarinare le mani",
+        "Zucchero 60 g",
+        "Uova 55 g (circa 1 medio)",
+        "Lievito in polvere per dolci 6 g",
+        "Scorza d'arancia 1",
+        "Olio di semi di arachide 500 g",
+        "Zucchero q.b. per copertura"
+      ],
+      "name": "Castagnole di ricotta",
+      "notes": [
+        "Possibile formare le palline poche ore prima e tenerle al fresco. Alternative aromatiche limone, mandarino, vaniglia o rum."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "20 min",
+        "rest": "Sgocciolamento ricotta non quantificato"
+      },
+      "originalTitle": "Castagnole di ricotta",
+      "originalYield": "30 pezzi",
+      "pdfPage": 86,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8c27f75735eef44c33d427cdf4d1745709ccf24020947e64691049fa6e1952c1",
+        "previousAppSha256": "8c27f75735eef44c33d427cdf4d1745709ccf24020947e64691049fa6e1952c1",
+        "reviewedDigest": "2aa635de40ca3513d990bbced13ac736c9df76d143c5cbce660422b762f2e338"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Sgocciolamento ricotta non quantificato",
+      "reviewedRecordSha256": "2aa635de40ca3513d990bbced13ac736c9df76d143c5cbce660422b762f2e338",
+      "serves": "30 pezzi",
+      "source": "https://ricette.giallozafferano.it/Castagnole-di-ricotta.html",
+      "steps": [
+        "Lasciare sgocciolare la ricotta. Mescolarla con l’uovo fino a eliminare i grumi e profumare con la scorza d’arancia.",
+        "Incorporare lo zucchero, poi farina e lievito setacciati poco alla volta, ottenendo un impasto morbido.",
+        "Con le mani leggermente infarinate formare palline da circa 16 g e disporle su un vassoio infarinato.",
+        "Scaldare l’olio a 160–170 °C e friggere poche castagnole per volta finché assumono un colore nocciola chiaro.",
+        "Scolare su carta assorbente e rotolare ancora calde nello zucchero. Servire tiepide o a temperatura ambiente."
+      ],
+      "temperature": "160–170 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "10 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-02566",
+      "ingredients": [
+        "Farina 00 170 g",
+        "Cacao amaro 30 g",
+        "Uova 106 g (circa 2 medie)",
+        "Sambuca 10 g",
+        "Sale fino 1 pizzico",
+        "Baccello di vaniglia 1",
+        "Lievito per dolci 8 g",
+        "Zucchero 50 g",
+        "Burro morbido 40 g",
+        "Gocce di cioccolato 90 g",
+        "Olio di semi di arachide 700 g",
+        "Zucchero 200 g per finitura"
+      ],
+      "name": "Castagnole al cioccolato",
+      "notes": [
+        "Usare termometro e friggere in piccole quantità. La fonte non suggerisce farcitura per la struttura compatta né sostituzione del cacao con cioccolato.",
+        "Alternative aromatiche: limoncello, grappa, rum, succo d'arancia, estratto di vaniglia. Impasto crudo in frigo un giorno; consumare in giornata, non congelare."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Chocolate castagnole",
+      "originalYield": "40 pezzi",
+      "pdfPage": 85,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ec2edb05aa24025406c8972d71e7c87a61e3bcdfaf9d41b0a97e65062e9477e0",
+        "previousAppSha256": "ec2edb05aa24025406c8972d71e7c87a61e3bcdfaf9d41b0a97e65062e9477e0",
+        "reviewedDigest": "ccb11f3f11992af9e76549183a996c66b66048ce99cc0c9db410e6afe08e1755"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "ccb11f3f11992af9e76549183a996c66b66048ce99cc0c9db410e6afe08e1755",
+      "serves": "40 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/chocolate-castagnole.html",
+      "steps": [
+        "Mescolare farina, cacao, lievito e zucchero. Aggiungere sambuca e semi di vaniglia.",
+        "Incorporare uova, sale e burro morbido, impastando fino a ottenere una massa compatta e uniforme.",
+        "Aggiungere le gocce di cioccolato e formare un filone.",
+        "Tagliare porzioni da circa 12–13 g e arrotondarle in palline.",
+        "Friggere pochi pezzi alla volta in olio a 340–350 °F per 2–3 minuti, evitando di raffreddare troppo l’olio.",
+        "Scolare su carta assorbente e passare le castagnole nello zucchero quando sono ancora tiepide."
+      ],
+      "temperature": "340–350 °F per friggere"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-03317",
+      "ingredients": [
+        "Fragole 150 g (da pulire)",
+        "Farina 00 290 g",
+        "Zucchero di canna 130 g",
+        "Uova 55 g (circa 1 a temperatura ambiente)",
+        "Lievito per dolci 8 g",
+        "Latte intero 40 g a temperatura ambiente",
+        "Burro morbido 120 g",
+        "Bacca di vaniglia 1/2",
+        "Sale fino 1/2 cucchiaino",
+        "Zucchero a velo per spolverare (quantità non dichiarata nel metodo)"
+      ],
+      "name": "Biscotti morbidi alle fragole",
+      "notes": [
+        "La fonte dichiara 30 pezzi nella scheda ma le quantità di tre teglie indicate nel metodo (12+12+8) sommano 32; mantenuta resa dichiarata senza correggerla arbitrariamente.",
+        "Conservazione 3–4 giorni in contenitore ermetico. Zucchero di canna come alternativa alla spolverata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Galletas blandas de fresa",
+      "originalYield": "30 biscotti",
+      "pdfPage": 734,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "199039e123535ea83f1a8bc6826a26fe9c1bc8ec43e0f8d53c976c015ba26887",
+        "previousAppSha256": "199039e123535ea83f1a8bc6826a26fe9c1bc8ec43e0f8d53c976c015ba26887",
+        "reviewedDigest": "6aaf363f668327b129a8a68dabefc7e081391780a1e274f25175b60caf3f6c9a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "6aaf363f668327b129a8a68dabefc7e081391780a1e274f25175b60caf3f6c9a",
+      "serves": "30 biscotti",
+      "source": "https://www.giallozafferano.es/recetas/galletas-blandas-de-fresa.html",
+      "steps": [
+        "Lava, asciuga, monda e taglia le fragole a cubetti.",
+        "Monta burro morbido, zucchero di canna e sale circa due minuti.",
+        "Incorpora uovo, semi di vaniglia e latte, continuando a mescolare.",
+        "Setaccia farina e lievito, amalgama e incorpora le fragole con spatola.",
+        "Trasferisci in una tasca senza bocchetta, forma mucchietti distanziati su teglia rivestita e spolvera di zucchero a velo.",
+        "Cuoci sul ripiano centrale a 180 °C statico circa 20 minuti: devono restare chiari e morbidi. Raffredda completamente."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-03328",
+      "ingredients": [
+        "Farina di grano saraceno 160 g",
+        "Farina di riso integrale 140 g",
+        "Farina di cocco 50 g",
+        "Fecola di patate 60 g",
+        "Zucchero 200 g",
+        "Burro freddo 150 g",
+        "Cacao amaro 10 g",
+        "Uova medie fredde 3",
+        "Lievito per dolci 7 g",
+        "Zucchero di canna q.b. per finitura"
+      ],
+      "name": "Biscotti senza glutine",
+      "notes": [
+        "La fonte distingue farina di cocco dal cocco rapè e propone farina di mandorle o nocciole; per la versione senza glutine verificare ingredienti certificati."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": "30 min in frigorifero"
+      },
+      "originalTitle": "Biscotti senza glutine",
+      "originalYield": "18 pezzi",
+      "pdfPage": 80,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "66d897e0a7a2d10b31ec350bebfcda307039372c8cf6e5610f8fb19d2781177b",
+        "previousAppSha256": "66d897e0a7a2d10b31ec350bebfcda307039372c8cf6e5610f8fb19d2781177b",
+        "reviewedDigest": "607890a3898de65b3c1c7451a5a5244d2ceebea1c95de729ebd5a6e9b06d966e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min in frigorifero",
+      "reviewedRecordSha256": "607890a3898de65b3c1c7451a5a5244d2ceebea1c95de729ebd5a6e9b06d966e",
+      "serves": "18 pezzi",
+      "source": "https://ricette.giallozafferano.it/Biscotti-senza-glutine.html",
+      "steps": [
+        "Riunisci farine, fecola, lievito, zucchero e cacao; incorpora il burro freddo a cubetti lavorando a velocità media fino a sabbiatura.",
+        "Aggiungi le uova gradualmente fino a impasto omogeneo, senza prolungare la lavorazione.",
+        "Avvolgi e raffredda 30 minuti.",
+        "Stendi rapidamente a circa 1 cm in un rettangolo da 30 × 20 cm, ricava 18 rettangoli da 3 × 8 cm e pratica piccoli fori.",
+        "Disponi distanziati su carta forno, cospargi di zucchero di canna, cuoci sul ripiano basso a 180 °C statico circa 20 minuti e raffredda."
+      ],
+      "temperature": "180 °C statico, ripiano basso"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "30 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-00020",
+      "ingredients": [
+        "Farina 00 300 g — frolla",
+        "Zucchero 150 g — frolla",
+        "Burro freddo 150 g",
+        "Uova 110 g (circa 2 medie)",
+        "Scorza di 1/2 limone",
+        "Lievito per dolci 1 cucchiaino",
+        "Sale fino 1 pizzico",
+        "Latte intero 500 g",
+        "Tuorli 90 g (circa 6)",
+        "Zucchero 150 g — crema",
+        "Amido di mais 50 g",
+        "Bacca di vaniglia 1",
+        "Frutta fresca mista a piacere",
+        "Menta a piacere",
+        "Confettura di albicocche 50 g",
+        "Acqua 10 g"
+      ],
+      "name": "Cestini di frutta",
+      "notes": [
+        "Correzione documentata: 150 g zucchero e mezzo limone per la frolla al posto delle misure della precedente trascrizione."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "60 min",
+        "rest": "Frolla almeno 1 ora; raffreddamento crema non quantificato"
+      },
+      "originalTitle": "Cestini di frutta",
+      "originalYield": "22 cestini",
+      "pdfPage": 88,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "49dadceadcc882ab9469eba50a8d17dd21fd3e06ded4b17d5c4fc2828002be2a",
+        "previousAppSha256": "49dadceadcc882ab9469eba50a8d17dd21fd3e06ded4b17d5c4fc2828002be2a",
+        "reviewedDigest": "cfa8a2bb69cad39acb682bee00ee92bb6b342aa4599fca5a35c6b86e369f2cae"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Frolla almeno 1 ora; raffreddamento crema non quantificato",
+      "reviewedRecordSha256": "cfa8a2bb69cad39acb682bee00ee92bb6b342aa4599fca5a35c6b86e369f2cae",
+      "serves": "22 cestini",
+      "source": "https://ricette.giallozafferano.it/Cestini-di-frutta.html",
+      "steps": [
+        "Sabbia farina, lievito e burro freddo, poi aggiungi zucchero, sale, scorza di mezzo limone e uova. Compatta e raffredda almeno un'ora.",
+        "Stendi la frolla a 5 mm, ritaglia dischi da 8 cm e fodera 22 stampini da 7 cm; bucherella e cuoci a 180 °C statico 18–20 minuti fino a doratura. Raffredda e sforma.",
+        "Scalda latte con semi e baccello di vaniglia; lavora tuorli, zucchero e amido. Elimina il baccello, stempera col latte e addensa su fuoco basso mescolando. Copri a contatto e raffredda.",
+        "Farcisci i gusci con tasca a stella, disponi frutta e menta; scalda confettura e acqua e spennella la frutta."
+      ],
+      "temperature": "180 °C statico 18–20 min"
+    },
+    {
+      "author": "Diletta Secco",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-00080",
+      "ingredients": [
+        "Cioccolato al latte 550 g",
+        "Riso soffiato naturale 100 g",
+        "Burro 20 g"
+      ],
+      "name": "Barrette al riso soffiato e cioccolato",
+      "notes": [
+        "In frigorifero in recipiente chiuso 5–6 giorni; non congelare. Varianti: fondente o bianco, burro facoltativo, stampi individuali."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "15 min",
+        "rest": "4–5 ore a temperatura ambiente"
+      },
+      "originalTitle": "Puffed Rice and Chocolate Bars",
+      "originalYield": "27 barrette",
+      "pdfPage": 83,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1116428d152c36ef9583bab6d613c405b94b4859b5be060ae822ce92acfe2d32",
+        "previousAppSha256": "1116428d152c36ef9583bab6d613c405b94b4859b5be060ae822ce92acfe2d32",
+        "reviewedDigest": "2d3b1aeb2418393ee5a1d8f9cd5aef79079ba0b3ab98ecb52b5f72ba39fab6d1"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "4–5 ore a temperatura ambiente",
+      "reviewedRecordSha256": "2d3b1aeb2418393ee5a1d8f9cd5aef79079ba0b3ab98ecb52b5f72ba39fab6d1",
+      "serves": "27 barrette",
+      "source": "https://www.giallozafferano.com/recipes/puffed-rice-and-chocolate-bars.html",
+      "steps": [
+        "Trita il cioccolato; rivesti con carta forno lo stampo rettangolare di circa 30 × 23 cm.",
+        "Fondi circa 100 g a bagnomaria e distribuiscili sul fondo.",
+        "Fondi altri 300 g a bagnomaria, incorpora il burro; fuori dal bagnomaria, a calore molto basso, aggiungi gradualmente il riso e rivestilo uniformemente.",
+        "Compatta nello stampo sopra il primo strato e lascia intiepidire leggermente.",
+        "Fondi i restanti 150 g e spalma la copertura.",
+        "Lascia rassodare 4–5 ore a temperatura ambiente, sforma e taglia 27 barrette."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "40 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-02544",
+      "ingredients": [
+        "Uova 105 g (circa 2 medie) — choux",
+        "Farina 00 65 g",
+        "Burro 50 g",
+        "Acqua 100 g",
+        "Zucchero 10 g",
+        "Sale fino 1 pizzico",
+        "Ricotta vaccina 500 g — crema",
+        "Zucchero a velo 120 g",
+        "Panna fresca liquida 100 g",
+        "Granella di pistacchi 80 g — crema",
+        "Baccello di vaniglia 1",
+        "Cioccolato bianco 50 g — finitura",
+        "Granella di pistacchi 60 g — finitura"
+      ],
+      "name": "Bignè con crema di ricotta e pistacchi",
+      "notes": [
+        "Farciti in frigorifero fino a 3 giorni; gusci vuoti in scatola forata circa una settimana o congelabili. Variante con scorza di agrumi."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "40 min",
+        "rest": null
+      },
+      "originalTitle": "Bignè con crema di ricotta e pistacchi",
+      "originalYield": "25 pezzi",
+      "pdfPage": 76,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c250e6a6ce1ab81b9090578aaa0a96abeffa4da0c7b0b2e1e0b78914db1576c9",
+        "previousAppSha256": "c250e6a6ce1ab81b9090578aaa0a96abeffa4da0c7b0b2e1e0b78914db1576c9",
+        "reviewedDigest": "47991b948f8f2fa1442aeba94d9550d550d84a0fa8bd9a7a2a50d6efcc18f353"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "47991b948f8f2fa1442aeba94d9550d550d84a0fa8bd9a7a2a50d6efcc18f353",
+      "serves": "25 pezzi",
+      "source": "https://ricette.giallozafferano.it/Bigne-con-crema-di-ricotta-e-pistacchi.html",
+      "steps": [
+        "Porta a bollore acqua, burro, zucchero e sale; versa la farina setacciata tutta insieme e mescola finché la massa si stacca e compare una pellicola sul fondo.",
+        "Trasferisci nella planetaria con foglia, fai intiepidire lavorando circa 2 minuti e incorpora le uova poco per volta.",
+        "Forma circa 25 bignè da 3 cm con bocchetta liscia sulla teglia rivestita, appiattendo le punte.",
+        "Cuoci in statico preriscaldato a 220 °C per 15 minuti, poi 190 °C per 10; asciuga a forno spento con sportello socchiuso 10–15 minuti e lascia raffreddare.",
+        "Lavora ricotta, zucchero a velo e semi di vaniglia, versa a filo la panna e aggiungi 80 g di granella. Farcisci i gusci freddi con bocchetta da 10 mm.",
+        "Fondi il bianco, spennella le sommità e passale nei 60 g di granella. Conserva in frigorifero fino al servizio."
+      ],
+      "temperature": "220 °C statico 15 min; 190 °C statico 10 min; forno spento 10–15 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-02565",
+      "ingredients": [
+        "Burro morbido 40 g",
+        "Farina 00 200 g",
+        "Uova 2",
+        "Zucchero 50 g",
+        "Scorza di limone 1/2",
+        "Liquore all'anice 1 cucchiaio",
+        "Sale 1 pizzico",
+        "Lievito per dolci 8 g",
+        "Bacca di vaniglia 1",
+        "Zucchero q.b. per finire",
+        "Olio di arachidi q.b. per friggere"
+      ],
+      "name": "Castagnole",
+      "notes": [
+        "La fonte indica circa 30 pezzi nella scheda, circa 35 nel procedimento: mantenuta resa dichiarata.",
+        "Varianti suggerite: rum, grappa, succo d'arancia nella stessa quantità oppure omissione del liquore; zucchero a velo o cannella. Consumare in giornata; impasto crudo in frigo un giorno. La fonte sconsiglia forno e congelamento."
+      ],
+      "origin": "Italia — Romagna",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "20 min",
+        "rest": "30 min"
+      },
+      "originalTitle": "Castagnole",
+      "originalYield": "circa 30 castagnole",
+      "pdfPage": 84,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4d9fd59c5490276f2e9ab5a6e0faccdb1fe0e91b7a93443cabacf479cefd7ef7",
+        "previousAppSha256": "4d9fd59c5490276f2e9ab5a6e0faccdb1fe0e91b7a93443cabacf479cefd7ef7",
+        "reviewedDigest": "274fe9986af6e023bb393329a38a9a31c3fb13e7e6eeabde613b434e5b1c0015"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min",
+      "reviewedRecordSha256": "274fe9986af6e023bb393329a38a9a31c3fb13e7e6eeabde613b434e5b1c0015",
+      "serves": "circa 30 castagnole",
+      "source": "https://www.giallozafferano.com/recipes/Castagnole.html",
+      "steps": [
+        "Lavora il burro morbido con semi di vaniglia e scorza di limone.",
+        "Mescola farina, zucchero, lievito e sale; aggiungi uova, burro aromatizzato e liquore all'anice, prima con forchetta poi a mano.",
+        "Forma un impasto omogeneo, copri e lascia riposare mezz'ora.",
+        "Forma filoncini, dividi in piccoli pezzi da circa 0,4 once e arrotondali; tienili coperti.",
+        "Friggi pochi pezzi per volta a 340 °F per 2–3 minuti girandoli, scola e passa subito nello zucchero."
+      ],
+      "temperature": "340 °F per friggere"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "30 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-02546",
+      "ingredients": [
+        "Farina di riso senza glutine 45 g",
+        "Farina di lupini 30 g",
+        "Amido di mais senza glutine 30 g",
+        "Uova 110 g (circa 2, a temperatura ambiente)",
+        "Tuorlo 15 g",
+        "Acqua 150 g",
+        "Burro 40 g",
+        "Sale fino 1 pizzico",
+        "Zucchero q.b. per la superficie"
+      ],
+      "name": "Bignè senza glutine",
+      "notes": [
+        "Usare l'impasto crudo subito. Gusci vuoti in scatola forata una settimana oppure congelati un mese. Possibili frutta secca in superficie, éclair e versione salata senza zucchero."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Gluten-free cream puffs",
+      "originalYield": "32 bignè",
+      "pdfPage": 77,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "45d84b8147936dc6ed7ecdf97e72b21ac0de0aec6e85a5d098992297efbeb8de",
+        "previousAppSha256": "45d84b8147936dc6ed7ecdf97e72b21ac0de0aec6e85a5d098992297efbeb8de",
+        "reviewedDigest": "31228bb12c4f2bb725871ff12a6fd9154c9ecfd1f88229668e83522cca4fb928"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "31228bb12c4f2bb725871ff12a6fd9154c9ecfd1f88229668e83522cca4fb928",
+      "serves": "32 bignè",
+      "source": "https://www.giallozafferano.com/recipes/gluten-free-cream-puffs.html",
+      "steps": [
+        "Porta acqua, burro e sale a bollore; fuori dal fuoco incorpora le tre farine insieme.",
+        "Mescola energicamente e rimetti sul fuoco circa un minuto fino a massa compatta.",
+        "Trasferisci in planetaria con foglia, aggiungi le uova una per volta aspettando l'assorbimento, poi il tuorlo; ottieni pasta morbida ed elastica.",
+        "Con bocchetta liscia da 10 mm forma 32 bignè distanziati, da circa 1,2–1,6 pollici, su carta forno; spolvera di zucchero.",
+        "Cuoci in ventilato preriscaldato a 390 °F per 25–30 minuti, poi raffredda."
+      ],
+      "temperature": "390 °F ventilato 25–30 min"
     }
   ]
 }
