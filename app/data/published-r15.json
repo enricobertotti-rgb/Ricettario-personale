@@ -20148,6 +20148,391 @@
         "Lessare in acqua salata, finire nel sugo con acqua di cottura se occorre. Servire con bottarga grattugiata e basilico."
       ],
       "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Frittata di spaghetti.",
+      "id": "GZ-00158",
+      "ingredients": [
+        "Spaghetti 350 g",
+        "Uova 5",
+        "Latte intero 100 g",
+        "Parmigiano Reggiano DOP 50 g",
+        "Scamorza affumicata 100 g",
+        "Pancetta affumicata 50 g",
+        "Timo 1 rametto",
+        "Pepe nero 1 pizzico",
+        "Olio extravergine d'oliva q.b.",
+        "Aglio 1 spicchio",
+        "Sale: quantità non dichiarata, presente nel procedimento"
+      ],
+      "name": "Frittata di spaghetti",
+      "notes": [
+        "Ricetta di recupero della tradizione napoletana; distinta dalla versione al pomodoro GZ-00159. Conservare in frigorifero fino a 2 giorni; non congelare. La fonte suggerisce prosciutto al posto della pancetta e mozzarella, Emmental o Gruyère al posto della scamorza."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "10 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Spaghetti frittata",
+      "originalYield": "6 persone",
+      "pdfPage": 98,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "950e6665e2b9fc5294c60d2f37a9ed5b6ffa18c47583b28280175130c00b5fb1",
+        "previousAppSha256": "950e6665e2b9fc5294c60d2f37a9ed5b6ffa18c47583b28280175130c00b5fb1",
+        "reviewedDigest": "7fba501357decbe7a36655d9db3cd1c3e5a49bd6129eff7d4dfafae12bd62ae8"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "7fba501357decbe7a36655d9db3cd1c3e5a49bd6129eff7d4dfafae12bd62ae8",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/spaghetti-frittata.html",
+      "steps": [
+        "Mettere a bollire l'acqua salata; tagliare a dadini pancetta e scamorza. Cuocere gli spaghetti molto al dente.",
+        "Sbattere le uova con timo, latte, sale, pepe e Parmigiano; incorporare pancetta e scamorza. Scolare gli spaghetti, condirli con un filo d'olio e unirli al composto.",
+        "In una padella svasata (30 cm al bordo, 26 cm alla base) far dorare l'aglio nell'olio, poi eliminarlo. Versare e distribuire uniformemente gli spaghetti.",
+        "Cuocere 1 minuto a fuoco vivace, poi 15 minuti a fuoco basso con coperchio. Scuotere la padella per controllare che la frittata si stacchi.",
+        "Capovolgere con un piatto del diametro adatto e cuocere l'altro lato per 5 minuti senza coperchio. Servire calda o fredda."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Fregola con funghi portobello.",
+      "id": "GZ-00148",
+      "ingredients": [
+        "Fregola sarda 240 g",
+        "Funghi portobello 370 g",
+        "Brodo vegetale 1 l",
+        "Parmigiano Reggiano DOP 50 g",
+        "Aglio 1 spicchio",
+        "Prezzemolo q.b.",
+        "Timo q.b.",
+        "Olio extravergine d'oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Fregola con funghi portobello",
+      "notes": [
+        "La fonte elenca il pepe ma non precisa quando unirlo. Conservare coperto in frigorifero fino a 2 giorni; non congelare. Variante: aggiungere salsiccia ai funghi durante la cottura."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "5 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Fregola with portobello mushrooms",
+      "originalYield": "4 persone",
+      "pdfPage": 242,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "afd0a94d60d8243a3570f1f2586897590b2cefaf4a9d73977b20964c88f76100",
+        "previousAppSha256": "afd0a94d60d8243a3570f1f2586897590b2cefaf4a9d73977b20964c88f76100",
+        "reviewedDigest": "3def861fab300890ed1fffa1d0a53a667aae400e87f764e68ac705eca0fd9a43"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "3def861fab300890ed1fffa1d0a53a667aae400e87f764e68ac705eca0fd9a43",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fregola-with-portobello-mushrooms.html",
+      "steps": [
+        "Eliminare la base terrosa dei funghi, pulirli con un panno, affettarli e tagliarli a dadini. Tenere caldo il brodo.",
+        "Profumare l'olio con l'aglio a fuoco dolce per qualche minuto; togliere l'aglio e tostare brevemente la fregola.",
+        "Unire i funghi, bagnare con il brodo caldo e aggiungerne altro man mano che viene assorbito. Cuocere secondo la confezione, circa 20–25 minuti.",
+        "A metà cottura aggiungere sale e timo. A fuoco spento incorporare il prezzemolo tritato e il Parmigiano; servire caldo."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchetti di castagne.",
+      "id": "GZ-00178",
+      "ingredients": [
+        "Patate rosse 1 kg",
+        "Farina di castagne 300 g",
+        "Farina 00 100 g",
+        "Uovo medio 1",
+        "Sale q.b.",
+        "Burro 120 g",
+        "Salvia 6 foglie",
+        "Ricotta salata q.b.",
+        "Pepe: un pizzico nel procedimento"
+      ],
+      "name": "Gnocchetti di castagne",
+      "notes": [
+        "Fonte: gnocchetti crudi in frigorifero fino a 1 ora, cotti fino a 2 giorni. Suggerisce patate vecchie gialle o rosse, pancetta, ragù bianco o funghi e l'uso del rigagnocchi. Misure originali conservate."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Chestnut gnocchi",
+      "originalYield": "4 persone",
+      "pdfPage": 102,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d56786c41c8248a0ae338fcf369ff2f99943e5860e17f99221a02949a129954d",
+        "previousAppSha256": "d56786c41c8248a0ae338fcf369ff2f99943e5860e17f99221a02949a129954d",
+        "reviewedDigest": "4bc90b476bb8cdab02720130b40fda230f3b9132baec259baa2be810e899b337"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "4bc90b476bb8cdab02720130b40fda230f3b9132baec259baa2be810e899b337",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/chestnut-gnocchi.html",
+      "steps": [
+        "Lessare le patate per 30–40 minuti dal bollore, fino a quando si infilzano facilmente con la forchetta; scolarle e schiacciarle ancora calde.",
+        "Unire farina di castagne e sale, lavorare, poi incorporare farina 00 e uovo sbattuto fino a ottenere un impasto omogeneo.",
+        "Formare un panetto, dividerlo e ricavare filoncini del diametro di 3/4 di pollice; tagliare gnocchetti della stessa lunghezza e disporli su un vassoio infarinato con carta forno.",
+        "Sciogliere il burro con la salvia, lasciare insaporire fuori dal fuoco. Portare a ebollizione l'acqua salata e cuocere gli gnocchetti per 1–2 minuti, fino a quando affiorano.",
+        "Trasferirli con una schiumarola nella padella riaccesa, unire un mestolo d'acqua di cottura e saltare delicatamente; completare con pepe e ricotta salata grattugiata."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": "Lulù Gargari",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchetti di barbabietola con fonduta di Taleggio.",
+      "id": "GZ-03685",
+      "ingredients": [
+        "Barbabietole cotte 200 g",
+        "Farina tipo 0 130 g",
+        "Patate 350 g",
+        "Sale 1 cucchiaino",
+        "Rucola q.b.",
+        "Olio extravergine d'oliva q.b.",
+        "Latte 100 g",
+        "Taleggio 100 g"
+      ],
+      "name": "Gnocchetti di barbabietola con fonduta di Taleggio",
+      "notes": [
+        "La lista ingredienti indica un cucchiaino di sale; il procedimento parla di un pizzico. Si conserva la dose dichiarata senza inventarne una diversa. La fonte indica conservazione in frigorifero in contenitore chiuso fino a 2 giorni e riscaldamento dolce con latte o panna; propone stracchino, crescenza o aggiunta di gorgonzola."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "30 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Gnocchetti de remolacha sobre fondue de taleggio",
+      "originalYield": "4 persone",
+      "pdfPage": 807,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9dc3ace694f694f31ef57f63bda46d2d946cb200bfa702d25ecc78f260cbebcc",
+        "previousAppSha256": "9dc3ace694f694f31ef57f63bda46d2d946cb200bfa702d25ecc78f260cbebcc",
+        "reviewedDigest": "0f124e94e313b9d25366a8a1f992fb603139083f5a379eae8cc03205b8917443"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "0f124e94e313b9d25366a8a1f992fb603139083f5a379eae8cc03205b8917443",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/gnocchetti-de-remolacha-sobre-fondue-de-taleggio.html",
+      "steps": [
+        "Lessare le patate per circa 30 minuti, fino a quando sono morbide. Frullare le barbabietole fino a ottenere una crema liscia.",
+        "Schiacciare le patate, unire le barbabietole, sale e farina e impastare fino a ottenere un composto lavorabile.",
+        "Dividere l'impasto e, aiutandosi con poca farina, formare filoncini di circa 2 cm e tagliare gli gnocchetti.",
+        "Lessare in acqua salata per pochi minuti, scolare e saltare per qualche minuto con olio e rucola.",
+        "Nel frattempo scaldare latte e Taleggio, portare a ebollizione e sciogliere il formaggio. Distribuire la fonduta nei piatti e adagiarvi gli gnocchetti."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Fregola con ragù di pesce.",
+      "id": "GZ-00153",
+      "ingredients": [
+        "Fregola 320 g",
+        "Salmone 380 g",
+        "Cozze 1 kg",
+        "Scampi 320 g",
+        "Gamberi 300 g",
+        "Rana pescatrice 220 g",
+        "Brodo di pesce 1 l",
+        "Olio extravergine d'oliva 10 g",
+        "Scorza di 1 limone",
+        "Aglio 1 spicchio",
+        "Peperoncino fresco 1",
+        "Prezzemolo 1 ciuffo",
+        "Sale e pepe: quantità non dichiarate, presenti nel procedimento"
+      ],
+      "name": "Fregola con ragù di pesce",
+      "notes": [
+        "Consumare subito; la fonte indica al massimo 1 giorno in frigorifero e sconsiglia il congelamento. Varianti suggerite: pomodorini o concentrato, vongole o canocchie."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Fregola with fish ragù",
+      "originalYield": "4 persone",
+      "pdfPage": 243,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a36f02248f1bdd12d05c893ef74ac331dbe80b54c4c4224bcfbb718cc6fa5b7b",
+        "previousAppSha256": "a36f02248f1bdd12d05c893ef74ac331dbe80b54c4c4224bcfbb718cc6fa5b7b",
+        "reviewedDigest": "4cac7d506cf94a7fe72929b3c087557782368ddc5c677772dc5d335c17f3551d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "4cac7d506cf94a7fe72929b3c087557782368ddc5c677772dc5d335c17f3551d",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fregola-with-fish-ragu.html",
+      "steps": [
+        "Pulire le cozze raschiando i gusci e togliendo il bisso; sciacquare. Privare gamberi e scampi di testa, carapace, zampe e intestino. Togliere la pelle al salmone e tagliare salmone e rana pescatrice a bocconi.",
+        "Scaldare l'olio con aglio pelato e peperoncino tritato, aggiungere le cozze, coprire e scuotere la pentola per qualche minuto finché si aprono. Filtrare il liquido con un colino fine e sgusciare le cozze.",
+        "Scaldare il liquido filtrato, versare la fregola e aggiungere gradualmente il brodo di pesce caldo.",
+        "Dopo 5 minuti unire la rana pescatrice; dopo altri 3 minuti il salmone. Verso fine cottura aggiungere scampi e gamberi; completarne la cottura.",
+        "Unire le cozze sgusciate, profumare con scorza di limone e prezzemolo tritato, regolare sale e pepe. Distribuire nei piatti e completare con la scorza dello stesso limone."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": "Luisa Orizio",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "45 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchetti gorgonzola e noci.",
+      "id": "GZ-00179",
+      "ingredients": [
+        "Patate rosse 1 kg",
+        "Uovo medio 1",
+        "Farina 00 300 g",
+        "Sale 1 pizzico",
+        "Semola q.b.",
+        "Gorgonzola 200 g",
+        "Latte intero 100 ml",
+        "Gherigli di noci 60 g"
+      ],
+      "name": "Gnocchetti gorgonzola e noci",
+      "notes": [
+        "La fonte propone preparazione anticipata fino a 2 ore su canovaccio senza indicare temperatura: per prudenza conservare al freddo l'impasto con uovo. In alternativa congelare su vassoio per 20 minuti prima di trasferire in sacchetti e cuocere da congelati. Si può sostituire il latte con la stessa quantità di panna."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "25 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Gorgonzola and walnut gnocchetti",
+      "originalYield": "4 persone",
+      "pdfPage": 247,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7d8547517475fa026a91199580b7b5d25a2d62dce91817d68ad36974413324e6",
+        "previousAppSha256": "7d8547517475fa026a91199580b7b5d25a2d62dce91817d68ad36974413324e6",
+        "reviewedDigest": "5096e4b44a57cb75d7ae1ef1284a40b6f8ede42641c29a8fc4948331af5ee31a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "5096e4b44a57cb75d7ae1ef1284a40b6f8ede42641c29a8fc4948331af5ee31a",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Gorgonzola-and-walnut-gnocchetti.html",
+      "steps": [
+        "Lessare le patate partendo da acqua fredda fino a quando sono morbide; schiacciarle ancora tiepide sulla farina disposta a fontana. Aggiungere uovo e sale e impastare fino a ottenere un composto compatto.",
+        "Dividere in porzioni, formare filoncini aiutandosi con semola, tagliare gnocchetti di circa 1 cm e adagiarli su un vassoio con un canovaccio infarinato.",
+        "Portare a ebollizione l'acqua salata. Tagliare il gorgonzola e tritare le noci. Scaldare il latte a fuoco dolce e sciogliervi il formaggio.",
+        "Cuocere gli gnocchetti fino a quando affiorano. Nel frattempo unire parte delle noci alla salsa, tenendone alcune per guarnire.",
+        "Scolare gli gnocchetti nella salsa, mescolare e completare con le noci tenute da parte."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: Frittata di spaghetti alla napoletana.",
+      "id": "GZ-00159",
+      "ingredients": [
+        "Spaghetti 500 g",
+        "Parmigiano Reggiano DOP 100 g",
+        "Latte intero 100 g",
+        "Uova 8",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Olio extravergine d'oliva q.b.",
+        "Passata di pomodoro 700 g (sugo)",
+        "Cipolla bianca 1 (sugo)",
+        "Basilico q.b. (sugo)",
+        "Sale fino q.b. (sugo)",
+        "Olio extravergine d'oliva q.b. (sugo)"
+      ],
+      "name": "Frittata di spaghetti alla napoletana",
+      "notes": [
+        "Conservare in frigorifero fino a 2 giorni; non congelare. Si possono usare avanzi di pasta al pomodoro o ragù, salumi e formaggi. Variante autonoma rispetto a GZ-00158."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Neapolitan spaghetti omelette",
+      "originalYield": "8 persone",
+      "pdfPage": 98,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c2d4abbebe9212a9941fea26786e4776ea9f5391b665ecd4117c7a9b2c8e2b1d",
+        "previousAppSha256": "c2d4abbebe9212a9941fea26786e4776ea9f5391b665ecd4117c7a9b2c8e2b1d",
+        "reviewedDigest": "de8881f7346c9d87d677dbbf8aa6055b59dd93aab451f82323babb46a0651803"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "de8881f7346c9d87d677dbbf8aa6055b59dd93aab451f82323babb46a0651803",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.com/recipes/Neapolitan-Spaghetti-Omelette.html",
+      "steps": [
+        "Portare a bollore acqua salata. Tritare la cipolla, farla appassire nell'olio a fuoco dolce per qualche minuto, aggiungere passata e sale e cuocere coperto a fuoco basso per 30 minuti. Completare con basilico.",
+        "Cuocere gli spaghetti al dente, scolarli, condirli con il sugo e lasciarli intiepidire.",
+        "Sbattere le uova con Parmigiano, latte, sale e pepe. Unire agli spaghetti e mescolare.",
+        "Scaldare poco olio in una padella a bordi alti, diametro superiore 30 cm; distribuire il composto. Cuocere 10 minuti a fuoco medio con coperchio.",
+        "Capovolgere aiutandosi con un piatto o coperchio e cuocere altri 10 minuti senza coperchio."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
     }
   ]
 }
