@@ -14058,6 +14058,635 @@
         "Usare subito per stampi o decorazioni su silicone/carta forno sopra superficie resistente al calore, non toccare né spalmare caramello caldo; lasciare indurire prima di staccare."
       ],
       "temperature": "320–356 °F"
+    },
+    {
+      "author": "Leyla Farella",
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "10 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02552",
+      "ingredients": [
+        "Latte intero 250 g",
+        "Cioccolato fondente 70 g",
+        "Zucchero 50 g",
+        "Burro 40 g",
+        "Amido di mais 20 g",
+        "Amaretti 16 g",
+        "Scaglie di cioccolato fondente q.b.",
+        "Melagrana q.b."
+      ],
+      "name": "Budino al cioccolato",
+      "notes": [
+        "Conservazione indicata: 3–4 giorni in frigorifero, coperto. Varianti: meringhe, senza amaretti, liquore all'amaretto o Cointreau; stampi silicone/alluminio leggermente unti."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": "almeno 3 h in frigorifero"
+      },
+      "originalTitle": "Budino al cioccolato",
+      "originalYield": "2 stampi da 150 ml",
+      "pdfPage": 116,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "0a1057219026548a2fe9062cca46a1e7ea10e0a8ce8728fcde2a4605ee446886",
+        "previousAppSha256": "0a1057219026548a2fe9062cca46a1e7ea10e0a8ce8728fcde2a4605ee446886",
+        "reviewedDigest": "719b72437fddb15b68338cb254f50b66a1abb12bd7c7cfc26e5471a1515089a3"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 3 h in frigorifero",
+      "reviewedRecordSha256": "719b72437fddb15b68338cb254f50b66a1abb12bd7c7cfc26e5471a1515089a3",
+      "serves": "2 stampi da 150 ml",
+      "source": "https://ricette.giallozafferano.it/Budino-al-cioccolato.html",
+      "steps": [
+        "Portare il latte quasi a ebollizione. In un secondo pentolino fondere il burro, incorporare lo zucchero e poi il cioccolato tritato, mescolando a fuoco moderato.",
+        "Setacciare l'amido sul composto fluido, amalgamare e versare il latte caldo a filo continuando con la frusta. Cuocere pochi minuti fino al primo addensamento.",
+        "Bagnare due stampi da 150 ml, riempirli a metà, distribuire un amaretto sbriciolato in ciascuno e coprire con il composto restante.",
+        "Far raffreddare, chiudere gli stampi e refrigerare almeno 3 ore. Sformare e completare con amaretti rimasti, scaglie e chicchi di melagrana."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "11 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02539",
+      "ingredients": [
+        "Panna fresca liquida 200 g",
+        "Latte intero 150 g",
+        "Tuorli 55 g (circa 3)",
+        "Zucchero 60 g",
+        "Gelatina in fogli 6 g",
+        "Vaniglia 1 baccello"
+      ],
+      "name": "Bavarese",
+      "notes": [
+        "Conservazione indicata: massimo 1–2 giorni in frigorifero coperto. Vaniglia sostituibile con estratto naturale o scorza di agrumi. La fonte distingue il precedente bavarese tedesco, bevanda, dal dessert al cucchiaio sviluppato in Francia."
+      ],
+      "origin": "Francia",
+      "originalTimes": {
+        "cook": "11 min",
+        "prep": "20 min",
+        "rest": "3–4 h in frigorifero"
+      },
+      "originalTitle": "Bavarois",
+      "originalYield": "4 porzioni (stampo 12 cm x 9 cm)",
+      "pdfPage": 113,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4e9281f929a271b13ceed27b59c7dea3808e797045e4d4acfdef473779ce27a8",
+        "previousAppSha256": "4e9281f929a271b13ceed27b59c7dea3808e797045e4d4acfdef473779ce27a8",
+        "reviewedDigest": "debd228a0e99859df8a96bbb18c3322cb4f52600d9f0b97e66e6e94e38040de0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "3–4 h in frigorifero",
+      "reviewedRecordSha256": "debd228a0e99859df8a96bbb18c3322cb4f52600d9f0b97e66e6e94e38040de0",
+      "serves": "4 porzioni (stampo 12 cm x 9 cm)",
+      "source": "https://www.giallozafferano.com.br/receitas/bavarois.html",
+      "steps": [
+        "Mescolare tuorli e zucchero, coprire. Ammollare la gelatina in acqua fredda. Scaldare il latte con semi e baccello di vaniglia quasi a bollore, filtrarlo sui tuorli, amalgamare e riportare nel tegame.",
+        "Cuocere a fuoco basso mescolando fino a 82 °C, misurati con il termometro. Spegnere, incorporare la gelatina senza strizzarla eccessivamente e filtrare di nuovo.",
+        "Raffreddare completamente la crema in un bagnomaria di acqua e ghiaccio mescolando. Semimontare la panna, incorporarla con delicatezza alla crema e versare nello stampo.",
+        "Rassodare 3–4 ore in frigorifero. Immergere lo stampo per pochi secondi in acqua calda e sformare. Decorare a piacere, per esempio con lamponi."
+      ],
+      "temperature": "82 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "4 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02556",
+      "ingredients": [
+        "Latte senza lattosio 500 g",
+        "Cacao amaro senza lattosio 30 g",
+        "Amido di mais 45 g",
+        "Zucchero 135 g",
+        "Cannella in polvere 1 pizzico"
+      ],
+      "name": "Budino al cacao e cannella senza lattosio",
+      "notes": [
+        "Conservare negli stampi coperti in frigorifero per 2 giorni; non congelare. Alternativa della fonte: scorza d'arancia grattugiata dopo aver sciolto le polveri."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "4 min",
+        "prep": "10 min",
+        "rest": "15 min a temperatura ambiente e circa 3 h in frigorifero"
+      },
+      "originalTitle": "Lactose-Free Cocoa and Cinnamon Pudding",
+      "originalYield": "4 pezzi",
+      "pdfPage": 120,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "68e2f9f0246e1d1402b9773077f75d9e4805a26c7a1b52241faf1c50e33b3eed",
+        "previousAppSha256": "68e2f9f0246e1d1402b9773077f75d9e4805a26c7a1b52241faf1c50e33b3eed",
+        "reviewedDigest": "3cffca6c5deeaf6e6a9700361e7b81fda1b30309ca0984b5cad36fb49eb1c249"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "15 min a temperatura ambiente e circa 3 h in frigorifero",
+      "reviewedRecordSha256": "3cffca6c5deeaf6e6a9700361e7b81fda1b30309ca0984b5cad36fb49eb1c249",
+      "serves": "4 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/Lactose-Free-Cocoa-and-Cinnamon-Pudding.html",
+      "steps": [
+        "Mescolare lo zucchero con amido, cacao e cannella setacciati. Incorporare le polveri gradualmente al latte freddo, preferibilmente in tre aggiunte, lavorando con la frusta.",
+        "Cuocere a fuoco medio mescolando senza interruzione per 3–4 minuti, fino all'addensamento e alle prime bolle.",
+        "Bagnare gli stampi, eliminare l'acqua in eccesso e versare il budino caldo. Lasciare intiepidire 15 minuti; coprire con pellicola senza contatto e refrigerare circa 3 ore.",
+        "Sformare quando rassodato e spolverare con cannella (dose di finitura non indicata)."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "1 h 30 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02558",
+      "ingredients": [
+        "Castagne 1 kg",
+        "Latte intero 500 g",
+        "Zucchero 50 g",
+        "Panna fresca liquida 260 g",
+        "Cioccolato fondente 150 g",
+        "Gelatina in fogli 8 g",
+        "Cioccolato fondente per decorare 30 g"
+      ],
+      "name": "Budino di castagne",
+      "notes": [
+        "Conservazione: 3–4 giorni coperto in frigorifero, non congelare. Varianti aromatiche: vaniglia o scorza d'arancia."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 30 min",
+        "prep": "60 min",
+        "rest": "circa 2 h in frigorifero, dopo raffreddamento"
+      },
+      "originalTitle": "Chestnut pudding",
+      "originalYield": "6 porzioni (stampi da circa 7 oz)",
+      "pdfPage": 122,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "bb1537372c494d1498a52fea5fffdf790187b9afb975a6b09839616a614c620a",
+        "previousAppSha256": "bb1537372c494d1498a52fea5fffdf790187b9afb975a6b09839616a614c620a",
+        "reviewedDigest": "04704a69d9a41ff47b212c57b1c5ba8e23647c1fe1a77ace3bf56764a5fb0344"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 2 h in frigorifero, dopo raffreddamento",
+      "reviewedRecordSha256": "04704a69d9a41ff47b212c57b1c5ba8e23647c1fe1a77ace3bf56764a5fb0344",
+      "serves": "6 porzioni (stampi da circa 7 oz)",
+      "source": "https://www.giallozafferano.com/recipes/chestnut-pudding.html",
+      "steps": [
+        "Lessare le castagne coperte circa 30 minuti; verificare con uno stecchino, scolarle e tenerle coperte per ammorbidire la buccia. Sbucciare ed eliminare la pellicina quando sono tiepide.",
+        "Cuocere le castagne nel latte a fuoco moderato almeno un'ora, mescolando ogni tanto fino a ottenere una massa morbida e densa; passarla al passaverdure.",
+        "Ammollare la gelatina in acqua fredda almeno 10 minuti. Scaldare la purea con panna e zucchero a fuoco basso; unire i 150 g di cioccolato tritato, scioglierlo e frullare con il mixer a immersione.",
+        "Fuori dal fuoco incorporare la gelatina strizzata con la frusta; distribuire negli stampi, raffreddare e refrigerare circa 2 ore. Immergere brevemente gli stampi in acqua bollente, sformare e decorare con riccioli dei 30 g di cioccolato rimasti."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "Non applicabile (fusione del burro)",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02587",
+      "ingredients": [
+        "Biscotti digestive 180 g",
+        "Burro 80 g",
+        "Nutella 500 g",
+        "Formaggio fresco cremoso 500 g",
+        "Granella di nocciole 30 g"
+      ],
+      "name": "Cheesecake alla Nutella",
+      "notes": [
+        "Conservazione indicata: 3–4 giorni al massimo in frigorifero; non congelare. Alternative decorative: pistacchi e panna montata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "Non applicabile (fusione del burro)",
+        "prep": "15 min",
+        "rest": "base 30 min in frigo o 10 min freezer; crema almeno 6 h"
+      },
+      "originalTitle": "Cheesecake de Nutella",
+      "originalYield": "10 porzioni (stampo da 24 cm)",
+      "pdfPage": 587,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7d58f19c6335e8e1274564bfc685c6986145b2193d9931f4d3087f75a4adde60",
+        "previousAppSha256": "7d58f19c6335e8e1274564bfc685c6986145b2193d9931f4d3087f75a4adde60",
+        "reviewedDigest": "748f91a9bd37949c4e31978d6416fd1d24d263149fe0df73a1b007ab9d0bd282"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "base 30 min in frigo o 10 min freezer; crema almeno 6 h",
+      "reviewedRecordSha256": "748f91a9bd37949c4e31978d6416fd1d24d263149fe0df73a1b007ab9d0bd282",
+      "serves": "10 porzioni (stampo da 24 cm)",
+      "source": "https://www.giallozafferano.es/recetas/cheesecake-de-nutella.html",
+      "steps": [
+        "Fondere il burro a fuoco basso e intiepidirlo; tritare i biscotti e mescolarli al burro. Imburrare e rivestire lo stampo, compattare il fondo e raffreddare 30 minuti in frigo o 10 in freezer.",
+        "Amalgamare il formaggio con la Nutella aggiungendola gradualmente fino a ottenere una crema liscia; distribuire sulla base e livellare.",
+        "Coprire e refrigerare almeno 6 ore, meglio una notte. Sformare, guarnire con granella di nocciole e servire freddo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "10 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03595",
+      "ingredients": [
+        "Gelatina in fogli 6 g (bavarese)",
+        "Latte 300 g",
+        "Panna fresca 300 g (bavarese)",
+        "Cioccolato bianco 100 g",
+        "Zucchero 50 g",
+        "Tuorli 3",
+        "Vaniglia 1 baccello",
+        "Gelatina in fogli 0,5 g (salsa)",
+        "Panna fresca 100 g (salsa)",
+        "Sciroppo alla menta 10 g",
+        "Menta 6 foglie",
+        "Colorante verde 1 g (facoltativo)"
+      ],
+      "name": "Bavarese al cioccolato bianco con salsa alla menta",
+      "notes": [
+        "La fonte indica 4–5 giorni in frigorifero coperta; propone cannella, anice o liquirizia al posto della vaniglia. Temperatura numerica della crema non dichiarata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "25 min",
+        "rest": "bavarese una notte (meglio un giorno); salsa 1 h infusione e 1 h frigo"
+      },
+      "originalTitle": "Bavarese al cioccolato bianco",
+      "originalYield": "5 stampi da 5 cm di diametro e 7 cm di altezza",
+      "pdfPage": 114,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8f46dabbe97e7f157878ae0a94350087681027a1dcdd00eb41e8bdb738b86d48",
+        "previousAppSha256": "8f46dabbe97e7f157878ae0a94350087681027a1dcdd00eb41e8bdb738b86d48",
+        "reviewedDigest": "0ff352d3356663e13d9b75b3a6aa5609096a34c83ec1ad2547565e67fb8b6d0a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "bavarese una notte (meglio un giorno); salsa 1 h infusione e 1 h frigo",
+      "reviewedRecordSha256": "0ff352d3356663e13d9b75b3a6aa5609096a34c83ec1ad2547565e67fb8b6d0a",
+      "serves": "5 stampi da 5 cm di diametro e 7 cm di altezza",
+      "source": "https://ricette.giallozafferano.it/Bavarese-al-cioccolato-bianco.html",
+      "steps": [
+        "Tritare il cioccolato bianco. Mescolare tuorli e zucchero; portare a bollore latte e 300 g di panna con vaniglia. Togliere il baccello, stemperare i tuorli con parte del liquido caldo e riunire al restante composto.",
+        "Cuocere mescolando fino a velare il cucchiaio; fuori dal fuoco unire i 6 g di gelatina precedentemente ammollata 10 minuti e strizzata, poi il cioccolato. Sciogliere, filtrare e versare negli stampi; refrigerare una notte.",
+        "Per la salsa, far bollire i 100 g di panna con la menta, spegnere e lasciare in infusione 1 ora. Aggiungere sciroppo, eventuale colorante e filtrare; incorporare gli 0,5 g di gelatina ammollata e strizzata, coprire e refrigerare 1 ora.",
+        "Staccare i bordi con un coltello liscio, immergere brevemente gli stampi in acqua calda sotto il bordo, sformare e servire con salsa alla menta."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Iginio Massari",
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "5 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02800",
+      "ingredients": [
+        "Cioccolato fondente al 70% 200 g",
+        "Panna fresca liquida 550 g",
+        "Tuorli 160 g (circa 10)",
+        "Latte intero 100 g",
+        "Miele di acacia 20 g"
+      ],
+      "name": "Mousse al cioccolato",
+      "notes": [
+        "La fonte indica fino a 5 giorni in frigorifero coperta o un mese congelata; consiglia infusioni di vaniglia o scorza d'arancia nel latte. Dose adatta a due strati da 24 cm. Una FAQ cita zucchero a velo non presente nella formula: non aggiungerlo."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "25 min",
+        "rest": "Non obbligatorio; refrigerare fino all'uso"
+      },
+      "originalTitle": "Mousse al cioccolato",
+      "originalYield": "circa 900 g / 5 persone",
+      "pdfPage": 129,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ae9135aca737cd972b1e4948028ba18b480fa6c93e50bf23e0882bc8ad3164b5",
+        "previousAppSha256": "ae9135aca737cd972b1e4948028ba18b480fa6c93e50bf23e0882bc8ad3164b5",
+        "reviewedDigest": "c3395a7c6024a1442fcbda1857821d49a93e5e282c88ef870b849a30548f6444"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non obbligatorio; refrigerare fino all'uso",
+      "reviewedRecordSha256": "c3395a7c6024a1442fcbda1857821d49a93e5e282c88ef870b849a30548f6444",
+      "serves": "circa 900 g / 5 persone",
+      "source": "https://ricette.giallozafferano.it/Mousse-al-cioccolato.html",
+      "steps": [
+        "Tritare il cioccolato e metterlo in una ciotola. Mescolare tuorli, miele e latte in un tegame antiaderente.",
+        "Cuocere mescolando continuamente fino a 82 °C, controllando con un termometro. Versare immediatamente sul cioccolato e mescolare fino a scioglierlo.",
+        "Emulsionare con il mixer a immersione fino a una crema liscia e lucida. Semimontare la panna mantenendola morbida.",
+        "Incorporare una piccola parte di panna con la frusta per uniformare le densità, poi il resto in due riprese con movimenti circolari dal basso verso l'alto. Porzionare e decorare oppure conservare in frigo fino all'uso."
+      ],
+      "temperature": "82 °C per la crema inglese"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "6 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02581",
+      "ingredients": [
+        "Burro 100 g",
+        "Biscotti 200 g",
+        "Ricotta vaccina 500 g",
+        "Formaggio cremoso 250 g",
+        "Succo di limone 100 g (crema)",
+        "Zucchero a velo 150 g",
+        "Scorza di 2 limoni",
+        "Panna fresca 100 g",
+        "Gelatina in fogli 10 g",
+        "Succo di limone 60 g (glassa)",
+        "Curcuma 1/4 cucchiaino",
+        "Zucchero 80 g (glassa)",
+        "Acqua 100 g (glassa)",
+        "Amido di mais 15 g",
+        "Limone 1 (decorazione)",
+        "Menta q.b.",
+        "Zucchero 100 g (decorazione)",
+        "Acqua per decorazione, dose non dichiarata"
+      ],
+      "name": "Cheesecake al limone",
+      "notes": [
+        "La quantità di acqua dello sciroppo decorativo non è indicata; non confonderla con i 100 g della glassa. Conservazione: 2–3 giorni in frigorifero; possibile congelamento a porzioni. Consigliato preparare il giorno prima."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "6 min",
+        "prep": "40 min",
+        "rest": "5 h in testata; base circa 30 min, crema almeno 2 h, glassa almeno 2 h"
+      },
+      "originalTitle": "Lemon cheesecake",
+      "originalYield": "6 porzioni (stampo da 8 pollici)",
+      "pdfPage": 127,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f9b9e311be73d0486207815d0fd413c35ca7dd52c886e66e31a041ecb779b277",
+        "previousAppSha256": "f9b9e311be73d0486207815d0fd413c35ca7dd52c886e66e31a041ecb779b277",
+        "reviewedDigest": "0162a63417a132ff7bee3da2b6d48abe150ea44fa106dd91b43c3db5e90fe351"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "5 h in testata; base circa 30 min, crema almeno 2 h, glassa almeno 2 h",
+      "reviewedRecordSha256": "0162a63417a132ff7bee3da2b6d48abe150ea44fa106dd91b43c3db5e90fe351",
+      "serves": "6 porzioni (stampo da 8 pollici)",
+      "source": "https://www.giallozafferano.com/recipes/Lemon-cheesecake.html",
+      "steps": [
+        "Tritare i biscotti, amalgamare il burro fuso, compattare nello stampo rivestito e refrigerare circa 30 minuti. Ammollare la gelatina circa 10 minuti.",
+        "Lavorare ricotta e formaggio, aggiungere scorza, zucchero a velo e 100 g di succo filtrato. Scaldare la panna quasi a bollore, spegnere e sciogliervi la gelatina strizzata; raffreddare e incorporare gradualmente il composto di formaggio.",
+        "Versare sulla base, livellare e rassodare almeno 2 ore in frigorifero. Per la glassa mescolare acqua, 80 g di zucchero, 60 g di succo filtrato e amido; portare a bollore, spegnere e incorporare la curcuma.",
+        "Raffreddare la glassa, versarla sul dolce e refrigerare altre 2 ore almeno. Per decorare, portare a bollore acqua e 100 g di zucchero, spegnere e versare lo sciroppo sulle fette di limone; lasciare in infusione. Sformare e decorare con limone e menta."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "LuCake",
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "5 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02576",
+      "ingredients": [
+        "Biscotti 150 g (base)",
+        "Noci 110 g (base)",
+        "Burro 65 g",
+        "Yogurt bianco 350 g",
+        "Panna fresca fredda 200 g",
+        "Latte 90 g",
+        "Zucchero 60 g",
+        "Miele 20 g (crema)",
+        "Gelatina in fogli 10 g",
+        "Fichi 4",
+        "Miele 20 g (decorazione)",
+        "Noci 10 g (decorazione)"
+      ],
+      "name": "Cheesecake ai fichi",
+      "notes": [
+        "Conservare 1–2 giorni in frigorifero coperta, meglio senza decorazione. Non congelare. Per uno stampo da 9,5 pollici la fonte indica una dose e mezza."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "40 min",
+        "rest": "base almeno 20 min; crema almeno 4 h, preferibilmente una notte"
+      },
+      "originalTitle": "Fig cheesecake",
+      "originalYield": "8 porzioni (stampo a cerniera da 8 pollici)",
+      "pdfPage": 124,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9d67b01cdc95ff15ee12503ada6224f1a6b168cae4a1f448027f0a25c172d42b",
+        "previousAppSha256": "9d67b01cdc95ff15ee12503ada6224f1a6b168cae4a1f448027f0a25c172d42b",
+        "reviewedDigest": "419399f26c930f272e42d0b550832c519282c8fa34b57def1defbe2c2116b677"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "base almeno 20 min; crema almeno 4 h, preferibilmente una notte",
+      "reviewedRecordSha256": "419399f26c930f272e42d0b550832c519282c8fa34b57def1defbe2c2116b677",
+      "serves": "8 porzioni (stampo a cerniera da 8 pollici)",
+      "source": "https://www.giallozafferano.com/recipes/fig-cheesecake.html",
+      "steps": [
+        "Fondere e intiepidire il burro. Tritare biscotti e 110 g di noci, amalgamare il burro e compattare nello stampo rivestito; refrigerare 20 minuti.",
+        "Ammollare la gelatina in acqua fredda. Scaldare latte, zucchero e 20 g di miele, sciogliervi la gelatina strizzata, intiepidire, amalgamare lo yogurt e lasciare raffreddare in frigorifero.",
+        "Montare la panna fredda e incorporarla con delicatezza. Distribuire sulla base, livellare e refrigerare almeno 4 ore, meglio tutta la notte.",
+        "Affettare i fichi e tritare grossolanamente i 10 g di noci rimasti. Sformare e decorare con fichi, noci e 20 g di miele secondo preferenza; servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "5 min in scheda; 7–8 min tostatura nel metodo",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02585",
+      "ingredients": [
+        "Pandoro 200 g",
+        "Burro 55 g",
+        "Formaggio fresco spalmabile 300 g",
+        "Panna fresca liquida 50 g",
+        "Gelatina in fogli 9 g",
+        "Zucchero a velo 50 g",
+        "Prosecco 100 g",
+        "Vaniglia 1 baccello",
+        "Ribes 4 rametti"
+      ],
+      "name": "Cheesecake al prosecco",
+      "notes": [
+        "La fonte indica 2–3 giorni in frigorifero coperto o congelamento. Alternativa decorativa: frutta secca, lici, kumquat, frutto della passione, mango. Il prosecco è aggiunto a freddo: contiene alcol. La durata indicata in testata differisce da quella della tostatura: entrambe conservate."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min in scheda; 7–8 min tostatura nel metodo",
+        "prep": "40 min",
+        "rest": "base 30 min; crema almeno 4 h"
+      },
+      "originalTitle": "Cheesecake al prosecco",
+      "originalYield": "4 pezzi (stampini 7,5 x 4,5 cm)",
+      "pdfPage": 587,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ffeb4e2e3f29e0bdc6948c6ec15e40b8b2e7b53851c8742d24ab58f8524d6380",
+        "previousAppSha256": "ffeb4e2e3f29e0bdc6948c6ec15e40b8b2e7b53851c8742d24ab58f8524d6380",
+        "reviewedDigest": "a9d3f55b497ec9595c7b5fa9aaed2a515f69f0a4f1611f990e480f32f72d025b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "base 30 min; crema almeno 4 h",
+      "reviewedRecordSha256": "a9d3f55b497ec9595c7b5fa9aaed2a515f69f0a4f1611f990e480f32f72d025b",
+      "serves": "4 pezzi (stampini 7,5 x 4,5 cm)",
+      "source": "https://ricette.giallozafferano.it/Cheesecake-al-prosecco.html",
+      "steps": [
+        "Tagliare il pandoro a pezzi da 1–2 cm, tostarli 7–8 minuti a fuoco medio mescolando finché asciutti e dorati. Tritarli finemente e incorporare il burro fuso.",
+        "Compattare nei quattro stampi rivestiti, su carta forno, e refrigerare 30 minuti. Ammollare la gelatina in acqua fresca; scaldare la panna senza bollirla, sciogliervi la gelatina scolata e lasciare intiepidire.",
+        "Lavorare il formaggio con la frusta, unire prosecco, semi di vaniglia e zucchero a velo, poi panna e gelatina.",
+        "Riempire gli stampi, refrigerare almeno 4 ore, sfilare stampi e rivestimento; guarnire ogni porzione con un rametto di ribes."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "Non applicabile",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02557",
+      "ingredients": [
+        "Cachi maturi 700 g",
+        "Cacao amaro 40 g",
+        "Cacao per decorare q.b.",
+        "Mandorle tritate o frutta secca caramellata q.b."
+      ],
+      "name": "Budino cachi e cacao",
+      "notes": [
+        "La fonte indica 2–3 giorni in frigorifero. Se i cachi sono poco dolci, propone cacao zuccherato o poco zucchero. Non occorre gelatina."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "Non applicabile",
+        "prep": "10 min",
+        "rest": "almeno 8 h in frigorifero"
+      },
+      "originalTitle": "Persimmon and Cocoa Pudding",
+      "originalYield": "4 porzioni",
+      "pdfPage": 121,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "355d30ca046c0532930e8a1323c531f96aaf942d849bd13d714c9435d09861a1",
+        "previousAppSha256": "355d30ca046c0532930e8a1323c531f96aaf942d849bd13d714c9435d09861a1",
+        "reviewedDigest": "716d021724a1c60b7a2db9e26d28835669d00e9d36ad85edb1451c50858cb2a4"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 8 h in frigorifero",
+      "reviewedRecordSha256": "716d021724a1c60b7a2db9e26d28835669d00e9d36ad85edb1451c50858cb2a4",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/persimmon-and-cocoa-pudding.html",
+      "steps": [
+        "Privare i cachi di picciolo e buccia, raccoglierne la polpa e frullarla con il cacao fino a ottenere una crema uniforme.",
+        "Dividere il composto fra quattro stampi da circa 5 oz, sistemarli su un vassoio, coprire e refrigerare almeno 8 ore.",
+        "Sformare sui piatti e decorare con cacao e mandorle o frutta secca caramellata."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Lulù Gargari",
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "5 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02540",
+      "ingredients": [
+        "Biscotti 150 g",
+        "Burro 75 g (base)",
+        "Formaggio cremoso 250 g",
+        "Mascarpone 250 g",
+        "Panna fresca 250 g",
+        "Cachi morbidi maturi 2",
+        "Zucchero a velo 60 g",
+        "Vaniglia q.b.",
+        "Cachi mela 2",
+        "Burro 10 g (cachi saltati)",
+        "Zucchero a velo 10 g (cachi saltati)",
+        "Mandorle a lamelle, quantità non dichiarata"
+      ],
+      "name": "Cheesecake ai cachi in bicchiere",
+      "notes": [
+        "Conservazione: fino a 2 giorni coperto in frigorifero. La fonte propone biscotti integrali o al cacao, cannella/noce moscata, yogurt greco in alternativa e altra frutta."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Persimmon cheesecake cups",
+      "originalYield": "4 bicchieri da circa 5,6 oz",
+      "pdfPage": 115,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "24bd021588e7eea61a5af9ea528d462ce9e8c3aff288f6677af050ba43c8cb2a",
+        "previousAppSha256": "24bd021588e7eea61a5af9ea528d462ce9e8c3aff288f6677af050ba43c8cb2a",
+        "reviewedDigest": "4b5a4e9920368e133bc74e813c66f1085e1f6a159cdc90bff347be443e3e7f6e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "4b5a4e9920368e133bc74e813c66f1085e1f6a159cdc90bff347be443e3e7f6e",
+      "serves": "4 bicchieri da circa 5,6 oz",
+      "source": "https://www.giallozafferano.com/recipes/persimmon-cheesecake-cups.html",
+      "steps": [
+        "Prelevare la polpa dei cachi morbidi. Sbucciare e tagliare a dadini quelli sodi; saltarli con 10 g di burro e 10 g di zucchero a velo per 5 minuti, fino a leggera caramellatura.",
+        "Lavorare formaggio, mascarpone, 60 g di zucchero a velo e panna con le fruste elettriche; aggiungere vaniglia e polpa dei cachi morbidi.",
+        "Frullare separatamente i biscotti con i 75 g di burro ammorbidito. Distribuire le briciole sul fondo dei bicchieri, aggiungere crema, cachi saltati e un bordo di crema.",
+        "Completare con briciole, cubetti rimasti e lamelle di mandorle."
+      ],
+      "temperature": null
     }
   ]
 }
