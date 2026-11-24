@@ -11288,6 +11288,771 @@
         "Filtrare in altro recipiente, imbottigliare con imbuto, chiudere e attendere alcuni giorni in frigorifero prima del servizio."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "5 min",
+      "description": "Il famoso drink alcolico a base di zabaione e chantilly si veste a nuovo e si arricchisce di un tocco di calore del sud... bombardino al limoncello!",
+      "id": "GZ-03806",
+      "ingredients": [
+        "Tuorli 90 g (circa 5 uova medie)",
+        "zucchero 25 g",
+        "Moscato 35 g",
+        "limoncello 40 g",
+        "Decorazione: scorza di un limone",
+        "panna fresca liquida 300 g"
+      ],
+      "name": "Bombardino al limoncello",
+      "notes": [
+        "Servire appena assemblato. La fonte indica per il solo zabaione 3–4 giorni in frigorifero, da montare nuovamente prima dell'uso; non congelare.",
+        "Guarnizioni alternative indicate: limone o zenzero candito, cacao o caffè."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Bombardino al limoncello",
+      "originalYield": "4 bicchieri",
+      "pdfPage": 60,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4377e0cc73e3e8a249f17dcf19d48b4cf9990af0120aee6e44495bf59411ebd2",
+        "previousAppSha256": "4377e0cc73e3e8a249f17dcf19d48b4cf9990af0120aee6e44495bf59411ebd2",
+        "reviewedDigest": "396e6d19ed9a412114d8b38561fd3bdca55335dd47d44a411cf975a6eca1e2b6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "396e6d19ed9a412114d8b38561fd3bdca55335dd47d44a411cf975a6eca1e2b6",
+      "serves": "4 bicchieri",
+      "source": "https://www.giallozafferano.com/recipes/bombardino-al-limoncello.html",
+      "steps": [
+        "Lavare il limone, ricavare sottili strisce da due porzioni di scorza e immergerle in acqua e ghiaccio; grattugiare la scorza restante nella panna.",
+        "Montare la panna aromatizzata fino a consistenza soda e soffice; trasferire in una sac à poche con bocchetta liscia e refrigerare.",
+        "Scaldare Moscato, limoncello e circa metà dello zucchero a fuoco basso finché si scioglie.",
+        "In una ciotola a bagnomaria senza contatto con l'acqua, lavorare i tuorli con il restante zucchero. Versare un poco di sciroppo caldo continuando a montare, poi aggiungere rapidamente il resto e montare fino a ottenere uno zabaione leggero e spumoso alla temperatura indicata.",
+        "Distribuire nei quattro bicchieri; completare con la panna lungo il bordo e poi a spirale, guarnire con le scorze e servire caldo."
+      ],
+      "temperature": "180 °F (fonte inglese); circa 82 °C nella scheda storica"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "10 min",
+      "description": "Il punch all'arancia è una bevanda alcolica tipica dei paesi anglosassoni, servita calda. E' caratterizzata da un gusto fruttato e dolce",
+      "id": "GZ-03828",
+      "ingredients": [
+        "Acqua 1 l",
+        "zucchero 700 g",
+        "Aperol 700 ml",
+        "arance non trattate 3."
+      ],
+      "name": "Punch all'arancia",
+      "notes": [
+        "La fonte indica 3–4 giorni in frigorifero, in contenitore chiuso, con riscaldamento prima del servizio.",
+        "Possibili altri agrumi o sostituzione del liquore a pari dose; cannella facoltativa."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Orange punch",
+      "originalYield": "10 persone / circa 2 l",
+      "pdfPage": 72,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "beb9ecd8b2e715f45d90f2bf426a9820fcb8ec9b182b19dd7a7855b422e32f79",
+        "previousAppSha256": "beb9ecd8b2e715f45d90f2bf426a9820fcb8ec9b182b19dd7a7855b422e32f79",
+        "reviewedDigest": "8face9ed7c8cab2d6e1d0e72ac95d9a86693cb37e7e0e97d894c93b621d67e96"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "8face9ed7c8cab2d6e1d0e72ac95d9a86693cb37e7e0e97d894c93b621d67e96",
+      "serves": "10 persone / circa 2 l",
+      "source": "https://www.giallozafferano.com/recipes/orange-punch.html",
+      "steps": [
+        "Lavare e asciugare le arance; prelevare le scorze, spremerle e filtrare il succo.",
+        "Sciogliere lo zucchero nell'acqua calda a fuoco basso per ottenere uno sciroppo.",
+        "Mescolare il succo d'arancia con l'Aperol, aggiungere lo sciroppo e le scorze; lasciare in infusione per qualche minuto.",
+        "Servire il punch caldo. Bevanda alcolica destinata ad adulti."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "20 min",
+      "description": "La newsletter presenta questo piatto, ma non ne conserva una descrizione completa. La fonte è disponibile tramite il collegamento qui sotto",
+      "id": "GZ-00047",
+      "ingredients": [
+        "Funghi champignon 250 g",
+        "porro 1",
+        "prosciutto cotto 130 g",
+        "pasta sfoglia 460 g (2 confezioni)",
+        "uova 4",
+        "Grana Padano DOP 70 g",
+        "panna fresca liquida 200 ml",
+        "aglio 1 spicchio",
+        "olio EVO 4 cucchiai",
+        "sale e pepe q.b.",
+        "burro per gli stampi, quantità non dichiarata"
+      ],
+      "name": "Mini quiche ai funghi, porri e prosciutto",
+      "notes": [
+        "Resa dichiarata 12 mini quiche; nel metodo sono indicati 14 stampi.",
+        "L'elenco indica quattro cucchiai d'olio, il metodo ne assegna tre; impiego del quarto non dichiarato.",
+        "La versione inglese ufficiale propone anche una torta unica usando metà sfoglia, mantenendo il resto."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Mini quiche de champiñones, puerros y jamón",
+      "originalYield": "12 mini quiche",
+      "pdfPage": 46,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6e7a626202f3fb1ee90c655e1440bbc4b77e0306fd0fabe19f21b65c63f30841",
+        "previousAppSha256": "6e7a626202f3fb1ee90c655e1440bbc4b77e0306fd0fabe19f21b65c63f30841",
+        "reviewedDigest": "f942e9ce52c5e444b3256cb24377566fcdb5ed8db5ee5ba43b6d11ce2090af01"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "f942e9ce52c5e444b3256cb24377566fcdb5ed8db5ee5ba43b6d11ce2090af01",
+      "serves": "12 mini quiche",
+      "source": "https://www.giallozafferano.es/recetas/mini-quiche-de-champinones-puerros-y-jamon.html",
+      "steps": [
+        "Pulire e tagliare i funghi; rosolare l'aglio in due cucchiai d'olio, aggiungere i funghi e condire con sale e pepe.",
+        "Affettare il porro sottile e cuocerlo in un'altra padella con un cucchiaio d'olio per 15–20 minuti.",
+        "Sbattere uova e panna, incorporare il Grana grattugiato e regolare sale e pepe.",
+        "Imburrare gli stampi da circa 8 cm (il metodo ne indica 14); ritagliare dischi di sfoglia più grandi degli stampi e rivestirli.",
+        "Distribuire funghi, porro e prosciutto a dadini; versare il composto di uova e panna.",
+        "Cuocere in forno ventilato a 180 °C per circa 20 minuti fino a doratura."
+      ],
+      "temperature": "180 °C ventilato (originale storico; fonte inglese 356 °F)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "5 min",
+      "description": "Il liquore al mandarino è un ottimo digestivo, ideale da gustare freddo dopo i pasti, oppure da utilizzare per aromatizzare i vostri dolci",
+      "id": "GZ-03820",
+      "ingredients": [
+        "Mandarini non trattati 20",
+        "alcol puro alimentare 96% vol 1 l",
+        "acqua 1 l",
+        "zucchero 1 kg."
+      ],
+      "name": "Liquore al mandarino",
+      "notes": [
+        "Il riepilogo della fonte indica 15–20 giorni complessivi, mentre il metodo prevede 5 giorni più 10–20 giorni: conservare entrambi senza uniformarli.",
+        "Conservazione indicata dalla fonte circa tre mesi; possibili aromi chiodi di garofano, cannella, rosmarino o scorza d'arancia."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "30 min",
+        "rest": "macerazione 5 giorni; riposo 10–20 giorni"
+      },
+      "originalTitle": "Mandarin liqueur",
+      "originalYield": "circa 2,6 l di liquore",
+      "pdfPage": 71,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "98f4398381ae662f3036210838889b351e8eaecbc2941a03713ef1e48e64838d",
+        "previousAppSha256": "98f4398381ae662f3036210838889b351e8eaecbc2941a03713ef1e48e64838d",
+        "reviewedDigest": "7548ca69c502aad38666d229459ad35fb645936a14af4cc1eb181b7734222dbd"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "macerazione 5 giorni; riposo 10–20 giorni",
+      "reviewedRecordSha256": "7548ca69c502aad38666d229459ad35fb645936a14af4cc1eb181b7734222dbd",
+      "serves": "circa 2,6 l di liquore",
+      "source": "https://www.giallozafferano.com/recipes/mandarin-liqueur.html",
+      "steps": [
+        "Lavare e asciugare i mandarini, ricavare la scorza evitando l'albedo.",
+        "Coprire le scorze con l'alcol in un recipiente chiuso; macerare per cinque giorni in luogo fresco, al riparo dalla luce, agitando ogni giorno.",
+        "Portare a bollore acqua e zucchero per formare lo sciroppo; lasciarlo raffreddare completamente.",
+        "Unire lo sciroppo all'infusione e attendere altri 10–20 giorni agitando quotidianamente, fino a variazione di colore e riduzione del liquido.",
+        "Filtrare, imbottigliare e servire freddo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "",
+      "description": "La newsletter presenta questo piatto, ma non ne conserva una descrizione completa. La fonte è disponibile tramite il collegamento qui sotto",
+      "id": "GZ-03832",
+      "ingredients": [
+        "Prosecco secco 750 ml",
+        "liquore all'arancia 50 ml",
+        "succo di mezza arancia",
+        "soda q.b.",
+        "fragole 100 g",
+        "arancia 1",
+        "limone 1",
+        "mela Gala ½",
+        "uva nera 50 g",
+        "zucchero 60 g",
+        "cannella in stecche 2",
+        "ghiaccio q.b."
+      ],
+      "name": "Sangria bianca",
+      "notes": [
+        "La fonte indica conservazione per un giorno in frigorifero; possibili mango, ananas, liquore al limone o vino bianco, regolando dolcezza e acidità.",
+        "Variante distinta dalla sangria rossa GZ-03831."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": null,
+        "prep": "15 min",
+        "rest": "1–8 ore"
+      },
+      "originalTitle": "Sangría blanca",
+      "originalYield": "8 persone",
+      "pdfPage": 837,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "51461fe079162e486ffd6d7c8555d87947a9ab438d1135cbb16930a604c370a8",
+        "previousAppSha256": "51461fe079162e486ffd6d7c8555d87947a9ab438d1135cbb16930a604c370a8",
+        "reviewedDigest": "7395e76ed4df5f70602fbd2f070dc498c5db2db8ce370f2de00d210342df3d98"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1–8 ore",
+      "reviewedRecordSha256": "7395e76ed4df5f70602fbd2f070dc498c5db2db8ce370f2de00d210342df3d98",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.es/recetas/sangria-blanca.html",
+      "steps": [
+        "Sciogliere lo zucchero nel succo d'arancia e nel liquore.",
+        "Tagliare la mela a cubetti di circa 1 cm, affettare limone e arancia con la buccia.",
+        "Unire uva (dimezzare gli acini grandi), fragole a pezzi e cannella.",
+        "Versare il Prosecco, mescolare e coprire.",
+        "Macerare in frigorifero almeno un'ora, fino a 6–8 ore.",
+        "Distribuire con un mestolo nei bicchieri con ghiaccio e completare con soda a piacere."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "5 min",
+      "description": "I canapè sono deliziose tartine formate da fette di pane o pancarrè, private della crosta, spalmate di burro e farcite con i più svariati ingredienti",
+      "id": "GZ-00015",
+      "ingredients": [
+        "Crema di gamberi: gamberi 130 g",
+        "aglio 1 spicchio",
+        "formaggio spalmabile 50 g",
+        "olio EVO, sale, pepe e basilico q.b.",
+        "Crema alle erbe: formaggio spalmabile 60 g",
+        "erba cipollina, sale e pepe q.b.",
+        "Basi bianche: pane bianco 90 g",
+        "prosciutto cotto 1 fetta",
+        "salmone affumicato 40 g",
+        "zucchine 8 rondelle",
+        "scorza di limone 1",
+        "basilico, erba cipollina e pepe q.b.",
+        "Basi scure: pane di segale 150 g",
+        "cetriolini 5",
+        "gamberi con coda 5",
+        "pomodorini 4",
+        "salame 2 fette",
+        "prosciutto crudo 1 fetta",
+        "oliva nera 1",
+        "zucchine 10 rondelle",
+        "maionese 30 g",
+        "basilico q.b."
+      ],
+      "name": "Canapè",
+      "notes": [
+        "La fonte indica due fette di salame da dividere in quarti per cinque canapè: non specifica l'utilizzo delle porzioni eccedenti.",
+        "Conservazione indicata dalla fonte: massimo un giorno in frigorifero in contenitore chiuso; non congelare."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "60 min",
+        "rest": null
+      },
+      "originalTitle": "Canapè",
+      "originalYield": "30 canapè (10 pane bianco, 20 pane di segale)",
+      "pdfPage": 27,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6e5afcd2775e56a370e8b3c2bcc281a8a66791c984a58346bae6bdd98e4290cb",
+        "previousAppSha256": "6e5afcd2775e56a370e8b3c2bcc281a8a66791c984a58346bae6bdd98e4290cb",
+        "reviewedDigest": "820c64a751838a043a62f6d4ff919042d59c2f475a872d5666a71e2c4ae6b12f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "820c64a751838a043a62f6d4ff919042d59c2f475a872d5666a71e2c4ae6b12f",
+      "serves": "30 canapè (10 pane bianco, 20 pane di segale)",
+      "source": "https://ricette.giallozafferano.it/Canape.html",
+      "steps": [
+        "Amalgamare il formaggio da 60 g con erba cipollina, sale e pepe. Saltare i gamberi da 130 g con aglio e olio, frullarli con 50 g di formaggio, condire con basilico, sale e pepe.",
+        "Affettare e grigliare le 18 rondelle di zucchina. Ricavare cinque cerchi e cinque fiori dal pane bianco.",
+        "Salmone: spalmare crema alle erbe sui cinque cerchi, aggiungere cinque rondelle di zucchina, salmone a rosellina, erba cipollina, scorza di limone e pepe.",
+        "Cotto: ritagliare il prosciutto con la forma dei fiori, farcire le cinque basi con crema, prosciutto e altra crema; dividere le tre rondelle rimaste a metà e decorare.",
+        "Ricavare cinque dischi e altre quindici basi dal pane di segale. Saltare brevemente i cinque gamberi con coda con aglio e olio, dosi supplementari non specificate.",
+        "Gamberi: distribuire crema di gamberi sui cinque dischi, completare con i gamberi con coda, quarti di pomodoro e basilico.",
+        "Zucchine: dimezzare le dieci rondelle di zucchina, spalmare crema di gamberi su cinque basi e disporre le mezze rondelle a fiore, con basilico.",
+        "Crudo: su cinque rettangoli distribuire crema alle erbe, striscioline arrotolate di prosciutto crudo, un quarto di pomodoro e basilico.",
+        "Salame: spalmare maionese sui cinque rettangoli rimasti, completare con salame tagliato in quarti e arrotolato, cetriolino e oliva affettata.",
+        "Guarnire al servizio e conservare al fresco."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "20 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-03833",
+      "ingredients": [
+        "Mele Gala 400 g (da pulire)",
+        "zucchero 80 g",
+        "succo di limone 40 g",
+        "acqua 500 g"
+      ],
+      "name": "Succo di mela fatto in casa",
+      "notes": [
+        "La fonte indica tre giorni in frigorifero; non è attestata conservazione a temperatura ambiente. Seguire le indicazioni ufficiali per conserve domestiche."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Zumo de manzana casero",
+      "originalYield": "circa 800 ml",
+      "pdfPage": 837,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b9fcc9751c7b02f0c4cd33b4dfe36047a0c0a8449dce680cfc1e316c1e52763b",
+        "previousAppSha256": "b9fcc9751c7b02f0c4cd33b4dfe36047a0c0a8449dce680cfc1e316c1e52763b",
+        "reviewedDigest": "c4ffa052103a6178c263b56fd1e29e425ef584396d87aebf6f8c9cda373186bc"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "c4ffa052103a6178c263b56fd1e29e425ef584396d87aebf6f8c9cda373186bc",
+      "serves": "circa 800 ml",
+      "source": "https://www.giallozafferano.es/recetas/zumo-de-manzana-casero.html",
+      "steps": [
+        "Lava e sbuccia le mele, elimina il torsolo e tagliale a pezzi.",
+        "Raccogli le mele in una ciotola, condiscile con il succo di limone e tienile da parte.",
+        "Scalda l'acqua con lo zucchero in un pentolino alto e fai bollire mescolando per circa 3 minuti.",
+        "Aggiungi le mele e cuoci a fuoco medio per circa 15 minuti.",
+        "Frulla il tutto con un frullatore a immersione fino a ottenere un succo uniforme. Versa in bottiglie pulite e conserva in frigorifero."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "",
+      "description": "La sangria è una tradizionale bevanda alcolica dolce di origine spagnola che viene preparata con vino rosso, frutta ed è servita ghiacciata",
+      "id": "GZ-03831",
+      "ingredients": [
+        "Vino rosso corposo 1 l",
+        "gassosa 500 g",
+        "Cognac 50 g",
+        "mele Evelina 230 g",
+        "arance 600 g",
+        "pesche 400 g",
+        "limoni 350 g",
+        "zucchero 120 g",
+        "baccello di vaniglia 1",
+        "cannella in stecche 2",
+        "chiodi di garofano 6",
+        "ghiaccio 450 g"
+      ],
+      "name": "Sangria",
+      "notes": [
+        "La fonte indica 2–3 giorni in frigorifero; soda al posto della gassosa per minore dolcezza, frutta alternativa non troppo matura.",
+        "Distinta dalla sangria bianca GZ-03832."
+      ],
+      "origin": "Spagna",
+      "originalTimes": {
+        "cook": null,
+        "prep": "15 min",
+        "rest": "alcune ore o una notte"
+      },
+      "originalTitle": "Sangría",
+      "originalYield": "8 persone",
+      "pdfPage": 837,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "78b028bef813fe69616813b350defccad54ca2cddf27c0d8979fc4f6ac4b8ffe",
+        "previousAppSha256": "78b028bef813fe69616813b350defccad54ca2cddf27c0d8979fc4f6ac4b8ffe",
+        "reviewedDigest": "db60a8756d36eaca914fc7953bf7681a5add9410aea3954817e3db0c43740d4a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "alcune ore o una notte",
+      "reviewedRecordSha256": "db60a8756d36eaca914fc7953bf7681a5add9410aea3954817e3db0c43740d4a",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.es/recetas/sangria.html",
+      "steps": [
+        "Lavare la frutta; tagliare mele e pesche a cubetti senza sbucciarle.",
+        "Spremere un limone e un'arancia; dividere gli agrumi rimasti fra fette e cubetti con la buccia.",
+        "Riunire frutta, succhi, vino rosso e zucchero in una grande ciotola.",
+        "Incidere la vaniglia, aggiungere semi e baccello; unire cannella e chiodi di garofano, direttamente o in un infusore.",
+        "Versare il Cognac, coprire e lasciare in frigorifero almeno 2–3 ore o per tutta la notte.",
+        "Rimuovere spezie e baccello, unire gassosa e ghiaccio, mescolare e servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "15 min",
+      "description": "Il liquore di ciliegie è un elegante digestivo da servire a fine pasto, ma potrebbe diventare anche una gradita idea regalo per i vostri amici!",
+      "id": "GZ-03824",
+      "ingredients": [
+        "Ciliegie denocciolate 400 g",
+        "alcol puro a 95° 400 g",
+        "acqua 520 g",
+        "zucchero 95 g"
+      ],
+      "name": "Liquore di ciliegie",
+      "notes": [
+        "La fonte indica conservazione circa 90 giorni in luogo fresco o frigorifero; dopo apertura in frigorifero.",
+        "Varianti aromatiche indicate: vaniglia, cannella, scorza d'arancia. Resa espressa in grammi, non convertita."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "15 min",
+        "rest": "4 settimane complessive"
+      },
+      "originalTitle": "Licor de cerezas",
+      "originalYield": "circa 900 g di liquore",
+      "pdfPage": 835,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e07445bb1b60f8a2d40d27f9d2054c2e72469df69a9d9193682e85b2c3703b82",
+        "previousAppSha256": "e07445bb1b60f8a2d40d27f9d2054c2e72469df69a9d9193682e85b2c3703b82",
+        "reviewedDigest": "cedf2431f9b6e0e98449ac68de39018b53d9c4b1399ed2b5fc92946f52416ec4"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "4 settimane complessive",
+      "reviewedRecordSha256": "cedf2431f9b6e0e98449ac68de39018b53d9c4b1399ed2b5fc92946f52416ec4",
+      "serves": "circa 900 g di liquore",
+      "source": "https://www.giallozafferano.es/recetas/licor-de-cerezas.html",
+      "steps": [
+        "Lavare, asciugare e snocciolare le ciliegie.",
+        "Sistemarle in un barattolo di vetro, coprirle con l’alcol, chiudere e lasciare macerare a temperatura ambiente per una settimana.",
+        "Filtrare il liquido, separandolo dalla frutta.",
+        "Scaldare acqua e zucchero per circa 15 minuti, fino a ottenere uno sciroppo; lasciarlo intiepidire.",
+        "Unire lo sciroppo all’infuso alcolico e mescolare con cura.",
+        "Trasferire in un contenitore a chiusura ermetica e far riposare altre tre settimane prima di imbottigliare."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "10 min",
+      "description": "La newsletter presenta questo piatto, ma non ne conserva una descrizione completa. La fonte è disponibile tramite il collegamento qui sotto",
+      "id": "GZ-03819",
+      "ingredients": [
+        "Latte intero 750 g",
+        "zucchero 250 g",
+        "panna fresca liquida 250 g",
+        "alcol puro 150 g",
+        "cacao amaro 100 g",
+        "cioccolato fondente 100 g."
+      ],
+      "name": "Liquore al cioccolato",
+      "notes": [
+        "La fonte indica maturazione di 20–30 giorni e conservazione in frigorifero fino a circa 90 giorni; non congelare.",
+        "Possibili aromi: cardamomo, scorza d'arancia o peperoncino in infusione nel latte durante la notte."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": "maturazione 20-30 giorni"
+      },
+      "originalTitle": "Chocolate liqueur",
+      "originalYield": "circa 1,3 l",
+      "pdfPage": 70,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "dc85f4054aead78b8494d4d66990fbc09fe58f2abe3b9b806aaacf6c5be913f9",
+        "previousAppSha256": "dc85f4054aead78b8494d4d66990fbc09fe58f2abe3b9b806aaacf6c5be913f9",
+        "reviewedDigest": "629f775a278eac52ddea1300255db270151dd3a4048072edb96d688629f6e15e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "maturazione 20-30 giorni",
+      "reviewedRecordSha256": "629f775a278eac52ddea1300255db270151dd3a4048072edb96d688629f6e15e",
+      "serves": "circa 1,3 l",
+      "source": "https://www.giallozafferano.com/recipes/chocolate-liqueur.html",
+      "steps": [
+        "Unire latte, panna e zucchero in una casseruola e scaldare; aggiungere il cacao poco alla volta, mescolando per evitare grumi.",
+        "Portare a leggero bollore e continuare a rimestare per circa dieci minuti; aggiungere il cioccolato spezzettato e farlo sciogliere.",
+        "Togliere dal fuoco e lasciare intiepidire; incorporare l'alcol e filtrare con un colino fine.",
+        "Quando il composto è freddo, imbottigliarlo in recipienti puliti e asciutti. Conservare in frigorifero e attendere 20-30 giorni prima del consumo; agitare prima di servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "30 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-03836",
+      "ingredients": [
+        "Vino rosso 1 l (Teroldego)",
+        "zucchero 100 g",
+        "scorza di limone 1 (non trattato)",
+        "scorza d'arancia 1 (non trattata)",
+        "cannella in stecche 2",
+        "chiodi di garofano 8",
+        "bacche di ginepro 5",
+        "anice stellato 1",
+        "noce moscata q.b."
+      ],
+      "name": "Vin brulé (mulled wine)",
+      "notes": [
+        "La fonte indica due giorni in frigorifero; propone altri vini rossi, agrumi a spicchi e una variante di cottura più breve (10 minuti).",
+        "La versione qui documentata prevede 30 minuti di cottura e non include flambatura; distinta da GZ-03835."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "5 min",
+        "rest": null
+      },
+      "originalTitle": "Vino caliente (mulled wine)",
+      "originalYield": "4 persone",
+      "pdfPage": 838,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1ebf8e785401e690989f8db0e56b8de355ab38f9edd23de2471e702ee4cc9a3f",
+        "previousAppSha256": "1ebf8e785401e690989f8db0e56b8de355ab38f9edd23de2471e702ee4cc9a3f",
+        "reviewedDigest": "ab6a3368bfc9eddb23cb42c046cb6249fa6076cabe952327fd76c11d8b0d6784"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "ab6a3368bfc9eddb23cb42c046cb6249fa6076cabe952327fd76c11d8b0d6784",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/Vino-caliente-mulled-wine.html",
+      "steps": [
+        "Metti lo zucchero in una casseruola e aggiungi anice stellato, chiodi di garofano e bacche di ginepro.",
+        "Unisci le stecche di cannella, poca noce moscata grattugiata e le scorze di arancia e limone.",
+        "Versa il vino rosso e mescola per sciogliere lo zucchero.",
+        "Porta a bollore e lascia sobbollire per circa 30 minuti; filtra per eliminare spezie e scorze e servi caldo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "10 min",
+      "description": "Ricetta recuperata e verificata nel ricettario personale; ingredienti e procedimento rielaborati dalla fonte editoriale.",
+      "id": "GZ-03822",
+      "ingredients": [
+        "Melagrana 1 kg (circa 690 g di chicchi)",
+        "alcol alimentare puro 500 ml (96°)",
+        "zucchero 500 g",
+        "acqua 800 g"
+      ],
+      "name": "Liquore alla melagrana",
+      "notes": [
+        "La fonte ufficiale inglese indica circa 90 giorni in luogo fresco o in frigorifero e suggerisce cannella durante la macerazione.",
+        "Seguire le indicazioni ufficiali di sicurezza per le conserve domestiche; nessuna durata indipendentemente certificata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "60 min",
+        "rest": "12 giorni macerazione + 20 giorni riposo"
+      },
+      "originalTitle": "Licor de granada",
+      "originalYield": "circa 1,5 l",
+      "pdfPage": 835,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a668806262f3e2e8007e9345ee3290f6f0146b7317f1d122fa6f90f023e91fcb",
+        "previousAppSha256": "a668806262f3e2e8007e9345ee3290f6f0146b7317f1d122fa6f90f023e91fcb",
+        "reviewedDigest": "5b049846ceb5ef824060a3e8262067ba85afdcc2bd5df05b9c19b63151f28b00"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "12 giorni macerazione + 20 giorni riposo",
+      "reviewedRecordSha256": "5b049846ceb5ef824060a3e8262067ba85afdcc2bd5df05b9c19b63151f28b00",
+      "serves": "circa 1,5 l",
+      "source": "https://www.giallozafferano.es/recetas/licor-de-granada.html",
+      "steps": [
+        "Sgrana le melagrane eliminando con cura le membrane bianche.",
+        "Raccogli i chicchi in un vaso a chiusura ermetica, coprili con l'alcol alimentare e chiudi.",
+        "Lascia macerare in luogo buio e asciutto per 12 giorni, scuotendo il contenitore ogni giorno.",
+        "Filtra il liquido macerato. Scalda acqua e zucchero in un pentolino senza far bollire, mescolando fino a scioglimento.",
+        "Fai raffreddare completamente lo sciroppo, poi uniscilo al liquido alcolico filtrato.",
+        "Imbottiglia e lascia riposare a temperatura ambiente per altri 20 giorni prima del consumo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "8 min",
+      "description": "La tartare di carne su bruschetta è un antipasto raffinato e originale, insaporito da una delicata salsa alla senape, che delizierà anche i palati più esigenti!",
+      "id": "GZ-00064",
+      "ingredients": [
+        "Filetto di manzo 120 g",
+        "olio EVO 20 g",
+        "sale, erba cipollina e pepe nero q.b.",
+        "Salsa: senape di Digione 50 g",
+        "miele di acacia 20 g",
+        "succo di limone 20 g",
+        "Tabasco q.b.",
+        "Base: baguette 60 g",
+        "olio EVO e origano q.b."
+      ],
+      "name": "Tartare di carne su bruschetta",
+      "notes": [
+        "Il riepilogo indica 8 minuti di cottura, il procedimento circa 10 minuti per il pane.",
+        "Usare carne idonea al consumo crudo e rispettare la catena del freddo; servire immediatamente. La freschezza apparente non garantisce la sicurezza."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "8 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Tartare di carne su bruschetta",
+      "originalYield": "12 pezzi",
+      "pdfPage": 55,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "384efb779b91365156c0cf6847bd5ec9a2ecd36bd57393cc174a48a2ae05add9",
+        "previousAppSha256": "384efb779b91365156c0cf6847bd5ec9a2ecd36bd57393cc174a48a2ae05add9",
+        "reviewedDigest": "3d4ac08c5bc73cee12820d5be41ab065548bd1414a8af71cb04fd7814cc4fef9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "3d4ac08c5bc73cee12820d5be41ab065548bd1414a8af71cb04fd7814cc4fef9",
+      "serves": "12 pezzi",
+      "source": "https://ricette.giallozafferano.it/Tartare-di-carne-su-bruschetta.html",
+      "steps": [
+        "Affettare obliquamente la baguette in fette sottili. Modellarle a barchetta su supporti adatti al forno, condire con olio e origano.",
+        "Tostare in forno ventilato a circa 190 °C fino a doratura, per circa dieci minuti secondo il metodo; raffreddare.",
+        "Rifilare il filetto, tagliarlo a striscioline e cubetti, quindi batterlo finemente al coltello fino a una consistenza morbida.",
+        "Condire con olio, sale, pepe ed erba cipollina.",
+        "Mescolare senape, succo di limone e Tabasco, aggiungere il miele ed emulsionare.",
+        "Distribuire la tartare sulle bruschette, aggiungere qualche goccia di salsa e servire subito."
+      ],
+      "temperature": "190 °C ventilato (fonte inglese 375 °F)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Bevande e cocktail"
+      ],
+      "category": "Bevande e cocktail",
+      "cook": "",
+      "description": "Scopri come preparare l'hugo spritz, un cocktail realizzato con prosecco, sciroppo di fiori di sambuco, soda e foglie di menta... fresco e dissetante!",
+      "id": "GZ-03815",
+      "ingredients": [
+        "Ghiaccio 500 g",
+        "Prosecco 240 ml",
+        "sciroppo di fiori di sambuco 180 ml",
+        "soda 300 ml",
+        "menta 16 foglie",
+        "Decorazione: lime 1",
+        "menta q.b."
+      ],
+      "name": "Hugo spritz",
+      "notes": [
+        "La fonte suggerisce Prosecco brut o extra dry freddo, menta fresca leggermente schiacciata e, a piacere, qualche goccia di Angostura."
+      ],
+      "origin": "Italia, Alto Adige",
+      "originalTimes": {
+        "cook": null,
+        "prep": "5 min",
+        "rest": null
+      },
+      "originalTitle": "Hugo spritz",
+      "originalYield": "4 cocktail",
+      "pdfPage": 66,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "90ff810f82040a5162733b896c1e1199726e1658dbe74ef2fafb68d9da6b9ea2",
+        "previousAppSha256": "90ff810f82040a5162733b896c1e1199726e1658dbe74ef2fafb68d9da6b9ea2",
+        "reviewedDigest": "ebfe6a2b8f63218aa244e4de7adc39ec0f08fe924ba77a177fc8aaadd9d51405"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "ebfe6a2b8f63218aa244e4de7adc39ec0f08fe924ba77a177fc8aaadd9d51405",
+      "serves": "4 cocktail",
+      "source": "https://www.giallozafferano.com/recipes/hugo-spritz.html",
+      "steps": [
+        "Riempire a metà quattro calici con ghiaccio.",
+        "Distribuire Prosecco e sciroppo di sambuco fra i calici (la fonte inglese indica per calice 2 oz e 1,5 oz rispettivamente).",
+        "Unire quattro foglie di menta per calice e aggiungere altro ghiaccio.",
+        "Completare con soda fino quasi al bordo (circa 2,5 oz per calice secondo la fonte), mescolare delicatamente e guarnire con lime e menta.",
+        "Servire subito ben freddo."
+      ],
+      "temperature": null
     }
   ]
 }
