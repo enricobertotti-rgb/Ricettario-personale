@@ -17203,6 +17203,521 @@
         "Condire con olio, sale e pepe; cuocere in forno ventilato preriscaldato a 410 °F per circa 25 minuti, fino a doratura. Intiepidire su una gratella."
       ],
       "temperature": "410 °F, ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "45 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02319",
+      "ingredients": [
+        "Impasto: farina 0 250 g",
+        "Acqua 125 ml",
+        "Lievito di birra fresco 6 g",
+        "Sale ½ cucchiaino",
+        "Ripieno: melanzana 1",
+        "Pomodorini ciliegino 150 g",
+        "Aglio 1 spicchio",
+        "Olio di semi di arachide, sale e basilico q.b.",
+        "Finitura: olio EVO q.b."
+      ],
+      "name": "Bombette di pizza alle melanzane",
+      "notes": [
+        "In frigorifero 1 giorno; si possono congelare farcite prima della seconda lievitazione, poi scongelare e far lievitare.",
+        "Variante facoltativa con ricotta salata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "20 min",
+        "rest": "circa 3 ore di lievitazione"
+      },
+      "originalTitle": "Bombette di pizza alle melanzane",
+      "originalYield": "6 bombette",
+      "pdfPage": 195,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "12d7aa7d7befe8df562ff078c21a2bcde55d0eb5be613744b7753ac427148b78",
+        "previousAppSha256": "12d7aa7d7befe8df562ff078c21a2bcde55d0eb5be613744b7753ac427148b78",
+        "reviewedDigest": "08c435f66fd8dcc825436d5ce8a0933f9eee3f374c97f067190973ce001b8a22"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 3 ore di lievitazione",
+      "reviewedRecordSha256": "08c435f66fd8dcc825436d5ce8a0933f9eee3f374c97f067190973ce001b8a22",
+      "serves": "6 bombette",
+      "source": "https://ricette.giallozafferano.it/Bombette-di-pizza-alle-melanzane.html",
+      "steps": [
+        "Sciogliere il lievito nell'acqua a temperatura ambiente. Unire alla farina e al sale e impastare fino a ottenere un composto liscio; coprire e lasciare raddoppiare 2–3 ore nel forno spento con luce accesa.",
+        "Tagliare melanzana e pomodorini. Friggere la melanzana a 170 °C a fuoco medio fino a lieve doratura, quindi scolarla.",
+        "Lasciare circa 2 cucchiai d'olio in padella, rosolare l'aglio diviso a metà, aggiungere pomodorini per 2–3 minuti, poi melanzana, basilico e sale. Rimuovere l'aglio e raffreddare il ripieno.",
+        "Dividere in 6 pezzi da circa 70 g, stendere e farcire con circa 2 cucchiai di ripieno freddo ciascuno. Sigillare e arrotondare.",
+        "Disporre con la chiusura verso il basso su carta forno; coprire e lievitare altri 30 minuti. Spennellare con olio EVO e cuocere in forno statico a 200 °C per circa 30 minuti. Servire caldo."
+      ],
+      "temperature": "170 °C frittura; 200 °C forno statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-03850",
+      "ingredients": [
+        "Gambi di carciofo 2",
+        "Ceci precotti 200 g",
+        "Limone ½",
+        "Tahina 1 cucchiaio",
+        "Aglio 1 spicchio facoltativo",
+        "Olio EVO q.b.",
+        "Sale q.b.",
+        "Menta q.b."
+      ],
+      "name": "Hummus di gambi di carciofo",
+      "notes": [
+        "L'elenco indica olio q.b., il procedimento mezza tazza: entrambe le indicazioni sono mantenute.",
+        "Conservare in frigorifero al massimo un giorno; paprika facoltativa nella crema e in superficie."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": null,
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Hummus with artichoke stems",
+      "originalYield": "4 porzioni",
+      "pdfPage": 184,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4eb9080a5a4779d0b864e9742a4d0a8670321e61d226227ee685ca0a0b4d241d",
+        "previousAppSha256": "4eb9080a5a4779d0b864e9742a4d0a8670321e61d226227ee685ca0a0b4d241d",
+        "reviewedDigest": "678417674bc167b4067a8bce4554886ee756a64c66e6ec45678d1329c72bf013"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "678417674bc167b4067a8bce4554886ee756a64c66e6ec45678d1329c72bf013",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/hummus-with-artichoke-stems.html",
+      "steps": [
+        "Eliminare la parte fibrosa esterna dei gambi, conservare le teste per altra preparazione, tagliare i gambi e lessarli o cuocerli al vapore fino a tenerezza.",
+        "Frullare ceci scolati, tahina, aglio senza anima se desiderato, succo del mezzo limone, gambi, sale e olio; il metodo indica mezza tazza d'olio. Azionare a intervalli fino a consistenza liscia.",
+        "Completare con un filo d'olio e menta."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "60 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-03862",
+      "ingredients": [
+        "Riso Bomba 400 g",
+        "Cozze 1 kg",
+        "Calamari da pulire 500 g",
+        "Scampi 12",
+        "Gamberi 8",
+        "Zafferano 0,25 g (2 bustine)",
+        "Cipolla bianca 80 g",
+        "Paprika dolce 5 g",
+        "Peperoncini dolci 100 g",
+        "Pomodoro 1",
+        "Aglio 1 spicchio",
+        "Olio EVO, sale e pepe q.b.",
+        "Fumetto: sedano 1 costa",
+        "Carota 1",
+        "Cipolla 1",
+        "Acqua 1 l"
+      ],
+      "name": "Paella de marisco",
+      "notes": [
+        "Consumare subito o conservare in frigorifero circa 2 giorni; non congelare. Brodo vegetale possibile in sostituzione del fumetto, con sapore meno intenso."
+      ],
+      "origin": "Spagna",
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Seafood Paella",
+      "originalYield": "4 porzioni",
+      "pdfPage": 192,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f6b3bdf41f666b5c9c44df867be6678664b62db374b9729b4a7dceb32de629a4",
+        "previousAppSha256": "f6b3bdf41f666b5c9c44df867be6678664b62db374b9729b4a7dceb32de629a4",
+        "reviewedDigest": "9555ead8254f089220444e2d78944819cf1d8d7873b2574d4fc3fc0c5da12c29"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "9555ead8254f089220444e2d78944819cf1d8d7873b2574d4fc3fc0c5da12c29",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/Seafood-Paella.html",
+      "steps": [
+        "Pulire le cozze, aprirle in pentola con olio a fiamma alta, coperte, per 5 minuti scuotendo la pentola. Scartare le chiuse, filtrare il liquido, sgusciare la maggior parte.",
+        "Per il fumetto tagliare grossolanamente le verdure; sgusciare 4 scampi e 4 gamberi e tagliare la polpa. Tostare i gusci con olio e verdure a fiamma alta, schiacciare le teste, versare l'acqua e cuocere 30 minuti a fuoco medio.",
+        "In paellera di base 12 pollici e bordo 14,6 pollici rosolare gli 8 scampi e i 4 gamberi rimasti interi per 1–2 minuti per lato, quindi tenere da parte. Pulire e tagliare i calamari ad anelli sottili.",
+        "Nella stessa padella ammorbidire aglio e cipolla nell'olio, unire calamari, polpa dei crostacei, pomodoro grattugiato, un mestolo di fumetto caldo, liquido delle cozze, peperoncini tritati, zafferano, paprika e cozze sgusciate. Regolare di sale e pepe.",
+        "Quando bolle, aggiungere il riso e coprire con fumetto; mescolare per l'ultima volta, poi cuocere a fuoco medio circa 20 minuti o secondo confezione. Regolare il fumetto, senza mescolare; se necessario scuotere delicatamente la padella.",
+        "A liquido assorbito spegnere e disporre cozze e crostacei interi. Per il socarrat facoltativo alzare la fiamma negli ultimi 2 minuti senza mescolare."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "20 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-03842",
+      "ingredients": [
+        "Würstel di vitello 4",
+        "Curry per la bollitura 1 cucchiaio",
+        "Salsa: cipolla 1",
+        "Curry 4 cucchiaini",
+        "Paprika 1 cucchiaino",
+        "Paprika dolce 1 cucchiaino",
+        "Cumino 1 cucchiaino",
+        "Sale q.b.",
+        "Acqua calda 2 mestoli",
+        "Passata 250 g",
+        "Olio EVO q.b.",
+        "Ketchup 250 g",
+        "Contorno: patate 200 g",
+        "Patate dolci 200 g",
+        "Sale q.b.",
+        "Olio di semi q.b."
+      ],
+      "name": "Currywurst",
+      "notes": [
+        "Würstel in frigorifero per un giorno, salsa per 2–3 giorni; congelamento sconsigliato.",
+        "Possibili würstel di maiale, pollo o tacchino.",
+        "La risposta redazionale del 25/03/2025 chiarisce che entrambe le paprike vanno aggiunte insieme."
+      ],
+      "origin": "Germania",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "currywurst",
+      "originalYield": "4 porzioni",
+      "pdfPage": 176,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "54a760678ac8b9768ee2a96d5d622174abac57d1a4a2f41deafcd7f8ab0184a6",
+        "previousAppSha256": "54a760678ac8b9768ee2a96d5d622174abac57d1a4a2f41deafcd7f8ab0184a6",
+        "reviewedDigest": "6ba023160ebcbb79dfd929c2d968d48c588a5e3a050497649281d8405a556a63"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "6ba023160ebcbb79dfd929c2d968d48c588a5e3a050497649281d8405a556a63",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/currywurst.html",
+      "steps": [
+        "Ammorbidire la cipolla tritata nell'olio, aggiungere entrambe le paprike, quindi passata e ketchup; fare sobbollire.",
+        "Unire cumino e curry, regolare di sale, aggiungere l'acqua calda e ridurre la salsa.",
+        "Pelare le patate dolci e tagliarle a bastoncini di circa ½ pollice per 3–4 pollici; affettare sottilmente le patate comuni con la mandolina.",
+        "Friggere separatamente a 340–355 °F, scolare su carta e salare.",
+        "Lessare i würstel per 5 minuti in acqua aromatizzata con il cucchiaio di curry, poi grigliarli fino a doratura su entrambi i lati. Servire con salsa calda e patate."
+      ],
+      "temperature": "340–355 °F"
+    },
+    {
+      "author": "Andriana Kulchytska",
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "20 min (scheda; procedimento 20–25 min + 3 min)",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-03856",
+      "ingredients": [
+        "Farina 00 300 g",
+        "Latte tiepido 200 g",
+        "Lievito secco 5 g",
+        "Zucchero 1 cucchiaino",
+        "Sale 1 pizzico",
+        "Provola 300 g",
+        "Tuorli 3",
+        "Finitura: tuorlo 1",
+        "Latte q.b."
+      ],
+      "name": "Khachapuri",
+      "notes": [
+        "La durata di cottura dichiarata e quella del procedimento sono conservate separatamente.",
+        "Conservare in frigorifero per un paio di giorni e riscaldare. Varianti con erba cipollina, kefir al posto del latte o pancetta. Formaggio tradizionale sulguni."
+      ],
+      "origin": "Georgia",
+      "originalTimes": {
+        "cook": "20 min (scheda; procedimento 20–25 min + 3 min)",
+        "prep": "40 min",
+        "rest": "5 min + 2 ore"
+      },
+      "originalTitle": "Khachapuri",
+      "originalYield": "3 pezzi",
+      "pdfPage": 186,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c9bed8721a38a9d06758418a110fc2e3d7289835f37c84f87b1359439ac9c3cc",
+        "previousAppSha256": "c9bed8721a38a9d06758418a110fc2e3d7289835f37c84f87b1359439ac9c3cc",
+        "reviewedDigest": "590e4acff72c4502d516492d6824c286a307871c8e63a05453acda4ff4fe78ed"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "5 min + 2 ore",
+      "reviewedRecordSha256": "590e4acff72c4502d516492d6824c286a307871c8e63a05453acda4ff4fe78ed",
+      "serves": "3 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/khachapuri.html",
+      "steps": [
+        "Mescolare latte tiepido, lievito, zucchero e 2 cucchiai di farina prelevati dal totale. Coprire 5 minuti.",
+        "Aggiungere sale e farina restante, lavorare sul piano infarinato fino a impasto liscio. Coprire in ciotola e lasciare lievitare al caldo 2 ore.",
+        "Dividere in tre panetti e tenerli coperti. Stenderli in dischi, distribuire provola grattugiata lungo i due lati, arrotolare i bordi e unire le punte formando una barchetta.",
+        "Trasferire su carta forno, riempire il centro con il formaggio, spennellare i bordi con tuorlo e latte.",
+        "Cuocere a 375 °F in forno statico per 20–25 minuti fino a doratura. Aprire un incavo nel formaggio con una forchetta, aggiungere un tuorlo in ogni pezzo e cuocere altri 3 minuti. Servire caldo."
+      ],
+      "temperature": "375 °F, forno statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "1 h 30 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-03874",
+      "ingredients": [
+        "Tortillas 8",
+        "Girello di vitello 500 g",
+        "Cipolla dorata 100 g",
+        "Birra chiara 330 g",
+        "Olio EVO 10 g",
+        "Marinatura: olio EVO 25 g",
+        "Cumino, coriandolo in polvere, paprika affumicata, sale e pepe: 1 cucchiaio ciascuno",
+        "Insalata: pomodori perini 200 g",
+        "Cipollotto 40 g",
+        "Peperoncino verde 10 g",
+        "Prezzemolo 1 mazzetto",
+        "Olio EVO 40 g",
+        "Succo di lime 20 g",
+        "Sale q.b.",
+        "Salsa: panna acida 100 g",
+        "Yogurt greco 50 g",
+        "Tabasco q.b."
+      ],
+      "name": "Tacos con carne",
+      "notes": [
+        "Preparazione Tex-Mex. Conservare separatamente in frigorifero al massimo 2 giorni e assemblare al servizio; varianti della fonte con grelos oppure maionese e ketchup."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 30 min",
+        "prep": "30 min",
+        "rest": "marinatura in frigorifero almeno 6 ore o una notte; 30 min prima della cottura"
+      },
+      "originalTitle": "Tacos con carne",
+      "originalYield": "8 tacos",
+      "pdfPage": 846,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "299137720fb7ed89e216e0ba3aab7b331605eb730908aa280821cc3a73baa10f",
+        "previousAppSha256": "299137720fb7ed89e216e0ba3aab7b331605eb730908aa280821cc3a73baa10f",
+        "reviewedDigest": "5e8b57e5af8c929b242cb041ed4cfc05279fd0cb6daceb32b04105c4d8538fca"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "marinatura in frigorifero almeno 6 ore o una notte; 30 min prima della cottura",
+      "reviewedRecordSha256": "5e8b57e5af8c929b242cb041ed4cfc05279fd0cb6daceb32b04105c4d8538fca",
+      "serves": "8 tacos",
+      "source": "https://www.giallozafferano.es/recetas/tacos-con-carne.html",
+      "steps": [
+        "Tagliare il vitello a grossi cubi, mescolare con olio e spezie della marinatura e conservare coperto in frigorifero per una notte o almeno 6 ore.",
+        "Estrarre la carne 30 minuti prima della cottura. Preriscaldare il forno ventilato a 200 °C; affettare la cipolla e soffriggerla a fuoco medio nell'olio per 5 minuti.",
+        "Rosolare la carne 10 minuti, aggiungere birra, coprire e cuocere in forno 75 minuti controllando il fondo e la tenerezza.",
+        "Tagliare finemente pomodori, cipollotto, peperoncino e prezzemolo; condire con olio, lime e sale.",
+        "Mescolare panna acida, yogurt e Tabasco e conservare in frigorifero.",
+        "Sfilacciare il vitello e farcire ogni tortilla con carne, un cucchiaio d'insalata e salsa."
+      ],
+      "temperature": "200 °C ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-03849",
+      "ingredients": [
+        "Ceci precotti 500 g",
+        "Succo di limone 90 g",
+        "Tahina 70 g",
+        "Aglio 1 spicchio facoltativo",
+        "Olio EVO 50 g",
+        "Acqua e sale q.b.",
+        "Finitura: paprika dolce, prezzemolo, olio EVO e pepe q.b.",
+        "Tahina facoltativa fatta in casa: sesamo 100 g",
+        "Olio di sesamo 30 g",
+        "Acqua tiepida e sale q.b."
+      ],
+      "name": "Hummus",
+      "notes": [
+        "Tahina casalinga: resa circa 140 g.",
+        "Hummus in frigorifero in contenitore ermetico con uno strato d'olio per 3–4 giorni; non congelare.",
+        "Varianti con curry, curcuma, menta, coriandolo, zenzero, cumino, peperoncino, avocado, peperoni, barbabietola o lenticchie. Tradizione mediorientale, senza attribuzione nazionale univoca."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": null,
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Hummus",
+      "originalYield": "4 porzioni, circa 700 g",
+      "pdfPage": 183,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1cd928d32cb2e11f44b9619cca6b4a6374e48bf5b14dcb016acf8447ec66c360",
+        "previousAppSha256": "1cd928d32cb2e11f44b9619cca6b4a6374e48bf5b14dcb016acf8447ec66c360",
+        "reviewedDigest": "df12775ddcf68a4f7b0bf8335a1e8249f1326dea4424528b6af57d1e16fd27f0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "df12775ddcf68a4f7b0bf8335a1e8249f1326dea4424528b6af57d1e16fd27f0",
+      "serves": "4 porzioni, circa 700 g",
+      "source": "https://www.giallozafferano.com/recipes/Hummus.html",
+      "steps": [
+        "Scolare e sciacquare i ceci, riunirli nel mixer con tahina, succo di limone, olio, sale e, se desiderato, aglio privato dell'anima.",
+        "Frullare alla consistenza desiderata; aggiungere 2–3 cucchiai d'acqua se necessario, oppure regolare con limone, olio o tahina.",
+        "Servire con paprika dolce, prezzemolo, pepe e un filo d'olio.",
+        "Per la tahina facoltativa, tostare il sesamo in padella antiaderente asciutta mescolando; pestarlo con poco olio e sale, incorporando gradualmente l'olio rimasto e acqua fino a ottenere una crema. È possibile usare un frullatore."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-03855",
+      "ingredients": [
+        "Ceci precotti scolati 500 g",
+        "Aglio 1 spicchio",
+        "Succo di limone 100 g",
+        "Olio EVO 70 g",
+        "Acqua 75 g",
+        "Sale q.b.",
+        "Finitura: prezzemolo, paprika, scorza di limone, olio EVO e pepe q.b."
+      ],
+      "name": "Hummus senza tahina",
+      "notes": [
+        "Frigorifero in contenitore chiuso per 2 giorni. Variante: aggiungere un cucchiaio di yogurt."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": null,
+        "prep": "5 min",
+        "rest": null
+      },
+      "originalTitle": "Hummus without tahini",
+      "originalYield": "8 porzioni, circa 26 oz",
+      "pdfPage": 185,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f49b3bf73b60dee8e45adf5b0f7dae3bd93d8596f805b6858c31c7c50ea365fd",
+        "previousAppSha256": "f49b3bf73b60dee8e45adf5b0f7dae3bd93d8596f805b6858c31c7c50ea365fd",
+        "reviewedDigest": "ae0465ba9e141e21d48aaf24972538a93288a8a93e0f05e5b107a6dd94077727"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "ae0465ba9e141e21d48aaf24972538a93288a8a93e0f05e5b107a6dd94077727",
+      "serves": "8 porzioni, circa 26 oz",
+      "source": "https://www.giallozafferano.com/recipes/hummus-without-tahini.html",
+      "steps": [
+        "Frullare i ceci con aglio grattugiato, succo di limone, olio, acqua e sale.",
+        "Se la crema risulta granulosa, regolare gradualmente con altra acqua fino alla consistenza desiderata.",
+        "Servire con prezzemolo, paprika, scorza di limone, olio e pepe."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Antonio Fiore",
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "1 h 10 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02322",
+      "ingredients": [
+        "Impasto: acqua 300 ml",
+        "Lievito di birra fresco 25 g",
+        "Farina 00 500 g",
+        "Sale 15 g",
+        "Ripieno: cipolle dorate 750 g",
+        "Pomodori pelati 300 g",
+        "Sale e pepe q.b.",
+        "Uovo 1",
+        "Pecorino 50 g",
+        "Uvetta 50 g",
+        "Olive nere 100 g",
+        "Olio EVO q.b."
+      ],
+      "name": "Calzone di cipolla",
+      "notes": [
+        "Tradizione barese/pugliese documentata. Ricotta forte facoltativa.",
+        "Conservare in frigorifero 3–4 giorni, congelabile dopo cottura."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "1 h 10 min",
+        "prep": "25 min",
+        "rest": "1 ora"
+      },
+      "originalTitle": "Onion calzone",
+      "originalYield": "8 porzioni",
+      "pdfPage": 196,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "84f7879cc34d80acf6d1e3d1e1b1f7a5d9fdde12140a2557f969b39fcd59e82a",
+        "previousAppSha256": "84f7879cc34d80acf6d1e3d1e1b1f7a5d9fdde12140a2557f969b39fcd59e82a",
+        "reviewedDigest": "a0219f6cca2353b5c4dea4feefcbf1f4b16a495ef07fbc8fe87b49ee2a4bf267"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1 ora",
+      "reviewedRecordSha256": "a0219f6cca2353b5c4dea4feefcbf1f4b16a495ef07fbc8fe87b49ee2a4bf267",
+      "serves": "8 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/onion-calzone.html",
+      "steps": [
+        "Lavare più volte le cipolle, tagliarle grossolanamente e condirle con olio, sale, pepe e pelati. Cuocere in forno statico a 356 °F per 50 minuti e lasciare raffreddare.",
+        "Sciogliere il lievito in circa ¼ di tazza d'acqua prelevata dal totale, unire farina e acqua restante poco alla volta, incorporare sale e impastare fino a consistenza liscia.",
+        "Dividere in due panetti, coprire e lievitare 1 ora al riparo da correnti. Stendere il primo disco a spessore inferiore a ¼ di pollice e diametro 14 pollici.",
+        "Oliare una teglia di 14 pollici alta circa 2,17 pollici, foderarla con il disco. Mescolare le cipolle raffreddate con pecorino, uvetta, olive e uovo, distribuire lasciando libero il bordo.",
+        "Coprire con il secondo disco più sottile, ripiegare e sigillare i bordi con forchetta, praticare un foro centrale e bucherellare. Ungere tutta la superficie.",
+        "Cuocere in forno statico a 482 °F per 20 minuti, lasciare intiepidire prima di servire."
+      ],
+      "temperature": "356 °F e 482 °F, forno statico"
     }
   ]
 }
