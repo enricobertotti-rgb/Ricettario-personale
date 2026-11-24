@@ -24506,6 +24506,1107 @@
         "Trasferire nella ciotola e completare con paprika, pepe, rosmarino, ceci e olio. Accompagnare a piacere con pane tostato."
       ],
       "temperature": "200 °C, forno statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Baccalà ai peperoni.",
+      "id": "GZ-01465",
+      "ingredients": [
+        "Baccalà dissalato 500 g",
+        "Peperone verde 1",
+        "Peperone rosso 1",
+        "Peperone giallo 1 (ricavare complessivamente 150 g di falde)",
+        "Cipolla rossa 140 g",
+        "Pomodorini 120 g",
+        "Vino bianco 150 g",
+        "Acqua 150 g",
+        "Concentrato di pomodoro 20 g",
+        "Basilico q.b.",
+        "Menta q.b.",
+        "Olio EVO q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Baccalà ai peperoni",
+      "notes": [
+        "Frigorifero 1–2 giorni, non congelare. Varianti: melanzane oppure pomodoro fresco a cubetti a fine cottura. La fonte collega la ricetta alla cucina toscana."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Cod with peppers",
+      "originalYield": "4 persone",
+      "pdfPage": 310,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a5a7962cad26c9014a45402a06f5000b73c489c0a7be230c2d17a35901b1d2d8",
+        "previousAppSha256": "a5a7962cad26c9014a45402a06f5000b73c489c0a7be230c2d17a35901b1d2d8",
+        "reviewedDigest": "60b9dfdc5d80b333b98d2f34a1f04fedbfcb06961eb7f6b6718da0e5edd027ba"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "60b9dfdc5d80b333b98d2f34a1f04fedbfcb06961eb7f6b6718da0e5edd027ba",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/cod-with-peppers.html",
+      "steps": [
+        "Tagliare il baccalà a pezzi grandi. Pulire i peperoni e ricavare complessivamente 150 g di strisce; affettare sottilmente la cipolla.",
+        "Sciogliere il concentrato nel vino. Far appassire la cipolla nell'olio, aggiungere i pomodorini interi, i peperoni, basilico, menta e sale.",
+        "Versare il vino con il concentrato e l'acqua; coprire e cuocere a fuoco medio per 20 minuti.",
+        "Aggiungere il baccalà, mescolare delicatamente e cuocere coperto a fuoco medio per 10 minuti, muovendo la padella anziché spezzare il pesce.",
+        "Scoprire, continuare altri 5 minuti, aggiustare di sale se necessario e servire caldo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "60 min (testata fonte)",
+      "description": "Revisione editoriale della fonte originale: Baccalà con prugne, uvetta e pinoli.",
+      "id": "GZ-01472",
+      "ingredients": [
+        "Baccalà dissalato 700 g",
+        "Patate 300 g",
+        "Scalogno 50 g",
+        "Aglio 1 spicchio",
+        "Vino bianco 50 ml",
+        "Passata di pomodoro 150 g",
+        "Uvetta 30 g",
+        "Pinoli 30 g",
+        "Prugne secche 100 g",
+        "Olio d'oliva 30 ml",
+        "Timo 2 rametti",
+        "Prezzemolo 2 rametti",
+        "Sale e pepe q.b."
+      ],
+      "name": "Baccalà con prugne, uvetta e pinoli",
+      "notes": [
+        "La testata dichiara 60 minuti, le durate esplicite delle fasi sono conservate senza forzarne la somma. Frigorifero fino a 2 giorni in contenitore chiuso; congelare solo se ingredienti non decongelati. Pomodorini di stagione come variante; l'eventuale ammollo dello stoccafisso/baccalà salato è distinto."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min (testata fonte)",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Bacalao con ciruelas pasas y piñones",
+      "originalYield": "4 persone",
+      "pdfPage": 363,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "80c840ef9a2751a937d3495b9b03c4ef8596fe7ae1e891ce91aee025aeaa58a8",
+        "previousAppSha256": "80c840ef9a2751a937d3495b9b03c4ef8596fe7ae1e891ce91aee025aeaa58a8",
+        "reviewedDigest": "0bd64fe2a025fa87c788389f70344f97b08e0145f53135b137c497240394739c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "0bd64fe2a025fa87c788389f70344f97b08e0145f53135b137c497240394739c",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/bacalao-con-ciruelas-pasas-y-pinones.html",
+      "steps": [
+        "Mettere prugne e uvetta in ammollo per almeno 10 minuti; eliminare le spine del baccalà. Tritare timo e prezzemolo.",
+        "Affettare lo scalogno e farlo appassire nell'olio a fuoco basso per 8–10 minuti. Unire aglio, baccalà e timo, sfumare con il vino per 5 minuti.",
+        "Versare la passata, salare e pepare, coprire e cuocere a fuoco medio per 20 minuti.",
+        "Pelare e affettare le patate a 2–3 mm, tenerle in acqua fredda fino all'uso, scolarle e aggiungerle; cuocere altri 30 minuti. Tostare separatamente i pinoli.",
+        "Tagliare le prugne denocciolate e aggiungerle con uvetta scolata ed erbe; proseguire 5 minuti e completare con pinoli tostati."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: Calamari alle olive.",
+      "id": "GZ-01506",
+      "ingredients": [
+        "Calamari 1 kg",
+        "Olive nere 200 g",
+        "Passata di pomodoro 80 g",
+        "Scalogno 1",
+        "Vino bianco secco 100 ml",
+        "Burro 50 g",
+        "Prezzemolo 4 rametti",
+        "Aglio 1 spicchio",
+        "Olio EVO 3 cucchiai",
+        "Sale e pepe q.b."
+      ],
+      "name": "Calamari alle olive",
+      "notes": [
+        "Frigorifero un giorno; congelabile se pesce fresco non decongelato. Possibili totani, seppie o polpo come varianti distinte, oppure olive verdi; non estendere automaticamente le durate a specie diverse."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Calamari alle olive",
+      "originalYield": "4 persone",
+      "pdfPage": 320,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "713f0f2a88c924c60b5f688dd2bda678cd56a034cb28d486e385ec1e1cc0e7dd",
+        "previousAppSha256": "713f0f2a88c924c60b5f688dd2bda678cd56a034cb28d486e385ec1e1cc0e7dd",
+        "reviewedDigest": "25f163d78d3785c2bf844407f86abdc90a38725de9e1ca1ceb07eb03c05271f2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "25f163d78d3785c2bf844407f86abdc90a38725de9e1ca1ceb07eb03c05271f2",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Calamari-alle-olive.html",
+      "steps": [
+        "Sciacquare i calamari, separare testa e mantello, rimuovere cartilagine, interiora e pelle; tagliare i mantelli ad anelli di circa 1 cm.",
+        "Tritare scalogno, aglio e prezzemolo. Scaldare olio e burro e soffriggere il trito per qualche secondo.",
+        "Aggiungere i calamari e rosolarli a fiamma media 5 minuti. Sfumare con il vino e lasciarlo evaporare.",
+        "Unire passata e olive; cuocere circa 10 minuti a fuoco dolce, aggiungendo un mestolo d'acqua calda se il fondo si asciuga troppo.",
+        "Aggiustare sale e pepe e servire caldo con pane tostato."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Nicola Sorrentino",
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Frittata ai fiori di zucca.",
+      "id": "GZ-01937",
+      "ingredients": [
+        "Uova 8",
+        "Fiori di zucca 600 g",
+        "Scalogno 1/2",
+        "Aglio 1 spicchio",
+        "Erba cipollina q.b.",
+        "Olio extravergine di oliva 4 cucchiaini",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Frittata ai fiori di zucca",
+      "notes": [
+        "Conservare in frigorifero un giorno. Menta o ricotta come varianti della fonte. La fonte inglese riporta 20 cups (600 g); si conserva la quantità in grammi, confermata dalla versione spagnola ufficiale."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Frittata with zucchini flowers",
+      "originalYield": "4 persone",
+      "pdfPage": 345,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a86f5fcf7c4f12e29e19dc8acf8985378217558772bd89da489daff7ab01fecb",
+        "previousAppSha256": "a86f5fcf7c4f12e29e19dc8acf8985378217558772bd89da489daff7ab01fecb",
+        "reviewedDigest": "0b72d52bd8859fa149149796563cc2f6fa5130a121a483cb824471652c4c595b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "0b72d52bd8859fa149149796563cc2f6fa5130a121a483cb824471652c4c595b",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/frittata-with-zucchini-flowers.html",
+      "steps": [
+        "Pulire i fiori eliminando base e pistillo, quindi dividerli in strisce.",
+        "Scaldare l'olio in una padella di circa 25 cm con aglio e scalogno tritato. Togliere l'aglio, unire i fiori e salare. Cuocere a fuoco medio-basso 5 minuti, aggiungendo poca acqua se occorre e coprendo.",
+        "Sbattere le uova con sale, pepe ed erba cipollina tritata. Quando i fiori sono teneri, togliere il coperchio, versare le uova e livellare.",
+        "Coprire e cuocere a fuoco medio-basso 20–25 minuti finché la frittata è rappresa; capovolgere se desiderato. Servire calda o tiepida."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: Club sandwich con uova strapazzate.",
+      "id": "GZ-01868",
+      "ingredients": [
+        "Pane ai cereali da sandwich 12 fette",
+        "Uova grandi biologiche 4",
+        "Caciocavallo 60 g",
+        "Avocado grandi maturi 2",
+        "Champignon 250 g",
+        "Carota 1",
+        "Lattuga qualche foglia",
+        "Radicchio qualche foglia",
+        "Burro 2 noci",
+        "Timo q.b.",
+        "Succo di limone qualche goccia",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Club sandwich con uova strapazzate",
+      "notes": [
+        "I funghi si possono preparare in anticipo, ma consistenza e colore possono risentirne. Varianti della fonte: verdure di stagione, aceto o Tabasco. Nota di sicurezza distinta: cuocere completamente le uova, soprattutto per le persone vulnerabili (ISS, https://www.epicentro.iss.it/salmonella/)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Club sandwich with scrambled eggs",
+      "originalYield": "4 sandwich",
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "97c042f9ee977d769c609dedef8e1fd78237aa08ed359901f5a89a0386bfe511",
+        "previousAppSha256": "97c042f9ee977d769c609dedef8e1fd78237aa08ed359901f5a89a0386bfe511",
+        "reviewedDigest": "0fcfeecd28cb9035628c0ab58116825310621dc97290f4159b61000ad9648018"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "0fcfeecd28cb9035628c0ab58116825310621dc97290f4159b61000ad9648018",
+      "serves": "4 sandwich",
+      "source": "https://www.giallozafferano.com/recipes/club-sandwich-with-scrambled-eggs.html",
+      "steps": [
+        "Pulire i funghi con un panno umido, eliminare la base e affettarli. Saltarli con olio e sale finché dorati, muovendo la padella.",
+        "Dimezzare gli avocado, eliminare i noccioli e schiacciare la polpa con limone, sale e olio. Pelare e grattugiare la carota, tagliare lattuga e radicchio, condire con olio e sale.",
+        "Eliminare la crosta del caciocavallo e grattugiarlo grossolanamente. Tostare le 12 fette di pane nel burro da entrambi i lati.",
+        "Nella stessa padella rompere le uova; quando gli albumi iniziano a rapprendersi, spezzarli con la spatola. Condire con sale, pepe e timo, mescolare circa 2 minuti. Fuori dal fuoco incorporare il formaggio.",
+        "Per ogni sandwich: prima fetta con avocado e insalata; seconda fetta con uova e funghi; terza fetta per chiudere. Tagliare a metà."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "10 min",
+      "description": "Revisione editoriale della fonte originale: Alici fritte.",
+      "id": "GZ-01457",
+      "ingredients": [
+        "Alici pulite 500 g",
+        "Farina 00 q.b.",
+        "Olio di semi di arachide q.b.",
+        "Sale fino q.b.",
+        "Yogurt greco 150 g",
+        "Aglio 1 spicchio",
+        "Succo di limone 1 cucchiaio per la salsa",
+        "Aneto q.b.",
+        "Olio EVO q.b. per la salsa",
+        "Sale e pepe q.b. per la salsa (procedimento)",
+        "Rucola 100 g",
+        "Pomodorini ciliegini 200 g",
+        "Cetriolo 1",
+        "Olive taggiasche denocciolate 50 g",
+        "Succo di limone, olio EVO, sale e pepe q.b. per l'insalata"
+      ],
+      "name": "Alici fritte",
+      "notes": [
+        "Consumare appena fritte. Se intere, pulire le alici eliminando testa e viscere. Le versioni in friggitrice ad aria e fritte marinate sono ricette distinte."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Alici fritte",
+      "originalYield": "4 persone",
+      "pdfPage": 304,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "369724199388de6673aa636e69b3c0cd06cea44c038577841356e6bc10b0a74e",
+        "previousAppSha256": "369724199388de6673aa636e69b3c0cd06cea44c038577841356e6bc10b0a74e",
+        "reviewedDigest": "5255d88daaefbeab06c6b2278d5d8d0d9f4384596148447c328414399cf8f597"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "5255d88daaefbeab06c6b2278d5d8d0d9f4384596148447c328414399cf8f597",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Alici-fritte.html",
+      "steps": [
+        "Pelare e tagliare il cetriolo a cubetti, lavare e dividere i pomodorini. Unire rucola e olive, condire con olio, limone, sale e pepe e tenere in fresco.",
+        "Tritare aglio e aneto, amalgamarli allo yogurt con il succo di limone, olio, sale e pepe; refrigerare la salsa.",
+        "Asciugare le alici pulite, passarle nella farina ed eliminare quella in eccesso.",
+        "Friggere poche alici per volta in olio a circa 180 °C per 3–4 minuti, fino a croccantezza e doratura.",
+        "Sgocciolare su carta assorbente, salare e servire subito con insalata e salsa."
+      ],
+      "temperature": "circa 180 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "10 min",
+      "description": "Revisione editoriale della fonte originale: Fiori di peperoni con uova.",
+      "id": "GZ-01930",
+      "ingredients": [
+        "Uova 8",
+        "Peperone verde 1/2",
+        "Peperone rosso 1/2",
+        "Peperone giallo 1/2",
+        "Olio extravergine di oliva 2 cucchiai",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Fiori di peperoni con uova",
+      "notes": [
+        "Variante della fonte con uova di quaglia, senza dosi dichiarate. Nota di sicurezza distinta: cuocere completamente albume e tuorlo, specialmente per le persone vulnerabili; non è dichiarato un tempo preciso validato per questo risultato (ISS, https://www.epicentro.iss.it/salmonella/)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Fiori di peperoni con uova",
+      "originalYield": "4 persone",
+      "pdfPage": 344,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "11f1a3fca95bd67e5dbb10a97ff1a1add2e917b1005edcb6a7f7dc11a85df028",
+        "previousAppSha256": "11f1a3fca95bd67e5dbb10a97ff1a1add2e917b1005edcb6a7f7dc11a85df028",
+        "reviewedDigest": "f84f9415c551cb9a4ad2cf05f5032ca9e6ef8a8e8e85c4241336210c08bc616d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "f84f9415c551cb9a4ad2cf05f5032ca9e6ef8a8e8e85c4241336210c08bc616d",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Fiori-di-peperoni-con-uova.html",
+      "steps": [
+        "Lavare i peperoni, scegliere quelli con forma lobata, eliminare torsolo e semi e ricavare rondelle spesse circa 2 cm.",
+        "Ungere una padella con l'olio, scaldare e scottare gli anelli pochi secondi per lato.",
+        "Rompere ogni uovo in una ciotolina, mantenendo intero il tuorlo, e versarlo nel centro di un anello. Coprire e cuocere a calore medio fino alla consistenza voluta dalla fonte.",
+        "Salare, pepare, rifilare l'eventuale albume fuoriuscito e servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "10 min",
+      "description": "Revisione editoriale della fonte originale: Baccalà fritto.",
+      "id": "GZ-01475",
+      "ingredients": [
+        "Baccalà dissalato 500 g",
+        "Farina 00 q.b.",
+        "Pepe nero q.b.",
+        "Lime q.b.",
+        "Olio di arachide 1 l"
+      ],
+      "name": "Baccalà fritto",
+      "notes": [
+        "Consumare appena fritto; non congelare. Possibile limone al posto del lime, maionese agli agrumi o insalata. Se necessario dissalare il pesce prima della preparazione."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Fried cod",
+      "originalYield": "4 persone",
+      "pdfPage": 318,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "12f2b4243c7a4ca64c25809b7d2c23be4bd8c7863584a3fe5ab2aa21bea1f4e3",
+        "previousAppSha256": "12f2b4243c7a4ca64c25809b7d2c23be4bd8c7863584a3fe5ab2aa21bea1f4e3",
+        "reviewedDigest": "a72a80d7da066d4cddf1f3d7b96cd25994829d37b70ee5516fb03acd964b3c43"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "a72a80d7da066d4cddf1f3d7b96cd25994829d37b70ee5516fb03acd964b3c43",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fried-cod.html",
+      "steps": [
+        "Sciacquare e asciugare il baccalà; eliminare la pelle partendo dalla coda e controllare le lische passando le dita in entrambi i sensi.",
+        "Ricavare strisce larghe circa un pollice e dividere ciascuna in 2–3 pezzi.",
+        "Infarinare entrambi i lati, eliminare l'eccesso. Scaldare l'olio a 356–374 °F controllando con termometro.",
+        "Friggere pochi pezzi per volta per 3–5 minuti secondo spessore, fino a doratura, e far assorbire l'olio in eccesso su carta.",
+        "Completare con pepe e lime e servire subito."
+      ],
+      "temperature": "356–374 °F"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "10 min",
+      "description": "Revisione editoriale della fonte originale: Bastoncini di pesce.",
+      "id": "GZ-01483",
+      "ingredients": [
+        "Merluzzo 500 g",
+        "Farina 00 50 g",
+        "Sale fino q.b.",
+        "Scorza di 1 limone",
+        "Prezzemolo 1 ciuffo",
+        "Uova medie 2",
+        "Pangrattato 100 g",
+        "Olio di arachide q.b.",
+        "Pepe q.b. (procedimento)"
+      ],
+      "name": "Bastoncini di pesce",
+      "notes": [
+        "Congelabili prima della cottura se preparati con ingredienti freschi, non decongelati. Possibili accompagnamenti limone o maionese aromatizzata con Tabasco."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Bastoncini di pesce",
+      "originalYield": "10 pezzi",
+      "pdfPage": 365,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "068e9b89fe0c4b1488ae7c76a1f38f3e0ddabe25c083b927337140a74729c0cf",
+        "previousAppSha256": "068e9b89fe0c4b1488ae7c76a1f38f3e0ddabe25c083b927337140a74729c0cf",
+        "reviewedDigest": "58e3d25d6b2554a7281b15d7a0321865eef73b7ec28567036ae1d76ee717eed0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "58e3d25d6b2554a7281b15d7a0321865eef73b7ec28567036ae1d76ee717eed0",
+      "serves": "10 pezzi",
+      "source": "https://ricette.giallozafferano.it/Bastoncini-di-pesce.html",
+      "steps": [
+        "Tagliare il merluzzo e tritarlo al mixer con la farina finché il composto si stacca dalle pareti. Insaporire con sale, scorza di limone e prezzemolo.",
+        "Con mani inumidite dividere in porzioni di circa 55 g, formare bastoncini appiattiti e sistemarli su carta forno.",
+        "Sbattere le uova con sale e pepe. Passare ogni bastoncino in uovo e pangrattato e ripetere la panatura una seconda volta.",
+        "Scaldare l'olio a 165 °C e friggere al massimo due bastoncini alla volta per circa 2 minuti, fino a doratura. Scolare su carta assorbente e servire caldi."
+      ],
+      "temperature": "165 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Frittata.",
+      "id": "GZ-01936",
+      "ingredients": [
+        "Uova medie 8",
+        "Pecorino 50 g",
+        "Parmigiano Reggiano DOP 50 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Olio extravergine di oliva 2 cucchiai"
+      ],
+      "name": "Frittata",
+      "notes": [
+        "Servire subito o conservare in frigorifero al massimo un giorno; non congelare. Timo o erba cipollina come varianti. Il titolo spagnolo indica qui una frittata di uova e formaggi, non la tortilla di patate."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "5 min",
+        "rest": null
+      },
+      "originalTitle": "Tortilla",
+      "originalYield": "4 persone",
+      "pdfPage": 456,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "2dad99249a8d6ec6c16d5babd696a163fc6d7f02f9500c56062aa1a892f39ed9",
+        "previousAppSha256": "2dad99249a8d6ec6c16d5babd696a163fc6d7f02f9500c56062aa1a892f39ed9",
+        "reviewedDigest": "44defdbce32212c6c8c6b72cc32b3299b0cb2f321b318699a6cbf80b9758579c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "44defdbce32212c6c8c6b72cc32b3299b0cb2f321b318699a6cbf80b9758579c",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/Tortilla.html",
+      "steps": [
+        "Sbattere le uova con sale e pepe, incorporare pecorino e Parmigiano grattugiati.",
+        "Ungere una padella antiaderente di 25 cm con l'olio, versare il composto, coprire e cuocere a fuoco basso per 15 minuti.",
+        "Staccare i bordi e controllare che il fondo sia cotto; fuori dal fuoco capovolgere con un piatto piano più grande della padella.",
+        "Far scivolare la frittata nella padella e cuocere altri 5–7 minuti senza coperchio, fino a doratura."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Lorenzo Cogo",
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "6 h",
+      "description": "Revisione editoriale della fonte originale: Baccalà alla vicentina.",
+      "id": "GZ-01468",
+      "ingredients": [
+        "Stoccafisso ragno già ammollato 1 kg",
+        "Cipolle bianche 300 g",
+        "Sarde sotto sale dissalate 40 g",
+        "Farina 00 q.b.",
+        "Sale grosso q.b.",
+        "Latte intero 180 g",
+        "Grana Padano DOP 20 g",
+        "Pepe nero q.b.",
+        "Olio extravergine di oliva 180 g",
+        "Prezzemolo q.b."
+      ],
+      "name": "Baccalà alla vicentina",
+      "notes": [
+        "Specialità vicentina. Conservare coperto in frigorifero 1–2 giorni. La fonte italiana indica 800 g di stoccafisso secco come alternativa a quello ammollato; ammollare circa 3 giorni in acqua fredda in frigorifero, cambiandola ogni 6–8 ore. Possibile cottura in terracotta al forno, senza tempi o temperatura numerici dichiarati; panna in sostituzione di metà latte e prezzemolo durante la cottura sono varianti della fonte."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "6 h",
+        "prep": "20 min",
+        "rest": "Ammollo circa 3 giorni, asciugatura una notte"
+      },
+      "originalTitle": "Vicenza-style Cod",
+      "originalYield": "6 persone",
+      "pdfPage": 313,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7bce7714443cb1f34f44c58146c763a51289b575938702038546a721d0cdbce7",
+        "previousAppSha256": "7bce7714443cb1f34f44c58146c763a51289b575938702038546a721d0cdbce7",
+        "reviewedDigest": "4b5387aa32dbe45bb1b5fc9059f52fc7f4f2e10bec176314e7aa5db75c9cb27f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Ammollo circa 3 giorni, asciugatura una notte",
+      "reviewedRecordSha256": "4b5387aa32dbe45bb1b5fc9059f52fc7f4f2e10bec176314e7aa5db75c9cb27f",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/vicenza-style-cod.html",
+      "steps": [
+        "Tritare le cipolle, sciacquare e dissalare le sarde. Cuocere insieme con parte abbondante dell'olio a fuoco basso per 50–60 minuti, fino a ottenere una crema ambrata.",
+        "Aprire lo stoccafisso ammollato e deliscato lasciando la pelle; distribuire parte del soffritto su una metà, salare, pepare e infarinare. Richiudere e tagliare in pezzi di circa 6 cm.",
+        "Stendere metà del soffritto rimasto sul fondo della casseruola; disporre i pezzi in verticale e ravvicinati. Distribuire il resto del soffritto, farina, sale, pepe e Grana.",
+        "Versare tutto il latte e l'olio restante fino a coprire. Cuocere a fuoco bassissimo per 4–5 ore, con appena qualche bolla; muovere il pesce il meno possibile.",
+        "Quando la polpa è bianca e tenera, completare con prezzemolo e servire con polenta."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "25 min",
+      "description": "Revisione editoriale della fonte originale: Baccalà con patate e olive.",
+      "id": "GZ-01471",
+      "ingredients": [
+        "Baccalà dissalato 800 g",
+        "Patate 700 g",
+        "Olive nere 200 g",
+        "Brodo vegetale 350 g",
+        "Farina 00 100 g",
+        "Cipolla dorata 1",
+        "Olio EVO 5 cucchiai (2½ + 2½)",
+        "Alloro 3 foglie",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Baccalà con patate e olive",
+      "notes": [
+        "Frigorifero in contenitore chiuso fino a 2 giorni; no congelamento. Alternative: brodo di pesce, pomodori freschi o salsa al momento di unire il pesce, olive taggiasche e capperi. Pesce salato o stoccafisso richiedono ammollo preventivo distinto, in frigorifero, con ricambio dell'acqua almeno 3 volte al giorno secondo la fonte."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Cod with potatoes and olives",
+      "originalYield": "4 persone",
+      "pdfPage": 316,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ca6f613c12e4c87b1bce7c6dac9ec6a079fb29c65bfcd34fc9cf499b16a9a8c8",
+        "previousAppSha256": "ca6f613c12e4c87b1bce7c6dac9ec6a079fb29c65bfcd34fc9cf499b16a9a8c8",
+        "reviewedDigest": "289d6b49200cd378e5922035be428d4e1e63ae7915c8c6e6bf6a8430f4079d55"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "289d6b49200cd378e5922035be428d4e1e63ae7915c8c6e6bf6a8430f4079d55",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/cod-with-potatoes-and-olives.html",
+      "steps": [
+        "Scolare e asciugare il baccalà, tagliarlo in pezzi e infarinarli su entrambi i lati. Affettare la cipolla.",
+        "Soffriggere la cipolla in 2½ cucchiai d'olio per 5 minuti; unire il pesce e dorarlo a fuoco medio per 5 minuti, girandolo.",
+        "Pelare le patate, dividerle in 12 spicchi e metterle in una padella capiente con i restanti 2½ cucchiai d'olio.",
+        "Aggiungere il brodo, coprire e cuocere a fuoco alto 10 minuti, poi unire pesce e fondo di cottura.",
+        "Aggiungere olive e alloro, coprire e cuocere a fuoco medio 15 minuti; se si asciuga troppo, aggiungere acqua o brodo. Sale e pepe sono previsti dalla lista, senza momento preciso nel metodo.",
+        "Servire il pesce sopra patate e olive."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: Baccalà arracanato.",
+      "id": "GZ-01469",
+      "ingredients": [
+        "Baccalà dissalato 800 g",
+        "Mollica di pane raffermo 150 g",
+        "Aglio 1 spicchio",
+        "Pinoli 20 g",
+        "Succo di 1 limone",
+        "Uvetta 30 g",
+        "Origano q.b.",
+        "Pangrattato 1 cucchiaio",
+        "Olio EVO q.b.",
+        "Sale q.b. (procedimento)",
+        "Acqua circa 2 cucchiai (procedimento)"
+      ],
+      "name": "Baccalà arracanato",
+      "notes": [
+        "Specialità del Molise. La fonte indica 2–3 giorni di conservazione; conservare refrigerato. Il vino può sostituire l'acqua nella teglia."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Arracanato cod",
+      "originalYield": "4 persone",
+      "pdfPage": 314,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7d95629da7f62d5f494102850c0ca60614846652dd4868c295d2bd74415fb9d8",
+        "previousAppSha256": "7d95629da7f62d5f494102850c0ca60614846652dd4868c295d2bd74415fb9d8",
+        "reviewedDigest": "d406534e826b4aea503739508a1d3f5c96f7af610d1397b033192d1eb4aec19d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "d406534e826b4aea503739508a1d3f5c96f7af610d1397b033192d1eb4aec19d",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/arracanato-cod.html",
+      "steps": [
+        "Sciacquare l'uvetta e farla rinvenire in acqua fredda. Sciacquare il baccalà, asciugarlo e dividerlo in pezzi.",
+        "Amalgamare la mollica con pinoli, uvetta strizzata, origano, aglio grattugiato, olio e sale.",
+        "Versare il succo di limone e circa due cucchiai d'acqua nella teglia; sistemare il pesce e coprirlo con il composto di mollica.",
+        "Distribuire il pangrattato e un filo d'olio; cuocere in forno statico preriscaldato a 350 °F per 35 minuti, fino a doratura."
+      ],
+      "temperature": "350 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Scampi alla busara.",
+      "id": "GZ-01726",
+      "ingredients": [
+        "Scampi 1 kg",
+        "Pomodori pelati 300 g",
+        "Vino bianco secco 50 ml",
+        "Pangrattato 20 g",
+        "Aglio 1 spicchio",
+        "Prezzemolo 2 cucchiai da tritare",
+        "Peperoncino fresco 1",
+        "Olio EVO q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Scampi alla busara",
+      "notes": [
+        "Tipico di Trieste, con influenze dalmate-istriane indicate nella fonte; origine del termine busara incerta. Frigorifero coperto fino al giorno successivo. Scampi crudi congelabili solo se freschi, scongelare in frigorifero. Aglio omissibile ma non sostituire con cipolla; variante pomodori ramati sbollentati e pelati."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Scampi alla busara",
+      "originalYield": "4 persone",
+      "pdfPage": 414,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "020c5fc23a259ed9f7c730b9ed800787fad3b56df3260b63317e0ecada8a7024",
+        "previousAppSha256": "020c5fc23a259ed9f7c730b9ed800787fad3b56df3260b63317e0ecada8a7024",
+        "reviewedDigest": "f5ca2bc000d4e90d99fb5a8b10d1699b92844b7bd4bad723919822ae51bd4cfc"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "f5ca2bc000d4e90d99fb5a8b10d1699b92844b7bd4bad723919822ae51bd4cfc",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Scampi-alla-busara.html",
+      "steps": [
+        "Sciacquare gli scampi; incidere verticalmente il carapace sul dorso o ventre per facilitare l'estrazione della polpa, oppure lasciarli interi.",
+        "Dorare l'aglio nell'olio in padella ampia, aggiungere peperoncino intero. Si possono infilzare entrambi con uno stecchino per rimuoverli facilmente.",
+        "Unire il pangrattato, mescolare rapidamente senza bruciarlo, quindi disporre subito gli scampi senza sovrapporli.",
+        "Sfumare con il vino, lasciare evaporare un paio di minuti, salare e aggiungere i pelati spezzettati. Mescolare, coprire e cuocere circa 15 minuti.",
+        "Tritare il prezzemolo, distribuirlo a fine cottura e togliere aglio e peperoncino prima di servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "8 min",
+      "description": "Revisione editoriale della fonte originale: Alici in friggitrice ad aria.",
+      "id": "GZ-01459",
+      "ingredients": [
+        "Alici fresche da pulire 400 g",
+        "Farina 00 q.b.",
+        "Olio EVO q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Alici in friggitrice ad aria",
+      "notes": [
+        "Frigorifero fino a un giorno; eventuali più lotti possono essere riscaldati insieme prima del servizio. Possibili farina di mais o pangrattato; accompagnamento con agrumi o salsa verde."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "8 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Alici in friggitrice ad aria",
+      "originalYield": "2 persone",
+      "pdfPage": 306,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a561b0ea3ad9346120c2ffbadf4ef687e3b76adede7b1622e00043d6b207029d",
+        "previousAppSha256": "a561b0ea3ad9346120c2ffbadf4ef687e3b76adede7b1622e00043d6b207029d",
+        "reviewedDigest": "b75d6b0b6e3779a13fc7c5a5cafb38242b38daafed264c8b7b71f9d6a3ee045f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "b75d6b0b6e3779a13fc7c5a5cafb38242b38daafed264c8b7b71f9d6a3ee045f",
+      "serves": "2 persone",
+      "source": "https://ricette.giallozafferano.it/Alici-in-friggitrice-ad-aria.html",
+      "steps": [
+        "Eliminare testa e interiora, aprire a libro e rimuovere la lisca; risciacquare e asciugare su carta assorbente.",
+        "Passare poche alici alla volta nella farina, setacciare quella in eccesso e irrorare con poco olio.",
+        "Sistemare nel cestello ben distanziate, senza sovrapposizioni. Cuocere a 190 °C per 7–8 minuti secondo la dimensione.",
+        "Salare dopo la cottura e servire calde."
+      ],
+      "temperature": "190 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "55 min",
+      "description": "Revisione editoriale della fonte originale: Baccalà alla livornese.",
+      "id": "GZ-01467",
+      "ingredients": [
+        "Baccalà dissalato 600 g",
+        "Patate 250 g",
+        "Farina 00 100 g",
+        "Vino bianco 40 g",
+        "Sale e pepe q.b. per il pesce",
+        "Olio EVO q.b. per il pesce",
+        "Pomodori pelati 800 g per la salsa",
+        "Cipolla dorata 1",
+        "Aglio 1 spicchio",
+        "Sale e pepe q.b. per la salsa",
+        "Olio EVO q.b. per la salsa",
+        "Poca acqua (nel procedimento)",
+        "Prezzemolo (nel procedimento; dose non quantificata nell'elenco)"
+      ],
+      "name": "Baccalà alla livornese",
+      "notes": [
+        "Conservare in frigorifero in contenitore chiuso fino a 2 giorni; non congelare. La fonte propone Vin Santo al posto del vino, pomodoro fresco oppure olive. Lo stoccafisso è una variante distinta che richiede ammollo e cottura diversi. Il riferimento a Livorno documenta la tradizione toscana."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "55 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Cod Livorno Style",
+      "originalYield": "4 persone",
+      "pdfPage": 312,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "16e45071d9fba8e92d0909e5f10ee5c859456402187a90c15d1fe519341d3b9b",
+        "previousAppSha256": "16e45071d9fba8e92d0909e5f10ee5c859456402187a90c15d1fe519341d3b9b",
+        "reviewedDigest": "ae7b29e8265d2701aaf2709f4b42c9c1ffec11ea840703eeb5bd0882e8bce8f8"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "ae7b29e8265d2701aaf2709f4b42c9c1ffec11ea840703eeb5bd0882e8bce8f8",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/cod-livorno-style.html",
+      "steps": [
+        "Affettare la cipolla; farla appassire con aglio intero e olio a fiamma bassa per 3–4 minuti, aggiungendo poca acqua.",
+        "Schiacciare i pelati, unirli alla cipolla e cuocere coperto a fiamma media per circa 15 minuti.",
+        "Tagliare il pesce in pezzi regolari, infarinarli e rosolarli brevemente su entrambi i lati con olio in un'altra padella. Salare, pepare e sfumare con il vino fino a evaporazione.",
+        "Togliere l'aglio dalla salsa, versarla sul pesce e proseguire coperto a fuoco dolce per 20 minuti.",
+        "Pelare le patate e tagliarle a cubetti; aggiungerle al pesce e continuare coperto altri 20 minuti, mescolando con delicatezza. Controllare il condimento.",
+        "Completare fuori dal fuoco con prezzemolo tritato e servire caldo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Anelli di calamari e patate.",
+      "id": "GZ-01462",
+      "ingredients": [
+        "Calamari puliti 1 kg (senza testa e pelle)",
+        "Patate 700 g",
+        "Aglio 1 spicchio",
+        "Pomodori pelati 200 g",
+        "Vino bianco 80 g",
+        "Acqua 200 g (facoltativa)",
+        "Origano fresco q.b.",
+        "Salvia q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Olio EVO q.b."
+      ],
+      "name": "Anelli di calamari e patate",
+      "notes": [
+        "Frigorifero: al massimo un giorno. Le patate si possono preparare in anticipo. Se si usano calamari interi, si possono impiegare anche i tentacoli; evitare di prolungare la cottura dei calamari."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Calamari Rings and Potatoes",
+      "originalYield": "4 persone",
+      "pdfPage": 309,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "0a5df277c06a35638e40b624d66ce2679cbb84b04557f4efef0bf59a6235bf31",
+        "previousAppSha256": "0a5df277c06a35638e40b624d66ce2679cbb84b04557f4efef0bf59a6235bf31",
+        "reviewedDigest": "54bcaa215157ac9a87c0a876bf9696a8717ebfafc2e879a1ad9a79c1c23e0f29"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "54bcaa215157ac9a87c0a876bf9696a8717ebfafc2e879a1ad9a79c1c23e0f29",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Calamari-Rings-and-Potatoes.html",
+      "steps": [
+        "Sbucciare le patate e ricavarne pezzi irregolari. Scaldare l'olio con l'aglio.",
+        "Unire patate e salvia, lasciare insaporire e sfumare con il vino fino a evaporazione.",
+        "Aggiungere i pomodori pelati; per una preparazione più in umido aggiungere l'acqua, altrimenti ometterla. Cuocere coperto a fuoco basso per 30–35 minuti fino a patate tenere.",
+        "Tagliare i calamari puliti ad anelli; rimuovere l'aglio, aggiungerli alle patate, salare e pepare. Cuocere 5–6 minuti.",
+        "Completare con origano fresco e servire caldo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Carciofi ripieni di uova e formaggio.",
+      "id": "GZ-01837",
+      "ingredients": [
+        "Carciofi mammole 4 (circa 10,6 oz ciascuno)",
+        "Uova 4",
+        "Provola da grattugiare 120 g (tenere una manciata per la superficie)",
+        "Pecorino 50 g",
+        "Pane 90 g",
+        "Aglio 2 spicchi",
+        "Sale fino e pepe q.b.",
+        "Sale grosso 1 cucchiaino",
+        "Limone 1",
+        "Olio EVO q.b.",
+        "Timo q.b."
+      ],
+      "name": "Carciofi ripieni di uova e formaggio",
+      "notes": [
+        "Frigorifero in contenitore ermetico per un paio di giorni. Il ripieno è ispirato alle pallotte cacio e ova abruzzesi, senza attribuire automaticamente l'origine della ricetta. Possibili altre varietà di carciofi; riutilizzare i gambi. Mozzarella ben scolata al posto della provola; pane fresco o raffermo adattando l'assorbimento; facoltativo saltare la fase in padella."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Egg and Cheese Stuffed Artichoke",
+      "originalYield": "4 porzioni",
+      "pdfPage": 343,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f57d9d01c7af603531e8a2d33d4a1cac0c870e46ffd303971a469c8b5064e75f",
+        "previousAppSha256": "f57d9d01c7af603531e8a2d33d4a1cac0c870e46ffd303971a469c8b5064e75f",
+        "reviewedDigest": "2e9a60b7b21b5836f5338d4d7f33fc108023180f5d5be987be2a1765cb1fb44a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "2e9a60b7b21b5836f5338d4d7f33fc108023180f5d5be987be2a1765cb1fb44a",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/Egg-and-Cheese-Stuffed-Artichoke.html",
+      "steps": [
+        "Eliminare gambi, foglie esterne dure e punte, arrotondare la base, aprire le foglie e togliere il fieno. Sbollentare i carciofi interi per 8 minuti in acqua con sale grosso e limone; scolare capovolti su un canovaccio.",
+        "Tritare grossolanamente il pane a cubetti con timo e sale. Mescolare uova, pecorino e provola grattugiata, tenendo una manciata di provola da parte; insaporire con sale e pepe.",
+        "Incorporare gradualmente il pane in funzione dell'assorbimento, fino a un ripieno morbido ma compatto.",
+        "Scaldare olio con aglio in camicia e timo in padella, appoggiare i carciofi con parte tagliata in basso e foglie aperte; insaporire pochi minuti, spegnere, capovolgere e lasciare raffreddare.",
+        "Farcire premendo bene il composto, arrotondare la forma, rimettere in padella da forno o teglia, coprire con la provola riservata. Cuocere in forno statico preriscaldato a 350 °F per circa 25 minuti fino a doratura.",
+        "Terminare con pepe e foglie di timo."
+      ],
+      "temperature": "350 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "10 min",
+      "description": "Revisione editoriale della fonte originale: Alici imbottite.",
+      "id": "GZ-01458",
+      "ingredients": [
+        "Alici da pulire 600 g",
+        "Mollica di pane 200 g",
+        "Uovo medio 1",
+        "Pecorino grattugiato 30 g",
+        "Succo di limone 10 g",
+        "Scorza di limone 0,5 g",
+        "Menta 3 foglie",
+        "Sale q.b.",
+        "Pepe q.b. nel ripieno (procedimento)",
+        "Farina 00 100 g per la panatura",
+        "Uova 165 g (3 medie) per la panatura",
+        "Pangrattato 100 g per la panatura",
+        "Sale e pepe q.b. per la panatura",
+        "Olio di arachide 1 l"
+      ],
+      "name": "Alici imbottite",
+      "notes": [
+        "Consumare subito. Il prezzemolo può sostituire la menta; limone facoltativo al servizio. La fonte associa la preparazione alla cucina dell'Italia meridionale."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "40 min",
+        "rest": null
+      },
+      "originalTitle": "Stuffed anchovies",
+      "originalYield": "4 persone",
+      "pdfPage": 305,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "41eba8a66ae793730b0fdfa989a26b7d4dbea7076b856ca81b8bf09047745f21",
+        "previousAppSha256": "41eba8a66ae793730b0fdfa989a26b7d4dbea7076b856ca81b8bf09047745f21",
+        "reviewedDigest": "3ad30518355d32c380600e33045c6f1d607b7e8d5268e5df99e75b15fe785dc5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "3ad30518355d32c380600e33045c6f1d607b7e8d5268e5df99e75b15fe785dc5",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/stuffed-anchovies.html",
+      "steps": [
+        "Pulire le alici, eliminare testa, viscere e lisca, aprirle a libro, sciacquare e asciugare.",
+        "Sbriciolare la mollica; mescolare con pecorino, uovo, succo e scorza di limone, sale, pepe e menta spezzettata.",
+        "Distribuire il ripieno su un'alice e coprire con una seconda con la pelle all'esterno, compattando il ripieno a misura del pesce.",
+        "Infarinare, passare nelle uova sbattute con sale e pepe, poi nel pangrattato premendo delicatamente.",
+        "Friggere pochi pezzi alla volta a 340 °F fino a doratura, scolare e servire caldi."
+      ],
+      "temperature": "340 °F"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Baccalà con uvetta e pinoli.",
+      "id": "GZ-01473",
+      "ingredients": [
+        "Baccalà dissalato 600 g",
+        "Pomodorini 500 g",
+        "Uvetta 30 g",
+        "Pinoli 20 g",
+        "Vino bianco secco 100 ml",
+        "Acqua 50 ml",
+        "Olive nere denocciolate 70 g",
+        "Cipolla rossa 1",
+        "Aglio 1 spicchio",
+        "Prezzemolo 20 g",
+        "Olio EVO q.b.",
+        "Sale e pepe q.b."
+      ],
+      "name": "Baccalà con uvetta e pinoli",
+      "notes": [
+        "Conservare in frigorifero fino a 2 giorni in contenitore chiuso. Eventuale congelamento del piatto cotto con ingredienti non decongelati, scongelare in frigorifero; la fonte sconsiglia congelare il pesce crudo dopo ammollo. Patate sottili facoltative con cottura di circa 30 minuti."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "45 min",
+        "rest": null
+      },
+      "originalTitle": "Bacalao con pasas y piñones",
+      "originalYield": "4 persone",
+      "pdfPage": 363,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "968d108c1d43bd1c8272bc2a1c0936d70ca246cefef50e9d1a5eac052a73855d",
+        "previousAppSha256": "968d108c1d43bd1c8272bc2a1c0936d70ca246cefef50e9d1a5eac052a73855d",
+        "reviewedDigest": "bf050dd31efe8f954d8cdaad17ae82f766db2d33bc1584321cb670729fe8be82"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "bf050dd31efe8f954d8cdaad17ae82f766db2d33bc1584321cb670729fe8be82",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/bacalao-con-pasas-y-pinones.html",
+      "steps": [
+        "Eliminare le lische, affettare la cipolla, dimezzare i pomodorini e tagliare le olive. Ammollare l'uvetta nel vino 30 minuti, scolarla conservando il vino. Tostare i pinoli.",
+        "Scaldare circa 2 cucchiai d'olio con cipolla e aglio schiacciato, cuocere a fuoco medio 10 minuti aiutandosi con i 50 ml d'acqua.",
+        "Condire il baccalà, rosolarlo circa 5 minuti, sfumare con il vino conservato a fuoco vivo e unire l'uvetta.",
+        "Abbassare la fiamma, unire pinoli e pomodorini, coprire e cuocere senza spezzare il pesce, scuotendo il tegame. Aggiungere le olive e proseguire fino a salsa ridotta e pesce cotto, circa 20–25 minuti.",
+        "Completare con prezzemolo, sale e pepe e servire caldo."
+      ],
+      "temperature": null
     }
   ]
 }
