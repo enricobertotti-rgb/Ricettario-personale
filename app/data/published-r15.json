@@ -16429,6 +16429,780 @@
         "Forare la base dei bignè e farcire con chantilly usando bocchetta liscia. Coprire e refrigerare qualche minuto. Immergere ciascun bignè nella glassa con due forchette, far sgocciolare su griglia, disporre a piramide, decorare con chantilly residua e conservare in frigo fino al servizio."
       ],
       "temperature": "220 °C poi 180 °C statico; glassa 30–32 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "35 min",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-02350",
+      "ingredients": [
+        "Farina Manitoba 200 g",
+        "Farina 00 400 g",
+        "Acqua 400 ml",
+        "Lievito di birra fresco 10 g",
+        "Malto 1 cucchiaino",
+        "Sale fino 15 g",
+        "Olio extravergine d’oliva 40 g",
+        "Condimento: olio extravergine d’oliva 60 g",
+        "Frutti di cappero sott’aceto 30 g",
+        "Olive taggiasche denocciolate 100 g",
+        "Rosmarino 1 rametto",
+        "Fiocchi di sale q.b."
+      ],
+      "name": "Focaccia con capperi, rosmarino e olive taggiasche",
+      "notes": [
+        "La lista della fonte indica acqua tiepida, il procedimento a temperatura ambiente.",
+        "Conservare in un sacchetto di carta per 1–2 giorni oppure congelare dopo raffreddamento e riscaldare al bisogno.",
+        "Il malto può essere sostituito da zucchero; al posto dei fiocchi si può usare sale grosso. Varianti suggerite: pomodori secchi, acciughe, origano."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "15 min",
+        "rest": "circa 2 ore"
+      },
+      "originalTitle": "Focaccia con alcaparras, romero y aceitunas taggiasche",
+      "originalYield": "6 persone",
+      "pdfPage": 539,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "963b5a61460ec099f2ad4f542f5f454416cd732435d31de9f497dbea2f56463e",
+        "previousAppSha256": "963b5a61460ec099f2ad4f542f5f454416cd732435d31de9f497dbea2f56463e",
+        "reviewedDigest": "d419e8ee98d90b324915b2bbd241a885e4582ed27f007e5ae51a373fbbbc595b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 2 ore",
+      "reviewedRecordSha256": "d419e8ee98d90b324915b2bbd241a885e4582ed27f007e5ae51a373fbbbc595b",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.es/recetas/focaccia-con-alcaparras-romero-y-aceitunas-taggiasche.html",
+      "steps": [
+        "Mescolare le farine in planetaria con il gancio; unire il lievito sbriciolato, metà dell’acqua e il malto. Lavorare a bassa velocità, incorporare la restante acqua e poi il sale.",
+        "Versare gradualmente i 40 g d’olio e impastare per 10–15 minuti fino a ottenere un impasto elastico che si avvolge al gancio. Incorporare metà delle olive, scolate, per circa 10 secondi.",
+        "Sul piano unto ripiegare l’impasto con un tarocco, formare una palla e trasferirla in una ciotola coperta. Far lievitare per circa un’ora nel forno spento con luce accesa.",
+        "Ungere la teglia con parte dell’olio previsto per il condimento, allargarvi l’impasto con le dita, coprire e far lievitare un’altra ora.",
+        "Distribuire le olive rimaste, i capperi tagliati a metà, il rosmarino, l’olio del condimento rimasto e i fiocchi di sale. Cuocere in forno statico preriscaldato a 200 °C per 30–35 minuti, con un recipiente di acqua calda nel forno. Lasciare intiepidire."
+      ],
+      "temperature": "200 °C, statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "35 min",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-02446",
+      "ingredients": [
+        "Farina 00 450 g",
+        "Acqua 125 g",
+        "Latte intero 125 g",
+        "Lievito di birra fresco 15 g",
+        "Strutto 20 g",
+        "Sale 10 g",
+        "Ripieno: mortadella 125 g",
+        "Salame napoletano 125 g",
+        "Provolone piccante 125 g",
+        "Uova sode 4",
+        "Pecorino Romano DOP 30 g",
+        "Pepe q.b.",
+        "Finitura: tuorlo 1",
+        "Panna fresca liquida q.b."
+      ],
+      "name": "Panini napoletani",
+      "notes": [
+        "Conservare in frigorifero per un paio di giorni e riscaldare prima del servizio.",
+        "Possibili sostituzioni in pari peso: olio o burro al posto dello strutto, acqua al posto del latte; variare salumi e formaggi secondo preferenza."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "40 min",
+        "rest": "circa 2 ore + 30 min in frigorifero"
+      },
+      "originalTitle": "Panini napoletani",
+      "originalYield": "8 pezzi",
+      "pdfPage": 559,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b06393c29951c2ce71dad879f6a7d128f453ec24b55d71dee4cc6e00abe777ba",
+        "previousAppSha256": "b06393c29951c2ce71dad879f6a7d128f453ec24b55d71dee4cc6e00abe777ba",
+        "reviewedDigest": "d95041ebd9b77802247ade9dbd45033fbc0bf867453a078b4b1b793501d2a786"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 2 ore + 30 min in frigorifero",
+      "reviewedRecordSha256": "d95041ebd9b77802247ade9dbd45033fbc0bf867453a078b4b1b793501d2a786",
+      "serves": "8 pezzi",
+      "source": "https://ricette.giallozafferano.it/Panini-napoletani.html",
+      "steps": [
+        "Sciogliere il lievito nell’acqua con una forchetta. Unire latte, sale e circa due terzi della farina, mescolare con un cucchiaio di legno e aggiungere la farina rimasta.",
+        "Trasferire sulla spianatoia, incorporare lo strutto e lavorare fino a ottenere una massa omogenea. Formare una palla, coprire e lasciare lievitare circa 2 ore fino al raddoppio.",
+        "Lessare le uova per 9 minuti dal bollore, raffreddare, sgusciare, tagliare e sminuzzare. Ridurre a cubetti mortadella, salame e provolone, mescolare con le uova.",
+        "Stendere un rettangolo di circa 40 × 35 cm, distribuire il ripieno, pepe e pecorino; arrotolare dal lato corto e sigillare le estremità. Trasferire su teglia foderata e refrigerare 30 minuti.",
+        "Tagliare in 8 pezzi, disporli su teglia con carta forno. Spennellare con tuorlo e panna (oppure latte), cuocere a 200 °C in forno statico preriscaldato per 35 minuti. Lasciare intiepidire."
+      ],
+      "temperature": "200 °C, statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "2 ore",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-03839",
+      "ingredients": [
+        "Manzo macinato 800 g",
+        "Fagioli neri precotti 1170 g (peso non sgocciolato)",
+        "Peperoni rossi 250 g",
+        "Passata di pomodoro 500 g",
+        "Brodo di carne 360 g",
+        "Cipolle bianche 160 g",
+        "Cipolle rosse 100 g",
+        "Aglio 3 spicchi",
+        "Peperoncino fresco 1",
+        "Olio extravergine d’oliva 30 g",
+        "Cumino in polvere 1 cucchiaino",
+        "Coriandolo in polvere 1 cucchiaino",
+        "Zucchero di canna 1 cucchiaino",
+        "Pepe nero 1 cucchiaino",
+        "Sale fino 2 cucchiaini",
+        "Coriandolo fresco q.b."
+      ],
+      "name": "Chili con carne",
+      "notes": [
+        "Preparazione Tex-Mex. La fonte canonica inglese indica 4 porzioni; la pagina italiana collegata indica 8 con identiche dosi metriche. Conservata la resa canonica, senza ricalcolare.",
+        "Gli 800 g di manzo sono confermati dalla fonte italiana, mentre l’equivalente in libbre nella versione inglese è incoerente.",
+        "Conservare in frigorifero 2 giorni, congelabile dopo raffreddamento. Varianti: senza fagioli o peperoni, carne a pezzi o mista, borlotti, cannella, paprika, lime o cioccolato fondente."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "2 ore",
+        "prep": "15 min",
+        "rest": "circa 10 min"
+      },
+      "originalTitle": "Chili con carne",
+      "originalYield": "4 porzioni (fonte canonica)",
+      "pdfPage": 170,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b73773baaaee6b178d04700fb9d8768a437d1841d7dcffef54cad1ad7ea70474",
+        "previousAppSha256": "b73773baaaee6b178d04700fb9d8768a437d1841d7dcffef54cad1ad7ea70474",
+        "reviewedDigest": "633828958131ef5224bb3e12449465ebd62064d82c2ee0b027a7cbbbdbf49926"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 10 min",
+      "reviewedRecordSha256": "633828958131ef5224bb3e12449465ebd62064d82c2ee0b027a7cbbbdbf49926",
+      "serves": "4 porzioni (fonte canonica)",
+      "source": "https://www.giallozafferano.com/recipes/Chili-con-carne.html",
+      "steps": [
+        "Tenere caldo il brodo, tritare aglio e cipolle, tagliare peperoni e peperoncino eliminando parte dei semi. Scaldare metà dell’olio, unire carne e un cucchiaino di sale, rosolare a fiamma medio-alta circa 10 minuti con un mestolo di brodo lasciandolo ridurre. Mettere la carne da parte.",
+        "Nella stessa casseruola scaldare l’olio rimasto, aggiungere peperoncino, aglio, cipolle e peperone. Condire con l’altro cucchiaino di sale, pepe, zucchero, cumino e coriandolo; aggiungere un mestolo di brodo e cuocere circa 10 minuti a fiamma medio-alta.",
+        "Riunire il manzo, passata e brodo rimasto; sobbollire 60 minuti a fiamma media, mescolando e controllando la riduzione.",
+        "Unire i fagioli con circa due tazze del loro liquido, sobbollire altri 40 minuti a fiamma medio-bassa; spegnere e riposare circa 10 minuti. Guarnire con coriandolo fresco e servire caldo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "2 min",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-00225",
+      "ingredients": [
+        "Strutto 35 g",
+        "Farina tipo 0 500 g",
+        "Zucchero 5 g",
+        "Sale fino 15 g",
+        "Acqua circa 125 g",
+        "Latte intero 100 g",
+        "Lievito istantaneo per preparazioni salate 12 g",
+        "Olio di semi q.b. per friggere"
+      ],
+      "name": "Gnocco fritto",
+      "notes": [
+        "La fonte inglese riporta anche 4 × 3 pollici, non equivalenti alla misura metrica indicata. Conservata esplicitamente la misura metrica già presente nello storico.",
+        "La variante italiana collegata ha dosi e lievito diversi: non fusa né sostituita.",
+        "L’impasto si conserva fino a 12 ore secondo la fonte; si può congelare crudo e scongelare in frigorifero, poi lasciarlo a temperatura ambiente per circa due ore prima di stendere. Tradizionalmente si può friggere nello strutto; la fonte suggerisce di aumentare leggermente lo strutto se si omette il latte, senza indicare dosi."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "2 min",
+        "prep": "60 min",
+        "rest": "da 1 a 12 ore in luogo fresco"
+      },
+      "originalTitle": "Gnocco fritto (Fried dough)",
+      "originalYield": "50 pezzi",
+      "pdfPage": 166,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a6ac0ff791d4d481bba286e9ed00fb966d4ba686571003dfcdb32ae5cea6f416",
+        "previousAppSha256": "a6ac0ff791d4d481bba286e9ed00fb966d4ba686571003dfcdb32ae5cea6f416",
+        "reviewedDigest": "8ac8cf5ea13507e21797a7ffc85761eb0d4020b07fee3001d6c7842f8437bc05"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "da 1 a 12 ore in luogo fresco",
+      "reviewedRecordSha256": "8ac8cf5ea13507e21797a7ffc85761eb0d4020b07fee3001d6c7842f8437bc05",
+      "serves": "50 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/gnocco-fritto-fried-dough.html",
+      "steps": [
+        "Mescolare acqua e latte. Riunire farina, lievito istantaneo, zucchero e sale; incorporare lo strutto e versare a filo i liquidi impastando. Trasferire su piano infarinato quando assorbiti.",
+        "Formare un panetto compatto e asciutto, coprire in ciotola con pellicola e riposare in luogo fresco da 1 a 12 ore.",
+        "Dividere in panetti tenendo coperti quelli non lavorati, stendere a circa 1/16 di pollice, rifilare con rotella ondulata e ritagliare rettangoli di 8 × 7 cm, misura metrica riportata dalla fonte. Reimpastare i ritagli.",
+        "Friggere a 170 °C pochi pezzi per volta (3–4), per circa un minuto prima di girarli quando dorati; dorare l’altro lato, scolare su carta e servire caldi."
+      ],
+      "temperature": "170 °C per la frittura"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "10 min",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-03846",
+      "ingredients": [
+        "Tortillas piccole di farina 4",
+        "Filetto di merluzzo 400 g",
+        "Insalata iceberg 120 g",
+        "Pomodorini datterini 100 g",
+        "Carote 80 g",
+        "Radicchio 60 g",
+        "Succo di ½ lime",
+        "Coriandolo q.b.",
+        "Pastella: birra scura 165 g",
+        "Farina 00 135 g",
+        "Sale e pepe q.b.",
+        "Salsa: yogurt greco 200 g",
+        "Scorza di ½ lime",
+        "Succo di ½ lime",
+        "Olio di semi per friggere q.b.",
+        "Condimento verdure: sale e olio (dose non indicata nel procedimento)"
+      ],
+      "name": "Fish tacos",
+      "notes": [
+        "La fonte menziona olio e sale per le verdure solo nel metodo, senza quantità.",
+        "Non conservare i tacos già assemblati. Varianti: panatura di uovo e pangrattato, Tabasco o maionese al curry, cavolo bianco o viola."
+      ],
+      "origin": "Messico",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "20 min",
+        "rest": "pastella in frigorifero, durata non dichiarata"
+      },
+      "originalTitle": "Fish tacos",
+      "originalYield": "4 tacos / 4 porzioni",
+      "pdfPage": 180,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "88ded37295a9d13d5fdc2f9ab5c5f54bc87c3dfae3d03cc419bc1eee89810e41",
+        "previousAppSha256": "88ded37295a9d13d5fdc2f9ab5c5f54bc87c3dfae3d03cc419bc1eee89810e41",
+        "reviewedDigest": "90a5ebd16c86443b590fe3ab2a840ef1a91e01b6a6daa62d80313a97421a3bc6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "pastella in frigorifero, durata non dichiarata",
+      "reviewedRecordSha256": "90a5ebd16c86443b590fe3ab2a840ef1a91e01b6a6daa62d80313a97421a3bc6",
+      "serves": "4 tacos / 4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/fish-tacos.html",
+      "steps": [
+        "Setacciare la farina, condire con sale e pepe, incorporare la birra a filo con una frusta fino a pastella liscia; coprire e refrigerare.",
+        "Lavare iceberg e radicchio e tagliarli a strisce; sbucciare le carote e tagliarle a julienne, immergerle in acqua ghiacciata per farle arricciare. Tagliare i pomodorini in quarti.",
+        "Mescolare lo yogurt con scorza e succo di mezzo lime. Scaldare l’olio di semi a circa 340 °F, verificando con termometro. Immergere i pezzi di merluzzo nella pastella uno alla volta e friggere circa 4 minuti, fino a doratura; scolare su carta.",
+        "Unire iceberg e carote ben scolate e asciutte, condire con sale, olio e il succo di lime destinato alle verdure. Scaldare le tortillas in padella.",
+        "Farcire con l’insalata, merluzzo fritto tagliato in bocconi obliqui, radicchio, salsa allo yogurt, pomodorini e coriandolo. Servire subito."
+      ],
+      "temperature": "340 °F per la frittura"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "20 min",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-03845",
+      "ingredients": [
+        "Controfiletto di manzo 400 g",
+        "Petto di pollo 400 g",
+        "Peperoni rossi 350 g",
+        "Peperoni gialli 350 g",
+        "Cipolle bianche 250 g",
+        "Lime 1",
+        "Salsa Worcestershire 20 g",
+        "Coriandolo fresco 10 g",
+        "Cumino in polvere 1 pizzico",
+        "Olio extravergine d’oliva, sale e pepe q.b.",
+        "Tortillas di farina 8",
+        "Edam a julienne q.b.",
+        "Fagioli neri precotti q.b.",
+        "Salsa messicana di pomodoro q.b.",
+        "Guacamole q.b."
+      ],
+      "name": "Fajitas",
+      "notes": [
+        "Preparazione Tex-Mex, senza attribuzione esclusiva a un singolo Paese.",
+        "Consumare appena pronta; marinatura notturna possibile in frigorifero senza succo di lime.",
+        "Alternative: cheddar, salsa di soia al posto della Worcestershire e prezzemolo al posto del coriandolo."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "20 min",
+        "rest": "1 ora in frigorifero"
+      },
+      "originalTitle": "Fajitas",
+      "originalYield": "8 pezzi",
+      "pdfPage": 179,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b0a71b48c0eb2ea5982e36fcf818c732e798d39da0d2e3a3f1636f0205710750",
+        "previousAppSha256": "b0a71b48c0eb2ea5982e36fcf818c732e798d39da0d2e3a3f1636f0205710750",
+        "reviewedDigest": "26c307325c1752fd8dd64294ddfe2ba5b5730b71a81d348d0701af44f249b16e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1 ora in frigorifero",
+      "reviewedRecordSha256": "26c307325c1752fd8dd64294ddfe2ba5b5730b71a81d348d0701af44f249b16e",
+      "serves": "8 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/fajitas.html",
+      "steps": [
+        "Affettare manzo e pollo a strisce. Condire con scorza grattugiata e succo del lime, coriandolo tritato, cumino, sale e pepe. Mescolare, coprire e marinare in frigorifero un’ora.",
+        "Affettare cipolla e peperoni privati di semi e filamenti. Scaldare bene una padella capiente, aggiungere olio, cipolla e peperoni; cuocere circa 10 minuti a fiamma medio-alta e regolare sale e pepe.",
+        "Aggiungere la carne, rosolare a fiamma alta, sfumare con Worcestershire e cuocere ancora 5–6 minuti, fino a cottura del pollo.",
+        "Scaldare le tortillas sulla piastra, farcire con carne e verdure, fagioli, Edam, guacamole e salsa; ripiegare i bordi e servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "30 min",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-00128",
+      "ingredients": [
+        "Couscous 250 g",
+        "Acqua 250 g",
+        "Polpa di zucca 200 g",
+        "Carote 150 g",
+        "Fagiolini 150 g",
+        "Zucchine baby 120 g",
+        "Cipollotti freschi 2",
+        "Sedano 1 costa",
+        "Scorza di limone non trattato ½",
+        "Olio extravergine d’oliva, sale, pepe e menta q.b.",
+        "Polpettine: filetto di orata 260 g",
+        "Patata media 1",
+        "Timo 1 rametto",
+        "Pangrattato 30 g",
+        "Prezzemolo q.b.",
+        "Farina 00 q.b.",
+        "Olio extravergine d’oliva, sale e pepe q.b."
+      ],
+      "name": "Couscous con verdure e polpettine di pesce",
+      "notes": [
+        "Conservare coperto in frigorifero 2–3 giorni secondo la fonte; non congelare.",
+        "Varianti suggerite: salmone, merluzzo o rana pescatrice e verdure a piacere. Nessun Paese specifico attestato."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "45 min",
+        "rest": "non quantificato (riposo polpettine in frigorifero)"
+      },
+      "originalTitle": "Couscous with vegetables and fish balls",
+      "originalYield": "4 porzioni",
+      "pdfPage": 173,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4e839e64514e5d841ecf4924f751f89269ff32148bfea4ddd8ac04cd60146431",
+        "previousAppSha256": "4e839e64514e5d841ecf4924f751f89269ff32148bfea4ddd8ac04cd60146431",
+        "reviewedDigest": "bfaaa171c38c5f0a532d6600d44809d42cbdc2b5f399d83d728e9c2b6fa28cfc"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "non quantificato (riposo polpettine in frigorifero)",
+      "reviewedRecordSha256": "bfaaa171c38c5f0a532d6600d44809d42cbdc2b5f399d83d728e9c2b6fa28cfc",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/couscous-with-vegetables-and-fish-balls.html",
+      "steps": [
+        "Lessare la patata. Se si parte dal pesce intero, eviscerare, squamare, eliminare branchie e testa, sfilettare lungo la lisca, togliere spine e pelle; ricavare 260 g di polpa e tagliarla a pezzi.",
+        "Schiacciare la patata sbucciata sulla polpa, unire sale, pepe, timo e prezzemolo tritato; lavorare, aggiungere pangrattato e formare polpettine di circa 5 g. Infarinarle e tenere in frigorifero fino alla cottura.",
+        "Tritare sedano, carote e cipollotti; tagliare a cubetti la zucca, dividere i fagiolini in tre e affettare le zucchine. Rosolare sedano, carote e cipollotti in olio; aggiungere fagiolini e zucca e cuocere 20 minuti a fiamma bassa, bagnando con acqua al bisogno. Regolare sale e pepe.",
+        "Portare a bollore l’acqua salata con un filo d’olio, versare il couscous e cuocere coperto 5 minuti fino ad assorbimento e aumento di volume. Trasferire nelle verdure, unire le zucchine e cuocere circa 2 minuti.",
+        "Rosolare le polpettine in olio ben caldo finché dorate, scolare su carta assorbente e aggiungerle al couscous. Completare con menta e scorza di mezzo limone."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "10 min",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-03847",
+      "ingredients": [
+        "Acqua tiepida 90 g",
+        "Farina 00 200 g",
+        "Sale fino 1 pizzico",
+        "Ripieno: ricotta vaccina 250 g",
+        "Pecorino Romano DOP 60 g",
+        "Pepe di Sichuan q.b.",
+        "Cottura: olio extravergine d’oliva 10 g",
+        "Acqua 20 g",
+        "Servizio: salsa di soia, pepe, scaglie di pecorino e origano fresco (quantità non dichiarate)"
+      ],
+      "name": "Gyoza cacio e pepe",
+      "notes": [
+        "Variante fusion romano-giapponese, distinta dai gyoza tradizionali.",
+        "La lista ingredienti indica pepe di Sichuan; la presentazione menziona anche sansho e pepe nero. Mantenuto l’ingrediente della lista senza sostituzioni.",
+        "Cotti in frigorifero fino a un giorno; congelabili crudi se gli ingredienti sono freschi e non decongelati. Possibili cottura a vapore e aggiunta di pepe nell’impasto."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "45 min",
+        "rest": "circa 30 min a temperatura ambiente"
+      },
+      "originalTitle": "Gyoza cacio e pepe",
+      "originalYield": "16 pezzi / 4 porzioni",
+      "pdfPage": 181,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a5627df46c53647c4136919cff1247f04c9461541585ec4c4862002e5e4e04b1",
+        "previousAppSha256": "a5627df46c53647c4136919cff1247f04c9461541585ec4c4862002e5e4e04b1",
+        "reviewedDigest": "fb682209d969abae5eb9e2bece4bd2f1c4cdbdb1ba055ecb61a5958a29abd8c7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 30 min a temperatura ambiente",
+      "reviewedRecordSha256": "fb682209d969abae5eb9e2bece4bd2f1c4cdbdb1ba055ecb61a5958a29abd8c7",
+      "serves": "16 pezzi / 4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/gyoza-cacio-e-pepe.html",
+      "steps": [
+        "Mettere farina e sale nel mixer, versare gradualmente l’acqua tiepida mentre le lame lavorano fino a massa uniforme. Lavorare brevemente sul piano, formare una palla, coprire e riposare circa mezz’ora.",
+        "Dividere l’impasto in 16 parti di circa 0,63 oz, formare palline e tenerle coperte. Stendere ciascuna in un disco spesso circa ⅛ di pollice; se necessario regolarizzare con coppapasta da 3,5 pollici.",
+        "Mescolare ricotta, pecorino grattugiato e pepe macinato; regolare il sale solo se necessario in base al pecorino. Mettere un cucchiaio non colmo al centro di ogni disco, piegare a mezzaluna e sigillare pizzicando il bordo.",
+        "Scaldare l’olio in padella, dorare i ravioli girandoli dopo pochi secondi; bagnare con i 20 g d’acqua, coprire e cuocere un paio di minuti.",
+        "Servire con salsa di soia, pepe, scaglie di pecorino e qualche foglia di origano."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "15 min",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-00129",
+      "ingredients": [
+        "Couscous precotto 200 g",
+        "Brodo vegetale bollente 220 g",
+        "Olio extravergine d’oliva 10 g",
+        "Sale 1 pizzico",
+        "Condimento: petto di pollo 800 g",
+        "Zucchine 200 g",
+        "Peperoni rossi 100 g",
+        "Carote 140 g",
+        "Piselli 100 g",
+        "Scalogno 1",
+        "Pepe, sale, paprika dolce q.b.",
+        "Brodo vegetale q.b.",
+        "Olio extravergine d’oliva q.b.",
+        "Scorza di limone non trattato 1"
+      ],
+      "name": "Couscous freddo di pollo",
+      "notes": [
+        "Il tempo di preparazione dichiarato non comprende quello di preparazione del couscous.",
+        "Conservare coperto in frigorifero 1–2 giorni; non congelare.",
+        "Varianti: verdure stagionali, frutta secca, Tabasco, basilico, curcuma e cumino."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "20 min",
+        "rest": "circa 5 min per il couscous; raffreddamento non quantificato"
+      },
+      "originalTitle": "Cold Chicken Couscous",
+      "originalYield": "4 porzioni",
+      "pdfPage": 174,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a61f8448d3e842f325503a1d4c2935a280873d6e91539b78f708a57351f26d36",
+        "previousAppSha256": "a61f8448d3e842f325503a1d4c2935a280873d6e91539b78f708a57351f26d36",
+        "reviewedDigest": "98ba2226514aebdce130d938c2b133f34565fdfe5eada559dcf60689e1afdcff"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 5 min per il couscous; raffreddamento non quantificato",
+      "reviewedRecordSha256": "98ba2226514aebdce130d938c2b133f34565fdfe5eada559dcf60689e1afdcff",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/Cold-Chicken-Couscous.html",
+      "steps": [
+        "Preparare brodo vegetale sufficiente anche per cuocere le verdure. Mondare carote, zucchine e peperone e tagliarli a cubetti della stessa dimensione; affettare finemente lo scalogno.",
+        "Tagliare il pollo a cubetti di circa ¾ di pollice, rosolarlo in poco olio con sale, pepe e paprika per 5–7 minuti, mescolando, finché dorato e cotto. Mettere da parte.",
+        "Nella stessa padella aggiungere lo scalogno, carote e peperone; cuocere a fiamma alta 4 minuti con uno o due mestoli di brodo. Unire zucchine e piselli, proseguire circa 4 minuti aggiungendo brodo al bisogno, lasciando le verdure consistenti.",
+        "Condire il couscous con sale e 10 g d’olio, versare il brodo bollente fino a coprirlo, coprire e lasciare gonfiare circa 5 minuti.",
+        "Unire couscous, verdure e pollo raffreddati e completare con scorza di limone. Servire freddo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "1 h 40 min",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-00122",
+      "ingredients": [
+        "Couscous precotto 200 g",
+        "Zafferano 0,16 g",
+        "Sale fino 1 pizzico",
+        "Stufato: polpa di cosciotto d’agnello 1 kg",
+        "Cipolle bianche 80 g",
+        "Zenzero fresco 30 g",
+        "Carote 160 g",
+        "Zucchine 300 g",
+        "Uva passa 50 g",
+        "Ceci precotti 100 g",
+        "Prezzemolo q.b.",
+        "Olio extravergine d’oliva q.b.",
+        "Sale fino q.b.",
+        "Brodo: osso del cosciotto d’agnello",
+        "Cipolle bianche 80 g",
+        "Carote 130 g",
+        "Cannella 1 stecca",
+        "Sale grosso 10 g",
+        "Pepe nero in grani 3 g",
+        "Acqua 2 l"
+      ],
+      "name": "Couscous alla marocchina",
+      "notes": [
+        "Versione adattata al gusto europeo, ispirata alla cucina marocchina.",
+        "Consumare preferibilmente subito; al massimo un giorno in frigorifero in recipiente chiuso.",
+        "Possibili aggiunte di cumino, mandorle e anacardi; per velocizzare usare brodo vegetale pronto. Verificare il rapporto di idratazione sulla confezione del couscous."
+      ],
+      "origin": "Marocco",
+      "originalTimes": {
+        "cook": "1 h 40 min",
+        "prep": "25 min",
+        "rest": "circa 3 min di idratazione"
+      },
+      "originalTitle": "Couscous alla marocchina",
+      "originalYield": "4 persone",
+      "pdfPage": 172,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "da5788cdd97200838f4195be5e36dc8709cef09788f3b11829596c34861c3366",
+        "previousAppSha256": "da5788cdd97200838f4195be5e36dc8709cef09788f3b11829596c34861c3366",
+        "reviewedDigest": "3757c4d607b629a79c4d206c51a292f3310f275cba0ccb7a4ae54088c44cb916"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 3 min di idratazione",
+      "reviewedRecordSha256": "3757c4d607b629a79c4d206c51a292f3310f275cba0ccb7a4ae54088c44cb916",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Couscous-alla-marocchina.html",
+      "steps": [
+        "Disossare il cosciotto. In una pentola alta unire osso, cannella, pepe, sale grosso, carote e cipolla del brodo mondate e tagliate, e acqua fredda. Dal bollore cuocere 40 minuti, schiumando. Filtrare e mantenere caldo.",
+        "Tagliare la polpa a bocconcini, grattugiare lo zenzero sbucciato e affettare la cipolla dello stufato. Stufare cipolla e zenzero in olio per 10 minuti, bagnando con brodo se occorre. Mondare e tagliare obliquamente carote e zucchine in grossi pezzi.",
+        "Aggiungere l’agnello, salare, coprire con brodo caldo e cuocere con coperchio 30 minuti. Unire carote, zucchine e ceci, aggiustare di sale e cuocere coperto altri 20 minuti; negli ultimi 5 aggiungere l’uvetta.",
+        "Stendere il couscous in uno strato sottile in teglia, aggiungere sale e zafferano, coprire con circa 200–250 g di brodo caldo. Coprire e attendere circa 3 minuti, fino ad assorbimento, poi sgranare con la forchetta.",
+        "Disporre il couscous sul piatto, la carne al centro e le verdure intorno; completare con prezzemolo tritato."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "1 h 20 min (dato della fonte)",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-02378",
+      "ingredients": [
+        "Patate 300 g",
+        "Farina di riso 250 g",
+        "Farina di tapioca 40 g",
+        "Lievito di birra fresco 6 g",
+        "Acqua 145 g",
+        "Sale 7 g",
+        "Olio extravergine d’oliva 20 g",
+        "Copertura: olio extravergine d’oliva 30 g",
+        "Olio per lo stampo q.b.",
+        "Sale grosso 1 cucchiaio",
+        "Rosmarino 1 rametto"
+      ],
+      "name": "Focaccia senza glutine",
+      "notes": [
+        "Il tempo di cottura complessivo indicato dalla fonte è 1 ora e 20 minuti; il procedimento specifica 20 minuti per le patate e circa 40 minuti in forno, senza precisare il tempo restante.",
+        "Preferire il consumo in giornata, tiepida; la fonte sconsiglia il congelamento.",
+        "Alternativa: sostituire le patate con 60 g di fecola di patate e circa 65 g di acqua aggiuntiva. Per una focaccia più bassa ridurre di circa 10 minuti il tempo in forno."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 20 min (dato della fonte)",
+        "prep": "20 min",
+        "rest": "circa 2 ore"
+      },
+      "originalTitle": "Focaccia sin gluten",
+      "originalYield": "6 porzioni",
+      "pdfPage": 545,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1bb0c1126469be3bd741d2bac5c09ab1ca8a9487b2c324073b7d13726f0c71bc",
+        "previousAppSha256": "1bb0c1126469be3bd741d2bac5c09ab1ca8a9487b2c324073b7d13726f0c71bc",
+        "reviewedDigest": "5d701335dcdbf534169e3d040a51a67d9654362fe4403dea5f9a8cde2177da6e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 2 ore",
+      "reviewedRecordSha256": "5d701335dcdbf534169e3d040a51a67d9654362fe4403dea5f9a8cde2177da6e",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.es/recetas/focaccia-sin-gluten.html",
+      "steps": [
+        "Lessare le patate per circa 20 minuti, schiacciarle e lasciarle intiepidire. Sciogliere il lievito nell’acqua a temperatura ambiente.",
+        "Unire le patate alle farine di riso e tapioca, incorporare l’acqua con il lievito e lavorare fino a uniformità. Aggiungere sale e 20 g d’olio e impastare fino ad assorbimento; la consistenza leggermente appiccicosa è normale.",
+        "Coprire e lasciare lievitare circa 2 ore, preferibilmente a 27 °C. Ungere uno stampo di 24 cm e allargarvi l’impasto.",
+        "Distribuire l’olio della copertura, creare le fossette con le dita e aggiungere rosmarino e sale grosso. Cuocere in forno statico preriscaldato a 200 °C per circa 40 minuti, poi lasciare intiepidire."
+      ],
+      "temperature": "200 °C, statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "non applicabile",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-03889",
+      "ingredients": [
+        "Friselle 4",
+        "Sedano 60 g",
+        "Pomodorini 125 g",
+        "Cipolla rossa di Tropea 50 g",
+        "Cetrioli bianchi piccoli 80 g",
+        "Olio extravergine d’oliva 40 g",
+        "Acqua 100 g",
+        "Sale q.b."
+      ],
+      "name": "Acquasale",
+      "notes": [
+        "Preparazione pugliese.",
+        "Conservare le verdure senza friselle in frigorifero fino a un giorno; non congelare. È possibile tagliare prima le verdure e condire al momento.",
+        "I cetrioli comuni possono sostituire quelli bianchi, eliminandone la buccia."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "non applicabile",
+        "prep": "20 min",
+        "rest": "non applicabile"
+      },
+      "originalTitle": "Acquasale",
+      "originalYield": "4 porzioni",
+      "pdfPage": 167,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "397622cd8f4627a4266158391ac3065f51822c8605dafc818c57803aadaa7984",
+        "previousAppSha256": "397622cd8f4627a4266158391ac3065f51822c8605dafc818c57803aadaa7984",
+        "reviewedDigest": "9d31cb2f10bcb809ba65eb7be1b23b2f6d530f20840efbf84f3587541066a8ad"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "non applicabile",
+      "reviewedRecordSha256": "9d31cb2f10bcb809ba65eb7be1b23b2f6d530f20840efbf84f3587541066a8ad",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/acquasale.html",
+      "steps": [
+        "Lavare le verdure. Eliminare i filamenti del sedano, dividere longitudinalmente e affettare a circa 1/4 di pollice; affettare allo stesso spessore la cipolla.",
+        "Tagliare i pomodorini in otto parti; dividere i cetrioli bianchi non sbucciati per il lungo e ricavare mezze rondelle di circa 1/4 di pollice.",
+        "In un piatto fondo emulsionare acqua, olio e sale con una frusta. Aggiungere pomodorini, cetrioli, cipolla e sedano e mescolare con un cucchiaio.",
+        "Disporre le friselle intorno alle verdure e servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "25 min",
+      "description": "Revisione della preparazione, delle dosi e delle note della fonte originale.",
+      "id": "GZ-02356",
+      "ingredients": [
+        "Poolish: farina Manitoba 100 g",
+        "Poolish: acqua 100 g",
+        "Poolish: lievito di birra fresco 1 g",
+        "Impasto: farina 00 400 g",
+        "Impasto: acqua 200 g",
+        "Impasto: lievito di birra fresco 4 g",
+        "Malto 1 cucchiaino",
+        "Olio extravergine d’oliva 20 g",
+        "Sale 10 g",
+        "Copertura: zucchine 100 g",
+        "Olio extravergine d’oliva 10 g",
+        "Sale e pepe q.b."
+      ],
+      "name": "Focaccia con zucchine",
+      "notes": [
+        "L’introduzione della fonte indica oltre 18 ore di lievitazione; i singoli riposi del procedimento sono riportati senza sommare o correggere arbitrariamente il dato.",
+        "Preparare il poolish la sera precedente. Conservare al massimo 2 giorni e riscaldare; si può congelare la focaccia cotta. Possibile aggiungere formaggio."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "50 min",
+        "rest": "12 ore + 3 ore + 30 min + 30 min + 15 min (vedi nota)"
+      },
+      "originalTitle": "Focaccia with zucchini",
+      "originalYield": "6 porzioni",
+      "pdfPage": 165,
+      "photo": null,
+      "prep": "50 min",
+      "publicationUpdate": {
+        "baseAppSha256": "854f84350082605ad48a4933eba6e19068555b5853ff72e29d4de6a7f10847c2",
+        "previousAppSha256": "854f84350082605ad48a4933eba6e19068555b5853ff72e29d4de6a7f10847c2",
+        "reviewedDigest": "20892fd96f8292846a7c115c2ed964e063eed31bc0efef1c8ae732723507a904"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "12 ore + 3 ore + 30 min + 30 min + 15 min (vedi nota)",
+      "reviewedRecordSha256": "20892fd96f8292846a7c115c2ed964e063eed31bc0efef1c8ae732723507a904",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/focaccia-with-zucchini.html",
+      "steps": [
+        "Mescolare gli ingredienti del poolish con una spatola; coprire e lasciare 12 ore a temperatura ambiente.",
+        "Sciogliere il lievito dell’impasto nell’acqua, aggiungere il poolish, la farina, il malto, l’olio e il sale. Impastare circa 10 minuti fino a rendere la massa liscia; se appiccicosa, attendere qualche minuto invece di aggiungere farina.",
+        "Formare una palla e lasciarla coperta in ciotola leggermente unta per 3 ore a temperatura ambiente. Ripiegare due volte, formare un filone, porre in teglia unta di 15 × 11 pollici e lasciare riposare 30 minuti.",
+        "Affettare le zucchine con mandolina a circa 1/16 di pollice. Allargare l’impasto con le dita, attendere 30 minuti, distribuire le zucchine e attendere ancora 15 minuti.",
+        "Condire con olio, sale e pepe; cuocere in forno ventilato preriscaldato a 410 °F per circa 25 minuti, fino a doratura. Intiepidire su una gratella."
+      ],
+      "temperature": "410 °F, ventilato"
     }
   ]
 }
