@@ -18760,6 +18760,735 @@
         "Completare con prosciutto crudo e rucola e servire calda; ripetere per seconda pizza."
       ],
       "temperature": "220 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "1 h 10 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00092",
+      "ingredients": [
+        "Cannelloni all'uovo 250 g",
+        "Passata 700 g",
+        "Cipolla dorata 1",
+        "Olio extravergine e sale fino q.b.",
+        "Ripieno: vitello macinato 200 g",
+        "Maiale macinato 150 g",
+        "Ricotta vaccina 500 g",
+        "Fiordilatte 200 g",
+        "Parmigiano Reggiano DOP 50 g",
+        "Vino rosso 40 g",
+        "Aglio 1 spicchio",
+        "Sale e pepe q.b.",
+        "Poca acqua per recuperare la passata dalla brocca"
+      ],
+      "name": "Cannelloni alla napoletana",
+      "notes": [
+        "Specialità partenopea. Frigo 2–3 giorni; congelabili dopo cottura. Varianti della farcia sono distinte dalla formulazione base."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "1 h 10 min",
+        "prep": "30 min",
+        "rest": "Far raffreddare il macinato"
+      },
+      "originalTitle": "Cannelloni alla napoletana",
+      "originalYield": "6 persone",
+      "pdfPage": 216,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b79980eb74e43d4881d23fbaf9c589f547c623e911f3e9905c44a6077208dea3",
+        "previousAppSha256": "b79980eb74e43d4881d23fbaf9c589f547c623e911f3e9905c44a6077208dea3",
+        "reviewedDigest": "66b69bba18765e6a4f41042fe4411b6ce25f86385cee75e78c8c43930549e0b2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Far raffreddare il macinato",
+      "reviewedRecordSha256": "66b69bba18765e6a4f41042fe4411b6ce25f86385cee75e78c8c43930549e0b2",
+      "serves": "6 persone",
+      "source": "https://ricette.giallozafferano.it/Cannelloni-alla-napoletana.html",
+      "steps": [
+        "Tritare la cipolla, soffriggerla in olio fino a renderla morbida. Aggiungere la passata, sciacquare il recipiente con poca acqua e versarla nel sugo. Cuocere a fiamma dolce 40 min e salare.",
+        "In un altro tegame rosolare l'aglio nell'olio e aggiungere i due macinati. Dopo la doratura sfumare con il vino, salare e far evaporare. Togliere l'aglio, proseguire finché la carne è asciutta e lasciare raffreddare.",
+        "Mescolare ricotta scolata e carne, unire 100 g di fiordilatte a pezzetti, 20 g di Parmigiano, pepe e due cucchiai di sugo.",
+        "Velare di sugo una teglia 25×19 cm. Farcire i cannelloni con sac à poche senza bocchetta, sistemarli in un unico strato e coprire con il sugo restante, gli altri 100 g di fiordilatte e 30 g di Parmigiano.",
+        "Cuocere in forno statico preriscaldato a 220 °C per 20 min e finire circa 2 min sotto il grill per dorare."
+      ],
+      "temperature": "220 °C statico 20 min + grill circa 2 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "10 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-03596",
+      "ingredients": [
+        "Linguine 320 g",
+        "Basilico 60 g",
+        "Limone 110 g (circa 1)",
+        "Arance 470 g (circa 2)",
+        "Olio extravergine 120 g",
+        "Sale fino e pepe nero q.b.",
+        "Pinoli 30 g",
+        "Grana Padano DOP grattugiato 60 g"
+      ],
+      "name": "Bavette al pesto di agrumi",
+      "notes": [
+        "La fonte usa linguine nella lista e bavette nel titolo. Pasta: frigorifero in recipiente chiuso fino a un giorno, no congelamento. Per il pesto separato la fonte indica 3–4 giorni refrigerato, coperto d'olio. Variante: rucola e mandorle al posto di basilico e pinoli."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "15 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "Bavette with citrus pesto",
+      "originalYield": "4 persone",
+      "pdfPage": 210,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e45d3547f251ff320780974d04f53ca169c6a6b41c563db2b0abdd909c8ade54",
+        "previousAppSha256": "e45d3547f251ff320780974d04f53ca169c6a6b41c563db2b0abdd909c8ade54",
+        "reviewedDigest": "78cdb8a2d5dd47386ebbc91c9dceaa6ee5b8c718cc2edd918ecbb7de74f2635c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "78cdb8a2d5dd47386ebbc91c9dceaa6ee5b8c718cc2edd918ecbb7de74f2635c",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/bavette-with-citrus-pesto.html",
+      "steps": [
+        "Pelare a vivo arance e limone, togliendo anche l'albedo; liberare ogni spicchio dalle membrane.",
+        "Pulire delicatamente le foglie di basilico e asciugarle. Frullarle insieme ai pinoli, al formaggio, agli spicchi di arancia e limone e all'olio versato a filo fino a ottenere un pesto uniforme.",
+        "Lessare la pasta in acqua salata al dente. Trasferire il pesto in una padella larga e regolare sale e pepe. Scolare direttamente la pasta nel condimento, saltare pochi istanti e servire calda."
+      ],
+      "temperature": "Bollore per la pasta; breve salto finale"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "10 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00084",
+      "ingredients": [
+        "Linguine 320 g",
+        "Scampi 500 g",
+        "Chicchi di melograno 100 g",
+        "Basilico 4 foglie",
+        "Aglio 1 spicchio",
+        "Vino bianco 50 g",
+        "Sale fino e pepe nero q.b.",
+        "Olio per rosolare l'aglio (dose non indicata dalla fonte)"
+      ],
+      "name": "Bavette con scampi e melograno",
+      "notes": [
+        "La fonte associa la ricetta alla cucina italiana; il formato è chiamato bavette nel titolo, linguine negli ingredienti. Olio presente nel metodo senza quantità dichiarata. Consumare subito; frigo fino a un giorno in contenitore chiuso, no congelamento. Varianti: brandy per sfumare o avocado maturo."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "15 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "Bavette with scampi and pomegranate",
+      "originalYield": "4 persone",
+      "pdfPage": 211,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "01a9bfe30013364ec34577d6b0e68fcf0caab61f70083a54b3aec05ca691f9bc",
+        "previousAppSha256": "01a9bfe30013364ec34577d6b0e68fcf0caab61f70083a54b3aec05ca691f9bc",
+        "reviewedDigest": "ba2ad66592986c69d01b2438fe764fea34f1f3e28950884e837d7ba0e711f637"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "ba2ad66592986c69d01b2438fe764fea34f1f3e28950884e837d7ba0e711f637",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/bavette-with-scampi-and-pomegranate.html",
+      "steps": [
+        "Sgranare il melograno e mettere da parte i chicchi. Pulire gli scampi rimuovendo testa, carapace e intestino con pinzetta o stecchino senza romperlo; tagliarli in pezzi uniformi. Mettere a cuocere la pasta in abbondante acqua salata.",
+        "Rosolare in padella antiaderente l'aglio con la buccia nell'olio, poi rimuoverlo. Aggiungere gli scampi, cuocere a fuoco alto circa 2 min mescolando, regolare sale e pepe e sfumare con il vino fino a evaporazione.",
+        "Scolare la pasta al dente direttamente in padella, unire un mestolo d'acqua di cottura e terminare la cottura fino ad assorbimento. Aggiungere 50 g di chicchi di melograno e il basilico; amalgamare, impiattare e guarnire con gli altri 50 g di chicchi. Servire caldo."
+      ],
+      "temperature": "Fuoco alto per scampi circa 2 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "60 min + circa 40 min di forno indicati",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-03980",
+      "ingredients": [
+        "Caccavelle di Gragnano 4",
+        "Olio extravergine 3 cucchiai per il sugo",
+        "Sale fino e basilico q.b.",
+        "Mozzarella 200 g",
+        "Ricotta vaccina 200 g",
+        "Parmigiano Reggiano DOP grattugiato 4 cucchiai",
+        "Cipollotti freschi 4",
+        "Passata 1 l",
+        "Ragù bianco: maiale macinato 150 g",
+        "Salsiccia 100 g",
+        "Vino rosso 1 bicchiere",
+        "Sale e pepe q.b.",
+        "Cipolla bianca tritata 35 g",
+        "Carota tritata 35 g",
+        "Sedano tritato 35 g",
+        "Olio extravergine 3 cucchiai per il ragù (indicati nel procedimento)"
+      ],
+      "name": "Caccavelle alla sorrentina",
+      "notes": [
+        "La fonte associa il piatto alla cucina campana. I 3 cucchiai di olio della lista sono usati per il sugo; altri 3 sono indicati espressamente nel procedimento del ragù. Non dedurre ulteriori dosi. La scheda indica 60 min di cottura più circa 40 min di forno; il metodo indica forno 30–40 min. Conservazione non dichiarata."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "60 min + circa 40 min di forno indicati",
+        "prep": "60 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "Caccavelle alla sorrentina",
+      "originalYield": "4 caccavelle",
+      "pdfPage": 215,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a67d28ab46e143eecaf898ceeb7933ef30cfc30e41fb9f9699cc61a443a2f8bf",
+        "previousAppSha256": "a67d28ab46e143eecaf898ceeb7933ef30cfc30e41fb9f9699cc61a443a2f8bf",
+        "reviewedDigest": "07621035f58ec32f23cb2ccf7342dbad00c6f004a6954a6b60d08012dcc6e788"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "07621035f58ec32f23cb2ccf7342dbad00c6f004a6954a6b60d08012dcc6e788",
+      "serves": "4 caccavelle",
+      "source": "https://www.giallozafferano.com/recipes/caccavelle-alla-sorrentina.html",
+      "steps": [
+        "Tritare i cipollotti, farli ammorbidire a fuoco basso in 3 cucchiai d'olio per 10–15 min. Unire la passata e sale, cuocere piano circa 10 min: il sugo deve restare fluido. Spegnere e aggiungere basilico spezzettato.",
+        "Per il ragù rosolare dolcemente sedano, carota e cipolla nei 3 cucchiai d'olio indicati nel metodo. Unire salsiccia sbriciolata e maiale, separando i grumi con il cucchiaio; dorare bene, sfumare con il vino e far evaporare tutti i liquidi a fuoco molto basso. Salare e pepare.",
+        "Lessare le caccavelle in acqua salata 15 min con bollore non violento per non romperle. Scolare e tagliare la mozzarella a cubetti di circa 0,75 pollici per lato.",
+        "In ciascuna di quattro tegliette versare un mestolino di sugo, adagiare una caccavella, aggiungere un altro mestolino di sugo, un quarto della ricotta sbriciolata (1,75 oz per pezzo secondo la fonte) e un quarto del ragù. Completare con un quarto della mozzarella (1,75 oz secondo fonte), coprire di sugo e un cucchiaio abbondante di Parmigiano.",
+        "Infornare in forno preriscaldato a 392 °F per 30–40 min."
+      ],
+      "temperature": "392 °F forno preriscaldato 30–40 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00095",
+      "ingredients": [
+        "Cannelloni all'uovo 250 g",
+        "Uova 6",
+        "Parmigiano Reggiano DOP 100 g",
+        "Pecorino 100 g",
+        "Guanciale 100 g",
+        "Pepe nero q.b.",
+        "Burro q.b. per teglia",
+        "Salsa: panna fresca liquida 150 g",
+        "Parmigiano Reggiano DOP 60 g"
+      ],
+      "name": "Cannelloni giallo oro",
+      "notes": [
+        "Versione ispirata alla carbonara, associata dalla fonte al Lazio. Frigo 1–2 giorni; scamorza affumicata a cubetti come variante. Temperature mantenute nell'unità della fonte."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "15 min",
+        "rest": "Raffreddare il guanciale"
+      },
+      "originalTitle": "Golden Yellow Cannelloni",
+      "originalYield": "6 persone",
+      "pdfPage": 219,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9d1d6af514a6725eaf9e0cc91418f81f98e593038778c80fc7f58eae95102db4",
+        "previousAppSha256": "9d1d6af514a6725eaf9e0cc91418f81f98e593038778c80fc7f58eae95102db4",
+        "reviewedDigest": "4c8ceca2afaf57c53e47839076c7e0a00ffefe7f2ca000537fabefd3c64524dc"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddare il guanciale",
+      "reviewedRecordSha256": "4c8ceca2afaf57c53e47839076c7e0a00ffefe7f2ca000537fabefd3c64524dc",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/golden-yellow-cannelloni.html",
+      "steps": [
+        "Eliminare la cotenna dal guanciale, tagliarlo a cubetti o strisce e rosolarlo in padella circa 10 min fino a doratura e croccantezza. Scolare dal grasso, raffreddare su carta e tritare con il mixer.",
+        "Sbattere le sei uova con pecorino, Parmigiano della prima dose (riservarne 10–20 g) e pepe. Incorporare parte del guanciale tritato; trasferire in sac à poche.",
+        "Riempire i cannelloni e sistemarli in una pirofila imburrata da 8×8 pollici. Scaldare la panna con i 60 g di Parmigiano della salsa, mescolando fino a scioglimento; versare sui cannelloni e pepare.",
+        "Coprire con alluminio e cuocere a 350 °F statico preriscaldato per 25 min. Scoprire, aggiungere il guanciale e il Parmigiano tenuti da parte; gratinare a 480 °F per altri 3 min fino a croccantezza."
+      ],
+      "temperature": "350 °F statico 25 min + 480 °F grill 3 min (come fonte)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "35 min + 3 h di ragù",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00094",
+      "ingredients": [
+        "Crespelle: uova 3",
+        "Latte intero 500 g",
+        "Farina 00 250 g",
+        "Burro 1 stick (unità fonte) per ungere",
+        "Ripieno: manzo macinato 1 lb (unità fonte)",
+        "Maiale macinato 300 g",
+        "Sedano 1 costa",
+        "Carota 1",
+        "Cipolla bianca 1",
+        "Sale e pepe q.b.",
+        "Olio extravergine 30 g",
+        "Passata 300 g",
+        "Acqua 1 l",
+        "Piselli in scatola 250 g",
+        "Scamorza affumicata 150 g",
+        "Vino bianco 50 g",
+        "Besciamella: burro 100 g",
+        "Farina 00 100 g",
+        "Latte intero 1 l",
+        "Sale e noce moscata q.b.",
+        "Finitura: timo q.b.",
+        "Pangrattato 3 cucchiai",
+        "Parmigiano Reggiano DOP grattugiato 3 cucchiai"
+      ],
+      "name": "Cannelloni di crespelle",
+      "notes": [
+        "Frigorifero fino a un giorno. Varianti dichiarate: ricotta e spinaci; ragù più rapido di salsiccia; prosciutto e funghi. Il tempo di cottura dichiarato esclude le 3 h del ragù; mantenere le unità originali senza conversioni."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min + 3 h di ragù",
+        "prep": "30 min",
+        "rest": "Pastella almeno 30 min in frigo; intiepidire dopo forno"
+      },
+      "originalTitle": "Crespelle (Crepes) cannelloni pasta",
+      "originalYield": "8 crespelle / 8 porzioni",
+      "pdfPage": 218,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "787b23b0eb9a26dea7d8763ea4854fb6882a3f8a0becdc2429d67c71cde7402a",
+        "previousAppSha256": "787b23b0eb9a26dea7d8763ea4854fb6882a3f8a0becdc2429d67c71cde7402a",
+        "reviewedDigest": "438691f9963ad35685ed76b7b45405a175e05e77f35d45b2f8fa8d515a1217d0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Pastella almeno 30 min in frigo; intiepidire dopo forno",
+      "reviewedRecordSha256": "438691f9963ad35685ed76b7b45405a175e05e77f35d45b2f8fa8d515a1217d0",
+      "serves": "8 crespelle / 8 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/crespelle-crepes-cannelloni-pasta.html",
+      "steps": [
+        "Tritare cipolla, sedano e carota; rosolare nell'olio per 5 min. Aggiungere i due macinati e rosolare a fuoco alto 7–8 min. Sfumare con vino bianco, far evaporare, versare acqua e passata e cuocere circa 3 h fino ad addensamento.",
+        "Scaldare il latte della besciamella. Fondere il burro a fuoco dolce, togliere dal fuoco e unire la farina in una volta, lavorando con la frusta. Rimettere a fiamma bassa fino a roux dorato; versare prima poco latte caldo e poi il resto, mescolando. Salare e aggiungere noce moscata, addensare 5–6 min e lasciare raffreddare.",
+        "Per le crespelle mescolare latte e uova, setacciare la farina nel composto e lavorare fino a pastella senza grumi; coprire e refrigerare almeno 30 min.",
+        "Ungere una padella da 20 cm con burro, scaldare e distribuire un mestolo di pastella sul fondo. Cuocere a fuoco medio-basso circa 1 min, quando i bordi si sollevano girare e cuocere l'altro lato circa 1 min. Ripetere fino a 8 crespelle.",
+        "Quando il ragù è denso regolare sale e pepe, aggiungere i piselli e proseguire 5 min. Trasferire in una ciotola e stemperare con un cucchiaio di besciamella. Tagliare la scamorza a cubetti.",
+        "Coprire il fondo di una teglia 36×24 cm con besciamella e pangrattato. Farcire ogni crespella al centro con ragù e scamorza, arrotolare e allineare nella teglia. Ricoprire con abbondante besciamella, timo e Parmigiano.",
+        "Cuocere a 180 °C statico preriscaldato circa 10 min, poi 240 °C grill 5 min o fino a doratura; lasciare intiepidire."
+      ],
+      "temperature": "180 °C statico 10 min + 240 °C grill 5 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00053",
+      "ingredients": [
+        "Base: farina 00 250 g",
+        "Burro freddo 125 g",
+        "Uovo 52 g (circa 1 medio)",
+        "Sale grosso 5 g",
+        "Ripieno: panna fresca liquida 450 g",
+        "Pancetta tesa dolce 200 g",
+        "Gruyère 150 g",
+        "Uova 165 g (circa 3 medie)",
+        "Tuorlo 18 g (circa 1 medio)",
+        "Sale fino, pepe nero, noce moscata q.b.",
+        "Burro per stampo e farina per stendere, quantità non dichiarate"
+      ],
+      "name": "Quiche Lorraine",
+      "notes": [
+        "Specialità della Lorena. Conservazione in frigo 2–3 giorni; congelabile cotta. Varianti citate: pancetta rosolata invece che sbollentata, cipolla o Emmental; non modificano la versione base."
+      ],
+      "origin": "Francia",
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "50 min",
+        "rest": "Almeno 1 h in frigorifero"
+      },
+      "originalTitle": "Quiche Lorraine",
+      "originalYield": "6 persone",
+      "pdfPage": 206,
+      "photo": null,
+      "prep": "50 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9103f62b92463b53a5b6bc0e92516a3f6deb5446a3b5626b140078880d4dfd3c",
+        "previousAppSha256": "9103f62b92463b53a5b6bc0e92516a3f6deb5446a3b5626b140078880d4dfd3c",
+        "reviewedDigest": "585fdf867caaae650a533691bdea834790ff2eab0637da56d4e3b9efcc49d306"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 1 h in frigorifero",
+      "reviewedRecordSha256": "585fdf867caaae650a533691bdea834790ff2eab0637da56d4e3b9efcc49d306",
+      "serves": "6 persone",
+      "source": "https://ricette.giallozafferano.it/Quiche-Lorraine.html",
+      "steps": [
+        "Passare nel mixer farina, burro freddo a cubetti, sale grosso e uovo fino a ottenere briciole. Compattare velocemente sul piano, avvolgere e refrigerare almeno un'ora.",
+        "Togliere la cotenna dalla pancetta, tagliare a pezzetti di circa 1 cm, sbollentare 50 secondi, scolare e raffreddare. Eliminare la crosta del Gruyère e grattugiarlo grosso.",
+        "Mescolare panna, uova, tuorlo, sale, pepe e noce moscata con una forchetta, senza montare.",
+        "Imburrare uno stampo da 26 cm, stendere la pasta sul piano infarinato a 3–4 mm, trasferirla nello stampo, rifilare e forare il fondo.",
+        "Distribuire tre quarti del formaggio, pancetta, composto di uova e panna e formaggio restante. Infornare a 180 °C statico per 50–60 min; lasciare assestare qualche minuto prima di servire."
+      ],
+      "temperature": "180 °C statico, 50–60 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00083",
+      "ingredients": [
+        "Linguine 320 g",
+        "Cannellini secchi 250 g (500 g reidratati)",
+        "Rucola 60 g",
+        "Pane multicereali 80 g",
+        "Alloro 2 foglie",
+        "Olio extravergine 20 g",
+        "Timo q.b.",
+        "Sale e pepe q.b."
+      ],
+      "name": "Bavette con crema di cannellini, rucola e mollica",
+      "notes": [
+        "Frigo in contenitore chiuso al massimo un giorno; non congelare. Varianti citate: borlotti, noci o nocciole. Il titolo e la lista ingredienti mantengono il formato di pasta come indicato dalla fonte."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "15 min",
+        "rest": "12 h ammollo cannellini"
+      },
+      "originalTitle": "Bavette con crema di cannellini, rucola e mollica",
+      "originalYield": "4 persone",
+      "pdfPage": 209,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "aac7ed2a0ddc06c69251e86399bfaf124c1f4b036b7bef38f185036396ff368c",
+        "previousAppSha256": "aac7ed2a0ddc06c69251e86399bfaf124c1f4b036b7bef38f185036396ff368c",
+        "reviewedDigest": "e8678779e584bbe3d483e0419dc8702b978fa21a30c4ff33fa02a74e43efd340"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "12 h ammollo cannellini",
+      "reviewedRecordSha256": "e8678779e584bbe3d483e0419dc8702b978fa21a30c4ff33fa02a74e43efd340",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Bavette-con-crema-di-cannellini-rucola-e-mollica.html",
+      "steps": [
+        "Ammollare i cannellini per 12 h; sciacquarli sotto acqua fredda e cuocerli in acqua con alloro almeno 40–45 min, schiumando.",
+        "Tagliare il pane a cubetti e frullarlo brevemente con i 20 g d'olio, sale, pepe e timo per ottenere briciole grossolane. Tritare la rucola e mettere a bollire acqua salata per la pasta.",
+        "Eliminare l'alloro, conservare un terzo dei cannellini interi e frullare il resto con mixer a immersione fino a crema liscia. Regolare sale e pepe e trasferire in un tegame.",
+        "Cuocere la pasta al dente, circa 7 min o un minuto prima del tempo indicato. Tostare le briciole in padella senza ulteriori grassi fino a doratura.",
+        "Unire le linguine alla crema, poi rucola, briciole e cannellini interi. Mescolare a fuoco medio, diluire con un mestolo di acqua della pasta se troppo denso; servire."
+      ],
+      "temperature": "Bollore per legumi e pasta; fuoco medio per mantecare"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-01721",
+      "ingredients": [
+        "Impasto: farina 00 500 g",
+        "Acqua 250 g",
+        "Olio extravergine 60 g",
+        "Lievito di birra fresco 12 g",
+        "Sale fino 11 g",
+        "Condimento: polpa di pomodoro 600 g",
+        "Acciughe sotto sale 10",
+        "Olive taggiasche in salamoia 80 g",
+        "Capperi sotto sale 20 g",
+        "Aglio 8 spicchi",
+        "Olio extravergine 50 g",
+        "Origano secco q.b.",
+        "Olio extravergine 10 g per teglia"
+      ],
+      "name": "Sardenaira",
+      "notes": [
+        "Specialità sanremese ligure. Frigo 1–2 giorni e riscaldare; congelabile dopo cottura e raffreddamento, scongelare in frigo. Impastatrice con gancio possibile; pomodoro fresco in alternativa."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "20 min + 1 h a 25–26 °C"
+      },
+      "originalTitle": "Sardenaira",
+      "originalYield": "6 persone",
+      "pdfPage": 413,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8315d5fdd14bf41d79e0f2602d44405946285800bfe3a938d44af67b0da1080f",
+        "previousAppSha256": "8315d5fdd14bf41d79e0f2602d44405946285800bfe3a938d44af67b0da1080f",
+        "reviewedDigest": "f1cb3b66f478549e6e5975fb0d089afb8fbf091463cc9ec01fcddf09ed4b3260"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "20 min + 1 h a 25–26 °C",
+      "reviewedRecordSha256": "f1cb3b66f478549e6e5975fb0d089afb8fbf091463cc9ec01fcddf09ed4b3260",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.es/recetas/sardenaira.html",
+      "steps": [
+        "Sciogliere il sale in parte dell'acqua. Unire alla farina l'olio a poco a poco e l'acqua restante, poi l'acqua salata; lavorare fino a compattare. Incorporare il lievito sbriciolato e impastare circa 10 min, fino a ottenere una massa liscia.",
+        "Coprire e lasciare a temperatura ambiente per 20 min. Ungere una teglia 35×28 cm con i 10 g d'olio, stendere l'impasto con le dita e far lievitare coperto per un'ora a 25–26 °C, lontano da correnti.",
+        "Dissalare acciughe e capperi, scolare le olive. Distribuire sulla pasta la polpa di pomodoro, olive, capperi, acciughe, spicchi d'aglio interi non sbucciati, origano e 30 g dell'olio destinato al condimento.",
+        "Infornare in statico preriscaldato a 210 °C per circa 30 min. Completare all'uscita con i restanti 20 g di olio e origano."
+      ],
+      "temperature": "210 °C statico circa 30 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00098",
+      "ingredients": [
+        "Bucatini 320 g",
+        "Uovo 1",
+        "Tuorli 4",
+        "Pancetta affumicata 150 g",
+        "Pecorino da grattugiare 100 g",
+        "Panna fresca liquida 200 ml",
+        "Sale e pepe q.b.",
+        "Olio per spennellare la teglia (quantità non dichiarata)"
+      ],
+      "name": "Carbonara al forno",
+      "notes": [
+        "Variante al forno, distinta dalla carbonara classica. Consumare subito; non congelare. Alternative citate: guanciale al posto della pancetta e aggiunta di Parmigiano. Olio della teglia presente nel metodo ma non quantificato nella lista."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "20 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "Baked Carbonara",
+      "originalYield": "4 persone",
+      "pdfPage": 221,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a49aa11b833ca9e50a213a0a9b6ee8fc4dfe0fc37b57a214fe3b31651fda9ad0",
+        "previousAppSha256": "a49aa11b833ca9e50a213a0a9b6ee8fc4dfe0fc37b57a214fe3b31651fda9ad0",
+        "reviewedDigest": "3cafbce8f3c77195e8fdcb515e65a280b8749cd1db5dd6eb27153413231bac7f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "3cafbce8f3c77195e8fdcb515e65a280b8749cd1db5dd6eb27153413231bac7f",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/baked-carbonara.html",
+      "steps": [
+        "Portare a bollore l'acqua. Rosolare la pancetta a cubetti in padella antiaderente senza olio, a fiamma media, finché il grasso appare trasparente e la pancetta leggermente croccante. Lasciare intiepidire.",
+        "Sbattere uovo e tuorli con il pecorino, tenendone parte per la gratinatura; salare e pepare. Unire la panna e lavorare con la frusta per qualche minuto, poi aggiungere la pancetta riservandone uno o due cucchiai.",
+        "Salare moderatamente l'acqua, lessare i bucatini per circa 10 min fino a consistenza al dente. Scolare bene, unire alla crema d'uovo e mescolare con due forchette.",
+        "Spennellare d'olio una teglia, distribuire uniformemente i bucatini, completare con pancetta e pecorino riservati. Gratinare a 520 °F per 5–7 min e servire calda."
+      ],
+      "temperature": "Grill 520 °F per 5–7 min (come fonte)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00055",
+      "ingredients": [
+        "Pasta sfoglia rotonda 920 g (4 rotoli)",
+        "Passata 30 g",
+        "Mozzarella 35 g",
+        "Olio extravergine e sale fino q.b.",
+        "Besciamella: latte intero 200 g",
+        "Farina 00 20 g",
+        "Burro 20 g",
+        "Sale, pepe e noce moscata q.b.",
+        "Uovo 1 per spennellare"
+      ],
+      "name": "Rustici leccesi",
+      "notes": [
+        "Specialità salentina. Frigo coperti fino al giorno seguente; si possono congelare crudi e scongelare un'ora in frigorifero prima della cottura. Prosciutto cotto come aggiunta facoltativa."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "Raffreddamento besciamella; intiepidire dopo il forno"
+      },
+      "originalTitle": "Rustici leccesi",
+      "originalYield": "8 pezzi",
+      "pdfPage": 207,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "82cf61f459a2054d5b135ff6588497b28bb35fe8d47865e74fe849267934974c",
+        "previousAppSha256": "82cf61f459a2054d5b135ff6588497b28bb35fe8d47865e74fe849267934974c",
+        "reviewedDigest": "1de96232ccdec81be00ee8ed1e425d8eef270b81f0d90dac8918f86503a73a7d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento besciamella; intiepidire dopo il forno",
+      "reviewedRecordSha256": "1de96232ccdec81be00ee8ed1e425d8eef270b81f0d90dac8918f86503a73a7d",
+      "serves": "8 pezzi",
+      "source": "https://ricette.giallozafferano.it/Rustici-leccesi.html",
+      "steps": [
+        "Scaldare il latte. In un altro tegame fondere il burro a fuoco dolce, incorporare la farina con la frusta e poi il latte caldo. Far addensare a fuoco medio, condire con sale, pepe e noce moscata, trasferire in ciotola e coprire a contatto.",
+        "Tritare la mozzarella e farla sgocciolare; condire la passata con olio e sale.",
+        "Ricavare dalla sfoglia 16 dischi da 10 cm e 8 da 8 cm. Appoggiare 8 dischi grandi su carta forno, spennellare con uovo battuto e sovrapporre gli altri 8 grandi.",
+        "Porre su ogni base un cucchiaino abbondante di besciamella, uno di passata e mozzarella tritata. Pennellare i bordi con l'uovo, coprire con i dischi piccoli e sigillare premendo; pennellare anche la superficie.",
+        "Cuocere a 200 °C statico preriscaldato per circa 20 min fino a doratura. Lasciare intiepidire."
+      ],
+      "temperature": "200 °C statico circa 20 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00093",
+      "ingredients": [
+        "Pasta: farina 00 400 g",
+        "Uova 220 g (circa 4)",
+        "Ripieno: melanzane 400 g",
+        "Mozzarella 150 g",
+        "Olio extravergine e sale q.b.",
+        "Sugo: passata 400 g",
+        "Cipolla 1",
+        "Basilico 2 foglie",
+        "Olio extravergine, sale e pepe q.b.",
+        "Besciamella: latte intero 300 g",
+        "Farina 00 30 g",
+        "Burro 30 g",
+        "Sale e pepe q.b.",
+        "Grana Padano DOP 30 g"
+      ],
+      "name": "Cannelloni alle melanzane",
+      "notes": [
+        "Frigo 2 giorni; congelabili cotti e completamente raffreddati. Variante: provola affumicata oppure parte del Grana nel ripieno. La sfoglia sottile non richiede sbollentatura."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "30 min",
+        "rest": "30 min per la pasta; qualche minuto dopo forno"
+      },
+      "originalTitle": "Cannelloni with eggplant",
+      "originalYield": "4 persone",
+      "pdfPage": 217,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "faa6b1327928408c0d9fb9e9d803126f520709b89e78e55f40a04f5836ad22e4",
+        "previousAppSha256": "faa6b1327928408c0d9fb9e9d803126f520709b89e78e55f40a04f5836ad22e4",
+        "reviewedDigest": "680b92a49f202ffd12f3fb4b517a34bfada9c96dda6cdba6787fcb5bd17b3e6e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min per la pasta; qualche minuto dopo forno",
+      "reviewedRecordSha256": "680b92a49f202ffd12f3fb4b517a34bfada9c96dda6cdba6787fcb5bd17b3e6e",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Cannelloni-with-eggplant.html",
+      "steps": [
+        "Impastare farina e uova fino a ottenere una pasta elastica e omogenea; coprirla e lasciarla riposare 30 min a temperatura ambiente.",
+        "Affettare la cipolla, soffriggerla un paio di minuti nell'olio, aggiungere passata, sale e pepe. Cuocere coperto a fuoco basso circa 30 min, poi aggiungere il basilico.",
+        "Tagliare le melanzane a cubetti di circa 1 cm; saltarle in olio e sale a fuoco medio 5–7 min e lasciarle raffreddare. Tagliare la mozzarella a cubetti di 1 cm.",
+        "Scaldare il latte separatamente. Fondere il burro, incorporare tutta la farina e lavorare fino a roux dorato; versare il latte caldo a poco a poco, salare e pepare, mescolare a fuoco medio fino a besciamella liscia e densa.",
+        "Dividere la pasta in due e coprire quella non in uso. Stendere a meno di 1 mm, ritagliare rettangoli 15×10 cm. Se la sfoglia è più spessa, sbollentarla, passarla in acqua ghiacciata e asciugarla su un telo.",
+        "Farcire ogni rettangolo con un cucchiaio di melanzane e uno di mozzarella, arrotolare. In teglia 24×24 cm mettere un mestolo di sugo e uno di besciamella; disporre i cannelloni affiancati, versare le salse rimaste e mescolarle in superficie. Cospargere con Grana.",
+        "Cuocere in forno statico preriscaldato a 175 °C circa 30 min. Lasciare riposare qualche minuto prima di servire."
+      ],
+      "temperature": "175 °C statico circa 30 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "25 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00073",
+      "ingredients": [
+        "Spaghetti 320 g",
+        "Pomodori pelati 400 g",
+        "Guanciale 150 g",
+        "Pecorino romano DOP 75 g",
+        "Vino bianco 50 g",
+        "Peperoncino fresco 1",
+        "Olio extravergine q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Spaghetti all'amatriciana",
+      "notes": [
+        "Origine documentata: Amatrice. Frigo in contenitore chiuso al massimo un giorno; no congelamento. La fonte descrive anche spaghettoni o bucatini, acqua al posto del vino e discussioni su cipolla/aglio come varianti, non componenti della base."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "10 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "Spaghetti Amatriciana (Bacon and tomato spaghetti)",
+      "originalYield": "4 persone",
+      "pdfPage": 81,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7d8938ba408a597383978b51bbdb55f178db979999680b44d5a38ad875cacb74",
+        "previousAppSha256": "7d8938ba408a597383978b51bbdb55f178db979999680b44d5a38ad875cacb74",
+        "reviewedDigest": "2d68a2d57dd726e2dd7fb59baf829fd1e282659105a0faae6986b815251cc52d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "2d68a2d57dd726e2dd7fb59baf829fd1e282659105a0faae6986b815251cc52d",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Spaghetti-Amatriciana-Bacon-and-tomato-spaghetti.html",
+      "steps": [
+        "Mettere a bollire l'acqua per la pasta. Eliminare la cotenna del guanciale, ricavare fette di circa 1 cm e listarelle di circa 0,5 cm.",
+        "Scaldare olio e peperoncino intero in padella d'acciaio; unire il guanciale e rosolare a fuoco basso 7–8 min, mescolando, fino a sciogliere il grasso e rendere croccante la carne.",
+        "Alzare la fiamma, sfumare con il vino e fare evaporare. Prelevare il guanciale e tenerlo da parte. Versare nella stessa padella i pelati spezzati a mano e cuocere circa 10 min.",
+        "Lessare gli spaghetti in acqua salata al dente. Regolare il sale del sugo, rimuovere il peperoncino e rimettere il guanciale. Scolare e saltare rapidamente la pasta nel sugo, aggiungendo acqua di cottura se necessario. Completare con il pecorino grattugiato."
+      ],
+      "temperature": "Fuoco dolce per guanciale, poi alto per sfumare"
     }
   ]
 }
