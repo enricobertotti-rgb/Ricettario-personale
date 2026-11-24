@@ -25607,6 +25607,1024 @@
         "Completare con prezzemolo, sale e pepe e servire caldo."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: Frittata con pomodori e basilico",
+      "id": "GZ-01945",
+      "ingredients": [
+        "Uova 305 g (circa 6)",
+        "Pomodorini datterini 200 g",
+        "Basilico 6 g",
+        "Cipolle rosse 40 g",
+        "Parmigiano Reggiano DOP 50 g",
+        "Paprika dolce 3/4 cucchiaino",
+        "Sale fino q.b.",
+        "Olio extravergine d’oliva q.b."
+      ],
+      "name": "Frittata con pomodori e basilico",
+      "notes": "Conservare un giorno in frigorifero, non congelare. Facoltativi olive o capperi dissalati.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Tortilla con tomates y albahaca",
+      "originalYield": "4 persone",
+      "pdfPage": 458,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d34a0159c33ea4ebc6a32be0fe993c0a54d3095c511261d55108a0e1fe46122b",
+        "previousAppSha256": "d34a0159c33ea4ebc6a32be0fe993c0a54d3095c511261d55108a0e1fe46122b",
+        "reviewedDigest": "6143b43af42c79c9157e9ad360d2ad7850f110bb749337495874ba395321dc5f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "6143b43af42c79c9157e9ad360d2ad7850f110bb749337495874ba395321dc5f",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/tortilla-con-tomates-y-albahaca.html",
+      "steps": [
+        "Tritare la cipolla, lavare e asciugare i pomodorini, tagliarli in quarti.",
+        "Sbattere le uova, aggiungere Parmigiano, sale e paprika e sbattere ancora. Incorporare cipolla, pomodorini e basilico pulito con un panno, distribuendo uniformemente.",
+        "Scaldare l’olio in padella antiaderente, versare il composto, coprire e cuocere a fuoco moderato 10 minuti.",
+        "Girare con un piatto o coperchio e cuocere 5 minuti dall’altro lato. Servire caldo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Asparagi al forno",
+      "id": "GZ-01796",
+      "ingredients": [
+        "Asparagi da pulire 500 g",
+        "Aglio 1 spicchio",
+        "Parmigiano Reggiano DOP q.b.",
+        "Timo limonato q.b.",
+        "Olio EVO q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Asparagi al forno",
+      "notes": "Frigorifero un paio di giorni; congelabili da cotti. Preferire asparagi di dimensione simile. Maggiorana alternativa al timo limonato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "5 min",
+        "rest": null
+      },
+      "originalTitle": "Asparagi al forno",
+      "originalYield": "4 persone",
+      "pdfPage": 354,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7dc82485a74537763c4db264ae0d3e0b10e0d5fdc423ac236630a74118e30e44",
+        "previousAppSha256": "7dc82485a74537763c4db264ae0d3e0b10e0d5fdc423ac236630a74118e30e44",
+        "reviewedDigest": "150f10d62f32ce60c3c4575215ca92da8b7cc228a0aa69baab9d81d9f595a0dc"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "150f10d62f32ce60c3c4575215ca92da8b7cc228a0aa69baab9d81d9f595a0dc",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Asparagi-al-forno.html",
+      "steps": [
+        "Lavare gli asparagi e piegare leggermente il gambo per individuare e staccare la base bianca dura. Non occorre pelarli.",
+        "Ungere una teglia adeguata alla lunghezza degli asparagi, aggiungere l’aglio schiacciato; disporre gli asparagi in uno strato unico, condire con sale, pepe, Parmigiano grattugiato e altro olio.",
+        "Aggiungere foglioline di timo limonato e cuocere in forno statico preriscaldato a 180 °C per 15–20 minuti, fino a tenerezza (il tempo varia con le dimensioni). Eliminare l’aglio e servire caldo."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "25 min",
+      "description": "Revisione editoriale della fonte originale: Farinata di ceci",
+      "id": "GZ-01918",
+      "ingredients": [
+        "Farina di ceci 300 g",
+        "Acqua 900 g",
+        "Olio EVO per pastella 50 g",
+        "Sale fino 10 g",
+        "Pepe nero q.b.",
+        "Olio EVO per ungere 70 g"
+      ],
+      "name": "Farinata di ceci",
+      "notes": "Farinata cotta in frigorifero 3–4 giorni in contenitore chiuso; pastella al massimo 24 ore in frigorifero. La schiuma può non formarsi. Alternativa: una teglia più grande con carta forno. Non consigliata la congelazione. Resa: 3 teglie da 32 cm.",
+      "origin": "Italia (Liguria, Genova)",
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "15 min",
+        "rest": "Almeno 6 ore; oltre 10 ore preferibilmente in frigorifero"
+      },
+      "originalTitle": "Farinata di ceci",
+      "originalYield": "8 persone",
+      "pdfPage": 453,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b792ae3d1bae62c2ce7bb612fe8d7f1f05c512e7226a0dfc15f76688ded936e7",
+        "previousAppSha256": "b792ae3d1bae62c2ce7bb612fe8d7f1f05c512e7226a0dfc15f76688ded936e7",
+        "reviewedDigest": "6562049d23c5fc8b97ffe9506776566b2ca801bc8c00d43a2bff8f7031331cd2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 6 ore; oltre 10 ore preferibilmente in frigorifero",
+      "reviewedRecordSha256": "6562049d23c5fc8b97ffe9506776566b2ca801bc8c00d43a2bff8f7031331cd2",
+      "serves": "8 persone",
+      "source": "https://ricette.giallozafferano.it/Farinata-di-ceci.html",
+      "steps": [
+        "Mescolare farina e acqua con la frusta finché la pastella è uniforme. Coprire e lasciare a temperatura ambiente almeno 6 ore, preferibilmente tutta la notte; oltre 10 ore trasferire in frigorifero.",
+        "Rimuovere eventuale schiuma con schiumarola, rimescolare la farina sedimentata e incorporare 50 g di olio e 10 g di sale.",
+        "Ungere abbondantemente tre teglie di alluminio da 32 cm con i 70 g di olio previsti, distribuire un terzo di pastella in ciascuna ed emulsionare lievemente con forchetta per evitare accumuli d’olio.",
+        "In forno statico preriscaldato a 250 °C cuocere 10 minuti sul fondo del forno, poi 10–15 minuti sul ripiano medio finché dorata. Completare con pepe, tagliare e servire subito."
+      ],
+      "temperature": "250 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: Baklava con mandorle e miele",
+      "id": "GZ-EN-BAKLAVA-20261112",
+      "ingredients": [
+        "Pasta fillo fresca rettangolare 300 g",
+        "Mandorle pelate 400 g",
+        "Burro 300 g",
+        "Cannella in polvere 8 g",
+        "Per lo sciroppo: miele millefiori 250 g",
+        "Zucchero 200 g",
+        "Acqua 200 g"
+      ],
+      "name": "Baklava con mandorle e miele",
+      "notes": "Frigorifero circa 4 giorni, non congelare. Varianti documentate: pistacchi, noci o nocciole nel ripieno; vaniglia nello sciroppo. Se la fillo è congelata, scongelarla in frigorifero durante la notte. La fonte documenta tradizioni in Grecia, Balcani, Turchia e Medio Oriente: non attribuito un singolo Paese.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "15 min",
+        "rest": "Raffreddamento completo; riposo in frigorifero fino al giorno seguente"
+      },
+      "originalTitle": "Baklava",
+      "originalYield": "8 persone",
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a2721e660b9f19b258a0f2bdc30cbe91f7995564d871f571a7fa697f308f80ef",
+        "previousAppSha256": "a2721e660b9f19b258a0f2bdc30cbe91f7995564d871f571a7fa697f308f80ef",
+        "reviewedDigest": "6bb217ef9df5ee8e5bb7ef4d91225466c2306845eb3cc4366611524ed567d6d7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento completo; riposo in frigorifero fino al giorno seguente",
+      "reviewedRecordSha256": "6bb217ef9df5ee8e5bb7ef4d91225466c2306845eb3cc4366611524ed567d6d7",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.com/recipes/baklava.html",
+      "steps": [
+        "Sciogliere il burro e farlo raffreddare. Tritare grossolanamente le mandorle con il robot, quindi unirvi la cannella.",
+        "Imburrare una teglia di 14 × 10 pollici, delle dimensioni dei fogli. Disporre due fogli di fillo, spennellando ciascuno con burro, quindi distribuire un terzo del ripieno. Ripetere per tre strati di ripieno, alternati a coppie di fogli imburrati.",
+        "Completare con otto fogli sovrapposti, spennellando ciascuno; totale 14 fogli. Tagliare a rombi di circa 1,5 pollici e cuocere sul ripiano medio del forno statico preriscaldato a 320 °F per 40 minuti.",
+        "Nel frattempo scaldare l’acqua, aggiungere zucchero e miele, cuocere a fuoco molto basso per almeno un’ora.",
+        "Sfornare e far raffreddare completamente il dolce. Versare lo sciroppo ancora molto caldo in modo che penetri nei tagli; conservare in frigorifero e consumare il giorno dopo."
+      ],
+      "temperature": "320 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Frittata di patate e peperoni",
+      "id": "GZ-01954",
+      "ingredients": [
+        "Uova 6",
+        "Patate 630 g",
+        "Peperoni rossi 110 g",
+        "Peperoni gialli 110 g",
+        "Peperoni verdi 110 g",
+        "Maggiorana 1 rametto",
+        "Timo 2 rametti",
+        "Scalogno 1",
+        "Olio EVO 30 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Brodo vegetale 50 ml"
+      ],
+      "name": "Frittata di patate e peperoni",
+      "notes": "Frigorifero in contenitore chiuso 1–2 giorni; non congelare. Facoltativi piselli o peperoncino.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Tortilla de patatas y pimientos",
+      "originalYield": "4 persone",
+      "pdfPage": 460,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f765bd7db0de0944e2723b38f50f59267f944837cba37a153d2ffc38ed143c4b",
+        "previousAppSha256": "f765bd7db0de0944e2723b38f50f59267f944837cba37a153d2ffc38ed143c4b",
+        "reviewedDigest": "4030aa94c1c5d20e074872ea7837da182fc22db923be957ada36961cd621bb17"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "4030aa94c1c5d20e074872ea7837da182fc22db923be957ada36961cd621bb17",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/tortilla-de-patatas-y-pimientos.html",
+      "steps": [
+        "Preparare il brodo. Lavare e asciugare i peperoni, eliminare picciolo, semi e parti bianche, pelarli e tagliarli a listarelle di 0,5 cm. Pelare le patate e affettarle con mandolina a 2–3 mm.",
+        "Rosolare lo scalogno tritato nell’olio, aggiungere i 50 ml di brodo caldo e le patate, salare e pepare. Cuocere a fuoco medio 3–4 minuti; unire i peperoni e proseguire 7–8 minuti mescolando con spatola.",
+        "Sbattere le uova con sale, pepe, maggiorana e timo, versare sulle verdure, coprire e cuocere a fuoco basso 10 minuti.",
+        "Girare con il coperchio, cuocere 2–3 minuti dall’altro lato."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Broccoli gratinati",
+      "id": "GZ-01813",
+      "ingredients": [
+        "Broccoli da pulire 1 kg",
+        "Parmigiano Reggiano DOP 40 g",
+        "Pepe nero q.b.",
+        "Per la besciamella: latte intero 250 g",
+        "Farina 00 25 g",
+        "Burro 25 g",
+        "Noce moscata q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Broccoli gratinati",
+      "notes": "Frigorifero 2–3 giorni; possibile congelare se preparato con ingredienti freschi, scongelare in forno. Pangrattato facoltativo; gambi utilizzabili per brodo.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Gratinated Broccoli",
+      "originalYield": "4 persone",
+      "pdfPage": 359,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7b17607245afa5cd75c14a81be21ee06c9c5dafb0abdf4b6c50446e6a3077512",
+        "previousAppSha256": "7b17607245afa5cd75c14a81be21ee06c9c5dafb0abdf4b6c50446e6a3077512",
+        "reviewedDigest": "dee6f5149b7b4d613a19c9b0b20e5273e1fd6b06ab10e65f35d65da20fbf1b82"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "dee6f5149b7b4d613a19c9b0b20e5273e1fd6b06ab10e65f35d65da20fbf1b82",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/gratinated-broccoli.html",
+      "steps": [
+        "Sciogliere il burro a fuoco basso, versare tutta la farina e mescolare un minuto evitando che attacchi. Incorporare il latte a temperatura ambiente in tre riprese, lavorando con frusta fino a ottenere una besciamella liscia e densa. Insaporire con sale, pepe e noce moscata.",
+        "Separare le cimette, lavarle, sbollentarle in acqua salata 6 minuti, raffreddarle in acqua e ghiaccio e asciugarle.",
+        "Distribuire besciamella sul fondo della pirofila, disporre uno strato di broccoli e salsa, poi i broccoli e la salsa rimanenti. Completare con Parmigiano grattugiato.",
+        "Cuocere in forno statico a 200 °C per 17 minuti, quindi con grill a 230 °C per 4–5 minuti. Servire caldo."
+      ],
+      "temperature": "200 °C statico; 230 °C grill"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Frittata con le cipolle",
+      "id": "GZ-01943",
+      "ingredients": [
+        "Uova medie 6",
+        "Cipolle rosse 400 g",
+        "Maggiorana q.b.",
+        "Olio EVO q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Frittata con le cipolle",
+      "notes": "Conservare in frigorifero in contenitore chiuso fino a 2 giorni; il colore delle cipolle può cambiare. Non congelare. Variante: cipolle bianche o dorate; facoltativo Parmigiano grattugiato (3,5 oz).",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Onion frittata",
+      "originalYield": "4 persone",
+      "pdfPage": 350,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "0f129f5bfe0a4e30f87f461acd0f61b378b7f1f65d99ef77d79553eb1216ab38",
+        "previousAppSha256": "0f129f5bfe0a4e30f87f461acd0f61b378b7f1f65d99ef77d79553eb1216ab38",
+        "reviewedDigest": "c2740f4a9ff98fb92ed8bda9e1402e1c017a6a60c6ef26036138b27f69cc05c5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "c2740f4a9ff98fb92ed8bda9e1402e1c017a6a60c6ef26036138b27f69cc05c5",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Onion-frittata.html",
+      "steps": [
+        "Sbucciare le cipolle, affettarle di circa 1 cm. Scaldare l’olio in una padella antiaderente (base 8 pollici), unire cipolle e sale, coprire e cuocere a fuoco medio-alto 7–8 minuti, senza sfaldarle.",
+        "Sbattere le uova con sale, pepe e maggiorana fino a ottenere un composto omogeneo.",
+        "Versare sulle cipolle, coprire e cuocere a fuoco basso 6–8 minuti.",
+        "Quando la frittata è rappresa, girarla aiutandosi con un piatto e cuocere 3–4 minuti senza coperchio."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Caponata",
+      "id": "GZ-01821",
+      "ingredients": [
+        "Melanzane 1 kg",
+        "Sedano 400 g",
+        "Cipolle bianche 250 g",
+        "Pomodori ramati 200 g",
+        "Olive verdi in salamoia denocciolate 200 g",
+        "Capperi sotto sale sciacquati 50 g",
+        "Pinoli 50 g",
+        "Zucchero 60 g",
+        "Aceto di vino bianco 60 g",
+        "Basilico q.b.",
+        "Concentrato di pomodoro 40 g",
+        "Olio EVO q.b.",
+        "Sale fino q.b.",
+        "Olio EVO per friggere q.b."
+      ],
+      "name": "Caponata",
+      "notes": "Migliore il giorno seguente; frigorifero 2–3 giorni, in recipiente coperto. Varianti documentate: peperoni dolci fritti con le melanzane o, a Palermo, polpetti infarinati e fritti. La presentazione cita l’uvetta ma non compare nell’elenco né nel metodo della versione base.",
+      "origin": "Italia (Sicilia)",
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "40 min",
+        "rest": "Riposo in frigorifero, durata non precisata"
+      },
+      "originalTitle": "Caponata (Eggplant salad)",
+      "originalYield": "6 persone",
+      "pdfPage": 360,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c277d900736ff9b2aece12a8289667cadf42a41dcefb494cdf3a2aef79d68558",
+        "previousAppSha256": "c277d900736ff9b2aece12a8289667cadf42a41dcefb494cdf3a2aef79d68558",
+        "reviewedDigest": "25c4e643b9078eaf223b89165807d0b15884299744967ef65702160082d8f000"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Riposo in frigorifero, durata non precisata",
+      "reviewedRecordSha256": "25c4e643b9078eaf223b89165807d0b15884299744967ef65702160082d8f000",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/caponata-eggplant-salad.html",
+      "steps": [
+        "Affettare cipolla e sedano, dividere le olive e lavare e asciugare melanzane e pomodori, tagliandoli in pezzi di circa 2,5 cm. Tostare i pinoli fino a doratura.",
+        "Friggere le melanzane poche alla volta nell’olio caldo in un recipiente alto; quando dorate scolarle su carta assorbente.",
+        "In padella capiente dorare appena la cipolla nell’olio, unire il sedano e lasciarlo rosolare; incorporare capperi, olive, pinoli e pomodori. Rosolare brevemente e cuocere coperto a fuoco basso 15–20 minuti.",
+        "Mescolare aceto, concentrato e zucchero; salare le verdure e aggiungere la salsa, alzare il fuoco e mescolare fino alla scomparsa dell’odore pungente di aceto.",
+        "Spegnere, aggiungere melanzane e basilico, mescolare e trasferire in una pirofila. Lasciar riposare al fresco e servire fredda o a temperatura ambiente."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "45 min",
+      "description": "Revisione editoriale della fonte originale: Frittata di patate e cipolle",
+      "id": "GZ-01953",
+      "ingredients": [
+        "Uova medie 8",
+        "Patate 600 g",
+        "Cipolle rosse 250 g",
+        "Grana Padano DOP 50 g",
+        "Timo q.b.",
+        "Olio EVO q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Frittata di patate e cipolle",
+      "notes": "Preferibile appena fatta; in frigorifero un giorno, in porzioni da riscaldare al bisogno. Non congelare. Cipolle dorate come alternativa.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Tortilla de patatas y cebolla",
+      "originalYield": "4 persone",
+      "pdfPage": 460,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c6ed642493ee933ce7e81d9ed6d2ee444bf24ba67806abf896c395ae10d8e34f",
+        "previousAppSha256": "c6ed642493ee933ce7e81d9ed6d2ee444bf24ba67806abf896c395ae10d8e34f",
+        "reviewedDigest": "4768cdb3ae48c3ebec9e1078e0b80c134eaee4eba95a267c5637ef42fbd1469b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "4768cdb3ae48c3ebec9e1078e0b80c134eaee4eba95a267c5637ef42fbd1469b",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/tortilla-de-patatas-y-cebolla.html",
+      "steps": [
+        "Pelare e tagliare le patate a pezzi piccoli; affettare sottilmente le cipolle.",
+        "Rosolare le cipolle nell’olio a fuoco medio 5 minuti mescolando; aggiungere le patate, far dorare alcuni minuti mescolando, salare e coprire 20 minuti, mescolando ogni tanto finché sono morbide e dorate.",
+        "Sbattere le uova con Grana, timo, sale e pepe. Versare sulle verdure, coprire e cuocere a fuoco medio-basso 10 minuti; modellare il bordo con spatola se necessario.",
+        "Controllare la base sollevandola, girare con un piatto e cuocere ancora un paio di minuti scoperto. Servire caldo, eventualmente con timo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: Cipolle al forno",
+      "id": "GZ-01862",
+      "ingredients": [
+        "Cipolle bianche 500 g",
+        "Cipolle rosse 500 g",
+        "Sale fino q.b.",
+        "Prezzemolo 1 ciuffo",
+        "Pangrattato 2 cucchiai",
+        "Olio EVO q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Cipolle al forno",
+      "notes": "Il metadato indica 60 minuti, il procedimento 60–75 minuti in forno oltre alla bollitura. Preparabili il giorno prima, riscaldare prima del servizio.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Cipolle al forno",
+      "originalYield": "4 persone",
+      "pdfPage": 362,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6193c68387a175d3237d1e8240ef25d6387ce60191971733cd52eeb06e337a80",
+        "previousAppSha256": "6193c68387a175d3237d1e8240ef25d6387ce60191971733cd52eeb06e337a80",
+        "reviewedDigest": "e014908df4df97fdcf7ec8e03b0911b97051ce6ffd27f78b82b8c7d73884fece"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "e014908df4df97fdcf7ec8e03b0911b97051ce6ffd27f78b82b8c7d73884fece",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Cipolle-al-forno.html",
+      "steps": [
+        "Sbucciare le cipolle e immergerle in abbondante acqua salata già bollente per 7–8 minuti. Scolarle e dividerle a metà.",
+        "Ungere una pirofila, disporre le metà con il taglio verso l’alto; condire con sale, pepe, prezzemolo tritato, pangrattato e olio.",
+        "Infornare in forno statico preriscaldato a 180 °C per 60–75 minuti finché le cipolle sono morbide, appassite e leggermente abbrustolite; verificare con uno stecchino. Facoltativo: ultimi 10 minuti a 200 °C con grill. Servire calde."
+      ],
+      "temperature": "180 °C statico; grill facoltativo 200 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Frittata di asparagi",
+      "id": "GZ-01946",
+      "ingredients": [
+        "Uova medie 6",
+        "Asparagi da pulire 500 g",
+        "Aglio 2 spicchi",
+        "Grana Padano DOP grattugiato 40 g",
+        "Olio EVO 3 cucchiaiate",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Frittata di asparagi",
+      "notes": "Frigorifero in contenitore chiuso 1–2 giorni. Facoltative erbe aromatiche (basilico, origano, timo, aneto, maggiorana, erba cipollina); variante con asparagi selvatici.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Asparagus Frittata",
+      "originalYield": "4 persone",
+      "pdfPage": 351,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "88f21e99c549d34b0799d007d67bb01dccfec1f162dd96933aac7edeed3a7db8",
+        "previousAppSha256": "88f21e99c549d34b0799d007d67bb01dccfec1f162dd96933aac7edeed3a7db8",
+        "reviewedDigest": "e014bc5e70381ce52304df91fa9e4d03f61e543fcb32a9e9225cacef55938609"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "e014bc5e70381ce52304df91fa9e4d03f61e543fcb32a9e9225cacef55938609",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Asparagus-Frittata.html",
+      "steps": [
+        "Eliminare la base dura degli asparagi e pelare il resto del gambo. Lasciare interi quelli sottili, dividere per il lungo quelli grossi.",
+        "In padella da 28 cm scaldare l’olio con l’aglio in camicia; aggiungere gli asparagi in uno strato, salare, coprire e cuocere a fuoco medio 5–7 minuti scuotendo spesso.",
+        "Sbattere le uova con sale, pepe e Grana. Quando gli asparagi sono teneri, eliminare l’aglio, disporli sul fondo e versare il composto.",
+        "Abbassare il fuoco, coprire e cuocere 8 minuti; se necessario sistemare il bordo con la spatola. Girare con un piatto e cuocere 2 minuti scoperto."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Zuppe, minestre e vellutate"
+      ],
+      "category": "Zuppe, minestre e vellutate",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Crema di porri e patate con pancetta",
+      "id": "GZ-00992",
+      "ingredients": [
+        "Porri 700 g",
+        "Patate 700 g",
+        "Brodo vegetale 1 l",
+        "Pancetta affumicata 150 g",
+        "Olio EVO q.b. (per frullare 1,4 oz come da metodo)",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Semola 100 g",
+        "Olio di arachidi q.b."
+      ],
+      "name": "Crema di porri e patate con pancetta",
+      "notes": "Preferibile appena fatta; frigorifero un paio di giorni e riscaldare in pentola. Rosmarino facoltativo. Per regolare la densità, riservare parte del liquido di cottura e aggiungerlo gradualmente durante la frullatura.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "60 min",
+        "rest": null
+      },
+      "originalTitle": "Leek and potato soup with bacon",
+      "originalYield": "4 persone",
+      "pdfPage": 368,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "89d326454035fa54572303cca649c899f087e102be6ad2ad4942d6eee5f66d9b",
+        "previousAppSha256": "89d326454035fa54572303cca649c899f087e102be6ad2ad4942d6eee5f66d9b",
+        "reviewedDigest": "83b59dd40a31fb3dd5d589d31d19ea2458ba55aa909aed2f6b6e9f78084b6e7c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "83b59dd40a31fb3dd5d589d31d19ea2458ba55aa909aed2f6b6e9f78084b6e7c",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/leek-and-potato-soup-with-bacon.html",
+      "steps": [
+        "Eliminare radici e parte verde scura dei porri, aprirli per il lungo e lavarli. Ricavare da un tratto di circa 6 pollici bastoncini sottili e metterli in acqua e ghiaccio; tagliare il resto in pezzi uniformi. Pelare e tagliare le patate in pezzi uguali.",
+        "Rosolare porri e patate in olio EVO alcuni minuti, salare e coprire con il brodo. Cuocere circa 30 minuti dal bollore.",
+        "Rosolare la pancetta in padella antiaderente a fuoco medio finché colorita e croccante; scolare su carta. Asciugare bene i bastoncini di porro, passarli nella semola e friggerli in olio di arachidi a circa 350 °F per 3–4 minuti, finché croccanti ma non scuri; scolare su carta.",
+        "A fine cottura regolare sale e pepe e frullare la zuppa con 1,4 oz di olio EVO fino a crema liscia. Servire con pancetta e porri fritti."
+      ],
+      "temperature": "350 °F (olio per friggere i porri)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Zuppe, minestre e vellutate"
+      ],
+      "category": "Zuppe, minestre e vellutate",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: Crema di zucca",
+      "id": "GZ-00993",
+      "ingredients": [
+        "Zucca intera 1 kg (600 g di polpa)",
+        "Patate 200 g",
+        "Brodo vegetale 1 l",
+        "Cipolla bianca 80 g",
+        "Pepe nero 1 pizzico",
+        "Sale 1 pizzico",
+        "Olio EVO per crema 60 g",
+        "Cannella in polvere 1 pizzico",
+        "Noce moscata 1 pizzico",
+        "Olio EVO per crostini 30 g",
+        "Pane casereccio 100 g"
+      ],
+      "name": "Crema di zucca",
+      "notes": "Frigorifero al massimo 2 giorni o congelare. Variante: aggiungere riso o orzo già cotti.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Pumpkin cream",
+      "originalYield": "4 persone",
+      "pdfPage": 369,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8178b48735ef921fe39575375c860be69a4c0dd29e3159cae5066df188661789",
+        "previousAppSha256": "8178b48735ef921fe39575375c860be69a4c0dd29e3159cae5066df188661789",
+        "reviewedDigest": "e2fd73379bc69b933c3d00ea44a81efb8f33399bc17ae94c515a9c620b82c59b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "e2fd73379bc69b933c3d00ea44a81efb8f33399bc17ae94c515a9c620b82c59b",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Pumpkin-cream.html",
+      "steps": [
+        "Preparare il brodo. Pulire la zucca da buccia e semi, ricavare 600 g di polpa a cubetti. Pelare e tagliare a cubetti le patate.",
+        "Tritare la cipolla e rosolarla a fuoco basso con i 60 g di olio. Quando cambia colore unire zucca e patate, coprire con parte del brodo e condire con sale e pepe.",
+        "Cuocere a fuoco basso 25–30 minuti aggiungendo il brodo restante poco per volta. A verdure cotte, togliere dal fuoco e frullare a immersione fino a una crema uniforme; aggiungere cannella e noce moscata.",
+        "Tagliare il pane in cubetti non troppo piccoli, disporli su carta forno, condire con i 30 g di olio e tostare circa 5 minuti sotto il grill preriscaldato. Servire la crema con i crostini."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Nicola Sorrentino",
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: Bietole in padella",
+      "id": "GZ-01806",
+      "ingredients": [
+        "Bietole 1 kg",
+        "Aglio 3 spicchi",
+        "Peperoncini secchi 2",
+        "Olio EVO 20 g",
+        "Sale fino q.b."
+      ],
+      "name": "Bietole in padella",
+      "notes": "Frigorifero 2–3 giorni oppure congelare. I gambi possono essere tagliati e sbollentati prima di aggiungerli.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Chard in the pan",
+      "originalYield": "4 persone",
+      "pdfPage": 358,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b2e649c67d5b1eff7538b6b1d6521159ca84d19fde6df6868baf196e664656d8",
+        "previousAppSha256": "b2e649c67d5b1eff7538b6b1d6521159ca84d19fde6df6868baf196e664656d8",
+        "reviewedDigest": "a39c3a84087098705ed82eec4454ed2c1e1a5886f1b8c7f0b7ef01e183c6965a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "a39c3a84087098705ed82eec4454ed2c1e1a5886f1b8c7f0b7ef01e183c6965a",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/chard-in-the-pan.html",
+      "steps": [
+        "Lavare le bietole e separare le foglie dai gambi.",
+        "Scaldare l’olio a fuoco medio con l’aglio schiacciato in camicia; aggiungere le foglie gradualmente, mescolando.",
+        "Cuocere circa 10 minuti fino a quando sono appassite e tenere; aggiungere peperoncini secchi e sale, mescolare e cuocere ancora un paio di minuti. Eliminare l’aglio se desiderato."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: Involtini di cavolo alla zucca",
+      "id": "GZ-00036",
+      "ingredients": [
+        "Verza 300 g (5 foglie)",
+        "Zucca mantovana 700 g",
+        "Speck in una fetta 150 g",
+        "Grana Padano DOP 30 g",
+        "Olio EVO 10 g",
+        "Rosmarino q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Burro per ungere q.b."
+      ],
+      "name": "Involtini di cavolo alla zucca",
+      "notes": "Frigorifero 1–2 giorni. Congelabili prima della gratinatura se tutti gli ingredienti erano freschi; scongelare in frigo e cuocere a 180 °C circa 10 minuti. Varianti: paprika, noce moscata, amaretti nel ripieno; pancetta, prosciutto cotto o salsiccia al posto dello speck, oppure zucchine o formaggio per versione vegetariana; lattuga al posto della verza. Resa di 9 pezzi dichiarata dalla fonte.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Involtini di cavolo alla zucca",
+      "originalYield": "9 pezzi",
+      "pdfPage": 363,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d669608ed3e99fd0d5a6024f5e36b95707670e6ed277216f785e2855b8aa2afc",
+        "previousAppSha256": "d669608ed3e99fd0d5a6024f5e36b95707670e6ed277216f785e2855b8aa2afc",
+        "reviewedDigest": "4f98174d22740a71b335e353b6593f3dbcecd5aa66bfdffbc86e8629a57a6215"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "4f98174d22740a71b335e353b6593f3dbcecd5aa66bfdffbc86e8629a57a6215",
+      "serves": "9 pezzi",
+      "source": "https://ricette.giallozafferano.it/Involtini-di-cavolo-alla-zucca.html",
+      "steps": [
+        "Tagliare la zucca a fette spesse circa 2 cm, privarle di semi, filamenti e buccia. Disporre su carta forno, condire con parte dell’olio, rosmarino, sale e pepe e cuocere in forno statico preriscaldato a 180 °C 25–30 minuti fino a morbidezza.",
+        "Staccare 5 grandi foglie di verza da circa 60 g ciascuna, eliminare la nervatura dura e dividerle a metà. Sbollentarle un minuto in acqua salata, scolarle e rifilarle a rettangolo.",
+        "Tagliare lo speck a cubetti di circa mezzo centimetro e rosolarlo nell’olio rimanente 5–10 minuti finché colorito e il grasso inizia a sciogliersi.",
+        "Lasciare intiepidire la zucca, frullarla e trasferire la polpa in una tasca da pasticcere. Distribuire la polpa sulle foglie, aggiungere un cucchiaino di speck a ciascuna e chiudere ripiegando prima i lati lunghi poi le estremità.",
+        "Disporre i fagottini capovolti nella pirofila imburrata, cospargere con Grana grattugiato e gratinare a 220 °C in modalità grill 5–10 minuti. Servire caldi o tiepidi."
+      ],
+      "temperature": "180 °C statico; 220 °C grill"
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Caponata di melanzane con salsa al cacao",
+      "id": "GZ-01822",
+      "ingredients": [
+        "Melanzane 2",
+        "Cipolla rossa di Tropea 1",
+        "Sedano 1 costa",
+        "Pomodorini 8",
+        "Peperone rosso 1",
+        "Capperi sotto sale 1 cucchiaio",
+        "Olive verdi denocciolate 100 g",
+        "Uvetta 40 g",
+        "Pinoli 30 g",
+        "Miele di zagara 1 cucchiaio",
+        "Aceto di vino bianco 3 cucchiai",
+        "Cacao amaro 2 cucchiai",
+        "Marsala q.b.",
+        "Olio EVO q.b.",
+        "Sale q.b.",
+        "Pepe nero q.b.",
+        "Basilico per completare q.b."
+      ],
+      "name": "Caponata di melanzane con salsa al cacao",
+      "notes": "Frigorifero 2–3 giorni in contenitore chiuso; riportare a temperatura ambiente prima del servizio. Salsa al cacao conservabile fino a 3 giorni in frigorifero; miele millefiori come alternativa. I riposi sono distinti, non sommati arbitrariamente.",
+      "origin": "Italia (variante della caponata siciliana)",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "Uvetta 30 min; melanzane 30 min; capperi almeno 10 min; riposo finale almeno 1 ora"
+      },
+      "originalTitle": "Eggplant caponata with cocoa sauce",
+      "originalYield": "4 persone",
+      "pdfPage": 361,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c19c0dd274617a8bf8a2f331cfab8805e88fdb2a58c133a6c086c209c5d10391",
+        "previousAppSha256": "c19c0dd274617a8bf8a2f331cfab8805e88fdb2a58c133a6c086c209c5d10391",
+        "reviewedDigest": "835ef8f52f8a004938dd0c68d5e75b1a3aa1e04f66af7d676d4ed92960e584fb"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Uvetta 30 min; melanzane 30 min; capperi almeno 10 min; riposo finale almeno 1 ora",
+      "reviewedRecordSha256": "835ef8f52f8a004938dd0c68d5e75b1a3aa1e04f66af7d676d4ed92960e584fb",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/eggplant-caponata-with-cocoa-sauce.html",
+      "steps": [
+        "Coprire l’uvetta con Marsala per 30 minuti; dissalare i capperi in acqua almeno 10 minuti. Affettare le melanzane, metterle sotto sale 30 minuti, asciugarle e ridurle a cubetti.",
+        "Tritare la cipolla e tagliare a cubetti sedano e peperone pulito; dividere i pomodorini, togliere semi e polpa e tagliarli a spicchi.",
+        "Cuocere i peperoni in olio 10 minuti e scolarli su carta. Friggere le melanzane a fuoco alto in piccole quantità finché si forma la crosticina; scolare.",
+        "Rosolare cipolla e sedano in olio per alcuni minuti, unire capperi scolati, pinoli (farli tostare), uvetta e olive e cuocere ancora qualche minuto.",
+        "Spegnere, aggiungere melanzane, peperoni, pomodorini, sale e pepe; mescolare. Amalgamare a parte aceto, miele e cacao, versare in padella e riaccendere il fuoco per 3–4 minuti mescolando.",
+        "Lasciare riposare almeno un’ora, guarnire con basilico e servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Chef Mulan",
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "10 min",
+      "description": "Revisione editoriale della fonte originale: Pak choi in wok",
+      "id": "GZ-03864",
+      "ingredients": [
+        "Pak choi 450 g",
+        "Zenzero fresco 50 g",
+        "Aglio 2 spicchi",
+        "Salsa di ostriche 1 cucchiaio",
+        "Semi di sesamo q.b.",
+        "Olio di arachidi (o girasole) 2 cucchiai",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Pak choi in wok",
+      "notes": "Conservare in frigorifero in recipiente ermetico un giorno. La salsa di ostriche non rende il piatto vegetariano. Variante separata: pak choi al vapore con soia e zenzero.",
+      "origin": "Cina",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Pak choi in wok",
+      "originalYield": "4 persone",
+      "pdfPage": 364,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "0109dc2fbae75dcd5546f62b279a48fe3cbe1c184c79e5b262343478f4ee1d31",
+        "previousAppSha256": "0109dc2fbae75dcd5546f62b279a48fe3cbe1c184c79e5b262343478f4ee1d31",
+        "reviewedDigest": "d4ef8f6437465344532bd99f75e052095f7c4f592036c986ae8c37dd9241d81d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "d4ef8f6437465344532bd99f75e052095f7c4f592036c986ae8c37dd9241d81d",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/pak-choi-in-wok.html",
+      "steps": [
+        "Lavare il pak choi, eliminare la base, separare le foglie e dividere i gambi in quattro per il lungo. Tritare l’aglio e tagliare lo zenzero pelato a bastoncini.",
+        "Scaldare molto bene il wok, versare olio di semi e aggiungere aglio, zenzero e gambi, poi le foglie. Saltare a fuoco alto un paio di minuti.",
+        "Condire con sale, pepe e salsa di ostriche, continuare circa 8 minuti mescolando e aggiungendo un altro filo dell’olio; quando i gambi sono teneri spegnere e completare con sesamo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Gessica Runcio",
+      "categories": [
+        "Zuppe, minestre e vellutate"
+      ],
+      "category": "Zuppe, minestre e vellutate",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: Minestra di riso e patate",
+      "id": "GZ-01014",
+      "ingredients": [
+        "Riso Carnaroli 320 g",
+        "Patate 650 g",
+        "Passata di pomodoro 100 g",
+        "Olio EVO q.b.",
+        "Carota 1",
+        "Cipolla 1/2",
+        "Sedano 1/2 (unità non precisata nella fonte)",
+        "Sale q.b.",
+        "Pepe nero q.b.",
+        "Brodo vegetale 1,5 l",
+        "Grana Padano DOP q.b.",
+        "Basilico q.b."
+      ],
+      "name": "Minestra di riso e patate",
+      "notes": "Ottima fresca; conservabile fino al giorno successivo in frigorifero dopo raffreddamento, da riscaldare. Non congelare. Riso Arborio o Roma alternativi. La fonte non precisa l’unità del mezzo sedano; mantenuta senza inventare.",
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Rice and Potato Soup",
+      "originalYield": "4 persone",
+      "pdfPage": 374,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8cd61b6a47facc662c3fb427f92a20b1a39182b56b9975c4f375e3115d035815",
+        "previousAppSha256": "8cd61b6a47facc662c3fb427f92a20b1a39182b56b9975c4f375e3115d035815",
+        "reviewedDigest": "133d9ed917151e6c2495d29937d8b8be54573c1319b64fb42c7fcb32f35a97e6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "133d9ed917151e6c2495d29937d8b8be54573c1319b64fb42c7fcb32f35a97e6",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/rice-and-potato-soup.html",
+      "steps": [
+        "Pelare le patate e tagliarle a cubetti di circa 0,75 pollici. Scaldare l’olio in una pentola capiente.",
+        "Rosolare carota, cipolla e sedano tritati per alcuni minuti, aggiungere patate, passata, sale e pepe. Coprire con brodo caldo e cuocere circa 20 minuti fino ad ammorbidire le patate.",
+        "Unire il riso, cuocere secondo il tempo della confezione e aggiungere brodo quando necessario. Servire caldo con olio, Grana e basilico fresco."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Frittata di patate",
+      "id": "GZ-01950",
+      "ingredients": [
+        "Uova 8",
+        "Patate 500 g",
+        "Parmigiano Reggiano DOP 100 g",
+        "Prezzemolo 1 mazzetto",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Olio di arachidi q.b.",
+        "Olio extravergine d’oliva q.b."
+      ],
+      "name": "Frittata di patate",
+      "notes": "Frigorifero in contenitore chiuso un giorno. Facoltativo un goccio di latte; variante con pari quantità di Pecorino al posto del Parmigiano.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Tortilla de patatas",
+      "originalYield": "4 persone",
+      "pdfPage": 459,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "bda74c31ef0ab06439ea7710e4adedfb935050d1fa4c700559cfbbc645e1ca63",
+        "previousAppSha256": "bda74c31ef0ab06439ea7710e4adedfb935050d1fa4c700559cfbbc645e1ca63",
+        "reviewedDigest": "b5e5b6169956a93e5d582f7de4de55884a2efa20fa2251a84f8fbe8f6f111ca2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "b5e5b6169956a93e5d582f7de4de55884a2efa20fa2251a84f8fbe8f6f111ca2",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/Tortilla-de-patatas.html",
+      "steps": [
+        "Pelare le patate, tagliarle a cubetti di 1 cm e friggerle in olio di arachidi per circa 10 minuti, mescolando spesso, fino a doratura. Scolare su carta, distanziare e lasciar raffreddare.",
+        "Sbattere le uova con Parmigiano, sale, pepe e prezzemolo; incorporare uniformemente le patate fredde.",
+        "Scaldare olio extravergine in padella (base 21 cm, bordo superiore 26 cm), versare il composto e cuocere coperto a fuoco medio 10–15 minuti, finché la base è cotta e la superficie parzialmente rappresa.",
+        "Girare con un piatto più grande della padella facendo attenzione all’olio; far scivolare nuovamente in padella, coprire e cuocere 5 minuti."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Zucchine alla sorrentina",
+      "id": "GZ-02302",
+      "ingredients": [
+        "Zucchine 400 g",
+        "Pomodorini 200 g",
+        "Basilico 10 foglie",
+        "Aglio 2 spicchi",
+        "Olio EVO q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Mozzarella fiordilatte 125 g",
+        "Grana Padano DOP grattugiato 10 g"
+      ],
+      "name": "Zucchine alla sorrentina",
+      "notes": "Frigorifero 1–2 giorni, non congelare. Varianti: zucchine chiare, scure o tonde; a fette o cubetti; cocotte singole; Pecorino al posto del Grana.",
+      "origin": "Italia (ispirazione campana)",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Zucchini alla sorrentina",
+      "originalYield": "2 persone",
+      "pdfPage": 365,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "3f13fb6f717bd12f40786ecd9310a0f5f9aa90e3c88181e359820aad13f1bb66",
+        "previousAppSha256": "3f13fb6f717bd12f40786ecd9310a0f5f9aa90e3c88181e359820aad13f1bb66",
+        "reviewedDigest": "2a383c4f5a5fc4e573554eb5c058abf63452516756af4f9e313487467b381dcb"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "2a383c4f5a5fc4e573554eb5c058abf63452516756af4f9e313487467b381dcb",
+      "serves": "2 persone",
+      "source": "https://www.giallozafferano.com/recipes/Zucchini-alla-sorrentina.html",
+      "steps": [
+        "Tagliare la mozzarella a cubetti di 1 cm e lasciarla scolare mentre si preparano le zucchine a fette.",
+        "Scaldare l’olio con l’aglio e cuocere le zucchine 8–10 minuti eliminando l’aglio a metà; togliere dalla padella.",
+        "Dividere i pomodorini lavati a metà e cuocerli nella stessa padella con metà basilico, sale e pepe a fuoco basso circa 5 minuti.",
+        "Ungere una pirofila e alternare zucchine, sale, pepe, pomodorini, basilico restante e mozzarella fino a esaurimento. Distribuire il Grana sulla superficie.",
+        "Gratinare in forno preriscaldato alla massima temperatura, modalità grill, 8–10 minuti. Servire caldo o tiepido."
+      ],
+      "temperature": "Grill alla massima temperatura"
     }
   ]
 }
