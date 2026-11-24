@@ -17718,6 +17718,1048 @@
         "Cuocere in forno statico a 482 °F per 20 minuti, lasciare intiepidire prima di servire."
       ],
       "temperature": "356 °F e 482 °F, forno statico"
+    },
+    {
+      "author": "Lorenzo Sacchi",
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "40 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-03861",
+      "ingredients": [
+        "Paella: riso Bomba 120 g",
+        "Coniglio a pezzi 150 g",
+        "Pollo a pezzi 150 g",
+        "Fegato di coniglio 50 g",
+        "Pomodori a grappolo 2",
+        "Peperone rosso ½",
+        "Fagiolini piattoni 140 g",
+        "Carciofi 2",
+        "Aglio 1 spicchio",
+        "Zafferano 6 pistilli",
+        "Polpa di peperone choricero 1 cucchiaino",
+        "Rosmarino 2 rametti",
+        "Paprika dolce ½ cucchiaio",
+        "Olio extravergine 80 g",
+        "Sale q.b.",
+        "Brodo: ritagli di pollo e coniglio",
+        "Peperone rosso ½",
+        "Pomodoro 1",
+        "Porro 1",
+        "Cipolla bianca 1",
+        "Carota ½",
+        "Aglio 2 spicchi",
+        "Alloro 2 foglie",
+        "Acqua 3,5 l",
+        "Sale e pepe nero q.b."
+      ],
+      "name": "Paella alla valenciana",
+      "notes": [
+        "Possibili aggiunte: lumache e garrofó. Alternativa: riso tondo poco amidaceo, paprika dolce o affumicata invece del choricero. Acqua acidulata indicata nel metodo senza dose di limone. Temperatura numerica non dichiarata."
+      ],
+      "origin": "Spagna",
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "60 min",
+        "rest": "Brodo circa 3 h; riposo finale 5 min"
+      },
+      "originalTitle": "Valencian paella",
+      "originalYield": "2 porzioni",
+      "pdfPage": 191,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "da0bc5b21aba7f2a7f0fe80068a07f37ada44f657c8ff1978c80228d6eb22380",
+        "previousAppSha256": "da0bc5b21aba7f2a7f0fe80068a07f37ada44f657c8ff1978c80228d6eb22380",
+        "reviewedDigest": "d8b0132c83b5f0a01f33c3c7d7eff5c1b83006ca6d011da116f397b03c31d032"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Brodo circa 3 h; riposo finale 5 min",
+      "reviewedRecordSha256": "d8b0132c83b5f0a01f33c3c7d7eff5c1b83006ca6d011da116f397b03c31d032",
+      "serves": "2 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/valencian-paella.html",
+      "steps": [
+        "Pulire le carni, conservare i ritagli e cuocerli a fuoco dolce con tutti gli ortaggi del brodo, alloro, acqua, sale e pepe circa 3 ore; schiumare e filtrare.",
+        "Tagliare i piattoni in losanghe di circa ¾ di pollice e il peperone a cubetti di ½ pollice. Mondare i carciofi eliminando foglie esterne, punte e fieno, tagliare a spicchi e tenere in acqua acidulata. Grattugiare i pomodori.",
+        "Scaldare il brodo. Rosolare pollo e coniglio nell'olio nella paellera, su entrambi i lati; unire fegato tritato e sale. Aggiungere piattoni, peperone e carciofi scolati; salare. Verdure al centro, carne ai bordi: cuocere circa 10 min a fuoco medio.",
+        "Unire aglio tritato, pomodori, paprika e polpa di choricero, quindi riso e tostare circa 2 min.",
+        "Aggiungere circa 2½ tazze di brodo caldo e zafferano; distribuire il riso senza mescolare più. Cuocere scoperto 5 min a fuoco alto, 5 medio, 8 basso; nell'ultimo minuto aggiungere un filo d'olio e alzare il fuoco per il socarrat.",
+        "Spegnere, aggiungere rosmarino leggermente affumicato con il cannello, coprire con alluminio e riposare 5 min; servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "5 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02453",
+      "ingredients": [
+        "Basi per pinsa 4",
+        "Fiori di zucca 50 g",
+        "Acciughe sott'olio 30 g",
+        "Scorza di limone e origano fresco q.b.",
+        "Crema: ricotta vaccina 120 g",
+        "Formaggio spalmabile 120 g",
+        "Pomodori secchi sott'olio 30 g",
+        "Latte intero 20 g",
+        "Sale q.b."
+      ],
+      "name": "Pinsa con fiori di zucca, alici e crema di formaggio",
+      "notes": [
+        "Consumare subito, frigo massimo un giorno; robiola o stracchino in alternativa. Paese specifico e autore non dichiarati, riposo non applicabile alle basi pronte."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Pinsa with zucchini flowers, anchovies and cheese cream",
+      "originalYield": "8 porzioni (4 pinse)",
+      "pdfPage": 201,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "2f4fe5b30dab6a424061d10690ae695c2a24bdd3dc92b8e07c9002b428cf95c3",
+        "previousAppSha256": "2f4fe5b30dab6a424061d10690ae695c2a24bdd3dc92b8e07c9002b428cf95c3",
+        "reviewedDigest": "c4812784cbd5c055e3abe5ca14ab294f0f37ee3050908cafaabddaf96ae93103"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "c4812784cbd5c055e3abe5ca14ab294f0f37ee3050908cafaabddaf96ae93103",
+      "serves": "8 porzioni (4 pinse)",
+      "source": "https://www.giallozafferano.com/recipes/pinsa-with-zucchini-flowers-anchovies-and-cheese-cream.html",
+      "steps": [
+        "Tritare pomodori secchi; lavorare ricotta, formaggio spalmabile, latte e sale con frusta, aggiungere pomodori e ottenere crema omogenea.",
+        "Scaldare le basi in forno ventilato già caldo a 482 °F 5 min. Eliminare pistilli dei fiori e tagliarli a strisce, tagliare acciughe a losanghe.",
+        "Sulle basi calde distribuire crema a ciuffi, acciughe e fiori; finire con scorza di limone e origano fresco."
+      ],
+      "temperature": "482 °F ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "6 min per pizza",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02462",
+      "ingredients": [
+        "Biga: farina 0 500 g",
+        "Acqua 250 g",
+        "Lievito fresco 2 g",
+        "Impasto: farina 0 500 g",
+        "Acqua 450 g",
+        "Sale fino 25 g",
+        "Olio extravergine 30 g",
+        "Lievito fresco 3 g",
+        "Condimento: pelati 400 g",
+        "Mozzarella per pizza 900 g",
+        "Salame piccante 200 g",
+        "Basilico, olio e sale q.b.",
+        "Olio per ungere e semola rimacinata q.b."
+      ],
+      "name": "Pizza alla diavola",
+      "notes": [
+        "Consumare subito o frigo massimo un giorno. Variante con olive taggiasche; senza pala teglia liscia o tagliere con semola. Distinta dalla capricciosa per condimenti. Autore individuale non dichiarato."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "6 min per pizza",
+        "prep": "1 h 10 min",
+        "rest": "Biga 24 h; lievitazione circa 2 h complessive"
+      },
+      "originalTitle": "Pizza alla diavola",
+      "originalYield": "6 pizze",
+      "pdfPage": 204,
+      "photo": null,
+      "prep": "1 h 10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "73331d69550d3c530b0582788769d8511b1665f8bfacdec4164328516949f899",
+        "previousAppSha256": "73331d69550d3c530b0582788769d8511b1665f8bfacdec4164328516949f899",
+        "reviewedDigest": "c823de8b64ad55f32d5dce08c9831994319a3cd1cdc12ca32eea2ddb9c737212"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Biga 24 h; lievitazione circa 2 h complessive",
+      "reviewedRecordSha256": "c823de8b64ad55f32d5dce08c9831994319a3cd1cdc12ca32eea2ddb9c737212",
+      "serves": "6 pizze",
+      "source": "https://www.giallozafferano.com/recipes/Pizza-alla-diavola.html",
+      "steps": [
+        "Sciogliere 2 g lievito nell'acqua della biga, unire farina e amalgamare senza impastare a lungo; spezzettare, coprire e maturare 24 h in frigo.",
+        "Planetaria con gancio: biga, lievito dell'impasto, farina, metà acqua, poi resto gradualmente fino ad assorbimento; aggiungere sale e olio lentamente fino a impasto liscio.",
+        "Sul piano coprire con ciotola 10 min, dare due pieghe, ripetere altre due volte con riposi di 10 min; coprire e lievitare circa 1 h a temperatura ambiente fino al raddoppio. Preriscaldare pietra sul ripiano superiore a 482 °F statico.",
+        "Dividere in 6 pezzi circa 10 oz, fare palline con pieghe, teglia oliata, oliare anche superficie, coprire e lievitare 30 min.",
+        "Schiacciare pelati, condire con olio, sale, basilico; affettare salame. Stendere palline su semola dal centro fino a 12–13 pollici.",
+        "Distribuire pomodoro, mozzarella e salame; trasferire con pala sulla pietra, cuocere 6 min e finire con basilico."
+      ],
+      "temperature": "482 °F statico, pietra refrattaria"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "10 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02481",
+      "ingredients": [
+        "Impasto: farina Manitoba 500 g",
+        "Acqua 320 g",
+        "Lievito di birra secco 2 g",
+        "Sale fino 10 g",
+        "Ripieno: ricotta di bufala 300 g",
+        "Provola 100 g",
+        "Pomodori pelati 200 g",
+        "Salame tipo Napoli 60 g",
+        "Basilico 8 foglie",
+        "Sale e pepe nero q.b.",
+        "Olio di semi per friggere 1,3 l"
+      ],
+      "name": "Pizza fritta",
+      "notes": [
+        "Fonte tedesca: l'ingrediente 100 g tradotto erroneamente come «Versuch es» è esplicitamente Provola nel metodo (righe 113 e 120). Alternativa lievito fresco 7 g; ricotta vaccina con poca panna e sale. Consumare subito; frigo/congelamento dopo cottura sconsigliati; impasto coperto in frigo un giorno o congelabile. Tradizione napoletana; peso panetti riportato approssimativo come fonte."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "30 min",
+        "rest": "2 lievitazioni di circa 3 h"
+      },
+      "originalTitle": "Frittierte Pizza",
+      "originalYield": "4 pizze fritte",
+      "pdfPage": 566,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "bc501ddc4addd80bcf92cbc570ddee83b90d5b02e65be14e584159c6d0b5e969",
+        "previousAppSha256": "bc501ddc4addd80bcf92cbc570ddee83b90d5b02e65be14e584159c6d0b5e969",
+        "reviewedDigest": "c266fa367aa0f2d64caf4c658308eb6dcfef0b955079ab47dd22c013801b7f5e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 lievitazioni di circa 3 h",
+      "reviewedRecordSha256": "c266fa367aa0f2d64caf4c658308eb6dcfef0b955079ab47dd22c013801b7f5e",
+      "serves": "4 pizze fritte",
+      "source": "https://www.giallozafferano.de/rezepte/frittierte-pizza.html",
+      "steps": [
+        "In planetaria con gancio unire farina setacciata, lievito e un quarto dell'acqua; aggiungere altra acqua gradualmente. Raggiunti tre quarti dell'acqua unire sale, poi acqua restante; lavorare fino a massa liscia che aderisce al gancio.",
+        "Su piano leggermente infarinato appiattire, ripiegare bordi al centro, piegare su sé stesso e arrotondare. Coprire in grande ciotola, lievitare in forno spento con luce a 25–28 °C circa 3 h fino al triplo.",
+        "Formare filone, dividere quattro parti circa 220 g secondo fonte, arrotondare; distanziare in teglia, coprire senza stringere e far lievitare altre 3 h in forno spento con luce. Tagliare salame e provola a cubetti, rendere ricotta cremosa con cucchiaio, preparare basilico.",
+        "Stendere ogni pallina su piano leggermente infarinato a disco irregolare di circa 30 cm. Su metà, lasciando bordo libero, distribuire un quarto del ripieno: ricotta, pelati schiacciati, sale, salame e provola, basilico spezzato e pepe.",
+        "Piegare a mezzaluna e sigillare bene. In pentola alta portare olio a 170 °C controllando con termometro; friggere una alla volta, bagnare con olio caldo con cucchiaio, girare con cautela fino a doratura uniforme. Scolare su griglia o carta, servire calde."
+      ],
+      "temperature": "25–28 °C lievitazione; 170 °C frittura"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "15 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-03872",
+      "ingredients": [
+        "Riso per sushi 200 g",
+        "Avocado 80 g",
+        "Acqua 300 g",
+        "Barbabietole precotte e pelate 100 g",
+        "Cetrioli 150 g",
+        "Radicchio 20 g",
+        "Alga nori 1 foglio",
+        "Aceto di riso 25 g"
+      ],
+      "name": "Sushi vegetariano",
+      "notes": [
+        "Fonte culinaria: propone consumo immediato e massimo due giorni in frigorifero. Nota di sicurezza distinta (FSA, Home food fact checker, aggiornato 21/08/2026, sezione Rice, https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker#rice, consultato 24/11/2026): per prudenza raffreddare il riso rapidamente, idealmente entro un'ora, refrigerare e consumare entro 24 ore; non adottare i due giorni della fonte.",
+        "Usare coltello ben affilato; varianti con altre verdure. Omaggio alla cucina giapponese, ricetta alternativa; origine specifica e autore individuale non dichiarati. Temperatura numerica non dichiarata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "30 min",
+        "rest": "Raffreddamento rapido del riso"
+      },
+      "originalTitle": "Sushi vegetariano",
+      "originalYield": "16 maki",
+      "pdfPage": 846,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "87e303cd6a485e47dfe4540196fa56577c5aa68dfcb749ace5798440bac2273e",
+        "previousAppSha256": "87e303cd6a485e47dfe4540196fa56577c5aa68dfcb749ace5798440bac2273e",
+        "reviewedDigest": "24ca3719f14422a639a5387bed789d93bfc930991e05e1269f2c77b8efe4ebc6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento rapido del riso",
+      "reviewedRecordSha256": "24ca3719f14422a639a5387bed789d93bfc930991e05e1269f2c77b8efe4ebc6",
+      "serves": "16 maki",
+      "source": "https://www.giallozafferano.es/recetas/sushi-vegetariano.html",
+      "steps": [
+        "Mettere riso e acqua in pentola alta, coprire e portare a ebollizione; abbassare e cuocere a fuoco dolce 15 minuti senza mescolare. Trasferire in ciotola, unire aceto e muovere delicatamente con paletta di legno; raffreddare rapidamente, anche ventilando, senza lasciare il riso a lungo a temperatura ambiente.",
+        "Lavare le verdure; separare foglie di radicchio eliminando la nervatura bianca. Tagliare barbabietola e avocado in pezzi di 6–7 mm. Sbucciare i cetrioli: uno a strisce longitudinali da 6–7 mm per il ripieno, l'altro a fettine sottilissime per la decorazione, mantenendole unite e inclinandole con le dita.",
+        "Foderare il makisu con pellicola, bagnare le mani con acqua leggermente acidulata (dose non specificata). Distribuire circa 100 g di riso cotto in un rettangolo 10×15 cm. Al centro alternare tre strisce di barbabietola, cetriolo e altra barbabietola; sopra avocado.",
+        "Con la stuoia sollevare il bordo inferiore, comprimere dal centro verso i lati, tirare il bordo in avanti e ripetere fino a congiungere i margini del riso, senza arrotolare la stuoia su sé stessa. Con spatola trasferire le fettine di cetriolo sulla sommità, ricompattare con la stuoia. Rifilare estremità se necessario, dividere a metà e ricavare 8 pezzi.",
+        "Rivestire la stuoia con nuova pellicola, appoggiare la nori, stendere il riso lasciando 2 cm liberi in alto. Al centro mettere una foglia di radicchio divisa a metà, cetriolo e avocado. Arrotolare e compattare come sopra; rifilare, dividere e tagliare pezzi di circa 2 cm per gli altri 8 maki. Servire appena preparato."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Franco Pepe",
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "25 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-04625",
+      "ingredients": [
+        "Farina 0 o 00 700 g",
+        "Acqua a temperatura ambiente 500 ml",
+        "Lievito di birra fresco 4 g",
+        "Sale fino 20 g",
+        "Condimento: pelati San Marzano 720 g",
+        "Basilico 25 foglie",
+        "Origano e sale q.b.",
+        "Aglio 1 spicchio",
+        "Olio extravergine q.b.",
+        "Grana Padano DOP da grattugiare 70 g",
+        "Olio di arachidi per friggere q.b."
+      ],
+      "name": "Pizzelle fritte",
+      "notes": [
+        "Montanare della tradizione campana/napoletana, ricetta di Franco Pepe. Impasto in frigo massimo un giorno o congelare prima della seconda lievitazione. Varianti con olive di Gaeta, acciughe o ricotta salata. Fonte descrive tradizione del pagamento a otto giorni."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "40 min",
+        "rest": "Almeno 4 h + almeno 2 h"
+      },
+      "originalTitle": "Frittierte Pizzelle",
+      "originalYield": "25 pizzelle",
+      "pdfPage": 997,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "2f1188b461c51cf3123d61601a1ea9185169b639e441c256b90ad15635fb0a31",
+        "previousAppSha256": "2f1188b461c51cf3123d61601a1ea9185169b639e441c256b90ad15635fb0a31",
+        "reviewedDigest": "8a58dfc9f21cbd53aa6ec0540c78d4a05f0ce5b7623d25183f800d67db283ce6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 4 h + almeno 2 h",
+      "reviewedRecordSha256": "8a58dfc9f21cbd53aa6ec0540c78d4a05f0ce5b7623d25183f800d67db283ce6",
+      "serves": "25 pizzelle",
+      "source": "https://www.giallozafferano.de/rezepte/frittierte-pizzelle.html",
+      "steps": [
+        "Sciogliere lievito in poca acqua prelevata dal totale. Mettere circa il 30% della farina da un lato della madia (o ciotola di vetro), versare l'acqua restante dall'altro, sciogliervi sale con mani. Incorporare farina gradualmente con movimenti circolari, a circa metà aggiungere lievito sciolto, quindi resto farina regolandosi sulla consistenza.",
+        "Lavorare a mano 10–15 min fino a massa liscia e uniforme, coprire con panno pulito leggermente umido e lievitare almeno 4 h a temperatura ambiente senza correnti.",
+        "Sul piano leggermente infarinato dividere con tarocco in pezzi da 50 g, circa 25; fare pieghe portando lembi sotto, disporre in vassoio infarinato con chiusura in basso, coprire con panno asciutto e lievitare almeno altre 2 h.",
+        "Spezzettare pelati, dorare in olio uno spicchio d'aglio schiacciato con buccia, rimuoverlo. Aggiungere pomodoro, sale, origano, cuocere a fuoco basso almeno 30 min mescolando spesso fino ad addensamento.",
+        "Portare olio di arachidi a massimo 180 °C con termometro. Staccare una pallina alla volta, allargare con dita, incidere leggermente col tarocco per limitare rigonfiamento. Immergere in olio e premere al centro con cucchiaio per formare incavo; friggere fino a doratura, scolare su carta.",
+        "Mettere nell'incavo un cucchiaio di salsa, grana grattugiato e foglia di basilico; servire calde."
+      ],
+      "temperature": "Olio di arachidi massimo 180 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "15 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02502",
+      "ingredients": [
+        "Impasto: acqua a temperatura ambiente 250 g",
+        "Farina 00 500 g",
+        "Lievito di birra fresco 10 g",
+        "Zucchero 12 g",
+        "Olio extravergine 60 g",
+        "Sale fino 15 g",
+        "Condimento: passata 350 g",
+        "Mozzarella 250 g",
+        "Sale fino 1 cucchiaino",
+        "Pepe nero, olio extravergine e origano q.b."
+      ],
+      "name": "pizzette rosse",
+      "notes": [
+        "Consumare appena fatte o riscaldate. Impasto dopo lievitazione congelabile in porzioni; scongelare a temperatura ambiente. Pizzette congelabili dopo mezza cottura e raffreddamento; finire da congelate a temperatura leggermente inferiore a quella indicata (non specificata). Con coppapasta 9 cm circa 18 pezzi; condimenti variabili. Origine e autore individuale non dichiarati."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "25 min",
+        "rest": "Circa 3 h; ritagli 10 min"
+      },
+      "originalTitle": "Rote Pizzette",
+      "originalYield": "24 pezzi",
+      "pdfPage": 570,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c54c409fcd5743bb5957d6fbe0003d9ff593de2d5f220bdd472494377fd0c586",
+        "previousAppSha256": "c54c409fcd5743bb5957d6fbe0003d9ff593de2d5f220bdd472494377fd0c586",
+        "reviewedDigest": "761ecaf826c0e1d265b501af6e5016ad9195496fe8861179f0b156f006e47e11"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 3 h; ritagli 10 min",
+      "reviewedRecordSha256": "761ecaf826c0e1d265b501af6e5016ad9195496fe8861179f0b156f006e47e11",
+      "serves": "24 pezzi",
+      "source": "https://www.giallozafferano.de/rezepte/rote-pizzette.html",
+      "steps": [
+        "Mettere farina e lievito sbriciolato in ciotola, aggiungere acqua e mescolare con cucchiaio. Unire zucchero, sale e infine olio; trasferire sul piano e impastare energicamente fino a liscio.",
+        "Formare palla, mettere in ciotola ampia oliata, coprire e lievitare circa 3 h senza correnti o in forno spento con luce, fino a triplicare. Condire passata con sale, pepe, origano e olio, tenere da parte.",
+        "Su piano infarinato stendere in rettangolo da 4 mm. Ungere bene teglia, ritagliare dischi con coppapasta 7,5 cm; raccogliere ritagli a palla, riposare 10 min, ristendere fino a 24 pizzette. Trasferire con tarocco in teglia.",
+        "Creare incavo al centro lasciando bordo 0,5 cm; tagliare mozzarella a cubetti, farcire con pomodoro e mozzarella, completare con olio e origano a piacere.",
+        "Forno statico preriscaldato a 200 °C: 10 min ripiano inferiore e 5 min ripiano superiore; servire calde."
+      ],
+      "temperature": "200 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "30 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02463",
+      "ingredients": [
+        "Farina 0 250 g",
+        "Farina 1 150 g",
+        "Semola rimacinata 100 g",
+        "Acqua 360 g",
+        "Lievito di birra fresco 3 g",
+        "Olio extravergine 40 g",
+        "Sale fino 15 g",
+        "Condimento: patate 300 g",
+        "Mozzarella per pizza 200 g",
+        "Olio extravergine q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Pizza alle patate",
+      "notes": [
+        "Pizza bianca italiana. Conservazione circa due giorni in frigorifero; congelamento sconsigliato. Se manca la mandolina usare coltello ottenendo spessore uniforme. Autore individuale non dichiarato."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "60 min",
+        "rest": "Circa 3 h; riposi 10 min, lievitazione 2 h + circa 30 min"
+      },
+      "originalTitle": "Potato pizza",
+      "originalYield": "4 porzioni",
+      "pdfPage": 562,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b4d9f12277c39e2c4b596926d4d093876c9ff31d13247c98eae9d30dc9d63f31",
+        "previousAppSha256": "b4d9f12277c39e2c4b596926d4d093876c9ff31d13247c98eae9d30dc9d63f31",
+        "reviewedDigest": "cc1dc27f109c251ba3405ae58a2c47b5c73aa4868d236692b09e126eff2f2a6f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 3 h; riposi 10 min, lievitazione 2 h + circa 30 min",
+      "reviewedRecordSha256": "cc1dc27f109c251ba3405ae58a2c47b5c73aa4868d236692b09e126eff2f2a6f",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/potato-pizza.html",
+      "steps": [
+        "Unire farine, acqua e lievito sbriciolato in ciotola; mescolare con cucchiaio e lavorare a mano circa 5 min. Ripiegare l'impasto dai bordi verso il centro, quindi aggiungere sale e olio dell'impasto, lavorare energicamente fino ad assorbimento.",
+        "Coprire e riposare 10 min a temperatura ambiente. In ciotola fare pieghe dai lati al centro, riposare 10 min; ripetere per un totale di quattro serie. Dopo l'ultima lievitare coperto circa 2 h.",
+        "Su piano leggermente oliato dare ultime pieghe e formare filone; trasferire in teglia oliata 30×40 cm, far raddoppiare circa 30 min. Stendere con dita lasciando bordi alti.",
+        "Tagliare patate a fette di 2 mm con mandolina. Distribuire mozzarella a strisce, poi le patate; spennellare d'olio. Il sale del condimento è indicato q.b. dalla fonte, senza un momento di aggiunta precisato.",
+        "Cuocere 30 min in forno statico a 482 °F fino a doratura delle patate; servire calda."
+      ],
+      "temperature": "482 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "15 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02489",
+      "ingredients": [
+        "Impasto: farina 0 1 kg",
+        "Acqua 600 g",
+        "Lievito di birra secco 7 g",
+        "Sale fino 20 g",
+        "Olio extravergine 60 g",
+        "Condimento: passata 700 g",
+        "Mozzarella per pizza 600 g",
+        "Origano 10 g",
+        "Olio extravergine q.b.",
+        "Acciughe sott'olio 16 filetti",
+        "Sale fino 20 g"
+      ],
+      "name": "pizza Romana",
+      "notes": [
+        "A Napoli detta romana; altrove Napoli/napoletana può indicare versione senza mozzarella, talvolta con capperi. Se mozzarella umida strizzarla e scolarla. Congelabile a metà cottura, scongelare a temperatura ambiente e completare in forno. Autore individuale non dichiarato."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "30 min",
+        "rest": "1,5 h fino al raddoppio (meglio 2,5–3 h); 30 min panetti; 10 min farcita"
+      },
+      "originalTitle": "Pizza Romana",
+      "originalYield": "4 pizze da 30 cm",
+      "pdfPage": 567,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6261b95f33b3a915349eabfbe3c0201513697364566a79eaf0e20900cc7e0477",
+        "previousAppSha256": "6261b95f33b3a915349eabfbe3c0201513697364566a79eaf0e20900cc7e0477",
+        "reviewedDigest": "c6f8e88f5f96dcc90450ad402997557fc8f9efd7af71daaa15c70bb8fccc9763"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1,5 h fino al raddoppio (meglio 2,5–3 h); 30 min panetti; 10 min farcita",
+      "reviewedRecordSha256": "c6f8e88f5f96dcc90450ad402997557fc8f9efd7af71daaa15c70bb8fccc9763",
+      "serves": "4 pizze da 30 cm",
+      "source": "https://www.giallozafferano.es/recetas/pizza-romana.html",
+      "steps": [
+        "Planetaria con gancio: farina, lievito, 100 g acqua, velocità medio-bassa; aggiungere acqua gradualmente aspettando assorbimento. Dopo circa tre quarti unire sale, poi resto acqua a filo fino a impasto liscio.",
+        "Incorporare olio lentamente, formare palla, ciotola unta e coperta in forno spento con luce accesa fino al raddoppio (1,5 h), meglio triplo (2,5–3 h).",
+        "Dividere in quattro, formare palline, coprire e riposare 30 min. Ungere quattro teglie 30 cm, stendere dal centro verso fuori; se impasto si ritira alternare teglie lasciandolo riposare.",
+        "Condire passata con sale del condimento e origano; distribuire un mestolo abbondante lasciando bordo circa 1,5 cm. Spezzettare mozzarella; aggiungere acciughe, olio e mozzarella.",
+        "Riposare farcite 10 min; forno statico 250 °C 12–15 min o ventilato 230 °C circa 10 min; servire subito."
+      ],
+      "temperature": "250 °C statico o 230 °C ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "30 min dichiarati; precottura 7–8 min per base",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02454",
+      "ingredients": [
+        "Farina per pinsa 1 kg",
+        "Lievito di birra fresco 7 g",
+        "Acqua fredda di frigorifero 750 g",
+        "Sale fino 20 g",
+        "Olio extravergine 20 g",
+        "Semola di grano duro rimacinata per spolverare q.b."
+      ],
+      "name": "Pinsa romana",
+      "notes": [
+        "Ricetta della base; l'esempio parmigiana è facoltativo e non ha quantità dichiarate, non costituisce formula dosata. La fonte consente anche margherita, broccoli/salsiccia, mortadella/pistacchio.",
+        "Per 48 h in frigo dimezzare il lievito; alternativa pietra: teglia. Conservare in frigo un giorno, contenitore ermetico, riscaldare. Farina specifica con grano duro, riso e soia, proporzioni della miscela non dichiarate."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "30 min dichiarati; precottura 7–8 min per base",
+        "prep": "30 min",
+        "rest": "2 h + 24–48 h in frigo + 3–4 h; riposo opzionale 15 min"
+      },
+      "originalTitle": "Roman Pinsa",
+      "originalYield": "6 pinse",
+      "pdfPage": 202,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1e0689374b75b9cc39a35b14aff7fc80f99d8ade904cb8b65ab3626a389c3b1b",
+        "previousAppSha256": "1e0689374b75b9cc39a35b14aff7fc80f99d8ade904cb8b65ab3626a389c3b1b",
+        "reviewedDigest": "fb930750ffcb571a638c45fdc3ca0afd701c1dfa4e6ae598e512260396e89818"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 h + 24–48 h in frigo + 3–4 h; riposo opzionale 15 min",
+      "reviewedRecordSha256": "fb930750ffcb571a638c45fdc3ca0afd701c1dfa4e6ae598e512260396e89818",
+      "serves": "6 pinse",
+      "source": "https://www.giallozafferano.com/recipes/Roman-Pinsa.html",
+      "steps": [
+        "Versare farina e lievito sbriciolato in ciotola; incorporare gradualmente la prima parte di acqua molto fredda (24,6 oz indicate nel metodo), mescolare fino ad assorbimento, lavorare sul piano non infarinato finché più compatto.",
+        "Mettere in ciotola, praticare tre incisioni, aggiungere sale e olio e incorporare poco alla volta l'acqua fredda rimasta (1,8 oz secondo metodo). Lavorare alcuni minuti; opzionalmente fare pieghe e riposare coperto 15 minuti.",
+        "Spolverare il piano con poca farina per pinsa, ripiegare i bordi al centro, capovolgere e pirlare. In ciotola oliata e coperta far raddoppiare circa 2 h a temperatura ambiente, poi 24–48 h in frigorifero.",
+        "Con mani umide prelevare dal basso porzioni da 8,8–10,6 oz. Passare il lato liscio sulla semola, piegare i lati opposti al centro, pizzicare, ruotare di 180° e ripetere. Capovolgere e arrotondare chiudendo la base; distanziare in contenitore coperto e lasciare raddoppiare 3–4 h.",
+        "Scaldare la pietra in forno con grill alla massima potenza per 1 h. Stendere una porzione alla volta su abbondante semola con dita quasi parallele al piano, distribuire l'aria senza schiacciare, dare forma ovale e togliere semola in eccesso. Su pala formare un ovale di circa 13–14×8–9 pollici; precuocere sulla pietra 7–8 minuti in modalità grill.",
+        "Farcire a piacere. Esempio non dosato della fonte: melanzane a cubetti infarinate e setacciate, fritte a 338 °F fino a doratura e scolate; salsa di pomodoro con olio e sale a piacere, mozzarella a strisce. Farcire base con salsa, mozzarella e melanzane, grill 2–3 min fino a fusione, terminare con ricotta grattugiata e basilico."
+      ],
+      "temperature": "Grill alla massima potenza; esempio melanzane 338 °F"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "40 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02323",
+      "ingredients": [
+        "Ripieno: sponsali puliti 1 kg",
+        "Olive verdi denocciolate 15",
+        "Acciughe sott'olio 5 filetti",
+        "Olio extravergine, acqua e sale q.b.",
+        "Impasto: acqua tiepida 200 ml",
+        "Farina 00 350 g",
+        "Sale 6 g",
+        "Lievito di birra secco 2 g",
+        "Zucchero ½ cucchiaino"
+      ],
+      "name": "Calzone di sponsali",
+      "notes": [
+        "Preparazione pugliese/barese presentata con Sandro Romano e Sonia; autore individuale non dichiarato separatamente. Alternativa: 8 g lievito fresco; cipollotti giovani o porri teneri invece degli sponsali. Pepe nel metodo senza dose. In frigo coperto 3–4 giorni, riscaldare; congelabile crudo farcito, scongelare in frigo il giorno prima."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "30 min",
+        "rest": "1–2 h fino al raddoppio"
+      },
+      "originalTitle": "Calzone di sponsali",
+      "originalYield": "8 porzioni",
+      "pdfPage": 197,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "91f6a6a5b6a6fde379fbd3362909081a2edaae8fd739261e4422adc921246cc7",
+        "previousAppSha256": "91f6a6a5b6a6fde379fbd3362909081a2edaae8fd739261e4422adc921246cc7",
+        "reviewedDigest": "f29a64525648c2c81227e698a46cdae3231ec1dc8e882c954a2b1509f507411f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1–2 h fino al raddoppio",
+      "reviewedRecordSha256": "f29a64525648c2c81227e698a46cdae3231ec1dc8e882c954a2b1509f507411f",
+      "serves": "8 porzioni",
+      "source": "https://www.giallozafferano.de/rezepte/calzone-di-sponsali.html",
+      "steps": [
+        "Dividere l'acqua: sciogliere in una parte zucchero e lievito, nell'altra sale. Setacciare la farina, aggiungere la prima miscela poi l'acqua salata poco alla volta; lavorare fino a impasto liscio, morbido ed elastico (planetaria: prima foglia poi gancio).",
+        "Coprire e far lievitare al caldo 1–2 ore fino al raddoppio.",
+        "Togliere radici, membrane e parti verdi degli sponsali, tagliarli grossolanamente, stufare in olio e poca acqua circa 15 min: devono rimanere bianchi e teneri. Salare leggermente, pepare, aggiungere olive e acciughe spezzettate; evaporare il liquido e raffreddare.",
+        "Dividere l'impasto in due. Stendere un disco 30–32 cm spesso 4–5 mm, foderare una teglia bassa oliata 24–26 cm lasciando sporgere il bordo; distribuire il ripieno.",
+        "Stendere l'altro disco 22–24 cm, coprire, rifilare, ripiegare e sigillare con forchetta. Spennellare con olio; forno statico 180 °C 30–40 min oppure ventilato 160 °C 25–35 min. Raffreddare."
+      ],
+      "temperature": "180 °C statico; 160 °C ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "1 h 20 min complessivi",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02490",
+      "ingredients": [
+        "Impasto: farina 0 500 g",
+        "Acqua 300 ml",
+        "Olio extravergine 3 cucchiai",
+        "Sale fino 10 g",
+        "Zucchero 1 cucchiaino",
+        "Lievito di birra secco 4 g",
+        "Ripieno: pomodorini 1 kg",
+        "Provola 200 g",
+        "Olive nere denocciolate 100 g",
+        "Acciughe sott'olio 100 g",
+        "Basilico circa 6 foglie",
+        "Origano 1 cucchiaio",
+        "Aglio 1 spicchio",
+        "Olio extravergine q.b.",
+        "Per spennellare: uovo 1",
+        "Latte intero 2 cucchiai"
+      ],
+      "name": "Pizza rustica",
+      "notes": [
+        "Alternativa lievito fresco 12 g. Frigo un giorno, riscaldare; congelabile cruda se ingredienti freschi non decongelati, scongelare in frigo prima della cottura. Impasto lievitato congelabile in contenitore ermetico, riprendere a temperatura ambiente almeno 2 h dopo scongelamento. Varianti salsiccia e broccoli, verdure saltate, provola e prosciutto; origine specifica non dichiarata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 20 min complessivi",
+        "prep": "30 min",
+        "rest": "Almeno 2 h a 26–28 °C + almeno 30 min"
+      },
+      "originalTitle": "Pizza rústica",
+      "originalYield": "8 porzioni, teglia 42×30 cm",
+      "pdfPage": 567,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "80c3294882df92ebf6942c025016308d69c9373748a89421dad4364d430f82e7",
+        "previousAppSha256": "80c3294882df92ebf6942c025016308d69c9373748a89421dad4364d430f82e7",
+        "reviewedDigest": "d15e44a4fa6908d84bb6eb33b035820f6f0e3b8859327bf36e990989a4dee45e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 2 h a 26–28 °C + almeno 30 min",
+      "reviewedRecordSha256": "d15e44a4fa6908d84bb6eb33b035820f6f0e3b8859327bf36e990989a4dee45e",
+      "serves": "8 porzioni, teglia 42×30 cm",
+      "source": "https://www.giallozafferano.es/recetas/pizza-rustica.html",
+      "steps": [
+        "Sciogliere sale in parte dell'acqua; emulsionare l'acqua restante con l'olio. In ciotola unire farina setacciata, lievito e zucchero, poi acqua con olio e acqua salata. Lavorare a mano su piano leggermente infarinato fino a palla liscia elastica, coprire e lievitare almeno 2 h a 26–28 °C fino al raddoppio.",
+        "Dimezzare pomodorini, tagliare provola a cubetti e olive a rondelle. Dorare aglio intero in olio, aggiungere acciughe scolate e farle sciogliere, poi pomodorini e origano; cuocere coperto circa 10 min a fuoco vivo mescolando ogni tanto: morbidi ma non sfatti. Togliere aglio e aggiungere basilico prima di spegnere.",
+        "Dividere impasto a metà, tenere una palla coperta. Stendere l'altra in rettangolo sottile 45×32 cm, trasferire con mattarello in teglia 42×30 unta su fondo e bordi. Distribuire pomodorini senza liquido, provola, olive e origano (dose complessiva da ripartire tra cottura e farcitura, fonte non precisa frazioni).",
+        "Stendere seconda metà allo stesso formato, coprire con mattarello, ripiegare bordi verso interno e sigillare con mani e forchetta. Coprire e lievitare almeno 30 min al caldo.",
+        "Sbattere uovo e latte, spennellare. Forno statico preriscaldato a 180 °C circa 1 h 10 min o ventilato a 160 °C circa 1 h, parte bassa. Controllare base sollevandola leggermente e superficie dorata; intiepidire, sformare e servire."
+      ],
+      "temperature": "180 °C statico circa 70 min; 160 °C ventilato circa 60 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "35 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-04583",
+      "ingredients": [
+        "Impasto: farina 0 500 g",
+        "Acqua a temperatura ambiente 310 g",
+        "Olio extravergine 25 g",
+        "Sale 10 g",
+        "Lievito di birra fresco 6 g",
+        "Zucchero 5 g",
+        "Ripieno: pelati 800 g (circa 520 g scolati)",
+        "Caciocavallo 300 g",
+        "Prosciutto cotto a fette 150 g",
+        "Copertura: sfoglia rettangolare 230 g",
+        "Panna 2 cucchiai",
+        "Tuorlo 1",
+        "Olio per teglia q.b."
+      ],
+      "name": "Parigina",
+      "notes": [
+        "Specialità napoletana; origine del nome incerta. Frigo in contenitore chiuso un paio di giorni; fonte ammette congelamento a metà cottura, dopo raffreddamento, e completamento da congelata se ingredienti freschi. Varianti con salame/spianata, mozzarella scolata o provola affumicata, salsiccia e friarielli."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "40 min",
+        "rest": "Circa 3½ h"
+      },
+      "originalTitle": "Parigina",
+      "originalYield": "12 pezzi",
+      "pdfPage": 988,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "56797fbf68da91276a0a6a5b0539340d66533ed0da2050be99da691a51611d61",
+        "previousAppSha256": "56797fbf68da91276a0a6a5b0539340d66533ed0da2050be99da691a51611d61",
+        "reviewedDigest": "f6039144a0b3410c12969d2c2e8e39bc82677699714dfbe861b21fe57e9ca56a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 3½ h",
+      "reviewedRecordSha256": "f6039144a0b3410c12969d2c2e8e39bc82677699714dfbe861b21fe57e9ca56a",
+      "serves": "12 pezzi",
+      "source": "https://www.giallozafferano.de/rezepte/Parigina.html",
+      "steps": [
+        "Sciogliere il lievito nell'acqua; mescolare farina e zucchero, aggiungere acqua e lievito gradualmente. Incorporare metà olio, sale, poi resto olio fino a composto uniforme.",
+        "Lavorare sul piano 10–15 min fino a palla liscia, poca farina se troppo morbida. Coprire e lievitare a 26–28 °C circa 3 h fino al triplo.",
+        "Scolare e schiacciare pelati, affettare formaggio. Ungere teglia 32×40 cm, stendere con dita senza strappare; coprire e riposare 20 min.",
+        "Distribuire pomodoro lasciando bordo libero, prosciutto e formaggio. Adattare sfoglia alla teglia, coprire e sigillare, bucherellare; mescolare panna e tuorlo e spennellare.",
+        "Forno statico 200 °C 30–35 min; attendere 5 min, sformare, tagliare in 12 con coltello seghettato."
+      ],
+      "temperature": "200 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "6 min per pizza",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02466",
+      "ingredients": [
+        "Biga: farina 0 500 g",
+        "Acqua 250 g",
+        "Lievito fresco 2 g",
+        "Impasto: farina 0 500 g",
+        "Acqua 450 g",
+        "Sale fino 25 g",
+        "Olio extravergine 30 g",
+        "Lievito fresco 3 g",
+        "Condimento: pelati 400 g",
+        "Mozzarella per pizza 900 g",
+        "Prosciutto cotto 200 g",
+        "Funghi sott'olio 100 g",
+        "Carciofi sott'olio 80 g",
+        "Olive nere denocciolate 40 g",
+        "Basilico, olio e sale q.b.",
+        "Olio per ungere e semola rimacinata q.b."
+      ],
+      "name": "Pizza capricciosa",
+      "notes": [
+        "Tradizione italiana; nata per utilizzare gli avanzi della dispensa secondo fonte. Consumare subito o frigo massimo un giorno. Senza pala teglia liscia o tagliere con semola. Distinta dalla diavola per condimenti; autore individuale non dichiarato."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "6 min per pizza",
+        "prep": "1 h 10 min",
+        "rest": "Biga 24 h; lievitazione circa 2 h complessive"
+      },
+      "originalTitle": "Pizza capricciosa",
+      "originalYield": "6 pizze",
+      "pdfPage": 563,
+      "photo": null,
+      "prep": "1 h 10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "033a85abf602a60aebf526b3bfe6db3f715927a75094b45018d491aa5e894bd5",
+        "previousAppSha256": "033a85abf602a60aebf526b3bfe6db3f715927a75094b45018d491aa5e894bd5",
+        "reviewedDigest": "eb43c1032c4aaf8d2358bc6be8766136a0c3963869b35e038f8bd8b220bf0572"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Biga 24 h; lievitazione circa 2 h complessive",
+      "reviewedRecordSha256": "eb43c1032c4aaf8d2358bc6be8766136a0c3963869b35e038f8bd8b220bf0572",
+      "serves": "6 pizze",
+      "source": "https://www.giallozafferano.es/recetas/pizza-capricciosa.html",
+      "steps": [
+        "Sciogliere lievito della biga nell'acqua, amalgamare farina senza impastare a lungo; spezzettare, coprire, maturare 24 h in frigo.",
+        "In planetaria con gancio unire biga, lievito e farina dell'impasto; metà acqua, poi resto gradualmente fino ad assorbimento, incorporare sale e olio lentamente fino a impasto liscio.",
+        "Sul piano riposare sotto ciotola 10 min, dare due pieghe, ripetere altre due volte con riposi di 10 min; coprire e lievitare circa 1 h a temperatura ambiente fino al raddoppio. Scaldare pietra refrattaria sul ripiano superiore a 250 °C statico.",
+        "Dividere in 6 pezzi da circa 290 g, formare palline con pieghe, adagiare su teglia unta, oliare superficie, coprire e lievitare 30 min.",
+        "Schiacciare pelati, condire con olio, sale e basilico. Stendere su semola dal centro in dischi 30–32 cm.",
+        "Distribuire pomodoro e mozzarella, carciofi, olive, prosciutto e funghi; trasferire con pala sulla pietra, cuocere 6 min e finire con basilico."
+      ],
+      "temperature": "250 °C statico, pietra refrattaria"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "60 min dichiarati",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02461",
+      "ingredients": [
+        "Impasto: farina 0 500 g",
+        "Acqua 300 g",
+        "Olio extravergine 20 g",
+        "Lievito di birra 10 g (secco nel metodo)",
+        "Malto 5 g",
+        "Sale fino 8 g",
+        "Crema: zucchine 400 g",
+        "Scalogno 1",
+        "Aglio 1 spicchio",
+        "Menta 5 g",
+        "Olio extravergine e sale q.b.",
+        "Zucchine da friggere 300 g",
+        "Olio di semi di girasole q.b.",
+        "Olio alla menta: menta 50 g",
+        "Olio extravergine 80 g",
+        "Ghiaccio q.b.",
+        "Condimento: mozzarella per pizza 300 g",
+        "Sale Maldon e olio extravergine q.b."
+      ],
+      "name": "pizza al tegamino",
+      "notes": [
+        "Specialità torinese/piemontese. Fonte indica lievito secco nel metodo; non convertire la quantità. Conservare un giorno in frigorifero, congelabile la base cotta. Padellino in ferro preferibile, anche alluminio/acciaio idonei al forno; crema variabile con altri ortaggi come peperoni."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "60 min dichiarati",
+        "prep": "45 min",
+        "rest": "3 riposi da 45 min + 20 min; circa 2½ h secondo fonte"
+      },
+      "originalTitle": "Pan Pizza",
+      "originalYield": "2 pizze da 25 cm",
+      "pdfPage": 203,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "af8ac3457e6ffd2664cc5a3fbbaae824980577c3dde1c0b0c8ffc2e3e2d06fcd",
+        "previousAppSha256": "af8ac3457e6ffd2664cc5a3fbbaae824980577c3dde1c0b0c8ffc2e3e2d06fcd",
+        "reviewedDigest": "96c03609166fe45ecb5cf64cce0134be0a09cc47ac7908df83ba822698715a79"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "3 riposi da 45 min + 20 min; circa 2½ h secondo fonte",
+      "reviewedRecordSha256": "96c03609166fe45ecb5cf64cce0134be0a09cc47ac7908df83ba822698715a79",
+      "serves": "2 pizze da 25 cm",
+      "source": "https://www.giallozafferano.com/recipes/pan-pizza.html",
+      "steps": [
+        "Sciogliere lievito e malto nell'acqua, unire alla farina e mescolare fino ad assorbimento. Coprire il composto grezzo e riposare 45 min.",
+        "Affettare con mandolina le zucchine da friggere a circa 1/8 di pollice; tagliare a cubetti quelle per la crema. Affettare scalogno, insaporire olio con scalogno e aglio schiacciato, aggiungere cubetti, sale e menta. Cuocere a fuoco medio qualche minuto, poca acqua se necessario; quando appassite frullare a crema liscia.",
+        "Dopo il primo riposo unire il sale, ripiegare i bordi al centro, formare palla e coprire 45 min. Nel frattempo friggere le rondelle a 300 °F fino a doratura, scolare su carta.",
+        "Unire l'olio dell'impasto, fare le stesse pieghe, formare palla e riposare coperto altri 45 min. Sbollentare la menta per l'olio in acqua salata pochi secondi, scolare in acqua e ghiaccio, strizzare, frullare con 80 g d'olio e filtrare.",
+        "Rovesciare l'impasto su piano oliato, allargare delicatamente e piegare i bordi al centro. Dividere in due, arrotondare e mettere in due padellini di ferro da 10 pollici oliati, ungere superficie e riposare 20 min.",
+        "Con dita oliate stendere sul fondo senza disperdere gas, condire con olio e sale Maldon. Forno statico preriscaldato a 450 °F, ripiano inferiore, 20 min. Quando dorata distribuire mozzarella e completare 5 min sotto grill sul ripiano superiore.",
+        "Quando la mozzarella fonde, guarnire con crema di zucchine in diagonale, zucchine fritte e gocce di olio alla menta; servire."
+      ],
+      "temperature": "Frittura zucchine 300 °F; forno 450 °F statico + grill"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "30 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02460",
+      "ingredients": [
+        "Impasto: farina 0 500 g",
+        "Acqua fredda 380 g (3–4 °C)",
+        "Olio extravergine 15 g",
+        "Sale 15 g",
+        "Lievito fresco 10 g",
+        "Condimento: pelati 400 g",
+        "Mozzarella per pizza 300 g",
+        "Carciofi sott'olio 250 g scolati",
+        "Prosciutto crudo 50 g",
+        "Basilico, olio, sale e pepe q.b.",
+        "Olio per ungere q.b.",
+        "Semola 50 g"
+      ],
+      "name": "pizza al taglio",
+      "notes": [
+        "Frigo 1–2 giorni, congelabile già cotta in porzioni; origine specifica e autore non dichiarati."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "1 h 30 min + 45 min"
+      },
+      "originalTitle": "Pizza by the slice",
+      "originalYield": "6 pezzi",
+      "pdfPage": 561,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "5f1c8f37fdbe0a567a102a3545d36b06ab078adaddd6327e621227394a635e81",
+        "previousAppSha256": "5f1c8f37fdbe0a567a102a3545d36b06ab078adaddd6327e621227394a635e81",
+        "reviewedDigest": "7cb5fa34dc919aca8ec13aebe91f6f64837afb406ed8550d4309fbeb7749f060"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1 h 30 min + 45 min",
+      "reviewedRecordSha256": "7cb5fa34dc919aca8ec13aebe91f6f64837afb406ed8550d4309fbeb7749f060",
+      "serves": "6 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/pizza-al-taglio.html",
+      "steps": [
+        "Sciogliere lievito in una tazza d'acqua dal totale; unire farina nella planetaria con gancio e lavorare a bassa velocità 5 min. Aggiungere sale, aumentare velocità, incorporare lentamente acqua rimasta poi olio fino a impasto elastico.",
+        "Coprire e lievitare a temperatura ambiente 1 h 30 min. Schiacciare pelati, condire con olio, sale, pepe e basilico, tagliare carciofi a spicchi.",
+        "Rovesciare su piano oliato, allargare a circa 16 pollici, ripiegare bordi al centro, sigillare e formare filone; mettere in recipiente cosparso di semola, coprire e riposare 45 min.",
+        "Stendere con dita in rettangolo senza sgonfiare, trasferire in teglia antiaderente 30×40 cm unta. Forno statico a 480 °F sul ripiano inferiore 5 min.",
+        "Distribuire pomodoro, ripiano centrale 15 min; aggiungere mozzarella, ripiano superiore 5–6 min fino a doratura. Completare con carciofi, prosciutto e basilico."
+      ],
+      "temperature": "480 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "20 min",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-04579",
+      "ingredients": [
+        "Impasto: farina 00 250 g",
+        "Farina Manitoba 250 g",
+        "Acqua tiepida 285 g",
+        "Olio extravergine 10 g",
+        "Lievito di birra fresco 8 g",
+        "Zucchero 5 g",
+        "Sale fino 10 g",
+        "Ripieno: fiordilatte 250 g",
+        "Passata 200 g",
+        "Origano 1 cucchiaino",
+        "Olio extravergine 1 cucchiaio",
+        "Sale fino 1 cucchiaino",
+        "Olio di semi per friggere q.b."
+      ],
+      "name": "Panzerotti fritti",
+      "notes": [
+        "Tradizione pugliese. Zucchero per doratura, olio a temperatura costante non oltre 165 °C. Frigo al massimo un giorno, riscaldare in forno. La fonte ammette congelamento da crudi farciti e frittura da congelati; evitare ghiaccio superficiale e schizzi."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "45 min",
+        "rest": "2 h fino al raddoppio"
+      },
+      "originalTitle": "Panzerotti (calzones fritos)",
+      "originalYield": "8 panzerotti",
+      "pdfPage": 988,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "56e30f1029927dedf14abaff2a0e7a60375d1dfe2bb730e39cd8634b6f8865b4",
+        "previousAppSha256": "56e30f1029927dedf14abaff2a0e7a60375d1dfe2bb730e39cd8634b6f8865b4",
+        "reviewedDigest": "a2696e45c5d730bdd4b8a8a0fa88dfee2c7fe117691fa4a84ee2fa4d33feecf0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 h fino al raddoppio",
+      "reviewedRecordSha256": "a2696e45c5d730bdd4b8a8a0fa88dfee2c7fe117691fa4a84ee2fa4d33feecf0",
+      "serves": "8 panzerotti",
+      "source": "https://www.giallozafferano.es/recetas/Panzerotti-calzones-fritos.html",
+      "steps": [
+        "Mescolare farine, lievito sbriciolato, zucchero e metà acqua; quando assorbita aggiungere sale, restante acqua gradualmente e olio. Impastare 5–10 min fino a composto liscio non appiccicoso.",
+        "Formare cilindro, dividere in 8 pezzi di circa 100 g, piegare i lembi e formare palline; coprire e lievitare al riparo da correnti circa 2 ore fino al raddoppio.",
+        "Cuocere passata, olio e sale a fuoco medio-basso 15 min, unire origano e raffreddare; tagliare il fiordilatte a dadini e scolare.",
+        "Stendere dischi 2 mm su piano leggermente infarinato; farcire con circa 2 cucchiai di salsa e dadini di mozzarella, piegare a mezzaluna, sigillare e rifilare.",
+        "Friggere 1–2 alla volta a 165 °C, girare quando salgono, irrorare la superficie con olio fino a doratura. Scolare su carta e servire caldi."
+      ],
+      "temperature": "165 °C frittura"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "40 min totali",
+      "description": "Revisione di ingredienti, dosi, preparazione e note della fonte originale.",
+      "id": "GZ-02476",
+      "ingredients": [
+        "Poolish: farina Manitoba 100 g",
+        "Acqua a temperatura ambiente 100 g",
+        "Lievito di birra fresco 10 g",
+        "Impasto: semola di grano duro rimacinata 400 g",
+        "Acqua 280 g",
+        "Sale fino 15 g",
+        "Farcitura: passata 200 g",
+        "Mozzarella per pizza 300 g",
+        "Prosciutto crudo q.b.",
+        "Rucola q.b.",
+        "Olio extravergine 20 g",
+        "Sale fino q.b."
+      ],
+      "name": "pizza di semola",
+      "notes": [
+        "Consumare subito o frigo un giorno, riscaldando prima di servire. Per congelare cuocere solo con pomodoro, raffreddare e congelare; aggiungere mozzarella e ripassare in forno. Possibile impasto a mano; per servirle insieme cuocere prima con pomodoro separatamente poi fondere mozzarella in forno insieme. Origine specifica e autore non dichiarati."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min totali",
+        "prep": "50 min",
+        "rest": "Poolish 2 h; panetti almeno 2 h fino al raddoppio; in teglia 1 h"
+      },
+      "originalTitle": "Pizza di semola",
+      "originalYield": "2 pizze da 40 cm",
+      "pdfPage": 205,
+      "photo": null,
+      "prep": "50 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a992e14da8a872c2707ba2a61cadedac36bc2865acc29572ab72b12bf623db1b",
+        "previousAppSha256": "a992e14da8a872c2707ba2a61cadedac36bc2865acc29572ab72b12bf623db1b",
+        "reviewedDigest": "b10df727be3077854b99bb3ac4e73953bfb9579b5c18d22b80ff5f66b9648765"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Poolish 2 h; panetti almeno 2 h fino al raddoppio; in teglia 1 h",
+      "reviewedRecordSha256": "b10df727be3077854b99bb3ac4e73953bfb9579b5c18d22b80ff5f66b9648765",
+      "serves": "2 pizze da 40 cm",
+      "source": "https://ricette.giallozafferano.it/Pizza-di-semola.html",
+      "steps": [
+        "Sciogliere lievito nell'acqua del poolish, incorporare Manitoba fino a composto omogeneo; coprire e fermentare 2 h.",
+        "In planetaria con gancio unire poolish, acqua e semola; impastare circa 10 min fino a impasto liscio e incordato. Unire sale, lavorare altri 5 min finché assorbito e ciotola pulita. Staccare dal gancio con mani umide e trasferire con tarocco.",
+        "Dare un paio di pieghe, dividere in due e pirlare senza aggiungere farina. In due ciotole coperte lievitare almeno 2 h a temperatura ambiente fino al raddoppio, lontano da correnti.",
+        "Trasferire con tarocco in due teglie da 40 cm leggermente unte; con mani unte stendere dal centro mantenendo bordo spesso. Se si ritira, attendere qualche minuto. Lievitare ancora 1 h.",
+        "Condire passata con olio e sale, distribuirla sulle pizze. Cuocere una alla volta sul ripiano più basso del forno statico a 220 °C per 10 min; sfornare, aggiungere mozzarella a strisce e cuocere altri 10 min finché fusa.",
+        "Completare con prosciutto crudo e rucola e servire calda; ripetere per seconda pizza."
+      ],
+      "temperature": "220 °C statico"
     }
   ]
 }
