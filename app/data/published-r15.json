@@ -13116,6 +13116,948 @@
         "Cuoci in ventilato preriscaldato a 390 °F per 25–30 minuti, poi raffredda."
       ],
       "temperature": "390 °F ventilato 25–30 min"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "35 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03254",
+      "ingredients": [
+        "Uova 2 a temperatura ambiente",
+        "Burro 140 g",
+        "Zucchero 200 g",
+        "Farina 00 380 g",
+        "Lievito per dolci 16 g",
+        "Sale 1 pizzico",
+        "Latte intero 250 g",
+        "Scorza 1 limone",
+        "Vaniglia 1 baccello"
+      ],
+      "name": "American muffin",
+      "notes": [
+        "Stile americano. Campana a temperatura ambiente 2–3 giorni; congelare solo cotti. Meglio cuocere subito; impasto in frigo fino a 12 h ma consistenza diversa. Possibili cioccolato, mirtilli, goji."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "15 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "American muffin",
+      "originalYield": "12 muffin",
+      "pdfPage": 95,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e25ac80f70079cb7162fcd7ce9f79720f63e5b54a7fdfb6c1a780a57ad1b9419",
+        "previousAppSha256": "e25ac80f70079cb7162fcd7ce9f79720f63e5b54a7fdfb6c1a780a57ad1b9419",
+        "reviewedDigest": "bf2061fd4858e52d5805a03568ea915e0c9e9f80621c020d5cef9bf48384b2a2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "bf2061fd4858e52d5805a03568ea915e0c9e9f80621c020d5cef9bf48384b2a2",
+      "serves": "12 muffin",
+      "source": "https://www.giallozafferano.com/recipes/american-muffin.html",
+      "steps": [
+        "Fondere burro e intiepidire; mescolare con forchetta latte, uova e burro.",
+        "Setacciare farina e lievito, aggiungere zucchero, sale, scorza gialla e semi di vaniglia.",
+        "Con fruste a bassa velocità incorporare liquidi gradualmente a impasto liscio senza grumi.",
+        "Distribuire in 12 pirottini nello stampo, circa 3 oz ciascuno.",
+        "Cuocere statico preriscaldato 350 °F 35 min, raffreddare."
+      ],
+      "temperature": "350 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "15 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02623",
+      "ingredients": [
+        "Farina 00 500 g",
+        "Burro morbido 50 g",
+        "Zucchero 70 g",
+        "Uova 3",
+        "Tuorlo 1",
+        "Grappa 30 g",
+        "Sale 1 pizzico",
+        "Lievito in polvere 6 g",
+        "Vaniglia 1 baccello",
+        "Olio di semi q.b.",
+        "Zucchero a velo q.b.",
+        "Confettura q.b."
+      ],
+      "name": "Chiacchiere di Carnevale: fritte, al forno e ripiene",
+      "notes": [
+        "2–3 giorni a temperatura ambiente; succo di frutta in pari peso al posto della grappa. Possibile mattarello. Confettura resistente alla cottura; crema di nocciole tende a seccarsi; non cuocere al forno la variante ripiena. Tre metodi conservati nello stesso ID storico."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "90 min",
+        "rest": "30 min"
+      },
+      "originalTitle": "Carnival chiacchiere: fried, baked and filled",
+      "originalYield": "circa 40 pezzi",
+      "pdfPage": 92,
+      "photo": null,
+      "prep": "90 min",
+      "publicationUpdate": {
+        "baseAppSha256": "06812bd17481bfb200e1354ca936dc1e8c09375ea63cff6216f523107ff8bdb7",
+        "previousAppSha256": "06812bd17481bfb200e1354ca936dc1e8c09375ea63cff6216f523107ff8bdb7",
+        "reviewedDigest": "108d978f55b5cb49a20b29842572cf13b8d30132455dca73deb959f8d6a54c4c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min",
+      "reviewedRecordSha256": "108d978f55b5cb49a20b29842572cf13b8d30132455dca73deb959f8d6a54c4c",
+      "serves": "circa 40 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/carnival-chiacchiere-fried-baked-and-filled.html",
+      "steps": [
+        "Mescolare farina, lievito, zucchero e sale, poi uova, tuorlo e grappa prima con cucchiaio poi a mano.",
+        "Lavorare burro e vaniglia con forchetta, incorporare e impastare circa 10 min; se troppo duro aggiungere 5–10 g acqua come indicato. Avvolgere e riposare 30 min.",
+        "Al forno: stendere con macchina ripiegando e assottigliando a 1/16 pollice, asciugare pochi minuti, rettangoli 2 × 4 pollici con incisioni diagonali; sbollentare fino a emersione, scolare su carta forno senza appiattire, cuocere ventilato 390 °F 5 min per lato.",
+        "Fritte: stendere allo stesso spessore, asciugare brevemente, tagliare rettangoli 2 × 4 pollici con tagli longitudinali; friggere pochi pezzi a 300–320 °F, scolare, spolverare.",
+        "Ripiene: quadrati 4 × 4 pollici, cucchiaino di confettura, inumidire bordi, chiudere a triangolo eliminando aria, friggere pochi pezzi a 340 °F circa due minuti, scolare."
+      ],
+      "temperature": "390 °F forno; 300–320 °F fritte; 340 °F ripiene"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "15 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02621",
+      "ingredients": [
+        "Farina 00 500 g",
+        "Zucchero 70 g",
+        "Burro morbido 50 g",
+        "Uova 175 g (circa 3)",
+        "Tuorlo 15 g (circa 1)",
+        "Grappa 30 g",
+        "Lievito in polvere 6 g",
+        "Vaniglia 1 baccello",
+        "Sale 1 pizzico",
+        "Zucchero a velo q.b."
+      ],
+      "name": "Chiacchiere al forno",
+      "notes": [
+        "Carta o latta 5–6 giorni, non congelare; vino bianco al posto della grappa; forme a piacere."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "60 min",
+        "rest": "30 min"
+      },
+      "originalTitle": "Baked chiacchiere",
+      "originalYield": "40 pezzi",
+      "pdfPage": 91,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "12f61d74b0fb7cea6f0855fe10c5a2ace76f842d3ddee33dd578e646d311253b",
+        "previousAppSha256": "12f61d74b0fb7cea6f0855fe10c5a2ace76f842d3ddee33dd578e646d311253b",
+        "reviewedDigest": "d53d2e595211c82ab49038890cb6d8443ec497d9840d50cbe8ff39850ee8d3ae"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min",
+      "reviewedRecordSha256": "d53d2e595211c82ab49038890cb6d8443ec497d9840d50cbe8ff39850ee8d3ae",
+      "serves": "40 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/baked-chiacchiere.html",
+      "steps": [
+        "Con foglia mescolare farina, lievito, zucchero, sale, uova, tuorlo leggermente sbattuto e grappa a velocità media.",
+        "Passare al gancio, unire vaniglia e burro; lavorare circa 10 min a impasto sodo e malleabile, avvolgere e riposare 30 min a temperatura ambiente.",
+        "Prelevare porzioni, mantenere le altre coperte; infarinare e passare nella macchina allo spessore maggiore, piegare i lati al centro e assottigliare progressivamente.",
+        "Riposare le sfoglie alcuni minuti; tagliare rettangoli circa 4 × 2,5 pollici con rotella dentata e incidere in diagonale.",
+        "Sbollentare uno o due pezzi per volta per pochi secondi fino a emersione; scolare su carta forno.",
+        "Cuocere ventilato preriscaldato 392 °F circa 5 min per lato, raffreddare e spolverare."
+      ],
+      "temperature": "392 °F ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "3 h (testata); essiccazione circa 2,5 h",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03605",
+      "ingredients": [
+        "Sale grosso 300 g",
+        "Scarti commestibili di carote q.b.",
+        "Scarti di zucchine q.b.",
+        "Scarti di peperoni q.b.",
+        "Bucce commestibili di cipolle q.b.",
+        "Bucce commestibili di patate q.b.",
+        "Scarti di cipollotto q.b.",
+        "Scarti di melanzane q.b. (totale scarti 760 g)"
+      ],
+      "name": "Brodo granulare",
+      "notes": [
+        "Fonte indica conservazione in frigorifero circa un mese in barattolo ermetico, non a temperatura ambiente. Un paio di cucchiaini di curcuma o zafferano ed erbe q.b. Quantità singoli scarti non dichiarate."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "3 h (testata); essiccazione circa 2,5 h",
+        "prep": "5 min",
+        "rest": "Raffreddamento"
+      },
+      "originalTitle": "Granular broth",
+      "originalYield": "Resa non dichiarata",
+      "pdfPage": 108,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "755f2e2b4045388f77377e56998e93472c9d4c70ba4bf2fc1ec536ea90ada440",
+        "previousAppSha256": "755f2e2b4045388f77377e56998e93472c9d4c70ba4bf2fc1ec536ea90ada440",
+        "reviewedDigest": "59ffc99e3c9ff0b44fc28682299afa62d28114c267f5f60c9f2491d57a0dd8e7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento",
+      "reviewedRecordSha256": "59ffc99e3c9ff0b44fc28682299afa62d28114c267f5f60c9f2491d57a0dd8e7",
+      "serves": "Resa non dichiarata",
+      "source": "https://www.giallozafferano.com/recipes/granular-broth.html",
+      "steps": [
+        "Selezionare parti vegetali pulite e commestibili, 760 g complessivi, escludere parti alterate o non commestibili; frullare con sale a purea.",
+        "Passare in colino sopra ciotola premendo per eliminare acqua eccedente.",
+        "Stendere uniformemente su teglia con carta forno, asciugare in statico preriscaldato 120 °C circa 2,5 h fino a vegetali ben secchi.",
+        "Raffreddare, frullare nel mixer pulito fino a polvere e trasferire in contenitore ermetico."
+      ],
+      "temperature": "120 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "25 min statico; 15 min ventilato",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03343",
+      "ingredients": [
+        "Impasto: Manitoba 300 g",
+        "Zucchero 80 g",
+        "Lievito secco 2 g",
+        "Latte intero 125 g",
+        "Uovo medio 1",
+        "Burro morbido 50 g",
+        "Vaniglia mezzo baccello",
+        "Blocco: burro 100 g",
+        "Cacao amaro 15 g",
+        "Farina 00 10 g",
+        "Vaniglia mezzo baccello",
+        "Burro q.b. per ciotola/stampi"
+      ],
+      "name": "Brioches variegate al cacao",
+      "notes": [
+        "Campana o latta 2–3 giorni. Blocco aromatizzabile con cannella o scorza arancia. Origine francese riferita alla tecnica, non alla formula esatta."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min statico; 15 min ventilato",
+        "prep": "30 min",
+        "rest": "2 h; blocco ≥20 min; impasto ≥30 min; 10 min"
+      },
+      "originalTitle": "Variegated Cocoa Brioches",
+      "originalYield": "8 brioche",
+      "pdfPage": 103,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f3582158b1f071e4c3f67a5ffd443bd08c171c3bef6c1edafa95fcf0a9b58810",
+        "previousAppSha256": "f3582158b1f071e4c3f67a5ffd443bd08c171c3bef6c1edafa95fcf0a9b58810",
+        "reviewedDigest": "65cd70787a80ac684e080fb4e12946a1f23587641381eb25d0b12ad6ee1bcf0b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 h; blocco ≥20 min; impasto ≥30 min; 10 min",
+      "reviewedRecordSha256": "65cd70787a80ac684e080fb4e12946a1f23587641381eb25d0b12ad6ee1bcf0b",
+      "serves": "8 brioche",
+      "source": "https://www.giallozafferano.com/recipes/variegated-cocoa-brioches.html",
+      "steps": [
+        "Con gancio unire farina setacciata, lievito e latte, poi zucchero e uovo; a liscio aggiungere metà vaniglia e burro a pezzi aspettando assorbimento. Formare palla in ciotola imburrata, coprire e lievitare 2 h.",
+        "Con foglia lavorare burro, farina, cacao e vaniglia restante a crema compatta; fra carta forno stendere 4 × 6 pollici spessore 1/5 pollice, frigo almeno 20 min.",
+        "Stendere impasto 9 × 6 pollici, centrare blocco con lato corto parallelo al lungo dell'impasto, portare lati corti al centro per racchiuderlo.",
+        "Stendere 10 × 12 pollici, ripiegare lati corti al centro poi a metà nello stesso verso; appiattire, avvolgere, frigo almeno 30 min.",
+        "Stendere perpendicolarmente a piega precedente 20 × 8 pollici, rifilare e dividere due strisce 10 × 8; arrotolare dal lato corto, tagliare rotoli circa 2 pollici, otto pezzi.",
+        "Disporre in stampi di alluminio imburrati, riposare 10 min a temperatura ambiente, statico preriscaldato 350 °F 25 min oppure ventilato 320 °F 15 min."
+      ],
+      "temperature": "350 °F statico / 320 °F ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "40 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03385",
+      "ingredients": [
+        "Farina 00 375 g",
+        "Zucchero 310 g",
+        "Burro morbido 200 g",
+        "Latte intero 190 g a temperatura ambiente",
+        "Uova 5 a temperatura ambiente",
+        "Lievito per dolci 16 g",
+        "Scorza 1 limone",
+        "Sale 1 pizzico",
+        "Zucchero a velo q.b.",
+        "Burro q.b. per stampo e incisione facoltativa"
+      ],
+      "name": "Ciambellone",
+      "notes": [
+        "Un paio di giorni a temperatura ambiente, congelabile intero o a fette; vaniglia, arancia o cannella alternative, utile stampo a cerniera. Distinto da Ciambella."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "10 min",
+        "rest": "Raffreddamento"
+      },
+      "originalTitle": "Ciambellone",
+      "originalYield": "10 persone; stampo 24 cm",
+      "pdfPage": 106,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "06fb235c138d2c67eb6923f9c6c713e0f52e6a491f324a75a870ab0862e2333e",
+        "previousAppSha256": "06fb235c138d2c67eb6923f9c6c713e0f52e6a491f324a75a870ab0862e2333e",
+        "reviewedDigest": "517ca4fac327d9b46a321a9e8b50a846279acea5840555933bf10c3bb1bee599"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento",
+      "reviewedRecordSha256": "517ca4fac327d9b46a321a9e8b50a846279acea5840555933bf10c3bb1bee599",
+      "serves": "10 persone; stampo 24 cm",
+      "source": "https://ricette.giallozafferano.it/Ciambellone.html",
+      "steps": [
+        "Temperare ingredienti freddi, setacciare farina e lievito. Montare burro plastico a pezzi e scorza, aggiungere zucchero e lavorare 1–2 min a massa morbida.",
+        "Unire sale e uova una per volta fino ad assorbimento; a bassa velocità alternare polveri e latte a impasto denso uniforme.",
+        "Versare in stampo 24 cm imburrato, livellare; facoltativamente imprimere anello in superficie con tarocco intinto in burro fuso.",
+        "Cuocere statico preriscaldato 180 °C ripiano centrale 40 min, prova stecchino; raffreddare completamente, sformare e spolverare."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "20 min; trecce 25–30 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03339",
+      "ingredients": [
+        "Farina tipo 0 W300 475 g",
+        "Zucchero 100 g",
+        "Lievito fresco 10 g",
+        "Scorza 1 limone",
+        "Vaniglia 1 baccello",
+        "Acqua 160 g",
+        "Tuorli 105 g (circa 7)",
+        "Sale 5 g",
+        "Burro morbido 90 g",
+        "Spennellatura: tuorlo 1",
+        "Panna fresca 2 cucchiai",
+        "Granella di zucchero q.b. per trecce (metodo)"
+      ],
+      "name": "Brioche",
+      "notes": [
+        "Testata e tempi espliciti non coincidono: mantenuti entrambi. Sacchetto un giorno o congelare cotte fredde; 1 cucchiaino lievito secco alternativo a 10 g fresco; farcire dopo cottura con creme/confetture."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min; trecce 25–30 min",
+        "prep": "40 min",
+        "rest": "Nota fonte circa 4,5 h; metodo 1,5 h + 1 h"
+      },
+      "originalTitle": "Brioches",
+      "originalYield": "18 brioche tonde",
+      "pdfPage": 100,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "09445aff537fb587b9c7d107e424c26589d3ab5750f1f04a4cdf455bdb8d28a0",
+        "previousAppSha256": "09445aff537fb587b9c7d107e424c26589d3ab5750f1f04a4cdf455bdb8d28a0",
+        "reviewedDigest": "c941c8ef5bfcb67c7fc21e01b35e739121e014d9ab714a7b3e3165c7759f436c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Nota fonte circa 4,5 h; metodo 1,5 h + 1 h",
+      "reviewedRecordSha256": "c941c8ef5bfcb67c7fc21e01b35e739121e014d9ab714a7b3e3165c7759f436c",
+      "serves": "18 brioche tonde",
+      "source": "https://www.giallozafferano.com/recipes/Brioches.html",
+      "steps": [
+        "Con gancio mescolare farina, zucchero, lievito sbriciolato, vaniglia e scorza, versare acqua lentamente a media velocità, poi sale e tuorli uno alla volta.",
+        "Quando avvolge gancio incorporare burro plastico a pezzi attendendo assorbimento, formare palla e lievitare coperta 1,5 h a 26–28 °C fino a raddoppio.",
+        "Dividere 18 porzioni da circa 50 g, ripiegare e arrotondare, lievitare su carta forno 1 h; spennellare con tuorlo e panna, statico 180 °C circa 20 min.",
+        "Trecce: porzioni 90–100 g, filoncino con tre lembi uniti a un'estremità, intrecciare. Col tuppo: porzioni 40–50 g, con indice formare due sfere di grandezza diversa, mettere in stampo scanalato.",
+        "Lievitare entrambe 1 h, spennellare, granella sulle trecce; cuocere trecce 25–30 min e col tuppo 20 min, raffreddare."
+      ],
+      "temperature": "26–28 °C lievitazione; 180 °C statico"
+    },
+    {
+      "author": "Alfonso Pepe",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "30 min (testata); forno 18–20 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02871",
+      "ingredients": [
+        "Frolla: burro 125 g",
+        "Frolla: zucchero 125 g",
+        "Frolla: farina 00 250 g",
+        "Frolla: vaniglia mezzo baccello",
+        "Frolla: scorza mezzo limone verde",
+        "Frolla: scorza mezza arancia",
+        "Frolla: uova 50 g",
+        "Frolla: ammoniaca per dolci 2 g",
+        "Frolla: miele 10 g",
+        "Ripieno: acqua 250 g",
+        "Semolino 75 g",
+        "Ricotta di bufala 250 g",
+        "Zucchero 125 g",
+        "Uova 60 g",
+        "Arancia candita 50 g",
+        "Scorza mezza arancia",
+        "Scorza mezzo limone verde",
+        "Cannella 1 g",
+        "Vaniglia mezzo baccello",
+        "Sale q.b. per acqua del semolino (metodo)",
+        "Uovo 1 per spennellare"
+      ],
+      "name": "Sfogliatelle frolle",
+      "notes": [
+        "Frigo un giorno; congelabili crude con ingredienti freschi, cottura da congelate più lunga. Possibile crema pasticcera. Voce tedesca Hirschhornsalz indica ammoniaca per dolci; mantenuta voce specifica malgrado termine generico nel metodo."
+      ],
+      "origin": "Italia — Napoli",
+      "originalTimes": {
+        "cook": "30 min (testata); forno 18–20 min",
+        "prep": "45 min",
+        "rest": "Frolla ≥4 h; sfogliatelle una notte"
+      },
+      "originalTitle": "Sfogliatelle frolle",
+      "originalYield": "15 pezzi",
+      "pdfPage": 644,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8bb718c9947681d3dad666c603041f28dc26e303bf3e6038670223ecb8b2d99f",
+        "previousAppSha256": "8bb718c9947681d3dad666c603041f28dc26e303bf3e6038670223ecb8b2d99f",
+        "reviewedDigest": "8608e631ed3d31617f16d392174a54aa2fee6e77583eae50b8bf1d487b139030"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Frolla ≥4 h; sfogliatelle una notte",
+      "reviewedRecordSha256": "8608e631ed3d31617f16d392174a54aa2fee6e77583eae50b8bf1d487b139030",
+      "serves": "15 pezzi",
+      "source": "https://www.giallozafferano.de/rezepte/sfogliatelle-frolle.html",
+      "steps": [
+        "Lavorare burro plastico e zucchero con foglia; aggiungere miele, scorze e vaniglia, incorporare gradualmente uovo sbattuto e ammoniaca, poi farina setacciata fino ad assorbimento.",
+        "Appiattire in vassoio, coprire e riposare almeno 4 h in frigo.",
+        "Versare semolino a pioggia nell'acqua bollente leggermente salata, mescolare 3–4 min fino a composto asciutto; stendere, coprire, raffreddare.",
+        "Ammorbidire semolino e canditi con foglia, incorporare ricotta in due aggiunte, zucchero, aromi e infine uovo; trasferire in sac à poche.",
+        "Formare 11 porzioni circa 50 g, stendere ovali, farcire, ripiegare, sigillare e rifilare con coppapasta 9 cm; altri quattro pezzi dagli scarti.",
+        "Sistemare su carta forno, segnare delicatamente base, coprire e refrigerare una notte.",
+        "Spennellare con uovo e cuocere statico preriscaldato 225 °C 18–20 min fino a doratura."
+      ],
+      "temperature": "225 °C statico"
+    },
+    {
+      "author": "Roberto Rinaldini",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "13 min (testata); 15–18 min (metodo)",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02781",
+      "ingredients": [
+        "Farina di mandorle fine 125 g",
+        "Zucchero a velo 125 g",
+        "Albumi 87,5 g a 20 °C (45 + 42,5 g)",
+        "Zucchero semolato 135 g",
+        "Acqua 32 g",
+        "Ganache: panna fresca 90 g",
+        "Ganache: cioccolato bianco 180 g",
+        "Ganache: burro morbido 12 g",
+        "Ganache: vaniglia 1 baccello"
+      ],
+      "name": "Macarons",
+      "notes": [
+        "Frigo fino a una settimana; se farina umida asciugare 1 h a 45–50 °C mescolando. Colorante idrosolubile negli albumi iniziali, se troppo umidi asciugare gusci 30 min. Possibili nocciole/pistacchi in luogo delle mandorle. Differenza testata/metodo mantenuta."
+      ],
+      "origin": "Francia",
+      "originalTimes": {
+        "cook": "13 min (testata); 15–18 min (metodo)",
+        "prep": "40 min",
+        "rest": "Albumi dal giorno prima; ganache 2 h; maturazione ≥6 h"
+      },
+      "originalTitle": "Macarons",
+      "originalYield": "40 macarons",
+      "pdfPage": 626,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f599fa3f66de77ab0df6d274ee132118d98374df5a53455faac3f48ce35bf34d",
+        "previousAppSha256": "f599fa3f66de77ab0df6d274ee132118d98374df5a53455faac3f48ce35bf34d",
+        "reviewedDigest": "01a130359dc37d5f113636143f7dbbf51c8dd60438395453f9de8f124e3dc734"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Albumi dal giorno prima; ganache 2 h; maturazione ≥6 h",
+      "reviewedRecordSha256": "01a130359dc37d5f113636143f7dbbf51c8dd60438395453f9de8f124e3dc734",
+      "serves": "40 macarons",
+      "source": "https://www.giallozafferano.es/recetas/macarons.html",
+      "steps": [
+        "Separare albumi il giorno prima, conservare in frigo coperti con pellicola forata, riportare a 20 °C.",
+        "Setacciare mandorle, mescolare con zucchero a velo e 45 g albumi a pasta uniforme.",
+        "Scaldare acqua e zucchero semolato; all'ebollizione montare 42,5 g albumi restanti. A 118 °C versare sciroppo a filo riducendo velocità, montare fino a 50 °C e meringa stabile lucida.",
+        "Incorporare un terzo di meringa, poi il resto in due volte dal basso verso l'alto; lavorare fino a composto lucido elastico fluido che resta sulla spatola.",
+        "Con bocchetta 12 mm formare dischi 2,5 cm; cuocere statico 150 °C 15–18 min, raffreddare.",
+        "Tritare cioccolato, bollire panna con semi di vaniglia, emulsionare sul cioccolato con mixer a immersione in tre aggiunte (un terzo, metà restante, resto); unire burro.",
+        "Stendere ganache in contenitore basso coperto a contatto, raffreddare 2 h a 4 °C; con bocchetta 10 mm farcire metà gusci (circa un terzo del peso), accoppiare e maturare almeno 6 h in frigo coperti."
+      ],
+      "temperature": "118 °C sciroppo; 50 °C meringa; 150 °C forno statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "5–6 min di addensamento",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03597",
+      "ingredients": [
+        "Latte intero 1 l",
+        "Burro 100 g",
+        "Farina 00 100 g",
+        "Sale fino 1 pizzico",
+        "Noce moscata q.b."
+      ],
+      "name": "besciamella",
+      "notes": [
+        "Origine contesa tra Francia e Italia. Frigo ermetico massimo 2–3 giorni, congelamento circa un mese. Regolare densità variando insieme burro e farina; filtrare grumi. Noce moscata facoltativa; latte senza lattosio o vegetale alternativo."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5–6 min di addensamento",
+        "prep": "10 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "Besciamella",
+      "originalYield": "circa 1 litro",
+      "pdfPage": 107,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "cca019e7076c3db00e8e7d9fd8108b3c505d6f28956196a9cfe520fe00d19cda",
+        "previousAppSha256": "cca019e7076c3db00e8e7d9fd8108b3c505d6f28956196a9cfe520fe00d19cda",
+        "reviewedDigest": "11eb36647d7b95900534f23864549f3feea3a18643f954a07999b4000c35b342"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "11eb36647d7b95900534f23864549f3feea3a18643f954a07999b4000c35b342",
+      "serves": "circa 1 litro",
+      "source": "https://ricette.giallozafferano.it/Besciamella.html",
+      "steps": [
+        "Scaldare latte con sale e noce moscata.",
+        "In altra pentola fondere burro a fuoco dolce, versare farina tutta insieme, mescolare energicamente con frusta fino a roux dorato.",
+        "Stemperare con poco latte caldo, mescolare e incorporare resto; cuocere a fuoco dolce mescolando 5–6 min per densità media.",
+        "Usare subito o trasferire in ciotola, intiepidire, coprire a contatto e raffreddare; prima dell'uso frustare, se troppo fredda scaldare al microonde con poco latte."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min (testata); circa 15 min (metodo)",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-02870",
+      "ingredients": [
+        "Pasta sfoglia rettangolare 230 g",
+        "Burro fuso 30 g",
+        "Zucchero a velo q.b.",
+        "Crema: latte intero 180 g",
+        "Crema: tuorli 2 medi",
+        "Crema: zucchero 75 g",
+        "Crema: farina 00 20 g",
+        "Crema: scorza mezzo limone"
+      ],
+      "name": "Sfogliatelle facili",
+      "notes": [
+        "Ispirazione napoletana, non attribuzione d'origine della formula semplificata. Frigo un giorno; congelabili cotte. Ripieni alternativi crema al cioccolato o caffè, confettura."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min (testata); circa 15 min (metodo)",
+        "prep": "50 min",
+        "rest": "Raffreddamento crema"
+      },
+      "originalTitle": "Sfogliatelle fáciles",
+      "originalYield": "6 pezzi",
+      "pdfPage": 644,
+      "photo": null,
+      "prep": "50 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4425cba81b1d6bb9054950824a82f67eeabefe152e28b86828ff7848887a800e",
+        "previousAppSha256": "4425cba81b1d6bb9054950824a82f67eeabefe152e28b86828ff7848887a800e",
+        "reviewedDigest": "3a99482a4ba149461bbcc7a4022f7f70832f497b9ace68cf7790a2cfa4e86311"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento crema",
+      "reviewedRecordSha256": "3a99482a4ba149461bbcc7a4022f7f70832f497b9ace68cf7790a2cfa4e86311",
+      "serves": "6 pezzi",
+      "source": "https://www.giallozafferano.es/recetas/sfogliatelle-faciles.html",
+      "steps": [
+        "Scaldare latte con scorza; mescolare tuorli e zucchero con spatola senza aria, unire farina setacciata.",
+        "Versare latte bollente gradualmente e cuocere moderatamente fino ad addensare; raffreddare in ciotola su ghiaccio con pellicola a contatto.",
+        "Dividere sfoglia in sei rettangoli 10 × 11,5 cm circa; su metà incidere strisce da 4 mm lasciando 1 cm di bordo.",
+        "Spennellare metà burro, ripiegare metà integra sull'incisa; mettere un cucchiaino crema, chiudere due angoli al centro a triangolo, sigillare lato lungo, capovolgere e rifilare.",
+        "Disporre con chiusura sotto su carta forno, spennellare burro rimasto e spolverare, cuocere statico 200 °C circa 15 min fino a doratura, raffreddare e spolverare ancora."
+      ],
+      "temperature": "200 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "50 min (testata); forno 25+5 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03242",
+      "ingredients": [
+        "Choux: uova 210 g (circa 4)",
+        "Choux: farina 00 150 g",
+        "Choux: burro 45 g",
+        "Choux: acqua 250 ml",
+        "Choux: sale 1 pizzico",
+        "Crema: latte intero 200 g",
+        "Crema: zucchero 70 g",
+        "Crema: amido di mais 20 g",
+        "Crema: panna fresca 50 g",
+        "Crema: tuorli 2",
+        "Crema: vaniglia mezzo baccello",
+        "Amarene sciroppate 4",
+        "Zucchero a velo q.b."
+      ],
+      "name": "Zeppole di San Giuseppe al forno",
+      "notes": [
+        "Gusci non farciti in latta una settimana; farciti in frigo massimo 2 giorni; non conservare pasta cruda. Crema al cioccolato alternativa. Fonte EN affianca a 70 g zucchero misura volumetrica discordante: mantenuti grammi."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "50 min (testata); forno 25+5 min",
+        "prep": "60 min",
+        "rest": "Raffreddamento"
+      },
+      "originalTitle": "Baked Zeppole di San Giuseppe",
+      "originalYield": "4 zeppole",
+      "pdfPage": 93,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "984a3a9ea463330b4163761bc9e2739ff87f4c2c3eb53274905bab4a10c496a8",
+        "previousAppSha256": "984a3a9ea463330b4163761bc9e2739ff87f4c2c3eb53274905bab4a10c496a8",
+        "reviewedDigest": "15c9e5815ddd69debfb472eb07ca5a68b585b5d2410ce4f9fe986929139bdda5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento",
+      "reviewedRecordSha256": "15c9e5815ddd69debfb472eb07ca5a68b585b5d2410ce4f9fe986929139bdda5",
+      "serves": "4 zeppole",
+      "source": "https://www.giallozafferano.com/recipes/Baked-Zeppole-di-San-Giuseppe.html",
+      "steps": [
+        "Bollire acqua e burro a cubetti a fuoco moderato; unire tutta farina, lavorare finché si stacca da pareti e compare patina bianca sul fondo.",
+        "Intiepidire in ciotola; incorporare gradualmente uova sbattute, sale dopo prima parte, pasta liscia densa.",
+        "Con bocchetta stellata mezzo pollice formare quattro anelli doppi circa 4 pollici su carta forno fissata con impasto agli angoli.",
+        "Cuocere ventilato preriscaldato 400 °F sul ripiano basso 25 min, altri 5 min con sportello socchiuso, raffreddare.",
+        "Scaldare latte, panna e vaniglia; mescolare tuorli, zucchero e amido, togliere baccello, versare liquidi gradualmente, rimettere a fuoco basso mescolando fino ad addensare.",
+        "Coprire a contatto, raffreddare; con bocchetta liscia farcire da due punti ciascuna, decorare centro con crema, amarena e zucchero a velo."
+      ],
+      "temperature": "400 °F ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "25 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03335",
+      "ingredients": [
+        "Impasto: farina 00 250 g",
+        "Manitoba 250 g",
+        "Uova 120 g (circa 2)",
+        "Zucchero 40 g",
+        "Acqua 140 g",
+        "Burro morbido 40 g",
+        "Lievito fresco 15 g",
+        "Sale 6 g",
+        "Spennellatura: tuorlo 1",
+        "Panna fresca 20 g",
+        "Confettura di fragole 300 g",
+        "Zucchero a velo q.b."
+      ],
+      "name": "Bomboloni al forno",
+      "notes": [
+        "Non rimpastare scarti: lievitare e cuocere. Burro plastico. Non farciti 4–5 giorni in sacchetto o pellicola; farciti frigo 2 giorni. Congelare non farciti cotti, scongelare e scaldare; non congelare crudi."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "60 min",
+        "rest": "3,5 h; tre riposi di 10 min; altri 10 min; 45 min"
+      },
+      "originalTitle": "Baked donuts",
+      "originalYield": "10 pezzi",
+      "pdfPage": 98,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d604bc835ceb26ddb224a982fe87cf78f43d2903a243c7f708d34c3e7b961d97",
+        "previousAppSha256": "d604bc835ceb26ddb224a982fe87cf78f43d2903a243c7f708d34c3e7b961d97",
+        "reviewedDigest": "77f62c6257855ed8d5992024a5875c8697f2fd3fc15c71422fbbc56864dd163b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "3,5 h; tre riposi di 10 min; altri 10 min; 45 min",
+      "reviewedRecordSha256": "77f62c6257855ed8d5992024a5875c8697f2fd3fc15c71422fbbc56864dd163b",
+      "serves": "10 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/baked-donuts.html",
+      "steps": [
+        "Con gancio mescolare farine, zucchero e lievito, versare acqua gradualmente, poi uova e sale, lavorare a media velocità 3–4 min.",
+        "Incorporare burro a pezzi aspettando assorbimento, lavorare altri 10 min fino a elasticità. Piegare, formare palla, far triplicare coperta circa 3,5 h a 78–82 °F.",
+        "Stendere rettangolo spesso 0,8 pollici circa, ripiegare lati, coprire 10 min, ripetere altre due volte.",
+        "Stendere a mezzo pollice, coprire altri 10 min, coppare dischi 3,5 pollici, su carta forno lievitare coperti 45 min.",
+        "Spennellare con tuorlo e panna, cuocere statico preriscaldato 347 °F 20–25 min.",
+        "Intiepidire, farcire confettura tramite sac à poche e spolverare."
+      ],
+      "temperature": "78–82 °F lievitazione; 347 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "30 min (testata); 25 min (metodo)",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03340",
+      "ingredients": [
+        "Preimpasto: farina 00 100 g",
+        "Manitoba 100 g",
+        "Lievito fresco 4 g",
+        "Latte intero 120 g a temperatura ambiente",
+        "Impasto: farina 00 100 g",
+        "Manitoba 200 g",
+        "Zucchero 80 g",
+        "Uova 165 g",
+        "Latte intero 100 g",
+        "Burro 60 g",
+        "Lievito fresco 4 g",
+        "Sale 2 g",
+        "Spennellatura: tuorlo 1",
+        "Latte 20 g"
+      ],
+      "name": "brioche col tuppo",
+      "notes": [
+        "Sacchetto un giorno o congelare cotte; scorza o estratto d'arancia facoltativi. Fonte riporta 8 porzioni ma forma 10 pezzi: mantenuto dato doppio."
+      ],
+      "origin": "Italia — Sicilia",
+      "originalTimes": {
+        "cook": "30 min (testata); 25 min (metodo)",
+        "prep": "60 min",
+        "rest": "12 h; pieghe/riposi 10 min; 2 h; 15 min; 30 min"
+      },
+      "originalTitle": "Sicilian buns",
+      "originalYield": "8 porzioni in testata; 10 brioche nel metodo",
+      "pdfPage": 101,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "77b9865b2a8899452f25daa564dec56508ff14095631271f33568c1162768c99",
+        "previousAppSha256": "77b9865b2a8899452f25daa564dec56508ff14095631271f33568c1162768c99",
+        "reviewedDigest": "d5a2f45d69a16068931b38b20dc1c8526e5f9e40d809e62eb3cc793ce3c5520e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "12 h; pieghe/riposi 10 min; 2 h; 15 min; 30 min",
+      "reviewedRecordSha256": "d5a2f45d69a16068931b38b20dc1c8526e5f9e40d809e62eb3cc793ce3c5520e",
+      "serves": "8 porzioni in testata; 10 brioche nel metodo",
+      "source": "https://www.giallozafferano.com/recipes/Sicilian-buns.html",
+      "steps": [
+        "Sciogliere 4 g lievito nei 120 g latte, impastare con farine del preimpasto fino a compatto, coprire e refrigerare 12 h circa fino a raddoppio.",
+        "Con gancio unire farine dell'impasto e preimpasto a pezzi, poi 4 g lievito sciolti nei 100 g latte, zucchero e uova una alla volta.",
+        "Unire sale e burro gradualmente, lavorare 15 min a liscio ed elastico; piegare, coprire 10 min, ripetere altre due volte, coprire e lievitare 2 h a temperatura ambiente.",
+        "Formare su piano infarinato 10 porzioni da 80 g e 10 da 15 g, arrotondare, distanziare grandi su due teglie, piccole su piano infarinato; attendere 15 min.",
+        "Premere con tre dita il centro delle grandi, inserire piccole; spennellare con tuorlo e latte, lievitare 30 min e cuocere statico preriscaldato 180 °C 25 min."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "Non applicabile",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03886",
+      "ingredients": [
+        "Acai in polvere 5 g",
+        "Yogurt greco 250 g",
+        "Latte di cocco 30 g",
+        "Miele 15 g",
+        "Cocco fresco 35 g",
+        "Banana baby 1",
+        "Corn flakes 30 g"
+      ],
+      "name": "Acai bowl",
+      "notes": [
+        "Frigo in contenitore chiuso massimo 2 giorni; non congelare. Alternative latte di soia/mandorla, altra frutta, muesli, frutta secca, semi, goji o verdure. Provenienza brasiliana del frutto non prova quella della ricetta."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "Non applicabile",
+        "prep": "10 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "Acai bowl",
+      "originalYield": "2 persone",
+      "pdfPage": 94,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4b4a856f49858e15068a634f97c1c56260ae4fedc418cabb63d1348c533d5f9f",
+        "previousAppSha256": "4b4a856f49858e15068a634f97c1c56260ae4fedc418cabb63d1348c533d5f9f",
+        "reviewedDigest": "bebbf3dc6f0938833e7c20e2ef962ccc450cfe4ae17bc7ac94d40fb9a1c65bdb"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "bebbf3dc6f0938833e7c20e2ef962ccc450cfe4ae17bc7ac94d40fb9a1c65bdb",
+      "serves": "2 persone",
+      "source": "https://www.giallozafferano.com/recipes/acai-bowl.html",
+      "steps": [
+        "Unire yogurt, latte di cocco e acai fino a colore uniforme; aggiungere miele e mescolare a crema omogenea densa ma non troppo compatta, se necessario regolare con poco latte.",
+        "Versare in ciotole; ridurre cocco in scaglie, banana a rondelle circa mezzo centimetro.",
+        "Distribuire corn flakes, poi banana e cocco. Servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "45 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03348",
+      "ingredients": [
+        "Uova 3",
+        "Burro 180 g",
+        "Farina 00 300 g",
+        "Zucchero 180 g",
+        "Latte intero 150 g",
+        "Sale 1 pizzico",
+        "Lievito per dolci 10 g",
+        "Scorza 2 limoni",
+        "Vaniglia 1 baccello",
+        "Burro e farina q.b. per stampo"
+      ],
+      "name": "Ciambella",
+      "notes": [
+        "Campana 2–3 giorni; congelare cotta e fredda. Scorza arancia o gocce cioccolato. Distinta da Ciambellone per formula e procedimento."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "15 min",
+        "rest": "Raffreddamento"
+      },
+      "originalTitle": "Donut",
+      "originalYield": "8 persone",
+      "pdfPage": 105,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "949c7c36fd3ac64f1969f2c76dd2f469c049f7cd7d2711547258102bbe20ea70",
+        "previousAppSha256": "949c7c36fd3ac64f1969f2c76dd2f469c049f7cd7d2711547258102bbe20ea70",
+        "reviewedDigest": "67e279b36eda1c169d1e6267547a3ccbad20cac58a6de1d8530d4161af2ac51e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento",
+      "reviewedRecordSha256": "67e279b36eda1c169d1e6267547a3ccbad20cac58a6de1d8530d4161af2ac51e",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.com/recipes/donut.html",
+      "steps": [
+        "Ingredienti a temperatura ambiente, montare burro e zucchero almeno 5 min fino a soffice.",
+        "Incorporare uova una alla volta, sale, vaniglia e scorza.",
+        "Alternare latte e farina setacciata con lievito a impasto liscio.",
+        "Versare in stampo ciambella da 9 pollici imburrato e infarinato; cuocere sul ripiano basso in statico preriscaldato 350 °F circa 45 min, verificare cottura.",
+        "Intiepidire e sformare."
+      ],
+      "temperature": "350 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "15 min",
+      "description": "Revisione della scheda storica: ingredienti e procedimento verificati sulla fonte originale.",
+      "id": "GZ-03611",
+      "ingredients": [
+        "Metodo a secco: zucchero 350 g",
+        "Metodo con acqua: zucchero 350 g",
+        "Metodo con acqua: acqua 350 g"
+      ],
+      "name": "Caramello",
+      "notes": [
+        "Conservare indurito al riparo dall'umidità; rifondere a fuoco molto basso. Residui: bollire acqua nel tegame. Fonte rimanda a salsa distinta per caramello che non indurisce (rapporto 2:1), non sostituisce dosi base. Rischio ustioni."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "5 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "Caramel",
+      "originalYield": "Resa non dichiarata",
+      "pdfPage": 109,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b726748e40103dc681d757bf403a6ef0e5e7082b30e95ad7248a60ed2df43dde",
+        "previousAppSha256": "b726748e40103dc681d757bf403a6ef0e5e7082b30e95ad7248a60ed2df43dde",
+        "reviewedDigest": "1e5f8c85322a0a0be4ec090855787da2c8edcf01a12cb0d1b0febf08c1b04ae9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "1e5f8c85322a0a0be4ec090855787da2c8edcf01a12cb0d1b0febf08c1b04ae9",
+      "serves": "Resa non dichiarata",
+      "source": "https://www.giallozafferano.com/recipes/Caramel.html",
+      "steps": [
+        "A secco: in casseruola d'acciaio a fondo spesso mettere 1–2 cucchiai di zucchero dal totale, scaldare molto dolcemente fino a fusione; aggiungere altrettanto zucchero alla volta dopo caramellizzazione senza mescolare.",
+        "Misurare 320 °F per chiaro, 356 °F per scuro, non superare secondo valore.",
+        "Con acqua: mettere zucchero e acqua in casseruola a doppio fondo, scaldare dolcemente a scioglimento, piccole bolle e colorazione, stessi limiti termici.",
+        "Usare subito per stampi o decorazioni su silicone/carta forno sopra superficie resistente al calore, non toccare né spalmare caramello caldo; lasciare indurire prima di staccare."
+      ],
+      "temperature": "320–356 °F"
     }
   ]
 }
