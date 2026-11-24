@@ -15542,6 +15542,893 @@
         "Quando è cremoso eliminare scorza e bacca, distribuire nelle coppette e spolverizzare con cacao o cannella. Servire caldo o freddo."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "50 min",
+      "description": "Crescia al formaggio: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02338",
+      "ingredients": [
+        "Lievitino — Farina 0 100 g",
+        "Lievitino — Latte 100 g",
+        "Lievitino — Lievito di birra fresco 10 g",
+        "Impasto — Farina 0 400 g",
+        "Impasto — Uova 275 g (circa 5)",
+        "Impasto — Pecorino romano stagionato grattugiato 150 g",
+        "Impasto — Parmigiano grattugiato 150 g",
+        "Impasto — Strutto 130 g",
+        "Impasto — Pepe 2 cucchiaini",
+        "Impasto — Sale q.b.",
+        "Stampo — Olio EVO q.b.",
+        "Stampo — Farina 00 q.b."
+      ],
+      "name": "Crescia al formaggio",
+      "notes": [
+        "Specialità pasquale di Marche e Umbria.",
+        "Consumare fresca; avvolgere ermeticamente, in frigorifero se non consumata entro la giornata. Ripassare a 320 °F per 10 minuti; se compare condensa, scaldare qualche minuto a 338–356 °F.",
+        "Formaggi anche a pezzi; regolare pepe e proporzioni dei formaggi mantenendo 300 g complessivi. La fonte propone olio o burro al posto dello strutto con incremento del 20% del peso. Gli avanzi possono arricchire insalate.",
+        "Autore individuale non dichiarato nella fonte consultata."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "50 min",
+        "prep": "20 min",
+        "rest": "circa 4 ore"
+      },
+      "originalTitle": "Cheese crescia",
+      "originalYield": "12 porzioni",
+      "pdfPage": 158,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "25393139e1b88c7818ffb94f5511f2916324b465916ccaf9790e64b6bd25066a",
+        "previousAppSha256": "25393139e1b88c7818ffb94f5511f2916324b465916ccaf9790e64b6bd25066a",
+        "reviewedDigest": "06855a1e4f14d9a8ef0cd8c856f477a44cd729eea2567ed4ebc5958fa02f82c2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 4 ore",
+      "reviewedRecordSha256": "06855a1e4f14d9a8ef0cd8c856f477a44cd729eea2567ed4ebc5958fa02f82c2",
+      "serves": "12 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/cheese-crescia.html",
+      "steps": [
+        "Sciogliere il lievito nel latte tiepido, non oltre 86 °F; incorporare 100 g di farina, lavorare brevemente e far lievitare coperto al caldo circa due ore fino al raddoppio. Ammorbidire lo strutto a temperatura ambiente nell'ultima mezz'ora.",
+        "Mescolare 400 g di farina, formaggi grattugiati e pepe. Disporre il lievitino al centro, lo strutto a pezzetti attorno e le uova sbattute al centro. Incorporare prima con forchetta e poi a mano, lavorando circa 10 minuti. Aggiungere il sale verso la fine: l'impasto resta appiccicoso.",
+        "Allargare a quadrato, ripiegare i lati verso il centro, capovolgere con chiusura sotto e arrotondare. Oliare e infarinare uno stampo con base 6,3 pollici, apertura 7,7 e altezza 4,7; inserire l'impasto e coprire. Far lievitare circa due ore a 78 °F senza correnti, anche in forno spento con luce, fino quasi al bordo (allungare se necessario).",
+        "Cuocere in statico sul ripiano basso a 320 °F per 40 minuti, poi 338 °F per 10 minuti, scegliendo ripiano in base alla doratura e senza avvicinare alla resistenza. Controllare con stecchino; intiepidire, sformare e raffreddare."
+      ],
+      "temperature": "320 °F poi 338 °F statico"
+    },
+    {
+      "author": "Monica Pannacci",
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "25 min",
+      "description": "Focaccia allo yogurt: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02346",
+      "ingredients": [
+        "Farina 0 400 g",
+        "Acqua 220 g",
+        "Miele 1 cucchiaino",
+        "Lievito fresco 4 g",
+        "Yogurt naturale 125 g",
+        "Sale 8 g",
+        "Olio EVO 40 g",
+        "Salamoia — Acqua 10 ml",
+        "Salamoia — Olio EVO 10 ml",
+        "Salamoia — Sale 1 cucchiaino",
+        "Rosmarino 1 rametto"
+      ],
+      "name": "Focaccia allo yogurt",
+      "notes": [
+        "Conservare in sacchetto per pane 2–3 giorni o congelare in sacchetti.",
+        "Possibile impasto a mano lavorando per alcuni minuti.",
+        "Paese specifico non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "35 min",
+        "rest": "3 ore + 1 ora + 30 min"
+      },
+      "originalTitle": "Yogurt focaccia",
+      "originalYield": "4 porzioni",
+      "pdfPage": 162,
+      "photo": null,
+      "prep": "35 min",
+      "publicationUpdate": {
+        "baseAppSha256": "5e7c678ae33b3bcda3a78f6a3c446e6d8090b50dc776c4ac11028d53ef0aa8ed",
+        "previousAppSha256": "5e7c678ae33b3bcda3a78f6a3c446e6d8090b50dc776c4ac11028d53ef0aa8ed",
+        "reviewedDigest": "36a1f8de6a1c8ed93e855c4b018e393654b58a093535dc624c6844748b2857bd"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "3 ore + 1 ora + 30 min",
+      "reviewedRecordSha256": "36a1f8de6a1c8ed93e855c4b018e393654b58a093535dc624c6844748b2857bd",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/yogurt-focaccia.html",
+      "steps": [
+        "Sciogliere lievito e miele nell'acqua. Miscelare farina e sale con foglia pochi secondi, poi incorporare l'acqua con lievito a velocità bassa. Aggiungere yogurt, attendere assorbimento, quindi olio e aumentare la velocità sino a impasto lavorato.",
+        "Coprire con pellicola e telo; lievitare in forno spento con luce circa tre ore fino al triplo. Sul piano infarinato formare delicatamente una palla, coprire in ciotola e lievitare nello stesso ambiente un'ora sino al raddoppio.",
+        "Stendere rettangolare su teglia foderata. Sciogliere il sale della salamoia nell'acqua e unire olio; spennellare, distribuire rosmarino, coprire con telo per 30 minuti.",
+        "Cuocere sul ripiano medio in statico preriscaldato a 392 °F circa 25 minuti fino a doratura."
+      ],
+      "temperature": "392 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "30 min",
+      "description": "Baguette con lievito madre: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-03594",
+      "ingredients": [
+        "Biga — Farina 0 160 g",
+        "Biga — Acqua 80 g",
+        "Biga — Lievito fresco 5 g",
+        "Impasto — Farina 0 340 g",
+        "Impasto — Farina 00 300 g",
+        "Impasto — Acqua 400 g",
+        "Impasto — Lievito madre 50 g",
+        "Impasto — Lievito fresco 2 g",
+        "Impasto — Sale 16 g"
+      ],
+      "name": "Baguette con lievito madre",
+      "notes": [
+        "Consumare il giorno seguente conservando prima in carta e poi in plastica, oppure congelare.",
+        "Semi di sesamo o papavero su superficie spennellata d'olio; durata lievitazioni dipende dalla forza del lievito madre.",
+        "Autore individuale non dichiarato nella fonte consultata."
+      ],
+      "origin": "Francia",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "60 min",
+        "rest": "12 ore biga + circa 4 ore impasto"
+      },
+      "originalTitle": "Baguette with sourdough",
+      "originalYield": "6 baguette",
+      "pdfPage": 149,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f4e0db60c7065d56fc777b2485f5e56a36990c05e02382aae230e81562f5212e",
+        "previousAppSha256": "f4e0db60c7065d56fc777b2485f5e56a36990c05e02382aae230e81562f5212e",
+        "reviewedDigest": "67020b121641dc3b8db7bfd506bf96020559d284e50d87c9c89d819681ff3fc6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "12 ore biga + circa 4 ore impasto",
+      "reviewedRecordSha256": "67020b121641dc3b8db7bfd506bf96020559d284e50d87c9c89d819681ff3fc6",
+      "serves": "6 baguette",
+      "source": "https://www.giallozafferano.com/recipes/baguette-with-sourdough.html",
+      "steps": [
+        "Per la biga sciogliere 5 g di lievito nell'acqua, aggiungere gradualmente farina e impastare liscio; lasciare in recipiente alto oliato e coperto 12 ore, fino al raddoppio e a bolle ampie.",
+        "Dividere i 400 g d'acqua tiepida in due parti: in una sciogliere il sale, nell'altra il lievito fresco. Riunire le farine, aggiungere biga e lievito madre; impastare con gancio o a mano versando gradualmente prima acqua con lievito poi acqua salata sino a massa liscia e morbida. Coprire e lievitare circa due ore in forno spento con luce fino al raddoppio.",
+        "Dividere in sei porzioni da circa 200 g; arrotolare dal lato corto premendo, disporre con chiusura sotto su piano infarinato e riposare 45–60 minuti. Arrotolare dal lato lungo e assottigliare le estremità sino a 35 cm; separare con pieghe di un telo infarinato e riposare un'ora.",
+        "A metà dell'ultimo riposo scaldare il forno a 250 °C con teglia di acqua bollente in basso e teglia di cottura calda. Incidere, spruzzare acqua, trasferire delicatamente e ridurre a 240 °C; cuocere 30 minuti. Quando dorano, aprire un paio di volte per far uscire il vapore; lasciare 10 minuti a forno spento e poi su griglia."
+      ],
+      "temperature": "250 °C preriscaldamento; 240 °C cottura"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "20 min",
+      "description": "Bretzel: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02320",
+      "ingredients": [
+        "Farina 00 340 g",
+        "Acqua a temperatura ambiente 185 g",
+        "Sale fino 5 g",
+        "Lievito di birra secco 2 g",
+        "Burro a temperatura ambiente 15 g",
+        "Fiocchi di sale q.b.",
+        "Bagno — Bicarbonato 35 g",
+        "Bagno — Acqua 2 l"
+      ],
+      "name": "Bretzel",
+      "notes": [
+        "Conservare due giorni a temperatura ambiente o congelare dopo cottura.",
+        "La fonte propone la variante morbida salata da farcire; possibile aroma di anice o cumino. Origine alsaziana documentata nella presentazione, diffusione in area germanofona e Alto Adige; racconti sull'invenzione indicati come leggende.",
+        "Autore individuale non dichiarato nella fonte consultata."
+      ],
+      "origin": "Francia",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "40 min",
+        "rest": "30 min + 1 ora frigorifero"
+      },
+      "originalTitle": "Bretzel",
+      "originalYield": "5 bretzel",
+      "pdfPage": 150,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c68303cae8c95d2b3bc5e1ac386f4b134fb758ba83eb2ff54f14ba219db43ab4",
+        "previousAppSha256": "c68303cae8c95d2b3bc5e1ac386f4b134fb758ba83eb2ff54f14ba219db43ab4",
+        "reviewedDigest": "632cb0652c3901461f0c327d67770cbc2ad75b1fa610f8b62a888e6fbc254a69"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min + 1 ora frigorifero",
+      "reviewedRecordSha256": "632cb0652c3901461f0c327d67770cbc2ad75b1fa610f8b62a888e6fbc254a69",
+      "serves": "5 bretzel",
+      "source": "https://www.giallozafferano.es/recetas/bretzel.html",
+      "steps": [
+        "Setacciare farina in planetaria con gancio, aggiungere lievito e burro. A bassa velocità versare gradualmente 185 g d'acqua; continuare pochi minuti fino a impasto compatto. Incorporare il sale e lavorare a media velocità sino a struttura liscia e legata.",
+        "Sul piano formare cilindro e ricavare cinque porzioni da circa 100 g. Allungare ciascuna a cordone di 50 cm con estremità sottili; piegare le punte, incrociarle, riportarle verso l'interno e pizzicarle sul cordone formando il nodo.",
+        "Su vassoio ben infarinato riposare 30 minuti, quindi in frigorifero un'ora. Far bollire i 2 l d'acqua e aggiungere bicarbonato. Immergere un pezzo per volta con schiumarola 30–40 secondi, finché lucido; scolare e porre su teglia foderata.",
+        "Incidere longitudinalmente il tratto più spesso, cospargere sale in fiocchi e cuocere in statico preriscaldato a 220 °C 20 minuti sino a doratura."
+      ],
+      "temperature": "220 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "15 min",
+      "description": "Crackers: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02336",
+      "ingredients": [
+        "Farina 00 500 g",
+        "Olio EVO 120 g",
+        "Lievito di birra secco 4 g",
+        "Sale fino 10 g",
+        "Acqua 180 ml",
+        "Spennellatura — Olio EVO 3 cucchiai",
+        "Spennellatura — Acqua 2 cucchiai",
+        "Spennellatura — Sale q.b."
+      ],
+      "name": "Crackers",
+      "notes": [
+        "Conservare in latta circa una settimana.",
+        "Si possono usare erbe, pepe o spezie nell'impasto prima della lievitazione o sulla superficie dopo il taglio.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "30 min",
+        "rest": "circa 2 ore, fino al raddoppio"
+      },
+      "originalTitle": "Cracker",
+      "originalYield": "circa 60 pezzi",
+      "pdfPage": 157,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f03c296cd5ada78a671944b1276cfde42babbc5cf4545beeb0e220b59c10c412",
+        "previousAppSha256": "f03c296cd5ada78a671944b1276cfde42babbc5cf4545beeb0e220b59c10c412",
+        "reviewedDigest": "e7185e482315a18c167616e9b00d4c8b180cb87d1745f8322a1497eb32a7fdb5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 2 ore, fino al raddoppio",
+      "reviewedRecordSha256": "e7185e482315a18c167616e9b00d4c8b180cb87d1745f8322a1497eb32a7fdb5",
+      "serves": "circa 60 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/cracker.html",
+      "steps": [
+        "Setacciare la farina; sciogliere il lievito in una parte dell'acqua e il sale nella restante. Aggiungere alla farina l'olio e le miscele d'acqua, gradualmente, impastando.",
+        "Lavorare fino a massa liscia, formare una palla e coprire. Lasciare crescere circa due ore, fino al raddoppio.",
+        "Passare l'impasto nella sfogliatrice sino a 1/16 di pollice. Formare strisce larghe circa 2⅓ pollici e rettangoli lunghi circa 4¾ pollici. Segnare il centro con la forchetta e praticare cinque forellini su ogni metà con uno stecchino.",
+        "Sistemare su carta forno, spennellare con emulsione di acqua e olio; salare a piacere. Cuocere in forno statico preriscaldato a 392 °F circa 12 minuti, sino a bordi appena dorati. Togliere subito dalla teglia calda e raffreddare."
+      ],
+      "temperature": "392 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "10 min",
+      "description": "Cracker alla barbabietola: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02333",
+      "ingredients": [
+        "Cracker — Farina di riso 100 g",
+        "Cracker — Fiocchi d'avena 40 g",
+        "Cracker — Barbabietola precotta 80 g",
+        "Cracker — Olio EVO 30 g",
+        "Cracker — Sale fino q.b.",
+        "Cracker — Semi misti 60 g",
+        "Crema — Formaggio fresco spalmabile 150 g",
+        "Crema — Erba cipollina q.b.",
+        "Crema — Olio EVO q.b.",
+        "Crema — Sale q.b.",
+        "Crema — Pepe q.b."
+      ],
+      "name": "Cracker alla barbabietola",
+      "notes": [
+        "I cracker senza crema si conservano in scatola di latta 4–5 giorni; non congelare.",
+        "Si può sostituire la purea con altre verdure. La ripetizione della frase di cottura nella traduzione non indica una seconda cottura distinta.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Beetroot crackers",
+      "originalYield": "15–20 pezzi (scheda: 20)",
+      "pdfPage": 155,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d57c423852317d067ef50e0188f250169eb4ab3a607b6b306270b3ed091fefd2",
+        "previousAppSha256": "d57c423852317d067ef50e0188f250169eb4ab3a607b6b306270b3ed091fefd2",
+        "reviewedDigest": "5a0bad88aa84d12b825710d2b9532d5f9a8a167c3ad821ad6f0e013e06d888e0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "5a0bad88aa84d12b825710d2b9532d5f9a8a167c3ad821ad6f0e013e06d888e0",
+      "serves": "15–20 pezzi (scheda: 20)",
+      "source": "https://www.giallozafferano.com/recipes/beetroot-crackers.html",
+      "steps": [
+        "Pelare la barbabietola e frullarla con i 30 g d'olio. Riunire farina, avena, semi e sale; aggiungere la purea e impastare ottenendo un composto compatto e friabile.",
+        "Stendere tra due fogli di carta forno a circa 1/16 di pollice, togliere il superiore e ritagliare i cracker. Cuocere in statico preriscaldato a 392 °F per 10 minuti, quindi raffreddare.",
+        "Lavorare il formaggio con erba cipollina, olio, sale e pepe sino a crema liscia; servire insieme ai cracker."
+      ],
+      "temperature": "392 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "30 min",
+      "description": "Bagels: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02317",
+      "ingredients": [
+        "Farina 0 350 g",
+        "Acqua a temperatura ambiente 205 g",
+        "Lievito di birra secco 4 g",
+        "Malto 10 g",
+        "Sale fino 6 g",
+        "Semi di sesamo q.b."
+      ],
+      "name": "Bagels",
+      "notes": [
+        "Conservare 1–2 giorni in sacchetto di carta oppure congelare cotti e completamente freddi; ripassare in forno.",
+        "Lievitazione prolungata: 2 g di lievito secco, un'ora a 28–30 °C poi notte in frigorifero, acclimatare almeno due ore alla stessa temperatura prima della formatura.",
+        "La fonte documenta origine ebraica e diffusione a New York; le narrazioni sull'invenzione sono leggende, non un Paese certo.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "circa 4 ore + 10 min + 40–50 min"
+      },
+      "originalTitle": "Bagel",
+      "originalYield": "6 pezzi da circa 90 g",
+      "pdfPage": 148,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "21c38225934f2cbb54fe53f1f722dfa8faaeba9793432a642f9079f4f1ab49c1",
+        "previousAppSha256": "21c38225934f2cbb54fe53f1f722dfa8faaeba9793432a642f9079f4f1ab49c1",
+        "reviewedDigest": "327c752ede38f6668455be5a3e50f2dc785c9f4dddcca7e152f3b60ca726d9ed"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 4 ore + 10 min + 40–50 min",
+      "reviewedRecordSha256": "327c752ede38f6668455be5a3e50f2dc785c9f4dddcca7e152f3b60ca726d9ed",
+      "serves": "6 pezzi da circa 90 g",
+      "source": "https://ricette.giallozafferano.it/Bagels.html",
+      "steps": [
+        "Setacciare la farina, mescolare lievito e malto. Versare l'acqua a filo impastando; quando il composto è omogeneo incorporare il sale. Lavorare sul piano 5–6 minuti fino a impasto liscio.",
+        "Coprire e lasciare a 28–30 °C circa 4 ore, fino al triplo del volume; anche sotto una ciotola capovolta o in forno spento con luce accesa, evitando che la superficie secchi.",
+        "Formare un filone, ricavare sei porzioni da 90 g, arrotondarle con leggera pressione sul piano. Coprire con canovaccio per 10 minuti. Aprire al centro e allargare in anelli di circa 10 cm.",
+        "Disporre su carta forno; lievitare ancora 40–50 minuti a 28–30 °C fino al raddoppio. Portare acqua a bollore; ritagliare la carta intorno ai pezzi, tuffarli uno alla volta e rimuovere la carta con pinza.",
+        "Bollire 20 secondi per lato, scolare con schiumarola e sistemare sulla leccarda foderata. Distribuire sesamo e cuocere in statico preriscaldato a 220 °C per 30 minuti, fino a doratura. Intiepidire."
+      ],
+      "temperature": "28–30 °C lievitazione; 220 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "30 min (scheda); 35 min nel procedimento",
+      "description": "Focaccia arrotolata: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02347",
+      "ingredients": [
+        "Farina Manitoba 350 g",
+        "Farina 00 150 g",
+        "Acqua 300 g",
+        "Olio EVO 40 g",
+        "Lievito fresco 1,5 g",
+        "Sale 10 g",
+        "Condimento — Pomodori secchi sott'olio 15 g",
+        "Condimento — Olive verdi denocciolate 10 g",
+        "Condimento — Olive nere denocciolate 10 g",
+        "Condimento — Origano 2 cucchiaini",
+        "Condimento — Sale 2 cucchiaini",
+        "Condimento — Olio EVO 2 cucchiaiate"
+      ],
+      "name": "Focaccia arrotolata",
+      "notes": [
+        "Conservare in contenitore 1–2 giorni.",
+        "Varianti con salumi, formaggi, capperi o acciughe. Alternativa: maturazione in frigorifero per 24 ore. La fonte richiama l'ispirazione ligure senza documentare un'origine univoca.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min (scheda); 35 min nel procedimento",
+        "prep": "20 min",
+        "rest": "almeno 12 ore"
+      },
+      "originalTitle": "Rolled focaccia",
+      "originalYield": "6 porzioni",
+      "pdfPage": 163,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "bf8880f3b0986a016004513c8b6c8dab83413d9c03d2271d793f41baa70e2441",
+        "previousAppSha256": "bf8880f3b0986a016004513c8b6c8dab83413d9c03d2271d793f41baa70e2441",
+        "reviewedDigest": "f3db26455d9af1bf1ae303d116d42fbc57e0bc6e9ebcca42d2ad1429ff7a1118"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 12 ore",
+      "reviewedRecordSha256": "f3db26455d9af1bf1ae303d116d42fbc57e0bc6e9ebcca42d2ad1429ff7a1118",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/rolled-focaccia.html",
+      "steps": [
+        "Riunire farine, lievito e parte dell'acqua a temperatura ambiente. Aggiungere metà olio, poi sale e restante acqua e olio. Lavorare a mano su piano appena unto, formare una palla e lasciarla in ciotola oliata coperta almeno 12 ore a temperatura ambiente, senza correnti.",
+        "Su piano leggermente infarinato stendere un rettangolo lungo circa 20 pollici; tagliare longitudinalmente in due strisce. Schiacciarle, condirle con parte dell'olio, origano e sale in fiocchi; torcere ciascuna striscia e arrotolare a spirale, unendo la seconda alla prima.",
+        "Trasferire in teglia unta, inserire nelle scanalature olive tagliate longitudinalmente e pomodori secchi. Completare con l'olio e il sale rimanenti. Cuocere sul ripiano inferiore in statico a 392 °F per circa 35 minuti; intiepidire."
+      ],
+      "temperature": "392 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "30 min",
+      "description": "Burger buns (panini da burger): preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02321",
+      "ingredients": [
+        "Biga — Farina Manitoba 100 g",
+        "Biga — Acqua a temperatura ambiente 50 g",
+        "Biga — Lievito fresco 5 g",
+        "Impasto — Farina Manitoba 200 g",
+        "Impasto — Farina 00 200 g",
+        "Impasto — Latte intero a temperatura ambiente 200 g",
+        "Impasto — Miele di acacia 15 g",
+        "Impasto — Sale fino 15 g",
+        "Impasto — Burro morbido 25 g",
+        "Impasto — Uova 55 g (1 medio)",
+        "Impasto — Tuorlo 15 g (circa 1)",
+        "Impasto — Olio EVO 25 g",
+        "Finitura — Tuorlo 1",
+        "Finitura — Latte intero 30 g",
+        "Finitura — Sesamo q.b."
+      ],
+      "name": "Burger buns (panini da burger)",
+      "notes": [
+        "Conservare in sacchetto un giorno; congelare una volta cotti e completamente freddi.",
+        "Variante con sesamo e papavero. L'origine precisa del panino soffice è indicata come incerta dalla fonte.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico non attestato in modo univoco dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "45 min",
+        "rest": "circa 5 ore (2 ore + 2 ore + 30 min nel metodo)"
+      },
+      "originalTitle": "Burger buns (panecillos para hamburguesas)",
+      "originalYield": "8 panini da circa 110 g",
+      "pdfPage": 151,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "26bd3d3fb054538558988d1278e01a51e7666800758c57d45e0a6e685116b3bd",
+        "previousAppSha256": "26bd3d3fb054538558988d1278e01a51e7666800758c57d45e0a6e685116b3bd",
+        "reviewedDigest": "61a63a40e957bf585c98dd3bb99a26444e254b3bc9ac917cdb17baaf248dbb0f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 5 ore (2 ore + 2 ore + 30 min nel metodo)",
+      "reviewedRecordSha256": "61a63a40e957bf585c98dd3bb99a26444e254b3bc9ac917cdb17baaf248dbb0f",
+      "serves": "8 panini da circa 110 g",
+      "source": "https://www.giallozafferano.es/recetas/burger-buns-panecillos-para-hamburguesas.html",
+      "steps": [
+        "Sciogliere lievito nei 50 g d'acqua; unire ai 100 g di Manitoba, mescolare rapidamente con forchetta poi mani ottenendo biga grossolana. Coprire e maturare a temperatura ambiente due ore o fino al raddoppio.",
+        "Nella planetaria riunire le due farine dell'impasto, biga, miele e latte; lavorare con gancio. Aggiungere uovo e, dopo assorbimento, tuorlo. Impastare sino a massa legata e liscia; incorporare olio a filo e sale, poi burro un pezzetto alla volta dopo assorbimento. Lavorare fino a consistenza morbida e liscia.",
+        "Arrotondare, coprire in ciotola con piatto o pellicola e lievitare a temperatura ambiente due ore o fino al raddoppio.",
+        "Dividere in otto pezzi da 110 g; appiattire ciascuno, piegare i quattro lati verso il centro, capovolgere e arrotondare saldamente. Sistemare distanziati su carta forno, coprire con seconda teglia e far lievitare ancora 30 minuti.",
+        "Sbattere tuorlo con 30 g di latte e spennellare. Cospargere sesamo bianco e cuocere in statico preriscaldato a 190 °C per 25–30 minuti. Intiepidire."
+      ],
+      "temperature": "190 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "20 min",
+      "description": "Ciabatta: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-04053",
+      "ingredients": [
+        "Poolish — Farina Manitoba 200 g",
+        "Poolish — Farina 00 100 g",
+        "Poolish — Acqua 300 ml",
+        "Poolish — Lievito secco 2 g",
+        "Impasto — Farina Manitoba 400 g",
+        "Impasto — Farina 00 200 g",
+        "Impasto — Acqua 350 ml",
+        "Impasto — Lievito secco 3 g",
+        "Impasto — Malto 10 g",
+        "Impasto — Sale fino 20 g",
+        "Semola rimacinata q.b. per piano e panetti"
+      ],
+      "name": "Ciabatta",
+      "notes": [
+        "Conservare 2–3 giorni in sacchetto; congelare da cotte, scongelare in frigorifero e ripassare in forno.",
+        "Lievito fresco alternativo: 6 g per poolish e 9 g per impasto; zucchero alternativo al malto. Per una ciabatta unica: dopo le pieghe lievitare 1–1,5 ore su carta con semola, allungare e far scivolare sulla teglia calda; aumentare ogni fase di cottura di 5 minuti. Pietra refrattaria facoltativa.",
+        "La fonte dichiara ricetta ispirata al libro Il pane di Piergiorgio Giorilli, non sua firma; origine della ciabatta ad Adria (Veneto) nel 1982, Arnaldo Cavallari con Francesco Favaron.",
+        "Autore individuale non dichiarato nella fonte consultata."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "50 min",
+        "rest": "circa 6 ore: poolish 3 ore, impasto 1 ora, pezzi 1–1,5 ore"
+      },
+      "originalTitle": "Ciabatta",
+      "originalYield": "10 ciabatte da circa 150–160 g",
+      "pdfPage": 153,
+      "photo": null,
+      "prep": "50 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8151ea75bc6bcbeecf73d66c4e99386d14e590e34feadadd66ef9471d7517984",
+        "previousAppSha256": "8151ea75bc6bcbeecf73d66c4e99386d14e590e34feadadd66ef9471d7517984",
+        "reviewedDigest": "61362a12d3b5803187ae8c36f7057988887a2a0e2be60debe4faf27cea376fce"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 6 ore: poolish 3 ore, impasto 1 ora, pezzi 1–1,5 ore",
+      "reviewedRecordSha256": "61362a12d3b5803187ae8c36f7057988887a2a0e2be60debe4faf27cea376fce",
+      "serves": "10 ciabatte da circa 150–160 g",
+      "source": "https://ricette.giallozafferano.it/Ciabatta.html",
+      "steps": [
+        "Sciogliere 2 g di lievito nell'acqua del poolish, versare a filo sulle farine setacciate e mescolare sino a composto omogeneo e morbido. Coprire e fermentare circa tre ore a temperatura ambiente fino a rigonfiamento e bolle.",
+        "Sciogliere 3 g di lievito e malto nell'acqua dell'impasto. Setacciare le farine; con foglia della planetaria lavorare poolish a media velocità aggiungendo alternatamente liquido e farine. Passare al gancio per 5 minuti, incorporare sale e proseguire 5–7 minuti fino a impasto avvolto al gancio. Possibile lavorazione manuale.",
+        "Coprire e riposare un'ora a 24–25 °C. Rovesciare su abbondante semola, spolverare anche sopra e ripiegare avanti, dal basso verso l'alto e lateralmente sui due lati. Appiattire poco e dividere in circa dieci pezzi da 150–160 g.",
+        "Disporli con taglio verso l'alto sul piano con semola, spolverare e coprire con pellicola. Lievitare 1–1,5 ore a circa 27 °C sino al raddoppio. Capovolgerli uno alla volta su teglia già calda rivestita con carta forno, allungando delicatamente per conservare i gas.",
+        "Cuocere in statico preriscaldato a 240–250 °C, o ventilato 220–230 °C, creando vapore con 5–6 spruzzi d'acqua se consentito dal forno. Dopo 8 minuti abbassare a 200 °C statico (180 °C ventilato) per altri 8 minuti; ultimi 3–4 minuti con sfiato per crosta croccante, rispettando compatibilità del forno. Raffreddare."
+      ],
+      "temperature": "240–250 °C statico poi 200 °C; ventilato 220–230 °C poi 180 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "40 min",
+      "description": "Bagel farciti: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02316",
+      "ingredients": [
+        "Impasto — Farina 0 350 g",
+        "Impasto — Acqua 205 g",
+        "Impasto — Lievito di birra secco 4 g",
+        "Impasto — Malto 10 g",
+        "Impasto — Sale 6 g",
+        "Impasto — Sesamo q.b.",
+        "Carne — Caprino 80 g",
+        "Carne — Zucchine 100 g",
+        "Carne — Pomodori 65 g",
+        "Carne — Lattughino 50 g",
+        "Carne — Roast beef 70 g",
+        "Carne — Sale e pepe q.b.",
+        "Pesce — Caprino 80 g",
+        "Pesce — Zucchine 100 g",
+        "Pesce — Pomodori 65 g",
+        "Pesce — Lattughino 50 g",
+        "Pesce — Salmone affumicato 100 g",
+        "Pesce — Sale e pepe q.b.",
+        "Vegetariano — Caprino 80 g",
+        "Vegetariano — Zucchine 100 g",
+        "Vegetariano — Pomodori 65 g",
+        "Vegetariano — Lattughino 50 g",
+        "Vegetariano — Ravanelli 25 g",
+        "Vegetariano — Carote 65 g",
+        "Vegetariano — Cetrioli 60 g",
+        "Olio per griglia e condimento (quantità non dichiarata)"
+      ],
+      "name": "Bagel farciti",
+      "notes": [
+        "Consumare subito i bagel farciti. Quelli vuoti durano 1–2 giorni in carta o si congelano da cotti, poi si scaldano in forno.",
+        "Tre ripieni distinti con relative dosi; possibili combinazioni stagionali.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "50 min",
+        "rest": "circa 4 ore + 10 min + 40–50 min"
+      },
+      "originalTitle": "Stuffed Bagel",
+      "originalYield": "6 pezzi (2 per ripieno)",
+      "pdfPage": 147,
+      "photo": null,
+      "prep": "50 min",
+      "publicationUpdate": {
+        "baseAppSha256": "995f830a3b07ba64775a8cdd6a89db9b4b475992526b8c125d0f0f4771acdd99",
+        "previousAppSha256": "995f830a3b07ba64775a8cdd6a89db9b4b475992526b8c125d0f0f4771acdd99",
+        "reviewedDigest": "5b607618b56606f0ced48e274cb10257fc8fa5f9d677b3a5194277c262ef7bc0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "circa 4 ore + 10 min + 40–50 min",
+      "reviewedRecordSha256": "5b607618b56606f0ced48e274cb10257fc8fa5f9d677b3a5194277c262ef7bc0",
+      "serves": "6 pezzi (2 per ripieno)",
+      "source": "https://www.giallozafferano.com/recipes/stuffed-bagel.html",
+      "steps": [
+        "Mescolare farina setacciata, lievito e malto; incorporare l'acqua a filo, poi sale quando omogeneo. Lavorare sul piano 5–6 minuti. Coprire e lievitare circa 4 ore a 82–86 °F fino a triplicare.",
+        "Ricavare da un filone sei pezzi da circa 3 once, arrotondare e coprire con telo per 10 minuti. Aprire in anelli di circa 4 pollici, adagiarli su carta forno e lievitare 40–50 minuti alla stessa temperatura sino al raddoppio.",
+        "Ritagliare la carta attorno a ciascun anello, immergere uno alla volta in acqua bollente, sfilare carta con pinza e bollire 20 secondi per lato. Scolare, disporre su teglia foderata, cospargere sesamo e cuocere in statico preriscaldato a 428 °F per 30 minuti; raffreddare.",
+        "Lavare, spuntare e affettare le zucchine a mandolina non al minimo spessore; grigliarle su piastra leggermente oliata sino a righe sui due lati. Affettare sottili ravanelli, carote pelate e cetrioli; lavare e tagliare finemente i pomodori.",
+        "Aprire i sei bagel, spalmare il caprino sulle basi, distribuire zucchine, lattughino lavato e pomodoro condito con olio, pepe e sale. Completare due con roast beef, due con salmone e due con carota, cetriolo e ravanello. Chiudere."
+      ],
+      "temperature": "82–86 °F lievitazione; 428 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "30 min",
+      "description": "Challah: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02571",
+      "ingredients": [
+        "Preimpasto — Farina 0 170 g",
+        "Preimpasto — Acqua tiepida 110 ml",
+        "Preimpasto — Lievito secco 4 g",
+        "Impasto — Farina Manitoba 520 g",
+        "Impasto — Zucchero 80 g",
+        "Impasto — Olio EVO 65 g",
+        "Impasto — Miele 40 g",
+        "Impasto — Acqua tiepida 30 ml",
+        "Impasto — Uova 150 g (circa 3)",
+        "Impasto — Tuorli 3",
+        "Impasto — Sale 15 g",
+        "Spennellatura — Tuorlo 1",
+        "Spennellatura — Acqua q.b. (nel metodo 1 cucchiaio)"
+      ],
+      "name": "Challah",
+      "notes": [
+        "Pane della tradizione ebraica dello Shabbat; la fonte non attribuisce un Paese unico.",
+        "Alternativa 12 g di lievito fresco invece di 4 g secco. Conservare in sacchetto due giorni; congelare l'impasto dopo la lievitazione di tre ore, scongelare in frigo e acclimatare prima di formare. La fonte non consiglia di congelare il pane cotto.",
+        "Mantenere la ricetta senza latticini per il contesto tradizionale.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "30 min + almeno 3 ore + 30–45 min"
+      },
+      "originalTitle": "Challah",
+      "originalYield": "4 porzioni",
+      "pdfPage": 152,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e0953c3fb9c2f2446a0be572ae99045334a62b24e6a6b202d2e1cf998ca04f5c",
+        "previousAppSha256": "e0953c3fb9c2f2446a0be572ae99045334a62b24e6a6b202d2e1cf998ca04f5c",
+        "reviewedDigest": "c5a45713a36cbcb31a6c4c2723b668a81d878ef65fa840f25000b305d95cda66"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min + almeno 3 ore + 30–45 min",
+      "reviewedRecordSha256": "c5a45713a36cbcb31a6c4c2723b668a81d878ef65fa840f25000b305d95cda66",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/challah.html",
+      "steps": [
+        "Preparare il preimpasto sciogliendo il lievito nell'acqua tiepida e impastando con farina fino a consistenza morbida; coprire circa 30 minuti sino al raddoppio. Sciogliere il sale nei 30 ml di acqua dell'impasto.",
+        "Con foglia della planetaria lavorare preimpasto, zucchero e miele, incorporare gradualmente la Manitoba a velocità media, poi uova, tuorli e olio a filo. Passare al gancio, versare l'acqua salata e ottenere un impasto morbido e liscio. Formare palla, coprire in forno spento con luce e lievitare almeno tre ore sino al raddoppio.",
+        "Dividere in cinque cordoni uguali e unire a un'estremità. Separare tre cordoni da un lato e due dall'altro; intrecciare alternando il cordone esterno e quello interno sui lati, richiudere le estremità sotto la treccia.",
+        "Porre su carta forno, lievitare ancora 30–45 minuti e spennellare con tuorlo sbattuto con un cucchiaio d'acqua. Cuocere in statico preriscaldato a 375 °F per 30–40 minuti oppure ventilato a 340 °F per 20–25 minuti, sino a doratura, mantenendo l'interno soffice."
+      ],
+      "temperature": "375 °F statico o 340 °F ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "25 min",
+      "description": "Cracker di farro: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02334",
+      "ingredients": [
+        "Farina di farro 250 g",
+        "Vino bianco secco 80 g",
+        "Olio EVO 50 g",
+        "Burro freddo 25 g",
+        "Timo 3 rametti",
+        "Sale fino 6 g",
+        "Superficie — Acqua q.b.",
+        "Superficie — Sale grosso 8 g (facoltativo)",
+        "Superficie — Semi di papavero 5 g",
+        "Superficie — Semi di girasole 5 g",
+        "Superficie — Semi di lino 5 g"
+      ],
+      "name": "Cracker di farro",
+      "notes": [
+        "Conservare circa una settimana a temperatura ambiente in recipiente chiuso, non congelare.",
+        "Alternativa con farina integrale; curcuma o curry per aromatizzare.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Spelt crackers",
+      "originalYield": "circa 40 (nel metodo circa 38)",
+      "pdfPage": 156,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "efecb583da430e70ca0a5d73016fe490ea3eff6128c06faa16e57503d0c6ab98",
+        "previousAppSha256": "efecb583da430e70ca0a5d73016fe490ea3eff6128c06faa16e57503d0c6ab98",
+        "reviewedDigest": "f92212513daa35cf267026fd8e5b639a87f2ebb7905824a45bbd0cb3ee37bc72"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "f92212513daa35cf267026fd8e5b639a87f2ebb7905824a45bbd0cb3ee37bc72",
+      "serves": "circa 40 (nel metodo circa 38)",
+      "source": "https://www.giallozafferano.com/recipes/spelt-crackers.html",
+      "steps": [
+        "Mescolare farina, sale e foglioline di timo; sbriciolare il burro freddo nella miscela, poi incorporare vino e olio sino a impasto compatto.",
+        "Su piano leggermente infarinato stendere un rettangolo di circa 11×9 pollici, spesso 3/16 di pollice. Bucherellare e ricavare quadrati di circa 1,5 pollici.",
+        "Mescolare i tre semi e il sale grosso se desiderato. Sistemare i quadrati su carta forno, spennellare con acqua e premere il mix sulla superficie.",
+        "Cuocere sul ripiano centrale in forno statico a 340 °F per 25 minuti e raffreddare."
+      ],
+      "temperature": "340 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "25 min",
+      "description": "Cracker ai semi: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02332",
+      "ingredients": [
+        "Farina di farro 130 g",
+        "Farina integrale 120 g",
+        "Semi di girasole 90 g",
+        "Semi di lino 100 g",
+        "Sesamo nero 90 g",
+        "Sesamo bianco 60 g",
+        "Olio EVO 150 g",
+        "Acqua 130 g",
+        "Sale fino q.b.",
+        "Sale in fiocchi q.b."
+      ],
+      "name": "Cracker ai semi",
+      "notes": [
+        "Conservare in scatola di latta 4–5 giorni; non congelare.",
+        "Variante: sostituire 6 cucchiai di sesamo bianco con altrettanti semi di chia bianchi, usare 0,8–0,85 tazze di acqua e riposare almeno 2 ore a temperatura ambiente; risultato più friabile e meno croccante.",
+        "Autore individuale non dichiarato nella fonte consultata.",
+        "Paese specifico non attestato dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Seed crackers",
+      "originalYield": "30 pezzi",
+      "pdfPage": 154,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "122b112fdf365eaa1d8f7a01590ff26b6bdb190fb0209dd78534ca1e1a237ba0",
+        "previousAppSha256": "122b112fdf365eaa1d8f7a01590ff26b6bdb190fb0209dd78534ca1e1a237ba0",
+        "reviewedDigest": "d9455c07dedc0dd754d2b950b76d023f3b8a226351ae116d83dfea8903b52d08"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "d9455c07dedc0dd754d2b950b76d023f3b8a226351ae116d83dfea8903b52d08",
+      "serves": "30 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/Seed-crackers.html",
+      "steps": [
+        "Unire farine e quattro tipi di semi. Incorporare sale fino e olio, poi l'acqua quando l'olio è assorbito; lavorare prima con cucchiaio e poi a mano.",
+        "Dividere a metà e stendere ciascuna porzione fra due fogli da forno a circa 0,1 pollici, su teglia 14×11 pollici; togliere il foglio superiore e pareggiare lo spessore. Cospargere di sale in fiocchi.",
+        "Cuocere separatamente le due porzioni in forno ventilato a 180 °C per 13–15 minuti. Tagliare o spezzare a piacere, ad esempio rettangoli 3×3,5 pollici, e rimettere in forno 4–5 minuti. Raffreddare completamente."
+      ],
+      "temperature": "180 °C ventilato"
+    },
+    {
+      "author": "Denny Imbroisi",
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "40 min",
+      "description": "Profiteroles al cioccolato: preparazione revisionata sulla fonte originale, con ingredienti, dosi, lavorazioni e note.",
+      "id": "GZ-02835",
+      "ingredients": [
+        "Choux — Acqua 62 g",
+        "Choux — Latte intero 62 g",
+        "Choux — Burro 55 g",
+        "Choux — Sale fino 3 g",
+        "Choux — Zucchero 8 g",
+        "Choux — Farina 00 77 g",
+        "Choux — Uova 120 g",
+        "Spennellatura — Tuorlo 1",
+        "Spennellatura — Acqua q.b.",
+        "Chantilly — Panna fresca liquida 35% grassi 250 g",
+        "Chantilly — Zucchero a velo 50 g",
+        "Chantilly — Baccello di vaniglia 1",
+        "Glassa — Acqua 200 g",
+        "Glassa — Cioccolato fondente 450 g",
+        "Glassa — Panna fresca liquida 80 g",
+        "Glassa — Zucchero 150 g",
+        "Glassa — Fiocchi di sale 1 pizzico"
+      ],
+      "name": "Profiteroles al cioccolato",
+      "notes": [
+        "Profiteroles in frigorifero circa due giorni; bignè vuoti in latta una settimana o congelati circa un mese; glassa coperta in frigo 2–3 giorni.",
+        "Glassa troppo fluida: lasciarla raffreddare; se troppo densa scaldarla pochi secondi al microonde. Facoltativo un cucchiaio di mascarpone a panna semimontata.",
+        "La fonte descrive il dessert francese con radici italiane. Il metodo cita uno sfiato nella seconda fase statica: rispettare istruzioni e compatibilità del forno.",
+        "Paese specifico non attestato in modo univoco dalla fonte consultata."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "60 min",
+        "rest": "raffreddamento salsa circa 15–20 min; bignè freddi; qualche minuto in frigorifero prima di glassare"
+      },
+      "originalTitle": "Profiteroles al cioccolato",
+      "originalYield": "circa 20 bignè, 6 persone",
+      "pdfPage": 130,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ca63353321c0b6736e5f41660511ea99867024641f0de20ad70f49c5cac74c4a",
+        "previousAppSha256": "ca63353321c0b6736e5f41660511ea99867024641f0de20ad70f49c5cac74c4a",
+        "reviewedDigest": "f08897b44b0447bd0d25099ad262a0012b3000cbbf70987a8cb9c342e3b30365"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "raffreddamento salsa circa 15–20 min; bignè freddi; qualche minuto in frigorifero prima di glassare",
+      "reviewedRecordSha256": "f08897b44b0447bd0d25099ad262a0012b3000cbbf70987a8cb9c342e3b30365",
+      "serves": "circa 20 bignè, 6 persone",
+      "source": "https://ricette.giallozafferano.it/Profiteroles-al-cioccolato.html",
+      "steps": [
+        "Scaldare acqua, latte, sale, zucchero e burro a cubetti sino al bollore. Versare la farina in un'unica aggiunta, mescolare rapidamente e asciugare il roux sul fuoco almeno 2–3 minuti fino alla patina sul fondo.",
+        "Passare in ciotola; incorporare le uova una alla volta, attendendo assorbimento prima della successiva, sino a pasta liscia e consistente. Con bocchetta liscia da 12–13 mm formare mucchietti distanziati grandi come noci su carta forno fissata con poca pasta. Smussare le punte con cucchiaio umido.",
+        "Spennellare con tuorlo diluito con acqua. Cuocere in statico a 220 °C circa 15 minuti sino a doratura senza aprire; proseguire a 180 °C 15–20 minuti con sfiato, se consentito dal forno. In alternativa preriscaldare ventilato a 220 °C e cuocere a 180 °C 20–25 minuti. Raffreddare completamente.",
+        "Per la glassa tritare il fondente; portare a bollore acqua e zucchero, aggiungere panna e riportare a bollore. Incorporare metà cioccolato con frusta, poi l'altra metà. Al nuovo bollore trasferire in ciotola, salare, mescolare e raffreddare 15–20 minuti a 30–32 °C, fino a consistenza velante.",
+        "Montare la panna fredda in ciotola fredda. Quando addensa unire metà zucchero a velo e semi di vaniglia; prima che diventi molto ferma aggiungere il resto dello zucchero, finire di montare.",
+        "Forare la base dei bignè e farcire con chantilly usando bocchetta liscia. Coprire e refrigerare qualche minuto. Immergere ciascun bignè nella glassa con due forchette, far sgocciolare su griglia, disporre a piramide, decorare con chantilly residua e conservare in frigo fino al servizio."
+      ],
+      "temperature": "220 °C poi 180 °C statico; glassa 30–32 °C"
     }
   ]
 }
