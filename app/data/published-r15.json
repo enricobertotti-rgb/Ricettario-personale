@@ -19489,6 +19489,665 @@
         "Lessare gli spaghetti in acqua salata al dente. Regolare il sale del sugo, rimuovere il peperoncino e rimettere il guanciale. Scolare e saltare rapidamente la pasta nel sugo, aggiungendo acqua di cottura se necessario. Completare con il pecorino grattugiato."
       ],
       "temperature": "Fuoco dolce per guanciale, poi alto per sfumare"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00109",
+      "ingredients": [
+        "Semola rimacinata 400 g",
+        "Acqua a temperatura ambiente 240 g",
+        "Sale 1 pizzico",
+        "Cozze 500 g",
+        "Vongole 500 g",
+        "Cannolicchi 500 g",
+        "Cuori di mare 500 g",
+        "Pomodorini 300 g",
+        "Peperoncini freschi 2",
+        "Prezzemolo q.b.",
+        "Aglio 2 spicchi",
+        "Olio EVO q.b.",
+        "Pepe nero q.b.",
+        "Sale grosso per spurgo q.b."
+      ],
+      "name": "Cavatelli ai frutti di mare",
+      "notes": [
+        "Consumare subito o conservare in frigorifero entro un giorno. Passata in alternativa ai pomodorini; filtrare con garza sterile se resta sabbia. È possibile impiegare il liquido avanzato per lessare la pasta."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "2 h",
+        "rest": "Circa 2 ore spurgo; 30 min riposo impasto"
+      },
+      "originalTitle": "Seafood cavatelli",
+      "originalYield": "4 persone",
+      "pdfPage": 230,
+      "photo": null,
+      "prep": "2 h",
+      "publicationUpdate": {
+        "baseAppSha256": "9295ed3c75b682745369fc5d723fd1dcbac20c231b5f0c45539d7cbfc500f213",
+        "previousAppSha256": "9295ed3c75b682745369fc5d723fd1dcbac20c231b5f0c45539d7cbfc500f213",
+        "reviewedDigest": "be192aadfbcf6eff1e3ce44afc5cbc8147e1fd95374890883e0aa86bf2a6c20c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 2 ore spurgo; 30 min riposo impasto",
+      "reviewedRecordSha256": "be192aadfbcf6eff1e3ce44afc5cbc8147e1fd95374890883e0aa86bf2a6c20c",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Seafood-cavatelli.html",
+      "steps": [
+        "Spurgare separatamente i tre tipi di vongole in acqua fredda e sale grosso per circa due ore, cambiando l'acqua.",
+        "Unire gradualmente acqua a semola e sale, lavorare sul piano 5–10 minuti. Avvolgere il panetto e far riposare 30 minuti a temperatura ambiente.",
+        "Formare cordoni e pezzetti da 1 cm, mantenendo coperto l'impasto restante. Spolverare con semola e trascinare i pezzetti premendo col pollice; disporli su un vassoio infarinato.",
+        "Tagliare i pomodorini in quarti, rosolarli nell'olio, salare e cuocere a fuoco basso 10–15 minuti. Pulire le cozze eliminando impurità e bisso.",
+        "In un tegame con olio, un aglio e un peperoncino aprire coperte vongole e cannolicchi. In un altro, con gli aromi rimanenti, aprire cozze e cuori di mare. Raccogliere il liquido e sgusciare parte dei molluschi.",
+        "Lessare i cavatelli al dente pochi minuti. Unire parte del liquido dei molluschi ai pomodorini, aggiungere la pasta e altro liquido se occorre. Fuori fuoco incorporare i molluschi, prezzemolo, pepe e olio."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00146",
+      "ingredients": [
+        "Fregola 320 g",
+        "Broccolo romanesco 760 g (peso lordo)",
+        "Scalogno 35 g",
+        "Brodo vegetale 750 g",
+        "Timo 1 rametto",
+        "Olio EVO 30 g",
+        "Sale e pepe q.b.",
+        "Parmigiano Reggiano DOP 50 g"
+      ],
+      "name": "Fregola con broccolo romanesco",
+      "notes": [
+        "Il formato di pasta è tipico della Sardegna, non prova l'origine di questa variante. Conservare in frigorifero 1–2 giorni, non congelare. Alternativa: cuocere il broccolo separatamente, frullarne una parte e unire alla fine."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "10 min",
+        "rest": "Oltre al tempo di preparazione del brodo"
+      },
+      "originalTitle": "Fregola with Romanesco broccoli",
+      "originalYield": "4 persone",
+      "pdfPage": 241,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e8d7133c899c1a7130f96fd27ceeff974398d1bee15394995046cf9394da651c",
+        "previousAppSha256": "e8d7133c899c1a7130f96fd27ceeff974398d1bee15394995046cf9394da651c",
+        "reviewedDigest": "187ed92316f70cd331ed0b02a5b9ef696b9f36e8246b9c56eb89a522b202c765"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Oltre al tempo di preparazione del brodo",
+      "reviewedRecordSha256": "187ed92316f70cd331ed0b02a5b9ef696b9f36e8246b9c56eb89a522b202c765",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fregola-with-romanesco-broccoli.html",
+      "steps": [
+        "Preparare il brodo vegetale e tenerlo caldo. Eliminare le foglie del romanesco, staccare le cimette e dividere quelle grandi; la fonte indica circa 11 oz di cimette.",
+        "Tritare lo scalogno, farlo appassire con l'olio 5 minuti. Tritare il timo, aggiungerlo col broccolo e mescolare 2 minuti.",
+        "Versare la fregola e parte del brodo caldo; cuocere 25–30 minuti secondo confezione, mescolando e aggiungendo brodo quando occorre.",
+        "Spegnere, incorporare il Parmigiano grattugiato e servire; regolare il condimento a piacere."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "75 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00116",
+      "ingredients": [
+        "Conchiglioni 300 g",
+        "Passata 600 g",
+        "Parmigiano per copertura 1/4 tazza",
+        "Olio EVO q.b.",
+        "Cipolla 60 g",
+        "Sale e pepe q.b.",
+        "Carne suina macinata 125 g",
+        "Carne bovina macinata 125 g",
+        "Ricotta vaccina 400 g",
+        "Mozzarella 250 g",
+        "Parmigiano per ripieno 30 g",
+        "Vino rosso 45 g",
+        "Uovo 55 g (1 medio)",
+        "Aglio 1 spicchio"
+      ],
+      "name": "Conchiglioni ripieni",
+      "notes": [
+        "Frigorifero 2 giorni, non congelare. Sugo e carne preparabili il giorno prima; farcia da comporre al momento. Varianti: scamorza, caciocavallo, ricotta ovina, pancetta o salsiccia; besciamella in alternativa al pomodoro."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "75 min",
+        "prep": "30 min",
+        "rest": "Qualche minuto dopo il forno"
+      },
+      "originalTitle": "Stuffed pasta shells",
+      "originalYield": "6 persone",
+      "pdfPage": 233,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9c921d8fc98b4c611457573f91fa0c5185e8e0516f4a8bd8f45abd2219aac5c6",
+        "previousAppSha256": "9c921d8fc98b4c611457573f91fa0c5185e8e0516f4a8bd8f45abd2219aac5c6",
+        "reviewedDigest": "6b53056b92c6d6e657934b4edbed5db86310df1bc0903be3473ec5835646da42"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Qualche minuto dopo il forno",
+      "reviewedRecordSha256": "6b53056b92c6d6e657934b4edbed5db86310df1bc0903be3473ec5835646da42",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/Stuffed-pasta-shells.html",
+      "steps": [
+        "Stufare la cipolla nell'olio a fuoco basso 10 minuti. Unire la passata, salare e cuocere coperto almeno 45 minuti, aggiungendo acqua se si asciuga troppo.",
+        "Tagliare 6–7 fettine sottili di mozzarella, ridurre il resto a cubetti e far scolare.",
+        "In un'altra padella aromatizzare l'olio con aglio a fuoco medio; rosolare entrambe le carni a fiamma alta circa 10 minuti, mescolando. Eliminare l'aglio, sfumare col vino, salare e far asciugare.",
+        "Lessare i conchiglioni per metà del tempo sulla confezione, scolarli, ungerli delicatamente e farli raffreddare su un vassoio.",
+        "Setacciare la ricotta, unire carne, 30 g di Parmigiano, uovo sbattuto, sale, pepe e mozzarella a cubetti. Distribuire sugo sul fondo della teglia e farcire i conchiglioni con cucchiaio o sac à poche.",
+        "Coprire con il sugo rimasto, fettine di mozzarella, Parmigiano da copertura e pepe. Infornare a 220 °C preriscaldato circa 20 minuti; gratinare sotto il grill qualche minuto e lasciare assestare."
+      ],
+      "temperature": "220 °C; grill finale"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00138",
+      "ingredients": [
+        "Farfalle 360 g",
+        "Speck 150 g",
+        "Farina 00 30 g",
+        "Burro 20 g",
+        "Panna fresca 500 ml",
+        "Parmigiano Reggiano 24 mesi 100 g",
+        "Pistacchi 80 g (70 g crema, 10 g finitura)",
+        "Pomodorini 6",
+        "Sale q.b.",
+        "Olio EVO q.b."
+      ],
+      "name": "Farfalle con crema di Parmigiano, speck e pistacchi",
+      "notes": [
+        "Frigorifero in contenitore chiuso massimo un giorno. Timo, maggiorana o nocciole sono varianti facoltative."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "15 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Farfalle con crema di parmigiano, speck e pistacchi",
+      "originalYield": "4 persone",
+      "pdfPage": 235,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "0acaf02fa0ca132d52e7b91a311e8c7a93953f77f1067c2a8bb911aeb5c5ee9a",
+        "previousAppSha256": "0acaf02fa0ca132d52e7b91a311e8c7a93953f77f1067c2a8bb911aeb5c5ee9a",
+        "reviewedDigest": "00f3d00280e0579dc0f349aa72d1908b1a4e3c3b9d03247b5e79567d537287b5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "00f3d00280e0579dc0f349aa72d1908b1a4e3c3b9d03247b5e79567d537287b5",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Farfalle-con-crema-di-parmigiano-speck-e-pistacchi.html",
+      "steps": [
+        "Tagliare lo speck a strisce di circa mezzo centimetro. Lavare, asciugare e tagliare ogni pomodorino in otto parti.",
+        "Rosolare brevemente lo speck nell'olio, aggiungere i pomodori a fuoco medio, farli appassire qualche minuto e spegnere.",
+        "Sciogliere il burro a fuoco basso, incorporare la farina con la frusta. Aggiungere panna e sale, mescolare a fuoco medio-basso circa 5 minuti fino ad addensare.",
+        "Fuori dal fuoco incorporare il Parmigiano; quando la crema è liscia aggiungere speck e pomodori, poi 70 g di pistacchi. Scaldare a fuoco basso.",
+        "Lessare le farfalle un minuto meno del tempo indicato sulla confezione, unirle al condimento e servire con i 10 g di pistacchi rimasti."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "5 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00140",
+      "ingredients": [
+        "Farina 00 400 g",
+        "Uova medie 4",
+        "Semola rimacinata per spolverare q.b.",
+        "Burro 80 g",
+        "Parmigiano Reggiano DOP grattugiato 80 g",
+        "Sale e pepe q.b."
+      ],
+      "name": "Fettuccine Alfredo",
+      "notes": [
+        "Origine romana e attribuzione storica ad Alfredo di Lelio documentate dalla fonte; non equivale ad autore della scheda. La preparazione base non contiene panna. Frigorifero chiuso 1–2 giorni; non congelare cotta. I nidi crudi possono essere congelati separati e poi raccolti in sacchetti, cuocendoli ancora congelati."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "30 min",
+        "rest": "30 min impasto"
+      },
+      "originalTitle": "Fettuccine Alfredo",
+      "originalYield": "4 persone",
+      "pdfPage": 237,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d616fb122d6d5fbb2023300bf7b42dfa6aee42e4759130c73f24406897f85a59",
+        "previousAppSha256": "d616fb122d6d5fbb2023300bf7b42dfa6aee42e4759130c73f24406897f85a59",
+        "reviewedDigest": "121214c2ac6b99ba43bae5b0deb7eeb459dd13aaccf1152a626de215a9727617"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min impasto",
+      "reviewedRecordSha256": "121214c2ac6b99ba43bae5b0deb7eeb459dd13aaccf1152a626de215a9727617",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Fettuccine-Alfredo.html",
+      "steps": [
+        "Impastare le uova con la farina, aggiungendone gradualmente; se l'impasto è asciutto, poca acqua. Formare una palla, avvolgerla e lasciare riposare a temperatura ambiente 30 minuti.",
+        "Dividere in quattro parti e coprire quelle in attesa. Passare nella sfogliatrice dal massimo spessore fino al penultimo; infarinare, dividere le sfoglie in 2–3 parti e ripassarle al penultimo spessore.",
+        "Spolverare con semola, asciugare un paio di minuti, arrotolare senza stringere dal lato corto e tagliare strisce di circa 4 mm. Aprire le strisce formando nidi.",
+        "Lessare 2–3 minuti in acqua salata. Nel frattempo fondere il burro a fuoco basso senza farlo brunire, aggiungere un mestolo d'acqua di cottura.",
+        "Trasferire la pasta in padella con un altro mestolo d'acqua, saltare velocemente. Fuori dal fuoco incorporare Parmigiano, sale e pepe."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": "Lulù Gargari",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00137",
+      "ingredients": [
+        "Farfalle 320 g",
+        "Salmone affumicato 200 g",
+        "Panna fresca 200 g",
+        "Scalogno 1/2",
+        "Concentrato di pomodoro 1 cucchiaio",
+        "Vino bianco 1/2 bicchiere",
+        "Burro 20 g",
+        "Sale e pepe nero q.b."
+      ],
+      "name": "Farfalle al salmone affumicato",
+      "notes": [
+        "Consumare subito o conservare chiuso in frigorifero 1–2 giorni. Varianti suggerite: peperoncino con lo scalogno, erba cipollina a fine cottura."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "10 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Farfalle with smoked salmon",
+      "originalYield": "4 persone",
+      "pdfPage": 234,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e93a0e1c4e10c73619b6fd69ac291f17baa480c8ff23cbacc8ff5adaba56ddb7",
+        "previousAppSha256": "e93a0e1c4e10c73619b6fd69ac291f17baa480c8ff23cbacc8ff5adaba56ddb7",
+        "reviewedDigest": "9e47de4461c085eb43f4489fed60b3a71316b3b3b6d57e156d8c7e9b3353bd77"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "9e47de4461c085eb43f4489fed60b3a71316b3b3b6d57e156d8c7e9b3353bd77",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/farfalle-with-smoked-salmon.html",
+      "steps": [
+        "Tagliare il salmone e tritare lo scalogno. Sciogliere il burro, stufare lo scalogno qualche minuto e sfumare con il vino; lasciare evaporare.",
+        "Aggiungere il salmone, cuocere 2 minuti; unire panna, pepe e concentrato e cuocere a fuoco basso qualche minuto.",
+        "Lessare le farfalle in acqua salata, scolarle al dente e saltarle brevemente nella salsa. Completare con pepe."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "45 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00143",
+      "ingredients": [
+        "Fregola 320 g",
+        "Olio EVO q.b.",
+        "Concentrato di pomodoro 15 g",
+        "Prezzemolo 1 mazzetto",
+        "Cipolla bianca 100 g",
+        "Acqua 500 g",
+        "Cozze da pulire 1 kg",
+        "Vino bianco per cozze 50 g",
+        "Vongole da pulire 500 g",
+        "Aglio 2 spicchi",
+        "Vino bianco per vongole 50 g",
+        "Gamberi da pulire 400 g",
+        "Calamari da pulire 600 g",
+        "Sale q.b."
+      ],
+      "name": "Fregola ai frutti di mare",
+      "notes": [
+        "Specialità della cucina sarda documentata nella fonte. Consumare subito oppure conservare chiuso in frigorifero massimo un giorno. Varianti: pomodorini al posto del concentrato, peperoncino o scorza di agrumi."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "60 min",
+        "rest": "Spurgo vongole: durata non dichiarata"
+      },
+      "originalTitle": "Fregola with seafood",
+      "originalYield": "4 persone",
+      "pdfPage": 239,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c8a67d18a8c76d808615e84bf77b501f2dbe41334ec9815a6010c69453876edb",
+        "previousAppSha256": "c8a67d18a8c76d808615e84bf77b501f2dbe41334ec9815a6010c69453876edb",
+        "reviewedDigest": "cf96a89c6663dd2f34453d427a16d4247d052a04066b656cc7842b570d775e4f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Spurgo vongole: durata non dichiarata",
+      "reviewedRecordSha256": "cf96a89c6663dd2f34453d427a16d4247d052a04066b656cc7842b570d775e4f",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fregola-with-seafood.html",
+      "steps": [
+        "Pulire i calamari eliminando penna, pelle, occhi e becco; lavare e tagliare i mantelli ad anelli di circa 3/4 di pollice. Pulire le cozze e togliere il bisso.",
+        "Aprire le cozze in olio, sfumare con 50 g di vino e coprire dopo evaporazione, circa 5 minuti. Sgusciarne parte e filtrare il liquido.",
+        "Spurgare e sciacquare le vongole, scartare quelle morte o rotte. Aprirle con olio, aglio e altri 50 g di vino, quindi sgusciarne parte e filtrare il liquido. Unire i due fondi e i 500 g d'acqua.",
+        "Pulire e tagliare i gamberi a pezzetti di circa mezzo pollice, saltarli con olio e sale 5 minuti. Nella stessa padella saltare i tentacoli 5 minuti, aggiungere gli anelli, salare e cuocere altri 10 minuti.",
+        "Stufare cipolla tritata e concentrato nell'olio 3 minuti; tostare la fregola 3 minuti. Aggiungere tre mestoli di fondo, far assorbire e proseguire con altro liquido fino a cottura.",
+        "Incorporare gamberi, calamari, cozze e vongole, poi prezzemolo tritato. Mescolare e servire."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "25 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00111",
+      "ingredients": [
+        "Salsiccia 400 g",
+        "Cavatelli 320 g",
+        "Cime di rapa 400 g",
+        "Aglio 2 spicchi",
+        "Peperoncino fresco 1",
+        "Mollica di pane 100 g",
+        "Olio EVO 40 g complessivi",
+        "Sale q.b."
+      ],
+      "name": "Cavatelli con salsiccia e cime di rapa",
+      "notes": [
+        "La ripartizione dei 40 g di olio fra le fasi non è precisata. Ispirazione molisana dichiarata. Frigorifero massimo un giorno, non congelare; variante con caciocavallo e pomodori secchi al posto della salsiccia."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "10 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Cavatelli with sausage and broccoli rabe",
+      "originalYield": "4 persone",
+      "pdfPage": 231,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "5326b3c43e5ab20d2316e44c327102ca63e932ea0581fdba0964f20d3f45e220",
+        "previousAppSha256": "5326b3c43e5ab20d2316e44c327102ca63e932ea0581fdba0964f20d3f45e220",
+        "reviewedDigest": "e5af02dca0192d42b245b518b9b7f2e4268143dea5a99e4b22188395dd5d1db0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "e5af02dca0192d42b245b518b9b7f2e4268143dea5a99e4b22188395dd5d1db0",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Cavatelli-with-sausage-and-broccoli-rabes.html",
+      "steps": [
+        "Mondare e lavare le cime di rapa, tritare la mollica. Togliere il budello e formare piccole polpette di salsiccia.",
+        "Rosolare le polpette a fuoco medio-alto per circa 10 minuti; tenerle coperte da parte, conservando il fondo nella padella.",
+        "In un altro tegame tostare la mollica con parte dell'olio e il peperoncino tritato fino a doratura; riservarla.",
+        "Nella padella della salsiccia scaldare altro olio con due spicchi d'aglio. Aggiungere le cime, comprimerle e cuocere circa 10 minuti. Togliere l'aglio, rimettere la salsiccia e salare.",
+        "Lessare i cavatelli freschi 5 minuti in acqua salata; scolarli e saltarli nel condimento qualche minuto fino a legare. Completare con la mollica."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00105",
+      "ingredients": [
+        "Spaghetti 320 g",
+        "Peperoni gialli 1,2 kg",
+        "Tofu 180 g",
+        "Zafferano 0,3 g (2 bustine da 0,15 g)",
+        "Peperoncino fresco 1",
+        "Erba cipollina q.b.",
+        "Olio EVO q.b.",
+        "Sale q.b.",
+        "Tofu per decorare q.b.",
+        "Pepe nero q.b. (nel procedimento)"
+      ],
+      "name": "Carbonara vegetariana",
+      "notes": [
+        "Servire subito oppure conservare in frigorifero 1–2 giorni. La fonte suggerisce anche verdure di stagione al posto del tofu."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "60 min",
+        "rest": "10 min di riposo dei peperoni"
+      },
+      "originalTitle": "Vegetarian Carbonara",
+      "originalYield": "4 persone",
+      "pdfPage": 227,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a3cf270ff4251a412b3f8462691efe93ac061d05f7afa18a6582bae41e7e2828",
+        "previousAppSha256": "a3cf270ff4251a412b3f8462691efe93ac061d05f7afa18a6582bae41e7e2828",
+        "reviewedDigest": "157ba5889077a96a895547004d599736535ac75898c140c4153a8afe76d7df2d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "10 min di riposo dei peperoni",
+      "reviewedRecordSha256": "157ba5889077a96a895547004d599736535ac75898c140c4153a8afe76d7df2d",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/vegetarian-carbonara.html",
+      "steps": [
+        "Disporre i peperoni lavati capovolti su carta da forno; arrostire a 482 °F per 50 minuti, finché la pelle brunisce.",
+        "Ridurre il tofu a cubetti. Scaldare olio e peperoncino affettato, eventualmente privato dei semi; rosolare il tofu. Sciogliere lo zafferano in poca acqua calda, aggiungerlo e lasciare insaporire qualche minuto, quindi spegnere.",
+        "Coprire i peperoni in una ciotola per 10 minuti; eliminare pelle e semi. Frullare la polpa con sale e olio e unirla al tofu.",
+        "Lessare gli spaghetti al dente, trasferirli nella crema, aggiungere acqua di cottura se necessaria. Completare con pepe, erba cipollina e tofu di guarnizione."
+      ],
+      "temperature": "482 °F, forno statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00112",
+      "ingredients": [
+        "Semola rimacinata 250 g",
+        "Acqua tiepida 150 g",
+        "Olio EVO per impasto 8 g",
+        "Salsiccia luganega 360 g",
+        "Fiori di zucca 150 g",
+        "Timo 3 rametti",
+        "Finocchietto selvatico 1 cucchiaino",
+        "Olio EVO per condimento 10 g",
+        "Vino bianco 50 g",
+        "Aglio 1 spicchio",
+        "Sale e pepe q.b."
+      ],
+      "name": "Cavatelli con salsiccia e fiori di zucca",
+      "notes": [
+        "Il pepe è elencato negli ingredienti senza una fase di aggiunta specificata. I cavatelli crudi si possono congelare e lessare direttamente da congelati. Peperoncino senza semi con l'aglio: variante."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "20 min",
+        "rest": "30 min impasto; 15–30 min cavatelli"
+      },
+      "originalTitle": "Cavatelli with sausage and zucchini flowers",
+      "originalYield": "4 persone",
+      "pdfPage": 232,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e7917022da77375991bcb1406039a9495a60018e7a9d44f23c44929c3dd6b148",
+        "previousAppSha256": "e7917022da77375991bcb1406039a9495a60018e7a9d44f23c44929c3dd6b148",
+        "reviewedDigest": "d531b4ca404a3202d7bb4328598dedceabb0f71c7aa38e4743bf0b50b6b0bc78"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min impasto; 15–30 min cavatelli",
+      "reviewedRecordSha256": "d531b4ca404a3202d7bb4328598dedceabb0f71c7aa38e4743bf0b50b6b0bc78",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/cavatelli-with-sausage-and-zucchini-flowers.html",
+      "steps": [
+        "Unire gradualmente l'acqua alla semola e poi gli 8 g di olio; impastare fino a ottenere una massa elastica, avvolgerla e lasciarla riposare 30 minuti.",
+        "Togliere il budello alla salsiccia. Dorare l'aglio nei 10 g d'olio, eliminarlo, sbriciolare la salsiccia e rosolare qualche minuto. Sfumare col vino, proseguire coperto; aggiungere timo e finocchietto alla fine e spegnere.",
+        "Ricavare cordoncini e piccoli pezzi di circa 3/8 di pollice; trascinarli con indice e medio, disporre su vassoio spolverato e lasciare riposare 15–30 minuti.",
+        "Lessare in acqua salata almeno 5–6 minuti, controllando la cottura assaggiando. Nel frattempo lavare e asciugare i fiori, togliere gambo e pistillo e dividerli a metà.",
+        "Saltare la pasta con la salsiccia, aggiungere i fiori e servire caldo."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00144",
+      "ingredients": [
+        "Fregola sarda 250 g",
+        "Arselle o vongole piccole 1 kg",
+        "Pomodori pelati a dadini 150 g",
+        "Vino bianco 50 g",
+        "Aglio 2 spicchi",
+        "Prezzemolo tritato 1 cucchiaio",
+        "Olio EVO q.b.",
+        "Sale e pepe q.b."
+      ],
+      "name": "Fregola con arselle",
+      "notes": [
+        "Specialità sarda, fregula cun cocciula. La fonte indica conservazione massima di un giorno; consumare subito è preferibile."
+      ],
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "2 ore spurgo"
+      },
+      "originalTitle": "Fregola with Clams",
+      "originalYield": "4 persone",
+      "pdfPage": 240,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "36906fbcd99a23ec69bf6f0c8701a7d002dcd05bd96af6af1f53f465b10ca316",
+        "previousAppSha256": "36906fbcd99a23ec69bf6f0c8701a7d002dcd05bd96af6af1f53f465b10ca316",
+        "reviewedDigest": "06c2e45d9ee62de90fd2fed9f30436cf2e15d057c603b7693375c69d6149ce88"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 ore spurgo",
+      "reviewedRecordSha256": "06c2e45d9ee62de90fd2fed9f30436cf2e15d057c603b7693375c69d6149ce88",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Fregola-with-Clams.html",
+      "steps": [
+        "Battere ciascuna vongola per verificare la presenza di sabbia, scartare quelle aperte o rotte, spurgare in acqua salata 2 ore e sciacquare.",
+        "Scaldare olio e uno spicchio d'aglio, aggiungere vongole e vino, coprire e cuocere a fiamma alta 4–5 minuti scuotendo il tegame. Filtrare il liquido con colino fine o garza sterile, togliere l'aglio; sgusciare metà dei molluschi.",
+        "In altra casseruola profumare l'olio con il secondo spicchio, toglierlo e cuocere i pelati a fuoco medio qualche minuto.",
+        "Unire la fregola e cuocerla come un risotto aggiungendo poco per volta il liquido filtrato; se serve, acqua calda o brodo vegetale. Regolare sale e pepe.",
+        "Un minuto prima di terminare unire le vongole, poi spegnere e completare con prezzemolo e pepe."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": "Lulù Gargari",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: ingredienti, dosi e preparazione.",
+      "id": "GZ-00110",
+      "ingredients": [
+        "Semola rimacinata 400 g",
+        "Acqua tiepida 240 g",
+        "Sale q.b.",
+        "Pomodorini datterini 300 g",
+        "Aglio 1 spicchio",
+        "Peperoncino fresco 1",
+        "Olio EVO q.b.",
+        "Sale e pepe q.b.",
+        "Bottarga di muggine q.b.",
+        "Basilico q.b."
+      ],
+      "name": "Cavatelli con bottarga e pomodorini",
+      "notes": [
+        "Consumare subito o conservare in contenitore chiuso in frigorifero per un giorno. Dosare il sale considerando la bottarga. Olive e capperi sono varianti facoltative."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "40 min",
+        "rest": "30 min"
+      },
+      "originalTitle": "Cavatelli con bottarga y tomates cherry",
+      "originalYield": "4 persone",
+      "pdfPage": 89,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7880329c1f2eabcc1aa7431f493abe7709776f61f5bf4b2a49ef24c641ac072d",
+        "previousAppSha256": "7880329c1f2eabcc1aa7431f493abe7709776f61f5bf4b2a49ef24c641ac072d",
+        "reviewedDigest": "4340aacc453340158af3f55d62e68aa6bdfa7b051d6627827a0545721f02225b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min",
+      "reviewedRecordSha256": "4340aacc453340158af3f55d62e68aa6bdfa7b051d6627827a0545721f02225b",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/cavatelli-con-bottarga-y-tomates-cherry.html",
+      "steps": [
+        "Versare l'acqua nella fontana di semola con il sale; lavorare prima con la forchetta, poi a mano fino a ottenere un impasto liscio. Lasciare riposare 30 minuti.",
+        "Dividere a metà i pomodorini. Scaldare olio, aglio schiacciato e peperoncino per qualche minuto; unire i pomodori, sale e pepe e cuocere 5 minuti.",
+        "Dividere l'impasto in tre, formare cordoni di circa 2 cm, tagliare pezzi di 1 cm e trascinarli con un coltello arrotondato premendo. Disporli su un vassoio spolverato di semola.",
+        "Lessare in acqua salata, finire nel sugo con acqua di cottura se occorre. Servire con bottarga grattugiata e basilico."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
     }
   ]
 }
