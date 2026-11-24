@@ -23365,6 +23365,1147 @@
         "Unire il Tabasco e amalgamare, regolando secondo il gusto."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "1 h 30 min",
+      "description": "Revisione editoriale della fonte originale: Arrosto di tacchino in pentola.",
+      "id": "GZ-01128",
+      "ingredients": [
+        "Fesa di tacchino 800 g",
+        "Rosmarino 1 rametto",
+        "Alloro 2 foglie",
+        "Vino bianco secco 200 g",
+        "Olio extravergine di oliva 2 cucchiai",
+        "Aglio 2 spicchi in camicia",
+        "Sale q.b.",
+        "Pepe nero q.b.",
+        "Cipolla rossa 50 g (mezza)",
+        "Carota 90 g",
+        "Sedano 25 g",
+        "Prezzemolo q.b.",
+        "Acqua 1 l",
+        "Farina 00 15 g",
+        "Burro 40 g"
+      ],
+      "name": "Arrosto di tacchino in pentola",
+      "notes": [
+        "Arrosto intero in frigo in contenitore chiuso massimo 2 giorni, fondo frullato separatamente. Scaldare le fette nel fondo o carne al microonde con poco olio e fondo a parte.",
+        "Nota di sicurezza distinta dalla fonte: verificare con termometro almeno 74 °C al cuore del pollame; prolungare la cottura se necessario (FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 24/11/2026)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 30 min",
+        "prep": "15 min",
+        "rest": "30 min di marinatura in frigo; raffreddamento prima del taglio non quantificato"
+      },
+      "originalTitle": "Asado de pavo en olla",
+      "originalYield": "4 persone",
+      "pdfPage": 293,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "722b76dfd5163311461861af74a4a94ffc918712a2d733eed22ce40078e8de66",
+        "previousAppSha256": "722b76dfd5163311461861af74a4a94ffc918712a2d733eed22ce40078e8de66",
+        "reviewedDigest": "5dae95c38d53b4d563194052cfe272c27bc19da67e3b4cb5f266cac48fdaa8e0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min di marinatura in frigo; raffreddamento prima del taglio non quantificato",
+      "reviewedRecordSha256": "5dae95c38d53b4d563194052cfe272c27bc19da67e3b4cb5f266cac48fdaa8e0",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/asado-de-pavo-en-olla.html",
+      "steps": [
+        "Legare la fesa inserendo nello spago rosmarino e alloro lavati e asciugati; mettere in pentola con vino, olio, aglio, sale e pepe, girare per condirla.",
+        "Aggiungere cipolla pulita, sedano, carota e prezzemolo. Coprire e marinare in frigo 30 minuti, girando la carne dopo 15.",
+        "Portare a fuoco medio per far evaporare l'alcol; aggiungere acqua fino a coprire la carne, chiudere e cuocere a fiamma bassa altri 60 minuti o finché il liquido scende sotto metà della carne.",
+        "Togliere la fesa, frullare il fondo con farina e restringerlo a fiamma bassa qualche minuto.",
+        "Sciogliere il burro in pentola, dorare la carne 2 minuti per lato, farla raffreddare, togliere lo spago, affettare e servire col fondo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: Baccalà con i ceci.",
+      "id": "GZ-01470",
+      "ingredients": [
+        "Baccalà dissalato 540 g",
+        "Ceci precotti 400 g",
+        "Pomodori pelati 400 g",
+        "Acqua 180 g",
+        "Cipolla rossa 70 g",
+        "Peperoncino fresco piccolo 1",
+        "Rosmarino, salvia, olio EVO, sale e pepe q.b.",
+        "Timo q.b. per decorare"
+      ],
+      "name": "Baccalà con i ceci",
+      "notes": [
+        "Frigorifero fino a due giorni, non congelare. La fonte suggerisce facoltativamente 0,7 oz di vino rosso nel soffritto e pane all'aglio come accompagnamento."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Cod with chickpeas",
+      "originalYield": "3 persone",
+      "pdfPage": 315,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b91410bb62bd63bc81f6fd0f713452633e6de3c1fbef8455fb461762c120cea4",
+        "previousAppSha256": "b91410bb62bd63bc81f6fd0f713452633e6de3c1fbef8455fb461762c120cea4",
+        "reviewedDigest": "c3e185e5de037b75f8b17b494599b14bf627a16210df6dc6d7d096dc995562f9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "c3e185e5de037b75f8b17b494599b14bf627a16210df6dc6d7d096dc995562f9",
+      "serves": "3 persone",
+      "source": "https://www.giallozafferano.com/recipes/cod-with-chickpeas.html",
+      "steps": [
+        "Dividere il baccalà in sei pezzi di spessore uniforme; affettare la cipolla e tritare peperoncino e aromi.",
+        "Soffriggere cipolla, peperoncino, rosmarino e salvia in olio per un paio di minuti. Aggiungere pelati, ceci scolati e acqua; regolare sale e pepe, coprire e cuocere a fiamma alta per 10 minuti.",
+        "Disporre il pesce nel condimento, coprire e proseguire a fiamma media per 10 minuti.",
+        "Prelevare circa 6,3 oz di condimento, frullarlo e rimetterlo in pentola. Cuocere scoperto a fiamma alta per altri 10 minuti, muovendo la pentola senza rompere il pesce; completare con timo e servire caldo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "Non previsto",
+      "description": "Revisione editoriale della fonte originale: Finta maionese senza uova.",
+      "id": "GZ-03668",
+      "ingredients": [
+        "BASE: olio di semi di girasole 100 ml",
+        "Latte di soia 50 ml",
+        "Sale fino 1 pizzico",
+        "Aceto 1 cucchiaio",
+        "BARBABIETOLA: olio di semi di girasole 100 ml",
+        "Latte di soia 50 ml",
+        "Barbabietola precotta 100 g",
+        "Sale fino 1 pizzico",
+        "Aceto 1 cucchiaio",
+        "SENAPE: olio di semi di girasole 100 ml",
+        "Latte di soia 50 ml",
+        "Senape 50 g",
+        "Sale fino 1 pizzico",
+        "Aceto 1 cucchiaio",
+        "POMODORO: olio di semi di girasole 100 ml",
+        "Latte di soia 50 ml",
+        "Concentrato di pomodoro 40 g",
+        "Aceto 1 cucchiaio",
+        "Sale fino 1 pizzico",
+        "ERBA CIPOLLINA: olio di semi di girasole 100 ml",
+        "Latte di soia 50 ml",
+        "Erba cipollina 8 g",
+        "Aceto 1 cucchiaio",
+        "Sale fino 1 pizzico"
+      ],
+      "name": "Finta maionese senza uova",
+      "notes": [
+        "Formule alternative indipendenti: non sommare le dosi. Frigo coperta 4–5 giorni secondo la fonte; congelabile e scongelabile in frigo. Curcuma 1 cucchiaino facoltativa; variante non vegana con latte intero e olio d'oliva nelle medesime proporzioni.",
+        "La fonte dichiara 100 ml per l'erba cipollina accanto a un valore in cucchiai incongruente: mantenuta l'unità metrica dichiarata, senza conversione."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "Non previsto",
+        "prep": "5 min",
+        "rest": "Non previsto"
+      },
+      "originalTitle": "Fake mayonnaise without eggs",
+      "originalYield": "Circa 150 g per la base; resa varianti non dichiarata",
+      "pdfPage": 804,
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8668829872d347320d2cec986a8abbf68723624dd66ae8affbeea1bde477d049",
+        "previousAppSha256": "8668829872d347320d2cec986a8abbf68723624dd66ae8affbeea1bde477d049",
+        "reviewedDigest": "f209e3f507e32a3c46fabaca11478c5d1e7fd67bb6d5ac0a0c77e78655feaddc"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "f209e3f507e32a3c46fabaca11478c5d1e7fd67bb6d5ac0a0c77e78655feaddc",
+      "serves": "Circa 150 g per la base; resa varianti non dichiarata",
+      "source": "https://www.giallozafferano.com/recipes/fake-mayonnaise-without-eggs.html",
+      "steps": [
+        "BASE: mettere nel bicchiere alto latte di soia, olio, sale e aceto (o limone); frullare a velocità media con mixer a immersione fino ad addensamento, trasferire in ciotola.",
+        "BARBABIETOLA: tagliare la barbabietola precotta, mettere nel bicchiere latte di soia, olio, sale e aceto (o limone), aggiungere la barbabietola e frullare a velocità media fino ad addensamento, servire in ciotola.",
+        "SENAPE: preparare una nuova base con latte di soia, olio, sale e aceto (o limone), frullare fino ad addensamento, trasferire in ciotola e incorporare la senape.",
+        "POMODORO: preparare una nuova base con latte di soia, olio, sale e aceto (o limone), frullare fino ad addensamento, trasferire in ciotola e amalgamare il concentrato.",
+        "ERBA CIPOLLINA: tritare finemente l'erba; frullare latte di soia, olio, sale e aceto (o limone) fino ad addensamento, trasferire in ciotola e incorporare l'erba."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Anelli di calamari al forno.",
+      "id": "GZ-01461",
+      "ingredients": [
+        "Calamari medi 750 g",
+        "Pangrattato 150 g",
+        "Paprika dolce 20 g",
+        "Olio EVO q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Anelli di calamari al forno",
+      "notes": [
+        "Consumare subito oppure conservare in frigorifero per non più di un giorno. Congelare gli anelli impanati crudi solo se i calamari erano freschi, non decongelati.",
+        "Alternative indicate: curry, menta, prezzemolo o coriandolo nella panatura."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Baked calamari rings",
+      "originalYield": "4 persone",
+      "pdfPage": 308,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "fdab19d38e5a87b68b2a203065aee3e1306cc63109c6dadd687c79cc27cd49a2",
+        "previousAppSha256": "fdab19d38e5a87b68b2a203065aee3e1306cc63109c6dadd687c79cc27cd49a2",
+        "reviewedDigest": "9d5cb6a0d768c94d1114f0d5f33546588b447361505b720df47cd9d153a17cd6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "9d5cb6a0d768c94d1114f0d5f33546588b447361505b720df47cd9d153a17cd6",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/baked-calamari-rings.html",
+      "steps": [
+        "Pulire i calamari e tagliare i mantelli in anelli di circa ¾ di pollice.",
+        "Mescolare pangrattato, paprika e sale, quindi rivestire bene gli anelli con il composto.",
+        "Distribuirli in un solo strato sulla teglia, senza sovrapporli, e condire con olio.",
+        "Cuocere in forno statico preriscaldato a 350 °F per 25 minuti; passare alla ventilazione per altri 5 minuti, fino a doratura. Servire caldo."
+      ],
+      "temperature": "350 °F statico; ultimi 5 min ventilato"
+    },
+    {
+      "author": "Elena Terrile",
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "1 h 10 min",
+      "description": "Revisione editoriale della fonte originale: Arrosto di vitello.",
+      "id": "GZ-01129",
+      "ingredients": [
+        "Girello di vitello 700 g",
+        "Vino rosso 200 g",
+        "Rosmarino 1 rametto",
+        "Olio extravergine di oliva q.b.",
+        "EMULSIONE: olio extravergine di oliva 2 cucchiai",
+        "Aglio 1 spicchio",
+        "Rosmarino 1 rametto",
+        "Sale fino q.b."
+      ],
+      "name": "Arrosto di vitello",
+      "notes": [
+        "Frigo circa 2 giorni; se fondo troppo fluido, la fonte propone 1 cucchiaino d'amido di mais e riduzione sul fuoco. Altre erbe facoltative.",
+        "Nota di sicurezza distinta dalla fonte: verificare con termometro almeno 63 °C al cuore per tagli interi di maiale e vitello e riposo di 3 minuti (FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 24/11/2026)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 10 min",
+        "prep": "20 min",
+        "rest": "10 min in frigorifero + 10 min dopo cottura"
+      },
+      "originalTitle": "Asado de ternera",
+      "originalYield": "4 persone",
+      "pdfPage": 294,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "164e4d1abb7a32b585531d323127782462a5a5eebb8b6e19d093826dccc5d58a",
+        "previousAppSha256": "164e4d1abb7a32b585531d323127782462a5a5eebb8b6e19d093826dccc5d58a",
+        "reviewedDigest": "c5b74779f02d6b79476044b67c63f2e89453b73c460558bd97f81edb9d0a1012"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "10 min in frigorifero + 10 min dopo cottura",
+      "reviewedRecordSha256": "c5b74779f02d6b79476044b67c63f2e89453b73c460558bd97f81edb9d0a1012",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/asado-de-ternera.html",
+      "steps": [
+        "Tritare aglio e aghi di rosmarino, emulsionarli con 2 cucchiai d'olio e sale con una forchetta.",
+        "Legare il girello inserendo un rametto di rosmarino, massaggiare con l'emulsione e riposare in frigorifero 10 minuti.",
+        "Rosolare su tutti i lati in padella calda unta; trasferire in teglia ben unta col fondo e cuocere in forno statico preriscaldato a 150 °C circa 20 minuti.",
+        "Bagnare con vino rosso e proseguire altri 40 minuti a 150 °C coperto con alluminio, irrorando un paio di volte durante la cottura.",
+        "Sfornare e far riposare circa 10 minuti, togliere lo spago, affettare e servire col fondo."
+      ],
+      "temperature": "150 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Baccalà al forno.",
+      "id": "GZ-01466",
+      "ingredients": [
+        "Baccalà dissalato 680 g",
+        "Cavoletti di Bruxelles 250 g",
+        "Rosmarino 2 rametti",
+        "Salvia 1 rametto",
+        "Porro ½",
+        "Senape 40 g",
+        "Vino bianco 90 g",
+        "Olio EVO 90 g",
+        "Sale fino e pepe nero q.b."
+      ],
+      "name": "Baccalà al forno",
+      "notes": [
+        "Conservare in frigorifero al massimo un giorno; non congelare. La fonte suggerisce verdure di stagione, ad esempio sedano rapa o zucca, e birra in alternativa al vino. Dissalare il pesce prima dell'impiego se necessario."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Baked cod",
+      "originalYield": "4 persone",
+      "pdfPage": 311,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "799fddc1330f3b56dcde02c6ba2b3c18dc1792803020d653dacf262739ea6899",
+        "previousAppSha256": "799fddc1330f3b56dcde02c6ba2b3c18dc1792803020d653dacf262739ea6899",
+        "reviewedDigest": "9c9b5dbab3ecdd14818970a16c1b9371398f8ac6db87b8202b1e5131d82d341f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "9c9b5dbab3ecdd14818970a16c1b9371398f8ac6db87b8202b1e5131d82d341f",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/baked-cod.html",
+      "steps": [
+        "Tagliare il baccalà in quattro tranci; pulire e affettare il porro. Eliminare le foglie rovinate dei cavoletti e dividerli a metà. Tritare salvia e rosmarino.",
+        "Frullare vino, senape, olio e metà delle erbe per ottenere un'emulsione. Condire le verdure con parte dell'emulsione e poco sale, considerando la sapidità del pesce.",
+        "Ungere leggermente una teglia e sistemarvi le verdure; adagiare il baccalà al centro, versare l'emulsione restante e completare con pepe e le altre erbe.",
+        "Cuocere in forno statico preriscaldato a 392 °F per 35–40 minuti, secondo le dimensioni dei tranci. Servire caldo."
+      ],
+      "temperature": "392 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "1 h 25 min",
+      "description": "Revisione editoriale della fonte originale: Arista di maiale al latte.",
+      "id": "GZ-01121",
+      "ingredients": [
+        "Arista di maiale lardellata 1 kg",
+        "Latte intero 430 g",
+        "Cipolla bianca 120 g",
+        "Vino bianco 115 g",
+        "Alloro 2 foglie",
+        "Salvia 1 rametto",
+        "Rosmarino 1 rametto",
+        "Burro 45 g",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Arista di maiale al latte",
+      "notes": [
+        "Frigorifero per 2 giorni, preferibilmente separando salsa e carne. Possibile arista non lardellata.",
+        "Nota di sicurezza distinta dalla fonte: verificare con termometro almeno 63 °C al cuore per tagli interi di maiale e vitello e riposo di 3 minuti (FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 24/11/2026)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 25 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Pork arista with milk",
+      "originalYield": "6 persone",
+      "pdfPage": 292,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1919faa3ea92bbc4db08b1c30e9706caf21998c05bc8d8ce02e07a7497dcb767",
+        "previousAppSha256": "1919faa3ea92bbc4db08b1c30e9706caf21998c05bc8d8ce02e07a7497dcb767",
+        "reviewedDigest": "9ac22c4123104d2d1e83c3e6ce7174f2920a9743cf2e89c2f7b4ad5f3c442496"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "9ac22c4123104d2d1e83c3e6ce7174f2920a9743cf2e89c2f7b4ad5f3c442496",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/Pork-arista-with-milk.html",
+      "steps": [
+        "Affettare la cipolla a julienne e farla appassire a fiamma bassa in olio e poco sale.",
+        "Massaggiare con sale l'arista lardellata già legata con il rosmarino; rosolarla su tutti i lati in un'altra padella con olio.",
+        "Sfumare il fondo con vino e ridurre leggermente. Versarlo nella padella delle cipolle, con salvia e alloro.",
+        "Aggiungere carne e latte, coprire e cuocere a fuoco medio-basso per 70 minuti.",
+        "Tenere la carne al caldo coperta; togliere le erbe dal fondo, frullare e incorporare il burro. Se la salsa è troppo fluida, restringerla a fuoco medio per circa 10 minuti.",
+        "Togliere lo spago, affettare e servire con la salsa cremosa."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Cesare Battisti",
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "60 min; dipende dalla pezzatura",
+      "description": "Revisione editoriale della fonte originale: Arista di maiale arrosto.",
+      "id": "GZ-01122",
+      "ingredients": [
+        "Carré di maiale 1,3 kg",
+        "Patate 500 g",
+        "Vino bianco 1 bicchiere",
+        "Brodo vegetale q.b.",
+        "Olio extravergine di oliva 4 cucchiai",
+        "Aglio 1 spicchio",
+        "Rosmarino 10 g",
+        "Timo 10 g",
+        "Salvia 10 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Arista di maiale arrosto",
+      "notes": [
+        "Consumo immediato o frigo massimo 1 giorno; sconsigliato congelamento. Preferire un carré non troppo magro.",
+        "Nota di sicurezza distinta dalla fonte: verificare con termometro almeno 63 °C al cuore per tagli interi di maiale e vitello e riposo di 3 minuti (FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 24/11/2026). Scegliere nella finestra indicata dalla fonte una temperatura non inferiore a 63 °C."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min; dipende dalla pezzatura",
+        "prep": "30 min",
+        "rest": "3–4 min dopo la cottura"
+      },
+      "originalTitle": "Lomo de cerdo asado",
+      "originalYield": "4 persone",
+      "pdfPage": 292,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f80e4d280ff9a3a6c964e1261c374e4bae708198d4511b48d3acdc0cff5d0530",
+        "previousAppSha256": "f80e4d280ff9a3a6c964e1261c374e4bae708198d4511b48d3acdc0cff5d0530",
+        "reviewedDigest": "99e1ecc8116b73779342e17c7adc19754ce8d1b8cf6a5480806bfb386a5a3319"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "3–4 min dopo la cottura",
+      "reviewedRecordSha256": "99e1ecc8116b73779342e17c7adc19754ce8d1b8cf6a5480806bfb386a5a3319",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/lomo-de-cerdo-asado.html",
+      "steps": [
+        "Tritare grossolanamente una parte di timo, salvia e rosmarino, riservando il resto. Incidere la copertura del carré senza staccarla, aprirla, inserire le erbe tritate, salare e pepare.",
+        "Richiudere e legare con spago lungo il pezzo, fissando la copertura e formando anelli tra le costole.",
+        "Rosolare su tutti i lati in padella con olio senza bucare la carne; sfumare con vino, trasferire il carré in teglia, conservare il fondo.",
+        "Lavare e asciugare le patate, tagliarle a spicchi omogenei, disporle in teglia e salarle; non aggiungere altro olio alle patate. Cuocere a 180 °C circa 15 minuti.",
+        "Aggiungere aglio in camicia schiacciato, le erbe rimaste tritate e brodo attorno alla carne. Proseguire a 180 °C circa 40–50 minuti; controllare con termometro, la fonte indica 62–65 °C al cuore.",
+        "Trasferire la carne sul tagliere, coprire con alluminio, riposare 3–4 minuti. Ridurre il fondo conservato a fuoco basso, eliminare lo spago, tagliare seguendo le costole e servire con patate e fondo."
+      ],
+      "temperature": "180 °C; la fonte indica 62–65 °C al cuore"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "5 min (metadato); 5–6 min nel procedimento",
+      "description": "Revisione editoriale della fonte originale: Hummus di pomodorini.",
+      "id": "GZ-03853",
+      "ingredients": [
+        "Pomodorini 350 g",
+        "Ceci precotti 470 g",
+        "Tahina 30 g",
+        "Semi di sesamo 10 g",
+        "Aglio 2 spicchi in camicia",
+        "Zucchero 5 g",
+        "Olio extravergine di oliva q.b.",
+        "Origano secco q.b.",
+        "Sale q.b.",
+        "Pepe q.b."
+      ],
+      "name": "Hummus di pomodorini",
+      "notes": [
+        "Conservare in frigorifero, in contenitore ermetico con superficie coperta d'olio, 3–4 giorni secondo la fonte; non congelare.",
+        "La fonte propone più sesamo al posto della tahina e permette di variare le spezie; la consistenza dipende dall'acqua dei pomodori. Variante distinta dell'hummus."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min (metadato); 5–6 min nel procedimento",
+        "prep": "10 min",
+        "rest": "Non previsto"
+      },
+      "originalTitle": "Cherry Tomato Hummus",
+      "originalYield": "6 porzioni (30 oz secondo la fonte)",
+      "pdfPage": 287,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8784945766d2f62ba1f788b904c25b2146a6e6e3038a12da5243fe02baae413c",
+        "previousAppSha256": "8784945766d2f62ba1f788b904c25b2146a6e6e3038a12da5243fe02baae413c",
+        "reviewedDigest": "7af8aa37204630aa39b01a4e2712483a4c950644ba7c142881da047f1d4c89c0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "7af8aa37204630aa39b01a4e2712483a4c950644ba7c142881da047f1d4c89c0",
+      "serves": "6 porzioni (30 oz secondo la fonte)",
+      "source": "https://www.giallozafferano.com/recipes/cherry-tomato-hummus.html",
+      "steps": [
+        "Lavare i pomodorini. Scaldare un filo d'olio in padella con gli spicchi d'aglio in camicia; cuocere i pomodorini con sale, zucchero e origano per 5–6 minuti.",
+        "Eliminare l'aglio e tenere da parte alcuni pomodorini per la guarnizione.",
+        "Frullare i ceci precotti con i pomodorini cotti e la tahina. Unire sale, pepe, olio, sesamo e origano e lavorare fino a ottenere una crema liscia.",
+        "Servire in una ciotola con i pomodorini riservati, semi di sesamo e un filo d'olio."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: Straccetti di pollo alla sorrentina.",
+      "id": "GZ-01423",
+      "ingredients": [
+        "Petto di pollo 500 g",
+        "Passata di pomodoro 300 g",
+        "Mozzarella 100 g",
+        "Scalogno 1",
+        "Basilico 4 foglie",
+        "Farina 00 q.b.",
+        "Parmigiano Reggiano DOP grattugiato 20 g",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Acqua 1 mestolo (nel metodo)"
+      ],
+      "name": "Straccetti di pollo alla sorrentina",
+      "notes": [
+        "Frigo 1–2 giorni in recipiente coperto; salsa preparabile il giorno prima, riscaldare in forno. Congelabile se usati ingredienti freschi. Scamorza alternativa; senza farina la fonte propone cottura diretta nella salsa raddoppiando il tempo.",
+        "Nota di sicurezza distinta dalla fonte: verificare con termometro almeno 74 °C al cuore del pollame; prolungare la cottura se necessario (FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 24/11/2026)."
+      ],
+      "origin": "Italia — ispirazione sorrentina dichiarata dalla fonte.",
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "20 min",
+        "rest": "Non previsto"
+      },
+      "originalTitle": "Chicken strips alla sorrentina",
+      "originalYield": "4 persone",
+      "pdfPage": 303,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "96c8bdc1df9e706948894d9c27f20d48e5f246323ba79ceae5fc2131edbae679",
+        "previousAppSha256": "96c8bdc1df9e706948894d9c27f20d48e5f246323ba79ceae5fc2131edbae679",
+        "reviewedDigest": "0510ea4c8c2573bdfdc9ceec8e6b08113d442423f673426970c702844efbb771"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "0510ea4c8c2573bdfdc9ceec8e6b08113d442423f673426970c702844efbb771",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Chicken-strips-alla-sorrentina.html",
+      "steps": [
+        "Tritare lo scalogno e farlo appassire a fuoco basso in olio mescolando; unire passata, sale e un mestolo d'acqua, coprire e cuocere a fuoco medio 20 minuti.",
+        "Tagliare il pollo in strisce spesse circa 1 cm e pezzi lunghi circa 5 cm; infarinarli e disporli su carta forno.",
+        "Rosolare il pollo in olio a fiamma alta 2–3 minuti girandolo; quando è dorato salare, aggiungere la salsa e cuocere altri 2 minuti, spegnere.",
+        "Unire mozzarella a cubetti non scolata, basilico spezzettato e pepe, mescolare e trasferire in pirofila; cospargere di Parmigiano.",
+        "Gratinare in forno preriscaldato sotto il grill a 240 °C per 8–10 minuti o fino a crosta leggermente dorata e mozzarella fusa; servire caldo."
+      ],
+      "temperature": "Grill 240 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "50 min",
+      "description": "Revisione editoriale della fonte originale: Cotechino con lenticchie.",
+      "id": "GZ-01200",
+      "ingredients": [
+        "Cotechino precotto 300 g",
+        "LENTICCHIE: lenticchie secche 300 g",
+        "Sedano 1 costa",
+        "Carota media 1",
+        "Cipolla bianca 1",
+        "Olio extravergine di oliva 35 g",
+        "Alloro 3 foglie",
+        "Rosmarino 2 rametti",
+        "Brodo vegetale 500 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Cotechino con lenticchie",
+      "notes": [
+        "Cotechino raffreddato in frigo in recipiente ermetico 2–3 giorni secondo la fonte. Possibile accompagnamento con purè."
+      ],
+      "origin": "Italia — abbinamento tradizionale di fine anno; cotechino tipico di Modena secondo la fonte.",
+      "originalTimes": {
+        "cook": "50 min",
+        "prep": "15 min",
+        "rest": "Ammollo lenticchie 2 h"
+      },
+      "originalTitle": "Cotechino (Pork sausage) with lentils",
+      "originalYield": "4 persone",
+      "pdfPage": 299,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "834a765d4eb5b6f9367e603784845db421512e78a785b7483c7dc30ab04a21b7",
+        "previousAppSha256": "834a765d4eb5b6f9367e603784845db421512e78a785b7483c7dc30ab04a21b7",
+        "reviewedDigest": "e688a67779dfb493862da485196ea2e7ee57884176e656993981f7dd62577421"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Ammollo lenticchie 2 h",
+      "reviewedRecordSha256": "e688a67779dfb493862da485196ea2e7ee57884176e656993981f7dd62577421",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/cotechino-pork-sausage-with-lentils.html",
+      "steps": [
+        "Ammollare le lenticchie in acqua fredda per 2 ore, scolarle e sciacquarle. Cuocere il cotechino secondo la confezione: la fonte indica circa 20 minuti dall'ebollizione, partendo da acqua fredda.",
+        "Tritare carota, sedano e cipolla, soffriggerli nell'olio un paio di minuti, aggiungere le lenticchie.",
+        "Salare, pepare, unire alloro e rosmarino legati insieme, coprire con brodo caldo e cuocere almeno 20 minuti secondo la consistenza desiderata, aggiungendo brodo se serve.",
+        "Eliminare gli aromi, tenere le lenticchie al caldo. Scolare il cotechino, aprire con cautela l'involucro, togliere la pelle e affettarlo; servire caldo con le lenticchie."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Vanessa Gizzi",
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Insalata di riso vegetariana.",
+      "id": "GZ-00245",
+      "ingredients": [
+        "INSALATA: riso per insalate 300 g",
+        "Pomodorini ciliegino 250 g",
+        "Mozzarella 200 g",
+        "Mais sgocciolato 120 g",
+        "Basilico q.b.",
+        "PESTO: basilico 100 g",
+        "Olio extravergine di oliva 100 g",
+        "Pinoli 50 g",
+        "Parmigiano Reggiano DOP 25 g",
+        "Pecorino Romano DOP 25 g",
+        "Aglio 1 spicchio (facoltativo)",
+        "Sale: presente nel metodo, quantità non dichiarata"
+      ],
+      "name": "Insalata di riso vegetariana",
+      "notes": [
+        "La fonte propone riso integrale, mozzarella di bufala o olive nere; nel commento suggerisce anche i ceci al posto del mais.",
+        "La fonte indica 2 giorni in frigorifero per l'insalata e circa 4 giorni per il pesto coperto d'olio. Per la sicurezza del riso cotto seguire invece l'indicazione più prudente FSA: raffreddare rapidamente, idealmente entro un'ora, refrigerare e consumare entro 24 ore (https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker#rice, consultato 24/11/2026)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": "Almeno 30 min di scolatura del riso"
+      },
+      "originalTitle": "Insalata di riso vegetariana",
+      "originalYield": "4 persone",
+      "pdfPage": 116,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "2c7dc2765b110e65f522fcc8cc23d5e9acadf134f3d78af3a289ff10b4457a5e",
+        "previousAppSha256": "2c7dc2765b110e65f522fcc8cc23d5e9acadf134f3d78af3a289ff10b4457a5e",
+        "reviewedDigest": "eaf4091c433eab973845683b39df980bfd265f68bd2ff214ab34e85a463caaa1"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 30 min di scolatura del riso",
+      "reviewedRecordSha256": "eaf4091c433eab973845683b39df980bfd265f68bd2ff214ab34e85a463caaa1",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Insalata-di-riso-vegetariana.html",
+      "steps": [
+        "Lessare il riso in abbondante acqua salata e scolarlo al dente. Raffreddarlo sotto acqua corrente fredda per fermare la cottura; lasciarlo scolare almeno mezz'ora, mescolandolo di tanto in tanto.",
+        "Lavare e tamponare le foglie di basilico. Frullarle a impulsi con l'olio, i pinoli, i due formaggi grattugiati e, se gradito, l'aglio. Trasferire il pesto in un contenitore e tenerlo in frigorifero fino all'utilizzo.",
+        "Tagliare la mozzarella a cubetti e lasciarla sgocciolare. Lavare i pomodorini e dividerli in quarti; scolare il mais.",
+        "Unire il pesto al riso freddo e mescolare. Incorporare pomodorini, mozzarella e mais; regolare il sale e completare con basilico fresco."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Involtini di verza ripieni.",
+      "id": "GZ-00043",
+      "ingredients": [
+        "Verza 8 foglie",
+        "Macinato di maiale 400 g",
+        "Salsiccia 200 g",
+        "Porro 150 g",
+        "Carota 70 g",
+        "Parmigiano Reggiano DOP 35 g",
+        "Pancetta affumicata 180 g",
+        "Vino bianco 50 g",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Timo q.b."
+      ],
+      "name": "Involtini di verza ripieni",
+      "notes": [
+        "Frigo 1 giorno. Cipollotto o scalogno al posto del porro, formaggio facoltativo; foglie rimaste saltate con olio, aglio e peperoncino.",
+        "Nota di sicurezza distinta: verificare macinato e salsiccia ad almeno 71 °C al cuore del ripieno con termometro (FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 24/11/2026)."
+      ],
+      "origin": "Italia, Piemonte — Capunet secondo la presentazione della fonte.",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": "Intiepidimento del ripieno non quantificato"
+      },
+      "originalTitle": "Cabbage Rolls Stuffed",
+      "originalYield": "8 porzioni, 8 involtini",
+      "pdfPage": 301,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "393e598c7c383d924097ca7ca9d9b29af10d3fa15aa1f981f4938e8d7bcc47e5",
+        "previousAppSha256": "393e598c7c383d924097ca7ca9d9b29af10d3fa15aa1f981f4938e8d7bcc47e5",
+        "reviewedDigest": "97e9e16ba13b6a0c0b57d20ed4434c44512ca3a4706ab3935b430b4dffb90e74"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Intiepidimento del ripieno non quantificato",
+      "reviewedRecordSha256": "97e9e16ba13b6a0c0b57d20ed4434c44512ca3a4706ab3935b430b4dffb90e74",
+      "serves": "8 porzioni, 8 involtini",
+      "source": "https://www.giallozafferano.com/recipes/cabbage-rolls-stuffed.html",
+      "steps": [
+        "Spellare e sbriciolare la salsiccia, affettare il porro pulito, ridurre la carota a dadini; appassire le verdure in olio a fuoco basso qualche minuto.",
+        "Unire salsiccia e macinato, cuocere 10 minuti mescolando. Trasferire il ragù in ciotola, unire Parmigiano, sale, pepe e timo, mescolare e intiepidire.",
+        "Lavare 8 grandi foglie chiare di verza, lessarle in acqua salata 5 minuti, scolarle, raffreddarle in acqua fredda. Asciugare e togliere l'estremità dura.",
+        "Mettere al centro 2–3 cucchiai abbondanti di ripieno, ripiegare i lati e arrotolare. Avvolgere ciascun involtino con 2 fette di pancetta leggermente sovrapposte.",
+        "Rosolare gli involtini qualche minuto su tutti i lati in padella con olio. Tenerli da parte, sfumare la padella col vino e mescolare emulsionando i grassi in una salsa densa. Servire caldi con il fondo."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "1 h 30 min",
+      "description": "Revisione editoriale della fonte originale: Arrosto di maiale alla birra.",
+      "id": "GZ-01125",
+      "ingredients": [
+        "Arista di maiale 1,8 kg",
+        "Birra bionda 1 l",
+        "Cipolla 1",
+        "Carota 1",
+        "Sedano 2 coste",
+        "Aglio 1 spicchio",
+        "Olio extravergine di oliva 4 cucchiai",
+        "Salvia 3 foglie",
+        "Rosmarino 1 rametto",
+        "Semi di finocchio 1 cucchiaino",
+        "Bacche di ginepro q.b.",
+        "Pepe nero q.b.",
+        "Sale fino q.b.",
+        "Pancetta a fette 50 g",
+        "Farina 00 1 cucchiaio",
+        "Acqua per la farina, quantità non dichiarata"
+      ],
+      "name": "Arrosto di maiale alla birra",
+      "notes": [
+        "La fonte elenca 4 cucchiai d'olio, 3 nella rosolatura; non precisa l'uso del restante. Il test dello stecchino non sostituisce il termometro. Nota di sicurezza distinta dalla fonte: verificare con termometro almeno 63 °C al cuore per tagli interi di maiale e vitello e riposo di 3 minuti (FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 24/11/2026).",
+        "Frigo in recipiente ermetico circa 2 giorni; conservare l'osso per limitare l'asciugatura. Alternativa in forno a 350°F; possibile costato/spalla di maiale o controfiletto di manzo."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 30 min",
+        "prep": "20 min",
+        "rest": "Marinatura circa 12 h in frigorifero"
+      },
+      "originalTitle": "Beer-Braised Pork Roast",
+      "originalYield": "4 persone",
+      "pdfPage": 293,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "5f7cb003e4ae5c86b1288dea875e17aae2d501f1b5e0f2b2d547629f74e256c7",
+        "previousAppSha256": "5f7cb003e4ae5c86b1288dea875e17aae2d501f1b5e0f2b2d547629f74e256c7",
+        "reviewedDigest": "561bcbc90c3600014034e0c5e09fc6a500e3afb3ec3dfde9c570bca49e7efd8d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Marinatura circa 12 h in frigorifero",
+      "reviewedRecordSha256": "561bcbc90c3600014034e0c5e09fc6a500e3afb3ec3dfde9c570bca49e7efd8d",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/beer-braised-pork-roast.html",
+      "steps": [
+        "Avvolgere l'arista con la pancetta, legarla inserendo il rosmarino. Tagliare cipolla, carota e sedano a pezzi; metterli con carne, birra, ginepro e pepe in grani. Coprire e marinare una notte in frigorifero.",
+        "Scolare e asciugare la carne conservando la marinata. Tritare salvia, aglio e rosmarino, aggiungere semi di finocchio, sale e pepe e massaggiare l'arista.",
+        "Rosolare su tutti i lati in padella con 3 cucchiai d'olio, aggiungere le verdure sgocciolate e cuocere 10 minuti; unire la marinata un mestolo alla volta.",
+        "Proseguire a fiamma bassa girando la carne; dopo circa un'ora controllare la cottura. Frullare il fondo, filtrarlo e ridurlo sul fuoco regolando il sale.",
+        "Sciogliere un cucchiaio scarso di farina in poca acqua e incorporare al fondo per addensarlo; affettare e servire con la riduzione."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "1 h 20 min",
+      "description": "Revisione editoriale della fonte originale: Arrosto al latte.",
+      "id": "GZ-01123",
+      "ingredients": [
+        "Noce di vitello 1 kg",
+        "Latte intero 1 l",
+        "Vino bianco secco 100 ml",
+        "Burro 70 g",
+        "Carota 1",
+        "Cipolla 1",
+        "Sedano 1 costa",
+        "Alloro 2 foglie",
+        "Aglio 2 spicchi",
+        "Farina 00 1 cucchiaio",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Acqua fredda 2 cucchiai (nel metodo)"
+      ],
+      "name": "Arrosto al latte",
+      "notes": [
+        "La fonte propone il test dello stecchino e dei succhi: non sostituisce il termometro. Nota di sicurezza distinta dalla fonte: verificare con termometro almeno 63 °C al cuore per tagli interi di maiale e vitello e riposo di 3 minuti (FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 24/11/2026).",
+        "Frigorifero in contenitore ermetico per 2–3 giorni; congelabile se usati ingredienti freschi. La fonte propone anche fesa di tacchino o erbe aromatiche."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 20 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Roast with Milk",
+      "originalYield": "4 persone",
+      "pdfPage": 296,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "98d183e7c2e1d4713d7c5d4758c5f2edb54e1eafcde72bf807828a6847e41d90",
+        "previousAppSha256": "98d183e7c2e1d4713d7c5d4758c5f2edb54e1eafcde72bf807828a6847e41d90",
+        "reviewedDigest": "8232f98b73937c016675af24d45ab6c6417f15381c3a12fd7fb9006c9820fa3a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "8232f98b73937c016675af24d45ab6c6417f15381c3a12fd7fb9006c9820fa3a",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/roast-with-milk.html",
+      "steps": [
+        "Ripulire il vitello da cartilagini e grasso in eccesso e legarlo. Tritare finemente sedano, carota e cipolla.",
+        "Sciogliere 30 g di burro in casseruola e rosolare la carne su tutti i lati; toglierla.",
+        "Nel burro rimanente far appassire il trito, aggiungere aglio e alloro, rimettere il vitello e sfumare col vino. Evaporato il vino, salare e pepare.",
+        "Versare il latte già caldo, coprire e cuocere circa 50 minuti fino a cottura al cuore; togliere carne, aglio e alloro.",
+        "Frullare il fondo. Sciogliere la farina setacciata nell'acqua fredda, incorporarla alla salsa e mescolare con frusta a fuoco basso fino ad addensamento.",
+        "Affettare e servire con la salsa calda."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Luisa Orizio",
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "50 min",
+      "description": "Revisione editoriale della fonte originale: Ali di pollo e patate saporite.",
+      "id": "GZ-01118",
+      "ingredients": [
+        "Ali di pollo 8",
+        "Patate 500 g",
+        "PANATURA: pangrattato 200 g",
+        "Farina 00 50 g",
+        "Parmigiano Reggiano DOP 50 g",
+        "Uova 2",
+        "Prezzemolo q.b.",
+        "Olio extravergine di oliva q.b.",
+        "Sale q.b."
+      ],
+      "name": "Ali di pollo e patate saporite",
+      "notes": [
+        "Conservare in frigorifero 1–2 giorni; la fonte sconsiglia il congelamento. Si può sostituire il prezzemolo con rosmarino. Distinta dalla ricetta delle ali fritte."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "50 min",
+        "prep": "20 min",
+        "rest": "Non previsto"
+      },
+      "originalTitle": "Tasty chicken wings with potatoes",
+      "originalYield": "4 porzioni",
+      "pdfPage": 293,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7b5694f31d9949cfe213d4c5e5611190b0b396e3f4343adb2aade95a133d1bb6",
+        "previousAppSha256": "7b5694f31d9949cfe213d4c5e5611190b0b396e3f4343adb2aade95a133d1bb6",
+        "reviewedDigest": "4fa36b27bfc6c90b58bac1aa8deb54219162c787d214144885d9374d027adf51"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "4fa36b27bfc6c90b58bac1aa8deb54219162c787d214144885d9374d027adf51",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/tasty-chicken-wings-with-potatoes.html",
+      "steps": [
+        "Infarinare le ali su entrambi i lati ed eliminare la farina in eccesso. Mescolare pangrattato, Parmigiano e parte del prezzemolo tritato; sbattere le uova a parte.",
+        "Passare ciascuna ala infarinata nell'uovo e poi nella panatura, premendo per farla aderire.",
+        "Pelare le patate e tagliarle a cubetti. Condirle con olio, sale e la panatura avanzata.",
+        "Sistemare le ali in una teglia, distribuire le patate attorno, condire con olio e sale. Cuocere in forno ventilato preriscaldato a 200 °C per 40 minuti e completare con 10 minuti di grill, fino a doratura e cottura del pollo.",
+        "Completare con il prezzemolo rimanente e servire caldo."
+      ],
+      "temperature": "200 °C ventilato, poi grill"
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "1 h 45 min",
+      "description": "Revisione editoriale della fonte originale: Anatra all'arancia.",
+      "id": "GZ-01120",
+      "ingredients": [
+        "ANATRA: anatra intera pulita 2 kg",
+        "Arancia 5 fette",
+        "Succo d'arancia 50 g",
+        "Liquore all'arancia 100 g",
+        "Vino bianco 100 g",
+        "Acqua 100 g",
+        "Timo q.b.",
+        "Rosmarino 1 rametto",
+        "Burro 40 g",
+        "Olio extravergine di oliva 20 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "SALSA: succo d'arancia 150 g",
+        "Scorze di 2 arance",
+        "Amido di mais 10 g",
+        "PATATE: patate 800 g",
+        "Aglio 3 spicchi",
+        "Rosmarino q.b.",
+        "Olio extravergine di oliva 30 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Anatra all'arancia",
+      "notes": [
+        "Frigorifero in contenitore ermetico 1–2 giorni; congelabile se gli ingredienti erano freschi. Il test dello stecchino con liquido rosato citato dalla fonte non garantisce sicurezza. Nota di sicurezza distinta dalla fonte: verificare con termometro almeno 74 °C al cuore del pollame; prolungare la cottura se necessario (FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 24/11/2026)."
+      ],
+      "origin": "Francia — classica preparazione francese secondo la fonte.",
+      "originalTimes": {
+        "cook": "1 h 45 min",
+        "prep": "30 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Duck with Orange",
+      "originalYield": "4 persone",
+      "pdfPage": 295,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c6b21aed3bc2d4190d840faf50bd912277992913906b85b1d8e3bacf71acf168",
+        "previousAppSha256": "c6b21aed3bc2d4190d840faf50bd912277992913906b85b1d8e3bacf71acf168",
+        "reviewedDigest": "0e778a266bd80a7a42cb42f403d9747b3097ef4c3d1080ad05b0d355e75211a6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "0e778a266bd80a7a42cb42f403d9747b3097ef4c3d1080ad05b0d355e75211a6",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/duck-with-orange.html",
+      "steps": [
+        "Eliminare le piume residue e passare la pelle sulla fiamma; tagliare 5 fette sottili d'arancia con buccia e spremere 50 g di succo.",
+        "Farcire l'anatra con rosmarino, timo e fette d'arancia; salare, pepare e legarla con spago intorno a coda, cosce, ali e collo.",
+        "Rosolare in casseruola di ghisa con olio e burro su tutti i lati; sfumare col vino, far evaporare, unire liquore, succo e acqua.",
+        "Coprire e cuocere in forno statico preriscaldato a 392°F per 90 minuti; ogni 20 minuti irrorare col fondo.",
+        "Lavare le patate, tagliarle a spicchi con buccia, condirle con olio, sale, pepe, rosmarino e aglio; cuocerle su carta forno insieme all'anatra circa 30 minuti fino a doratura. Tenere anatra e patate coperte al caldo.",
+        "Filtrare il fondo. Prelevare le scorze evitando la parte bianca, sbollentarle, scolarle e raffreddarle. Filtrare 150 g di succo e mescolare con l'amido.",
+        "Versare il succo con l'amido nel fondo, portare a ebollizione mescolando finché addensa; spegnere e unire le scorze a listarelle. Servire anatra, salsa e patate."
+      ],
+      "temperature": "392°F, forno statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "Non previsto",
+      "description": "Revisione editoriale della fonte originale: Mousse di prosciutto.",
+      "id": "GZ-00048",
+      "ingredients": [
+        "Prosciutto cotto a fette 200 g",
+        "Ricotta vaccina 100 g",
+        "Panna fresca liquida 100 g",
+        "Timo q.b."
+      ],
+      "name": "Mousse di prosciutto",
+      "notes": [
+        "Consumare entro un giorno, conservando coperto in frigorifero. La fonte suggerisce formaggio spalmabile al posto della ricotta e aromi a piacere."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "Non previsto",
+        "prep": "10 min",
+        "rest": "In frigorifero fino all'uso; durata non dichiarata"
+      },
+      "originalTitle": "Ham mousse",
+      "originalYield": "4 porzioni, circa 400 g",
+      "pdfPage": 289,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "472118c507a599ba71e64639fa247ca31b5e9b47926167a0aef7e5092910375c",
+        "previousAppSha256": "472118c507a599ba71e64639fa247ca31b5e9b47926167a0aef7e5092910375c",
+        "reviewedDigest": "b3cc67cacdaeea6a59b12abd1e197a8a1652b6b84ec281c9e28baeb1b95b8518"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "In frigorifero fino all'uso; durata non dichiarata",
+      "reviewedRecordSha256": "b3cc67cacdaeea6a59b12abd1e197a8a1652b6b84ec281c9e28baeb1b95b8518",
+      "serves": "4 porzioni, circa 400 g",
+      "source": "https://www.giallozafferano.com/recipes/ham-mousse.html",
+      "steps": [
+        "Spezzettare il prosciutto cotto e aggiungere la ricotta nel recipiente del frullatore a immersione.",
+        "Frullare fino a ottenere un composto omogeneo, poi versare la panna e frullare ancora fino a una consistenza liscia.",
+        "Trasferire in una ciotola, aggiungere il timo, coprire e refrigerare fino al servizio."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "25 min",
+      "description": "Revisione editoriale della fonte originale: Insalata di orzo e salmone.",
+      "id": "GZ-00234",
+      "ingredients": [
+        "Orzo perlato 240 g",
+        "Tranci di salmone 300 g",
+        "Avocado 150 g",
+        "Finocchi con barbetta 90 g",
+        "Spinacini 25 g",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "SALSA: yogurt greco 250 g",
+        "Olio extravergine di oliva 10 g",
+        "Arancia 1",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Insalata di orzo e salmone",
+      "notes": [
+        "Frigo massimo 1 giorno; non congelare. La fonte propone curcuma e nei commenti salmone affumicato come alternativa.",
+        "Nota di sicurezza distinta: salmone almeno 63 °C al cuore o polpa non più translucida che si sfalda facilmente; i soli tempi della ricetta non bastano (FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 24/11/2026)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "15 min",
+        "rest": "Raffreddamento orzo non quantificato"
+      },
+      "originalTitle": "Insalata di orzo e salmone",
+      "originalYield": "4 persone",
+      "pdfPage": 113,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "494bb04aa6ab4aadbdeb734d79686623e2cf6be4eb471c8538cbb2c779829e9e",
+        "previousAppSha256": "494bb04aa6ab4aadbdeb734d79686623e2cf6be4eb471c8538cbb2c779829e9e",
+        "reviewedDigest": "499793a73ddc855aa664b1689632c44a4cec4b7a989db1749d3c190eeaaf6544"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento orzo non quantificato",
+      "reviewedRecordSha256": "499793a73ddc855aa664b1689632c44a4cec4b7a989db1749d3c190eeaaf6544",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Insalata-di-orzo-e-salmone.html",
+      "steps": [
+        "Sciacquare l'orzo e cuocerlo in acqua bollente 20 minuti o secondo la confezione.",
+        "Mescolare yogurt greco, scorza grattugiata e succo dell'arancia, sale e pepe. Tritare la barbetta dei finocchi e aggiungerla alla salsa con 10 g d'olio; affettare i finocchi.",
+        "Scolare e raffreddare l'orzo, aggiungere spinacini lavati e asciugati e finocchi affettati.",
+        "Togliere le lische del salmone, scaldare olio in padella, salare e pepare i tranci; la fonte indica 2 minuti da un lato e 1 dall'altro, verificare cottura al cuore. Tagliare a pezzi il salmone cotto e unirlo all'orzo.",
+        "Togliere il nocciolo dell'avocado, incidere la polpa in cubetti e aggiungerla; completare con la salsa allo yogurt e arancia."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Hummus di zucca.",
+      "id": "GZ-03854",
+      "ingredients": [
+        "Zucca Delica 300 g",
+        "Ceci cotti 230 g",
+        "Tahina 50 g",
+        "Succo di limone 15 g",
+        "Olio extravergine di oliva q.b.",
+        "Sale q.b.",
+        "Paprika q.b.",
+        "Rosmarino q.b.",
+        "Pepe per guarnire, quantità non dichiarata",
+        "Acqua o ghiaccio facoltativi, quantità non dichiarata"
+      ],
+      "name": "Hummus di zucca",
+      "notes": [
+        "Conservare in frigorifero 2–3 giorni in contenitore chiuso, con un velo d'olio. La fonte suggerisce anche zucca mantovana o butternut, curry, cumino, aglio arrostito o peperoncino. Variante distinta dell'hummus."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "10 min",
+        "rest": "Non previsto"
+      },
+      "originalTitle": "Pumpkin Hummus",
+      "originalYield": "6 porzioni",
+      "pdfPage": 288,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "2ac70642d5406797172144cbffa61f7f2fd00a55023d349334a5f37f1da53ebc",
+        "previousAppSha256": "2ac70642d5406797172144cbffa61f7f2fd00a55023d349334a5f37f1da53ebc",
+        "reviewedDigest": "3cab761e73ac4127d74f10696e07b71a4a6e573aec8cfe2f39e85b0677bfdc39"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "3cab761e73ac4127d74f10696e07b71a4a6e573aec8cfe2f39e85b0677bfdc39",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/pumpkin-hummus.html",
+      "steps": [
+        "Eliminare semi e filamenti della zucca, ricavare fette spesse circa 1–2 cm e dividerle in pezzi uniformi.",
+        "Disporre la zucca sulla teglia, unire rosmarino, olio, paprika e sale; distribuire il condimento sulle fette. Cuocere in forno statico preriscaldato a 200 °C per 30 minuti, fino a quando la polpa risulta tenera alla forchetta.",
+        "Frullare la zucca cotta con i ceci, la tahina e il succo di limone. Aggiungere sale e olio fino a ottenere una crema morbida; se troppo densa, la fonte suggerisce poca acqua oppure un cubetto di ghiaccio.",
+        "Trasferire nella ciotola e completare con paprika, pepe, rosmarino, ceci e olio. Accompagnare a piacere con pane tostato."
+      ],
+      "temperature": "200 °C, forno statico"
     }
   ]
 }
