@@ -21982,6 +21982,636 @@
         "Cuocere in forno statico a 425 °F per 20 minuti."
       ],
       "temperature": "Forno statico 425 °F"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "25 min",
+      "description": "Revisione editoriale della fonte originale: Pasta alla zozzona.",
+      "id": "GZ-00428",
+      "ingredients": [
+        "Rigatoni 320 g",
+        "Guanciale 200 g",
+        "Salsiccia di solo maiale 250 g",
+        "Pecorino Romano DOP grattugiato 60 g + 40 g",
+        "Pomodorini in conserva 350 g",
+        "Olio EVO q.b.",
+        "Tuorli medi 4"
+      ],
+      "name": "Pasta alla zozzona",
+      "notes": [
+        "Frigorifero un giorno; non congelare.",
+        "Nota di sicurezza editoriale: usare tuorli pastorizzati per la mantecatura fuori fuoco se non è garantito un trattamento termico adeguato; cuocere completamente la salsiccia. FDA 24/11/2026: https://www.fda.gov/food/retail-food-industryregulatory-assistance-training/assuring-safety-eggs-and-menu-and-deli-items-made-raw-shell-eggs"
+      ],
+      "origin": "Italia — Roma",
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "15 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Pasta alla zozzona (Carbonara, Amatriciana and Cacio e Pepe Pasta)",
+      "originalYield": "4 persone",
+      "pdfPage": 263,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6fecd961434bea04283e062732b95613018741357f2f8b50a1ff42e0d824319e",
+        "previousAppSha256": "6fecd961434bea04283e062732b95613018741357f2f8b50a1ff42e0d824319e",
+        "reviewedDigest": "37a18be4515afc3fb0ed1204425bb7840512d2ae71d51cc32543176c525c1ba6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "37a18be4515afc3fb0ed1204425bb7840512d2ae71d51cc32543176c525c1ba6",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/pasta-alla-zozzona-carbonara-amatriciana-and-cacio-e-pepe-pasta.html",
+      "steps": [
+        "Ridurre il guanciale a listarelle e la salsiccia privata del budello a pezzetti.",
+        "Rosolare entrambi con un filo d’olio a fuoco medio-basso per circa 15 minuti; aggiungere i pomodorini e cuocere coperto altri 10 minuti.",
+        "Amalgamare i quattro tuorli con 60 g di Pecorino e un mestolo di acqua calda della pasta.",
+        "Lessare i rigatoni al dente e trasferirli nel sugo; spegnere il fuoco e incorporare la crema di tuorli mescolando energicamente.",
+        "Completare con i restanti 40 g di Pecorino e servire subito."
+      ],
+      "temperature": "Non dichiarata"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Couscous ai frutti di mare.",
+      "id": "GZ-00121",
+      "ingredients": [
+        "Couscous precotto 300 g",
+        "Cozze 1 kg",
+        "Vongole 1 kg",
+        "Calamari 500 g",
+        "Gamberi 400 g",
+        "Olio EVO 50 g",
+        "Vino bianco secco 40 g",
+        "Aglio 3 spicchi",
+        "Peperoncino fresco 2",
+        "Sale e pepe q.b.",
+        "Menta tritata q.b.",
+        "Pomodorini ciliegino 450 g"
+      ],
+      "name": "Couscous ai frutti di mare",
+      "notes": [
+        "Servire subito oppure conservare in frigorifero per non più di 24 ore.",
+        "Nota di sicurezza editoriale FDA (24/11/2026): cuocere completamente i crostacei fino a polpa soda e opaca; scartare molluschi con conchiglia che non si apre in cottura. https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely"
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "60 min",
+        "rest": "2 h spurgo vongole; 5 min reidratazione"
+      },
+      "originalTitle": "Couscous ai frutti di mare",
+      "originalYield": "4 persone",
+      "pdfPage": 268,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8a37a39b7a775ff2821bedc4262e17cb44ca6a2cee7d2ab58eb61fadc50b2da4",
+        "previousAppSha256": "8a37a39b7a775ff2821bedc4262e17cb44ca6a2cee7d2ab58eb61fadc50b2da4",
+        "reviewedDigest": "0698e0b50e3939654accdc231978ea9b2a99aa3c3178f6245e8aadefca68cf61"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 h spurgo vongole; 5 min reidratazione",
+      "reviewedRecordSha256": "0698e0b50e3939654accdc231978ea9b2a99aa3c3178f6245e8aadefca68cf61",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Couscous-ai-frutti-di-mare.html",
+      "steps": [
+        "Spurgare le vongole per due ore cambiando l’acqua; pulire cozze, calamari e gamberi e tagliare i calamari in anelli di circa 1 cm.",
+        "Scaldare parte dell’olio con due spicchi d’aglio e un peperoncino, unire cozze e vongole; dopo circa 2 minuti a fuoco alto sfumare col vino, far evaporare, coprire e far aprire. Filtrare il fondo e sgusciare i molluschi.",
+        "Portare a ebollizione 320 g di liquido filtrato, versarlo sul couscous, coprire 5 minuti e sgranare.",
+        "Scaldare l’olio rimasto con aglio e peperoncino rimanenti e rimuoverli; saltare i calamari 5 minuti, aggiungere i pomodorini per 4 minuti, poi gamberi per circa un minuto e molluschi per pochi istanti, verificando la completa cottura.",
+        "Fuori dal fuoco unire couscous e menta, regolare sale e pepe e mescolare."
+      ],
+      "temperature": "Non dichiarata"
+    },
+    {
+      "author": "Alberto Marcolongo",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "55 min",
+      "description": "Revisione editoriale della fonte originale: Rigatoni alla puttanesca e 'nduja.",
+      "id": "GZ-00680",
+      "ingredients": [
+        "Rigatoni 320 g",
+        "Pomodorini 800 g",
+        "'Nduja 100 g",
+        "Olive taggiasche 80 g",
+        "Capperi sotto sale 40 g",
+        "Acciughe sotto sale 4",
+        "Aglio 1 spicchio",
+        "Prezzemolo 1 mazzetto",
+        "Vino bianco 150 g",
+        "Olio EVO q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Rigatoni alla puttanesca e 'nduja",
+      "notes": [
+        "Servire subito. La fonte suggerisce di non aggiungere altro sale al sugo, già sapido."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "55 min",
+        "prep": "15 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Rigatoni a la puttanesca y 'nduja",
+      "originalYield": "4 persone",
+      "pdfPage": 203,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c5b28796ec7ca977139f7d4a547835307ad92f29585202ea6815cee89e44392f",
+        "previousAppSha256": "c5b28796ec7ca977139f7d4a547835307ad92f29585202ea6815cee89e44392f",
+        "reviewedDigest": "8014f8714b2354d7f4a37b1d9c434a95ca821d0d83aad8d208947d0efa89577b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "8014f8714b2354d7f4a37b1d9c434a95ca821d0d83aad8d208947d0efa89577b",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/rigatoni-a-la-puttanesca-y-nduja.html",
+      "steps": [
+        "Tagliare metà pomodorini a spicchi, condirli con olio, sale e pepe e arrostirli a 180 °C per 15 minuti; unire metà olive e proseguire altri 15 minuti.",
+        "Scaldare olio e aglio in padella e far sciogliere la 'nduja.",
+        "Incorporare acciughe, capperi dissalati e olive rimaste; dopo 5 minuti sfumare con il vino.",
+        "Aggiungere i pomodorini freschi restanti, cuocere circa 15 minuti e togliere l’aglio.",
+        "Lessare i rigatoni e finire la cottura nel condimento con poca acqua di pasta. Completare con pomodorini e olive arrostiti e prezzemolo tritato."
+      ],
+      "temperature": "180 °C per i pomodorini e le olive"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "75 min",
+      "description": "Revisione editoriale della fonte originale: Arancini di riso al forno.",
+      "id": "GZ-00075",
+      "ingredients": [
+        "RISO: Vialone Nano 500 g",
+        "Acqua 1,2 l",
+        "Zafferano in pistilli q.b.",
+        "Caciocavallo stagionato 100 g",
+        "Burro 30 g",
+        "Sale 1 pizzico",
+        "RAGÙ: maiale macinato 100 g",
+        "Passata di pomodoro 200 g",
+        "Piselli 80 g",
+        "Caciocavallo 50 g",
+        "Cipolla 1/2",
+        "Vino rosso 50 g",
+        "Burro 25 g",
+        "Olio EVO 2 cucchiai",
+        "Sale e pepe q.b.",
+        "PANATURA: uova 6",
+        "Pangrattato e olio EVO q.b."
+      ],
+      "name": "Arancini di riso al forno",
+      "notes": [
+        "Nota di sicurezza editoriale FSA (24/11/2026): raffreddare rapidamente il riso in strati sottili e refrigerare idealmente entro un’ora, utilizzare entro 24 ore dalla cottura, riscaldare una sola volta e servire ben caldo. https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker#rice",
+        "La fonte indica due giorni in frigorifero; attenersi al limite più prudente per il riso."
+      ],
+      "origin": "Italia — Sicilia (variante della preparazione tradizionale)",
+      "originalTimes": {
+        "cook": "75 min",
+        "prep": "30 min",
+        "rest": "Riso: 2 h secondo la fonte, con raffreddamento rapido e permanenza refrigerata; arancini 20 min in frigorifero"
+      },
+      "originalTitle": "Baked rice arancini",
+      "originalYield": "10 arancini",
+      "pdfPage": 265,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c4088cd062c53319ba3eb85ef6c8f3cf60153415208f6895392c589a394d6cd7",
+        "previousAppSha256": "c4088cd062c53319ba3eb85ef6c8f3cf60153415208f6895392c589a394d6cd7",
+        "reviewedDigest": "359900ebe30c5b83d76eb25dd3b9b465ff86b655e963fab69ad3ab587d47f929"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Riso: 2 h secondo la fonte, con raffreddamento rapido e permanenza refrigerata; arancini 20 min in frigorifero",
+      "reviewedRecordSha256": "359900ebe30c5b83d76eb25dd3b9b465ff86b655e963fab69ad3ab587d47f929",
+      "serves": "10 arancini",
+      "source": "https://www.giallozafferano.com/recipes/baked-rice-arancini.html",
+      "steps": [
+        "Cuocere il riso in acqua salata per circa 15 minuti fino ad assorbimento. Sciogliere lo zafferano in un mestolo d’acqua calda; incorporarlo con burro e 100 g di caciocavallo grattugiato.",
+        "Stendere su un vassoio. La fonte prevede due ore di raffreddamento; per sicurezza raffreddare rapidamente e proseguire il riposo in frigorifero, senza lasciare il riso due ore a temperatura ambiente.",
+        "Stufare la cipolla nel burro e nell’olio, rosolare il maiale, sfumare col vino, aggiungere passata, sale e pepe e cuocere coperto circa 20 minuti; unire i piselli a metà.",
+        "Con le mani bagnate dividere il riso in dieci porzioni, formare l’incavo, inserire un cucchiaino di ragù denso e cubetti di caciocavallo del ripieno, quindi richiudere.",
+        "Passare due volte nelle uova sbattute e nel pangrattato; tenere in frigorifero 20 minuti.",
+        "Irrorare con poco olio e cuocere nel forno statico già caldo a 375 °F per circa 30 minuti, fino a doratura."
+      ],
+      "temperature": "Forno statico 375 °F (unità fonte)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Spaghetti alla puttanesca.",
+      "id": "GZ-00866",
+      "ingredients": [
+        "Spaghetti 320 g",
+        "Pomodori pelati 800 g",
+        "Acciughe sott'olio 25 g",
+        "Capperi sotto sale 10 g",
+        "Prezzemolo 1 mazzetto",
+        "Olive di Gaeta 100 g",
+        "Aglio 3 spicchi",
+        "Peperoncini secchi 2",
+        "Olio EVO 30 g",
+        "Sale fino q.b."
+      ],
+      "name": "Spaghetti alla puttanesca",
+      "notes": [
+        "Conservare coperta in frigorifero per un giorno; non congelare. La fonte sconsiglia di aggiungere sale al sugo.",
+        "Origine regionale contesa fra Lazio e Campania secondo la fonte."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Espaguetis a la puttanesca",
+      "originalYield": "4 persone",
+      "pdfPage": 240,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "05491648280c192d36ffd3c10656fb2171faae9b13171f910adfb8203b5ac910",
+        "previousAppSha256": "05491648280c192d36ffd3c10656fb2171faae9b13171f910adfb8203b5ac910",
+        "reviewedDigest": "8e8760f43025b51c7692236b9042ef6ca6b71f9102044d9d8704477fe13d55be"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "8e8760f43025b51c7692236b9042ef6ca6b71f9102044d9d8704477fe13d55be",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/Espaguetis-a-la-puttanesca.html",
+      "steps": [
+        "Dissalare e tritare i capperi, denocciolare e schiacciare le olive, tritare il prezzemolo.",
+        "Scaldare olio, aglio intero, peperoncini e acciughe; aggiungere i capperi e cuocere a fuoco medio per circa 5 minuti fino a sciogliere le acciughe.",
+        "Aggiungere i pelati schiacciati e cuocere per circa 10 minuti.",
+        "Lessare gli spaghetti al dente in acqua salata. Togliere l’aglio dal sugo, unire olive e prezzemolo e saltarvi gli spaghetti per circa 30 secondi."
+      ],
+      "temperature": "Non dichiarata"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "45 min",
+      "description": "Revisione editoriale della fonte originale: Pasta alla sorrentina.",
+      "id": "GZ-00423",
+      "ingredients": [
+        "Fusilli 320 g",
+        "Passata di pomodoro 500 g",
+        "Mozzarella 125 g",
+        "Olio EVO 30 g",
+        "Aglio 1 spicchio",
+        "Basilico q.b.",
+        "Sale fino q.b.",
+        "Parmigiano Reggiano DOP 65 g"
+      ],
+      "name": "Pasta alla sorrentina",
+      "notes": [
+        "Conservazione in frigorifero in recipiente chiuso per due giorni; congelabile se la pasta è stata scolata leggermente indietro di cottura. Varianti: concentrato di pomodoro (1 cucchiaio), pangrattato in superficie o pomodori passati.",
+        "Origine specifica non attestata senza ambiguità dalla fonte."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "15 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Pasta alla sorrentina",
+      "originalYield": "4 persone",
+      "pdfPage": 262,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "be43878a7637d5bf2557a8ab4aca1c7552c28485a73f26efbe8b0551defdd0a0",
+        "previousAppSha256": "be43878a7637d5bf2557a8ab4aca1c7552c28485a73f26efbe8b0551defdd0a0",
+        "reviewedDigest": "260a87faccbc17d0f9647022bc3f3ebc7d18c9e863a2d0c969d1b840bf7b2b8a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "260a87faccbc17d0f9647022bc3f3ebc7d18c9e863a2d0c969d1b840bf7b2b8a",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Pasta-alla-sorrentina.html",
+      "steps": [
+        "Scaldare l’olio con l’aglio per circa un minuto; aggiungere passata, sale e basilico. Coprire e cuocere dolcemente per 30 minuti, quindi eliminare l’aglio.",
+        "Tagliare la mozzarella a cubetti; lessare i fusilli al dente e condirli con il sugo.",
+        "In una teglia di circa 25 cm disporre metà pasta, metà mozzarella e metà Parmigiano, quindi ripetere con le quantità rimaste.",
+        "Passare sotto il grill per circa 5 minuti, fino allo scioglimento della mozzarella e gratinatura. Terminare con basilico fresco e servire."
+      ],
+      "temperature": "Grill, temperatura non dichiarata"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "45 min",
+      "description": "Revisione editoriale della fonte originale: Arancini di riso Venere e pesce.",
+      "id": "GZ-00077",
+      "ingredients": [
+        "RISO: riso Venere 300 g",
+        "Scalogno 1",
+        "Vino bianco 50 ml",
+        "Amido di riso 2 cucchiai",
+        "Olio EVO, sale, pepe e brodo di pesce q.b.",
+        "RIPIENO: gamberi 200 g",
+        "Scampi 200 g",
+        "Triglie 200 g",
+        "Piselli 150 g",
+        "Aglio 1 spicchio",
+        "Olio EVO e sale q.b.",
+        "PANATURA: uova medie 2",
+        "Semi di sesamo nero q.b.",
+        "Olio di arachidi per friggere q.b."
+      ],
+      "name": "Arancini di riso Venere e pesce",
+      "notes": [
+        "Nota di sicurezza editoriale FSA (24/11/2026): raffreddare rapidamente il riso in strati sottili e refrigerare idealmente entro un’ora, utilizzare entro 24 ore dalla cottura, riscaldare una sola volta e servire ben caldo. https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker#rice",
+        "Nota di sicurezza editoriale FDA (24/11/2026): cuocere completamente i crostacei fino a polpa soda e opaca; scartare molluschi con conchiglia che non si apre in cottura. https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely",
+        "La fonte propone conservazione 1–2 giorni e congelamento degli arancini panati con ingredienti freschi; attenersi alla nota di sicurezza per il riso."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "25 min",
+        "rest": "Raffreddamento riso e ripieno; durata non dichiarata"
+      },
+      "originalTitle": "Venere rice and seafood arancini",
+      "originalYield": "4 porzioni; 10–12 arancini",
+      "pdfPage": 266,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d371d008899d73e59275734652d645b593875726c9d7f8dc5098dac0a6fa8100",
+        "previousAppSha256": "d371d008899d73e59275734652d645b593875726c9d7f8dc5098dac0a6fa8100",
+        "reviewedDigest": "eee46ed7a4995b7ff92e57e75266e41cf5e101a9051af375fc8831ae47b4c9a5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento riso e ripieno; durata non dichiarata",
+      "reviewedRecordSha256": "eee46ed7a4995b7ff92e57e75266e41cf5e101a9051af375fc8831ae47b4c9a5",
+      "serves": "4 porzioni; 10–12 arancini",
+      "source": "https://www.giallozafferano.com/recipes/venere-rice-and-seafood-arancini.html",
+      "steps": [
+        "Pulire gamberi, scampi e triglie eliminando filamenti e lische; preparare il brodo di pesce con teste e carapaci.",
+        "Stufare lo scalogno nell’olio, tostare il riso circa 5 minuti, sfumare con il vino e aggiungere gradualmente brodo caldo fino a cottura. Incorporare l’amido verso la fine; raffreddare rapidamente.",
+        "Insaporire l’aglio in padella, cuocere il pesce a pezzetti per circa 2 minuti e aggiungere i piselli per qualche minuto, fino a cottura; raffreddare rapidamente il ripieno.",
+        "Ungere le mani, appiattire una porzione di riso, inserire il ripieno e chiudere a sfera o a punta.",
+        "Passare nelle uova sbattute e poi nel sesamo nero.",
+        "Friggere uno o due arancini per volta in olio di arachidi senza superare 338 °F. Scolare e servire caldi o tiepidi."
+      ],
+      "temperature": "Frittura non oltre 338 °F (unità fonte)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "5 min",
+      "description": "Revisione editoriale della fonte originale: Couscous all'italiana.",
+      "id": "GZ-00118",
+      "ingredients": [
+        "Cozze pulite 1 kg",
+        "Vongole spurgate 1 kg",
+        "Couscous 200 g",
+        "Zafferano 1 bustina",
+        "Sale q.b.",
+        "Olio EVO q.b.",
+        "Aglio 2 spicchi",
+        "Peperoncino fresco 1",
+        "Pomodori datterini 300 g",
+        "Uvetta sultanina 40 g",
+        "Scorza di 1 limone",
+        "PESTO: pistacchi tostati non salati 70 g",
+        "Olio EVO 70 g",
+        "Sale e pepe q.b.",
+        "Basilico q.b."
+      ],
+      "name": "Couscous all'italiana",
+      "notes": [
+        "Consumare subito o in frigorifero per un giorno. Varianti della fonte: gamberi o curcuma.",
+        "Nota di sicurezza editoriale FDA (24/11/2026): cuocere completamente i crostacei fino a polpa soda e opaca; scartare molluschi con conchiglia che non si apre in cottura. https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely"
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "25 min",
+        "rest": "5 min reidratazione"
+      },
+      "originalTitle": "Italian-style Couscous",
+      "originalYield": "6 persone",
+      "pdfPage": 267,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "46a8bb1f5ed4b289004eca6653d88d338381e09273d570edfd2f6f8d8c5c9ee1",
+        "previousAppSha256": "46a8bb1f5ed4b289004eca6653d88d338381e09273d570edfd2f6f8d8c5c9ee1",
+        "reviewedDigest": "bc2c3d9c042805a0275341978b60efcac4809f1487d0daae9d0e1c9cfc9c49e0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "5 min reidratazione",
+      "reviewedRecordSha256": "bc2c3d9c042805a0275341978b60efcac4809f1487d0daae9d0e1c9cfc9c49e0",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/Italian-style-Couscous.html",
+      "steps": [
+        "Frullare per pochi secondi pistacchi, basilico, olio, sale e pepe del pesto; tenere da parte.",
+        "Scaldare due cucchiai d’olio con l’aglio e il peperoncino; aggiungere le cozze e poi le vongole, coprire e farle aprire. Filtrare il liquido e sciogliervi lo zafferano.",
+        "Condire il couscous con sale e olio, coprirlo con il liquido caldo allo zafferano e lasciare assorbire per 5 minuti; sgranare.",
+        "Ammollare l’uvetta in parte del liquido o in acqua calda; sgusciare i molluschi e tagliare i datterini.",
+        "Riunire couscous, molluschi, datterini, uvetta scolata, scorza e basilico; completare con il pesto."
+      ],
+      "temperature": "Non dichiarata"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: Spaghetti poveri.",
+      "id": "GZ-00911",
+      "ingredients": [
+        "Spaghetti 320 g",
+        "Acciughe sott'olio 100 g",
+        "Cipolla rossa 80 g",
+        "Capperi sotto sale 30 g",
+        "Olive taggiasche denocciolate 100 g",
+        "Aglio 1 spicchio",
+        "Peperoncini freschi 2",
+        "Prezzemolo q.b.",
+        "Pangrattato 40 g",
+        "Olio EVO 40 g"
+      ],
+      "name": "Spaghetti poveri",
+      "notes": [
+        "Frigorifero un giorno in recipiente chiuso. Varianti della fonte: pinoli o crosta di Parmigiano."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "10 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Espaguetis pobres",
+      "originalYield": "4 persone",
+      "pdfPage": 249,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d2396c69ff33dbfeaa043f93b26b09d17dcc29b633f52993dbf0ced2fb3e4256",
+        "previousAppSha256": "d2396c69ff33dbfeaa043f93b26b09d17dcc29b633f52993dbf0ced2fb3e4256",
+        "reviewedDigest": "86cc023f94c3d1ea4e6eda76cc8b6721b220b0a3db1ce1a89f9c5b1950218efb"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "86cc023f94c3d1ea4e6eda76cc8b6721b220b0a3db1ce1a89f9c5b1950218efb",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/espaguetis-pobres.html",
+      "steps": [
+        "Scaldare l’acqua della pasta; tritare cipolla e aglio e farli appassire con una parte dell’olio.",
+        "Dissalare e tritare i capperi, unirli alle acciughe e ai peperoncini privati dei semi. Cuocere a fuoco dolce fino a sciogliere le acciughe, con un mestolo di acqua della pasta se necessario.",
+        "A parte tostare il pangrattato con una parte dell’olio fino a doratura; la fonte non precisa la ripartizione dei 40 g totali.",
+        "Aggiungere olive e prezzemolo al condimento. Scolare gli spaghetti al dente e saltarli per un minuto.",
+        "Completare con pangrattato e, se necessario, un mestolo di acqua della pasta; amalgamare e servire."
+      ],
+      "temperature": "Non dichiarata"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Pasta con broccoli.",
+      "id": "GZ-00450",
+      "ingredients": [
+        "Troccoli freschi 320 g",
+        "Broccoli 450 g",
+        "Aglio 1 spicchio",
+        "Olio EVO q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Pasta con broccoli",
+      "notes": [
+        "Resa 4 porzioni confermata nella versione italiana della stessa formula, https://ricette.giallozafferano.it/Pasta-con-broccoli.html, consultata 24/11/2026.",
+        "Frigorifero un giorno, crema congelabile. Varianti della fonte: acciughe, frutta secca, pangrattato, pomodori secchi oppure olive."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "10 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Pasta with broccoli",
+      "originalYield": "4 persone",
+      "pdfPage": 264,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "eb3f1458b6babf5248b6853c780b97f6b4dc971f1312ec40ebf74dda8a5e294c",
+        "previousAppSha256": "eb3f1458b6babf5248b6853c780b97f6b4dc971f1312ec40ebf74dda8a5e294c",
+        "reviewedDigest": "d40a59c37478ffd1351b2ba3f08b3c195738932fa407b125eef93a4f95fddc05"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "d40a59c37478ffd1351b2ba3f08b3c195738932fa407b125eef93a4f95fddc05",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Pasta-with-broccoli.html",
+      "steps": [
+        "Dividere i broccoli in cimette, lavarle e lessarle circa 10 minuti in acqua salata; conservare l’acqua.",
+        "Scaldare l’aglio con l’olio, aggiungere i broccoli tenendo da parte alcune cimette e poca acqua di cottura.",
+        "Cuocere a fuoco medio-basso per circa 20 minuti, fino a una crema morbida; aggiustare sale e pepe e togliere l’aglio.",
+        "Lessare i troccoli nell’acqua dei broccoli, scolarli al dente e mantecarli nella crema con le cimette conservate e acqua di cottura quanto basta."
+      ],
+      "temperature": "Non dichiarata"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: Couscous con piselli e gamberi.",
+      "id": "GZ-00125",
+      "ingredients": [
+        "PER IL COUSCOUS: couscous precotto 250 g",
+        "Acqua 270 ml",
+        "Olio EVO 2 cucchiai",
+        "Scorza di 1 limone",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Burro 30 g",
+        "CONDIMENTO: gamberi 300 g",
+        "Piselli 300 g",
+        "Olio EVO 6 cucchiai",
+        "Pomodoro a grappolo 1",
+        "Cipolla bianca 1/2",
+        "Scorza di 1/2 limone",
+        "Timo 1 rametto",
+        "Maggiorana 1 rametto"
+      ],
+      "name": "Couscous con piselli e gamberi",
+      "notes": [
+        "Il metodo della fonte riporta un’altra indicazione volumetrica non coerente: si conserva l’acqua di 270 ml dichiarata nella lista ingredienti, senza nuove conversioni. Preparabile il giorno prima, conservare coperto in frigorifero.",
+        "Nota di sicurezza editoriale FDA (24/11/2026): cuocere completamente i crostacei fino a polpa soda e opaca; scartare molluschi con conchiglia che non si apre in cottura. https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely"
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "15 min",
+        "rest": "2 min reidratazione"
+      },
+      "originalTitle": "Couscous with peas and shrimp",
+      "originalYield": "4 persone",
+      "pdfPage": 271,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "2772fff1d513a35a48bd76968da6e6f022c0e58f9a9167a5b1ff4a1aecd541d7",
+        "previousAppSha256": "2772fff1d513a35a48bd76968da6e6f022c0e58f9a9167a5b1ff4a1aecd541d7",
+        "reviewedDigest": "b81cf758260f15206db938085d00b85f2ce9f46c506694fc976560914c2eaaa5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 min reidratazione",
+      "reviewedRecordSha256": "b81cf758260f15206db938085d00b85f2ce9f46c506694fc976560914c2eaaa5",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/couscous-with-peas-and-shrimp.html",
+      "steps": [
+        "Scaldare 270 ml d’acqua con sale, due cucchiai d’olio e scorza di limone. Versare il couscous, spegnere, aggiungere burro e lasciare assorbire circa due minuti.",
+        "Sgusciare i gamberi, regolare sale e pepe e rosolarli con tre cucchiai d’olio circa 5 minuti sui due lati, quindi tenere da parte.",
+        "Frullare semi e polpa del pomodoro con sale, pepe, un cucchiaio d’olio e scorza di mezzo limone; tagliare il resto a dadini.",
+        "Rosolare la cipolla con i due cucchiai d’olio rimanenti, aggiungere la salsa per circa 5 minuti, poi piselli, parte delle erbe e poca acqua se necessario; cuocere circa 10 minuti.",
+        "Togliere la scorza dal couscous, sgranare, unire pomodoro a dadini ed erbe rimaste, poi piselli e gamberi; amalgamare in padella. Servire caldo o freddo."
+      ],
+      "temperature": "Non dichiarata"
     }
   ]
 }
