@@ -20982,6 +20982,577 @@
         "Distribuire nei piatti con chips e Parmigiano grattugiato."
       ],
       "temperature": "190 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "35 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi di zucca alla romana.",
+      "id": "GZ-00216",
+      "ingredients": [
+        "Polpa di zucca 400 g",
+        "semolino 250 g",
+        "latte intero 1 l",
+        "noce moscata q.b.",
+        "Parmigiano Reggiano 120 g",
+        "sale fino q.b.",
+        "tuorli 2",
+        "burro 80 g."
+      ],
+      "name": "Gnocchi di zucca alla romana",
+      "notes": [
+        "Conservare in frigorifero due giorni; congelabili con burro a pezzetti. Le unità del metodo sono quelle della fonte inglese."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Pumpkin gnocchi alla romana",
+      "originalYield": "6 persone (24 gnocchi)",
+      "pdfPage": 252,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "34adae4751c458525c3b5ea414514e4b7583a883ef839396315b8edfbc41d1f2",
+        "previousAppSha256": "34adae4751c458525c3b5ea414514e4b7583a883ef839396315b8edfbc41d1f2",
+        "reviewedDigest": "87cbb4c9bf4bae3ad4e1d0e27cdbb6474719dead262b3fec0f305f64db8dde93"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "87cbb4c9bf4bae3ad4e1d0e27cdbb6474719dead262b3fec0f305f64db8dde93",
+      "serves": "6 persone (24 gnocchi)",
+      "source": "https://www.giallozafferano.com/recipes/pumpkin-gnocchi-alla-romana.html",
+      "steps": [
+        "Avvolgere la zucca pulita in alluminio, cuocere a 390 °F per 40 minuti e ridurre in purea.",
+        "Scaldare il latte con 3 cucchiai di burro, sale e noce moscata. Versare il semolino a pioggia e mescolare per 3–4 minuti.",
+        "Fuori dal fuoco incorporare i tuorli e 3 oz di Parmigiano, quindi la purea di zucca.",
+        "Stendere su vassoio umido in uno strato da 1/2 pollice, far raffreddare 5 minuti e ricavare dischi con coppapasta da 2 pollici.",
+        "Disporre in pirofila imburrata, distribuire burro e Parmigiano residui; gratinare a 390 °F per 20–25 minuti."
+      ],
+      "temperature": "Forno 390 °F (unità della fonte)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "30 min",
+      "description": "Revisione editoriale della fonte originale: Frittatine di pasta napoletane.",
+      "id": "GZ-00160",
+      "ingredients": [
+        "Bucatini 500 g",
+        "Prosciutto cotto 200 g",
+        "Pisellini 100 g",
+        "Parmigiano Reggiano 50 g",
+        "Aglio 1 spicchio",
+        "Olio EVO e sale q.b.",
+        "BESCIAMELLA:",
+        "Latte intero 1 l",
+        "Farina 00 130 g",
+        "Burro 100 g",
+        "Noce moscata e sale q.b.",
+        "PASTELLA:",
+        "Acqua 500 g",
+        "Farina 00 225 g",
+        "PANATURA E FRITTURA:",
+        "Pangrattato (quantità non dichiarata dalla fonte)",
+        "Olio di arachide 1,5 l"
+      ],
+      "name": "Frittatine di pasta napoletane",
+      "notes": [
+        "La fonte non quantifica il pangrattato; serve per la panatura. La fonte indica frigo 2–3 giorni, assemblate fino a 12 ore; congelabili.",
+        "Nota igienica distinta: raffreddare rapidamente la besciamella in contenitori bassi e refrigerarla entro 2 ore. USDA https://ask.fsis.usda.gov/article/How-do-I-handle-leftovers-safely (24/11/2026)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "1 h 30 min",
+        "rest": "almeno 2 h in frigo"
+      },
+      "originalTitle": "Frittatine di pasta napoletane",
+      "originalYield": "15 pezzi",
+      "pdfPage": 244,
+      "photo": null,
+      "prep": "1 h 30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "17503b0be46878f7af5f6365a6c12741de7d9495ccc0ad2395835a131f471096",
+        "previousAppSha256": "17503b0be46878f7af5f6365a6c12741de7d9495ccc0ad2395835a131f471096",
+        "reviewedDigest": "64038a02195c226973dd26c8923a260ca1e4fe72b3c47f567050c196c0b70c94"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "almeno 2 h in frigo",
+      "reviewedRecordSha256": "64038a02195c226973dd26c8923a260ca1e4fe72b3c47f567050c196c0b70c94",
+      "serves": "15 pezzi",
+      "source": "https://ricette.giallozafferano.it/Frittatine-di-pasta-napoletane.html",
+      "steps": [
+        "Sciogliere il burro, incorporare 130 g di farina e versare gradualmente il litro di latte caldo, mescolando. Salare, aggiungere noce moscata e cuocere fino a ottenere una besciamella molto soda; raffreddarla rapidamente (vedere nota).",
+        "Saltare prosciutto a dadini e piselli con aglio e olio; eliminare l'aglio.",
+        "Lessare i bucatini 2–3 minuti meno del tempo della confezione, scolarli, spezzarli grossolanamente e mescolarli con besciamella, ripieno e Parmigiano.",
+        "Modellare nella carta forno un rotolo lungo circa 50 cm e lasciarlo rassodare in frigorifero almeno 2 ore.",
+        "Mescolare 500 g di acqua e 225 g di farina; ricavare 15 dischi di circa 3 cm, passarli in pastella e pangrattato.",
+        "Friggere 2–3 pezzi alla volta nell'olio a 170–180 °C fino a doratura, poi scolare."
+      ],
+      "temperature": "Frittura 170–180 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi di zucca.",
+      "id": "GZ-00215",
+      "ingredients": [
+        "PER GLI GNOCCHI: zucca mantovana 500 g (da pulire)",
+        "patate rosse 350 g",
+        "farina 00 150 g",
+        "fecola di patate 50 g",
+        "uova 57 g (1 medio)",
+        "sale fino 3 g",
+        "pepe nero 1 pizzico",
+        "noce moscata 1 pizzico"
+      ],
+      "name": "Gnocchi di zucca",
+      "notes": [
+        "Alternativa: cuocere le patate intere al forno per ridurre l'acqua, senza parametri precisati. Cotti in frigorifero un giorno; crudi congelabili se preparati con ingredienti freschi."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "40 min",
+        "rest": "10 min"
+      },
+      "originalTitle": "Ñoquis de calabaza",
+      "originalYield": "4 persone",
+      "pdfPage": 110,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ade3da9a6fa73ada7e2df1e2ef514e1da2afd4ed9fc66bcfb7921d9672f2785d",
+        "previousAppSha256": "ade3da9a6fa73ada7e2df1e2ef514e1da2afd4ed9fc66bcfb7921d9672f2785d",
+        "reviewedDigest": "e7cb434a684acea71942a1739f3488ae7ece04d2163385b8a639daa8fb7c8c07"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "10 min",
+      "reviewedRecordSha256": "e7cb434a684acea71942a1739f3488ae7ece04d2163385b8a639daa8fb7c8c07",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/noquis-de-calabaza.html",
+      "steps": [
+        "Lessare le patate intere in acqua salata 30–40 minuti dal bollore, finché tenere senza disfarsi.",
+        "Pulire la zucca ottenendo circa 350 g di polpa; affettarla e asciugarla su carta forno a 200 °C statico 15–20 minuti o 180 °C ventilato 10–15 minuti, ottenendo circa 185 g di zucca cotta.",
+        "Schiacciare patate e zucca tiepide; condire con sale, pepe e noce moscata. Unire alla farina, incorporare l'uovo battuto e poi la fecola, lavorando velocemente.",
+        "Far riposare coperto almeno 10 minuti; se colloso aiutarsi con fecola. Formare filoncini, tagliare pezzi da 1,5–2 cm e rigarli.",
+        "Lessare in piccole porzioni e scolare quando affiorano."
+      ],
+      "temperature": "Forno statico 200 °C o ventilato 180 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: Fusilli al pesto di pistacchi e pomodorini.",
+      "id": "GZ-00161",
+      "ingredients": [
+        "Fusilli 320 g",
+        "Pomodorini ciliegino 500 g",
+        "Porri 80 g",
+        "Olio EVO 20 g",
+        "Sale e pepe q.b.",
+        "PESTO:",
+        "Pistacchi sgusciati non salati 100 g",
+        "Basilico 2 foglie",
+        "Acqua 50 ml",
+        "Scorza di limone 10 g",
+        "Parmigiano 15 g",
+        "Aglio ½ spicchio",
+        "Olio EVO 50 g",
+        "Sale e pepe q.b."
+      ],
+      "name": "Fusilli al pesto di pistacchi e pomodorini",
+      "notes": [
+        "Varianti: menta o maggiorana; cipolla o scalogno.",
+        "Nota igienica distinta: la fonte indica pesto in frigo 4–5 giorni; per prudenza consumare entro 3 giorni refrigerato o congelare, secondo USDA per miscele di aglio/vegetali in olio https://ask.fsis.usda.gov/article/Is-it-safe-to-make-flavored-oils-with-garlic-or-fresh-vegetables (24/11/2026)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Fusilli al pesto di pistacchi e pomodorini",
+      "originalYield": "4 persone",
+      "pdfPage": 245,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "4d1927800a451a791eddf6be3050fb0d6441266a740cfa01666534132aaaf6e7",
+        "previousAppSha256": "4d1927800a451a791eddf6be3050fb0d6441266a740cfa01666534132aaaf6e7",
+        "reviewedDigest": "9b6615844f589e7d1c6c92c46b8755db9cf13870391fb1367197ca8ba9052bb1"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "9b6615844f589e7d1c6c92c46b8755db9cf13870391fb1367197ca8ba9052bb1",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Fusilli-al-pesto-di-pistacchi-e-pomodorini.html",
+      "steps": [
+        "Sbollentare i pistacchi 5 minuti, spellarli e frullarli con 50 g di olio, Parmigiano, scorza di limone, mezzo spicchio di aglio, acqua, basilico, sale e pepe.",
+        "Pulire e affettare il porro, stufarlo con i 20 g di olio e poca acqua calda se necessario.",
+        "Tagliare i pomodorini in quarti, aggiungerli al porro, salare e cuocere coperto circa 10 minuti.",
+        "Lessare i fusilli; fuori dal fuoco unire il pesto ai pomodorini, diluirlo con poca acqua di cottura e amalgamare la pasta."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi di barbabietola.",
+      "id": "GZ-00204",
+      "ingredients": [
+        "Barbabietola precotta 150 g",
+        "Patate vecchie a pasta gialla 1 kg",
+        "Farina 00 350 g",
+        "Uovo piccolo 1",
+        "Sale fino q.b.",
+        "Semola rimacinata q.b. per la spianatoia"
+      ],
+      "name": "Gnocchi di barbabietola",
+      "notes": [
+        "La fonte indica conservazione 4–6 ore in luogo fresco non quantificato e sconsiglia il freezer.",
+        "Nota igienica distinta: refrigerare l'impasto con uovo; non superare 2 ore a temperatura ambiente. USDA https://ask.fsis.usda.gov/article/What-is-the-2-Hour-Rule-with-leaving-food-out (24/11/2026)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "40 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Ñoquis de remolacha",
+      "originalYield": "4 persone",
+      "pdfPage": 107,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "eab3ed9c0b0833bff0e7785acd1c9effd13ccddbe69c016bb87dd74fb812b938",
+        "previousAppSha256": "eab3ed9c0b0833bff0e7785acd1c9effd13ccddbe69c016bb87dd74fb812b938",
+        "reviewedDigest": "9f63b2deaaf3773641824e5eab2da310fc521bea5478016bdfdc817fa97c3ab7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "9f63b2deaaf3773641824e5eab2da310fc521bea5478016bdfdc817fa97c3ab7",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/nhoquis-de-remolacha.html",
+      "steps": [
+        "Lessare le patate con buccia da acqua fredda 35–40 minuti; scolarle e raffreddarle.",
+        "Pelare le patate; frullarne una con la barbabietola a pezzi fino a ottenere una crema.",
+        "Schiacciare le altre patate sulla farina; unire crema di barbabietola, sale e uovo battuto. Lavorare brevemente.",
+        "Formare filoncini su semola, tagliarli in pezzi di circa 2 cm e rigarli; disporli distanziati.",
+        "Lessare in acqua salata e scolare quando affiorano; il condimento non è specificato nella formula base."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "45 min",
+      "description": "Revisione editoriale della fonte originale: Lasagne ai carciofi.",
+      "id": "GZ-00256",
+      "ingredients": [
+        "TEGLIA 20×30 CM:",
+        "Lasagne all'uovo secche 250 g",
+        "Carciofi 12",
+        "Scamorza 400 g",
+        "Taleggio 200 g",
+        "Grana Padano DOP 250 g",
+        "Vino bianco 1 bicchiere",
+        "Olio EVO 4 cucchiai",
+        "Scalogno 1",
+        "Sale e pepe q.b.",
+        "Limone 1 per l'acqua acidulata (indicato nel metodo)",
+        "BESCIAMELLA:",
+        "Latte intero 1 l",
+        "Farina 00 80 g",
+        "Burro 100 g",
+        "Noce moscata e sale q.b."
+      ],
+      "name": "Lasagne ai carciofi",
+      "notes": [
+        "Conservare cotte in frigorifero un giorno; congelabili dopo cottura. La denominazione scamorza/provola è stata confrontata anche nella fonte italiana, senza sostituire l'URL canonico."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Lasaña de alcachofas",
+      "originalYield": "6 persone",
+      "pdfPage": 118,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b299931b7f254c1244df67cad93182494d763d5f01128b8d260a391589ee40c4",
+        "previousAppSha256": "b299931b7f254c1244df67cad93182494d763d5f01128b8d260a391589ee40c4",
+        "reviewedDigest": "5339559e4d6f19388edf6cea25725c4598478e421150e02368aa018d58472232"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "5339559e4d6f19388edf6cea25725c4598478e421150e02368aa018d58472232",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.es/recetas/lasana-de-alcachofas.html",
+      "steps": [
+        "Pulire i carciofi eliminando foglie dure, punte e barba; tagliare a spicchi e immergere in acqua con un limone diviso a metà.",
+        "Rosolare lo scalogno tritato nell'olio; scolare e dorare i carciofi, sfumare col vino, salare e pepare. Evaporato l'alcol, coprire e cuocere 10 minuti aggiungendo mezzo bicchiere d'acqua se necessario; tritare grossolanamente.",
+        "Tagliare scamorza e taleggio a cubetti e grattugiare il Grana.",
+        "Scaldare il latte con sale e noce moscata; sciogliere il burro, incorporare farina, versare il latte gradualmente e mescolare fino ad addensare.",
+        "Coprire il fondo della teglia con poca besciamella; alternare sfoglia, carciofi, formaggi e besciamella per 4–5 strati. Completare con besciamella, carciofi e Grana.",
+        "Cuocere in forno statico a 180 °C per 45 minuti fino a doratura."
+      ],
+      "temperature": "Forno statico 180 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi di patate.",
+      "id": "GZ-00208",
+      "ingredients": [
+        "VERSIONE CON UOVO:",
+        "Patate rosse 1 kg",
+        "Farina 300 g",
+        "Uovo medio 1",
+        "Sale fino q.b.",
+        "Semola rimacinata q.b.",
+        "VERSIONE SENZA UOVO:",
+        "Patate rosse 1 kg",
+        "Farina 350 g",
+        "Sale fino 15 g",
+        "Semola rimacinata q.b."
+      ],
+      "name": "Gnocchi di patate",
+      "notes": [
+        "Formule alternative complete, quattro porzioni ciascuna; non sommare gli ingredienti.",
+        "Fonte: crudi su telo fino a 2 ore; per congelare, disporli su vassoio 20 minuti prima di trasferirli nei sacchetti. Refrigerare l'impasto con uovo se non cotto subito."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Potato gnocchi",
+      "originalYield": "4 persone",
+      "pdfPage": 251,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6f097003ec43fc1c4da8f8a3990e11d164f7846299813c342a9d40a0298d0af6",
+        "previousAppSha256": "6f097003ec43fc1c4da8f8a3990e11d164f7846299813c342a9d40a0298d0af6",
+        "reviewedDigest": "489f3132f6fd3cb4afcda49dd743bc016a79b69068dbf74cd1b7e2a2c31c52d7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "489f3132f6fd3cb4afcda49dd743bc016a79b69068dbf74cd1b7e2a2c31c52d7",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Potato-gnocchi.html",
+      "steps": [
+        "VERSIONE CON UOVO: lessare 1 kg di patate con buccia da acqua fredda 30–40 minuti, fino a quando la forchetta entra facilmente. Pelarle e schiacciarle calde sui 300 g di farina.",
+        "Unire l'uovo battuto e il sale, impastare brevemente fino a consistenza morbida e compatta.",
+        "Sul piano con semola formare filoncini di circa 3/4 di pollice, tagliare e rigare gli gnocchi. Disporli su telo infarinato; lessare pochi per volta in acqua salata e scolare a galla.",
+        "VERSIONE SENZA UOVO: lessare separatamente 1 kg di patate con buccia da acqua fredda 30–40 minuti, fino a quando la forchetta entra facilmente. Pelarle e schiacciarle calde sui 350 g di farina.",
+        "Aggiungere 15 g di sale, lavorare brevemente fino a consistenza morbida e compatta, senza uova.",
+        "Formare filoncini di circa 3/4 di pollice su semola, tagliare e rigare gli gnocchi; disporli su telo infarinato, lessare pochi per volta in acqua salata e scolare a galla."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": "Nicola Sorrentino",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi di zucca senza glutine.",
+      "id": "GZ-00219",
+      "ingredients": [
+        "Zucca da pulire 700 g",
+        "Farina di riso 160 g",
+        "Amido di mais 80 g",
+        "Uovo 1",
+        "Sale fino q.b.",
+        "Burro 40 g",
+        "Salvia 1 rametto"
+      ],
+      "name": "Gnocchi di zucca senza glutine",
+      "notes": [
+        "Cotti in frigorifero due giorni; crudi conservabili mediante congelamento. La fonte indica anche il forno come alternativa, senza parametri precisati."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Gnocchi di zucca senza glutine",
+      "originalYield": "4 persone",
+      "pdfPage": 110,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "df5215940fca3329c16769039ed5a30a381e43e857e7b3aa1106d83ede33bf31",
+        "previousAppSha256": "df5215940fca3329c16769039ed5a30a381e43e857e7b3aa1106d83ede33bf31",
+        "reviewedDigest": "372bb8ce2740725c6b98a9f75c9f24aee1cd117ca415e6c552b3dafefbedf1e9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "372bb8ce2740725c6b98a9f75c9f24aee1cd117ca415e6c552b3dafefbedf1e9",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Gnocchi-di-zucca-senza-glutine.html",
+      "steps": [
+        "Pulire la zucca da semi e filamenti e cuocerla coperta in microonde 10 minuti a 800 W.",
+        "Prelevare la polpa, raffreddarla e schiacciarla; unire l'uovo, poi farina di riso e amido di mais fino a impasto omogeneo.",
+        "Se umido, far riposare sotto telo prima di aggiungere altra farina. Formare filoncini su piano con farina di riso e tagliare a tocchetti di circa 1 cm.",
+        "Sciogliere il burro con la salvia; lessare gli gnocchi in acqua salata, scolarli a galla e condirli nel burro aromatico."
+      ],
+      "temperature": "Microonde 800 W"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "45 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi con crema di zucchine.",
+      "id": "GZ-00199",
+      "ingredients": [
+        "GNOCCHI:",
+        "Patate rosse 1 kg",
+        "Farina 00 300 g",
+        "Uovo medio 1",
+        "Sale fino q.b.",
+        "Semola rimacinata q.b.",
+        "CREMA:",
+        "Zucchine 500 g",
+        "Cipollotto fresco 1",
+        "Menta 8 foglie",
+        "Olio EVO, sale e pepe q.b.",
+        "MANTECATURA:",
+        "Parmigiano Reggiano DOP 100 g grattugiato",
+        "Olio EVO e pepe q.b."
+      ],
+      "name": "Gnocchi con crema di zucchine",
+      "notes": [
+        "Crema in frigorifero un giorno, non congelare; gnocchi crudi congelabili.",
+        "Nota igienica distinta: refrigerare l'impasto con uovo; non lasciare alimenti deperibili a temperatura ambiente oltre 2 ore. USDA https://ask.fsis.usda.gov/article/What-is-the-2-Hour-Rule-with-leaving-food-out (24/11/2026)."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "45 min",
+        "rest": "Non dichiarato dalla fonte"
+      },
+      "originalTitle": "Gnocchi con crema di zucchine",
+      "originalYield": "4 persone",
+      "pdfPage": 106,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "28479121571c498af725eec9db30f5cf4a41fe64279b2f7262487bdb88f91b35",
+        "previousAppSha256": "28479121571c498af725eec9db30f5cf4a41fe64279b2f7262487bdb88f91b35",
+        "reviewedDigest": "278c35b1a355a7763e39a2cf51b8dc32e044016259df663b8f768ce9b9c17cad"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte",
+      "reviewedRecordSha256": "278c35b1a355a7763e39a2cf51b8dc32e044016259df663b8f768ce9b9c17cad",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Gnocchi-con-crema-di-zucchine.html",
+      "steps": [
+        "Lessare le patate intere 30–40 minuti, schiacciarle calde sulla farina e incorporare uovo e sale lavorando brevemente.",
+        "Formare filoncini, tagliare e rigare gli gnocchi; disporli su telo spolverato di semola.",
+        "Pelare le zucchine; condire le bucce con menta, olio, sale e pepe e lasciarle insaporire.",
+        "Affettare il cipollotto e stufarlo in olio 4–5 minuti; aggiungere la polpa a cubetti e poca acqua calda, cuocere circa 10 minuti.",
+        "Frullare la polpa con le bucce marinate; trasferire la crema in padella.",
+        "Lessare gli gnocchi a bollore moderato in 2–3 riprese, prelevarli a galla, unirli alla crema e completare con Parmigiano, olio e pepe."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: Gnocchi di ricotta.",
+      "id": "GZ-00210",
+      "ingredients": [
+        "PER GLI GNOCCHI:",
+        "Ricotta vaccina 500 g",
+        "Uova medie 2",
+        "Farina 00 200 g",
+        "Parmigiano Reggiano DOP 120 g",
+        "Sale fino q.b.",
+        "Semola q.b. per spolverare",
+        "PER IL SUGO:",
+        "Passata rustica di pomodoro 500 g",
+        "Olio EVO 3 cucchiai",
+        "Aglio 1 spicchio",
+        "Sale fino q.b.",
+        "Basilico 6 foglie"
+      ],
+      "name": "Gnocchi di ricotta",
+      "notes": [
+        "Gnocchi cotti in frigo un giorno; crudi congelabili. Varianti: erbe aromatiche nell'impasto o peperoncino nel sugo."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "30 min",
+        "rest": "2 h di scolatura ricotta"
+      },
+      "originalTitle": "Ricotta Gnocchi",
+      "originalYield": "6 porzioni",
+      "pdfPage": 109,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "0b6e30a35c4668c1e24d83b4f61eddc64b6785c181c239e211d54031fae29468",
+        "previousAppSha256": "0b6e30a35c4668c1e24d83b4f61eddc64b6785c181c239e211d54031fae29468",
+        "reviewedDigest": "81f4ba19768dc7ad3a8c7a6b6db60501c1179cdcd5ebe1d97a3781318cdde99d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 h di scolatura ricotta",
+      "reviewedRecordSha256": "81f4ba19768dc7ad3a8c7a6b6db60501c1179cdcd5ebe1d97a3781318cdde99d",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/Ricotta-Gnocchi.html",
+      "steps": [
+        "Far sgocciolare la ricotta coperta in frigorifero per almeno 2 ore.",
+        "Rosolare l'aglio intero sbucciato nei 3 cucchiai di olio, unire la passata, salare e cuocere coperto circa 30 minuti; togliere l'aglio e aggiungere il basilico.",
+        "Setacciare la ricotta scolata; amalgamare Parmigiano, uova battute e sale. Incorporare gradualmente la farina lavorando brevemente.",
+        "Su semola formare filoncini di circa 3/4 di pollice e tagliarli in pezzi di circa 1/2 pollice.",
+        "Lessare in acqua salata a bollore moderato in tre riprese, prelevare man mano che affiorano e trasferire nel sugo caldo; mescolare delicatamente."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
     }
   ]
 }
