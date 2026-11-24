@@ -21553,6 +21553,435 @@
         "Lessare in acqua salata a bollore moderato in tre riprese, prelevare man mano che affiorano e trasferire nel sugo caldo; mescolare delicatamente."
       ],
       "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Lasagne al pesto.",
+      "id": "GZ-00259",
+      "ingredients": [
+        "PASTA:",
+        "Farina 00 200 g",
+        "Uova 2 (120 g)",
+        "PESTO:",
+        "Aglio 1 spicchio",
+        "Sale grosso 2 pizzichi",
+        "Olio EVO 200 g",
+        "Basilico 100 g",
+        "Pecorino 60 g",
+        "Parmigiano Reggiano 140 g",
+        "Pinoli 30 g",
+        "BESCIAMELLA:",
+        "Burro 100 g",
+        "Farina 00 100 g",
+        "Latte intero 1 l",
+        "Sale e noce moscata q.b.",
+        "FINITURA:",
+        "Parmigiano Reggiano 80 g"
+      ],
+      "name": "Lasagne al pesto",
+      "notes": [
+        "Conservare in frigorifero 1–2 giorni; congelabile cruda o cotta se preparata con ingredienti freschi. Varianti: pesto di zucchine o pistacchi, formaggio a fette. La fonte EN riporta equivalenze in tazze incoerenti per burro/farina: mantenute le quantità esplicite in grammi, 100 g ciascuno."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "40 min",
+        "rest": "30 min"
+      },
+      "originalTitle": "Pesto Lasagna",
+      "originalYield": "6 persone",
+      "pdfPage": 256,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "79ed7ea30434fa7060328ffaed3d5312ab8b68f2e4407a6e3d1fdb7c1cd50889",
+        "previousAppSha256": "79ed7ea30434fa7060328ffaed3d5312ab8b68f2e4407a6e3d1fdb7c1cd50889",
+        "reviewedDigest": "1ebb54c27eaf51f44134099711c40fd8e6a57277ba4d4d88600213950bb3b020"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min",
+      "reviewedRecordSha256": "1ebb54c27eaf51f44134099711c40fd8e6a57277ba4d4d88600213950bb3b020",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/Pesto-lasagna.html",
+      "steps": [
+        "Asciugare delicatamente il basilico. Pestare l'aglio con un pizzico di sale, quindi il basilico con il secondo pizzico; aggiungere pinoli e formaggi e incorporare gradualmente l'olio.",
+        "Tenere da parte 30–40 g della farina per la lavorazione. Unire le uova alla restante farina, lavorare circa 10 minuti e lasciare il panetto avvolto per 30 minuti.",
+        "Scaldare il latte; preparare il roux di burro e farina, versare il latte e cuocere a fuoco basso 5–6 minuti, fino ad addensamento e inizio del bollore. Condire con sale e noce moscata e lasciare raffreddare.",
+        "Dividere l'impasto in due, mantenendo coperta la parte non lavorata; assottigliare gradualmente con la macchina e tagliare 22 rettangoli di 10×15 cm. Disporli su un piano infarinato. Lessarli in acqua salata per un minuto, scolarli e non sovrapporli; raffreddarli in acqua fredda o ungerli leggermente.",
+        "Ungere una teglia 30×20 cm; mettere besciamella e pesto, poi tre sfoglie leggermente sovrapposte, altra besciamella, pesto e Parmigiano. Formare sei strati da tre sfoglie, poi quattro sfoglie trasversali in cima; completare con le salse e Parmigiano.",
+        "Infornare a 180 °C statico per 15 minuti; facoltativamente gratinare 5 minuti. Far assestare prima di servire."
+      ],
+      "temperature": "Forno statico 180 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "90 min",
+      "description": "Revisione editoriale della fonte originale: Lasagne al ragù di lenticchie.",
+      "id": "GZ-00261",
+      "ingredients": [
+        "LASAGNE:",
+        "Sfoglie fresche all'uovo 250 g",
+        "Provola 200 g",
+        "Grana Padano DOP 120 g",
+        "RAGÙ:",
+        "Lenticchie secche 250 g",
+        "Passata 400 g",
+        "Sedano 1 costa",
+        "Carota 1",
+        "Cipolla rossa 1",
+        "Concentrato di pomodoro 1 cucchiaio",
+        "Olio EVO q.b.",
+        "Zenzero in polvere, salvia, sale e pepe q.b.",
+        "Acqua fino a coprire",
+        "BESCIAMELLA:",
+        "Latte intero 500 ml",
+        "Burro 50 g",
+        "Farina 00 50 g",
+        "Sale e noce moscata q.b."
+      ],
+      "name": "Lasagne al ragù di lenticchie",
+      "notes": [
+        "Conservare fino a tre giorni in frigorifero; congelabile. Con lenticchie già cotte la fonte riduce il ragù a circa 20 minuti. Variante vegana con sfoglie senza uova e sostituti vegetali. Fonte italiana ufficiale https://ricette.giallozafferano.it/Lasagne-al-ragu-di-lenticchie.html, righe 162–232, conferma Grana e 180 °C senza conversione dedotta."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "90 min",
+        "prep": "30 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Lasagna with Lentil Ragu",
+      "originalYield": "6 persone",
+      "pdfPage": 258,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9015c1c7a6404cd34054bbebe9e0207c0d98331245102faf1f51b4e616fe0d78",
+        "previousAppSha256": "9015c1c7a6404cd34054bbebe9e0207c0d98331245102faf1f51b4e616fe0d78",
+        "reviewedDigest": "496f9beec7dacd577e2a2eaa5dbe8feb65635477568377a78e0c84c063ef397d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "496f9beec7dacd577e2a2eaa5dbe8feb65635477568377a78e0c84c063ef397d",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/lasagna-with-lentil-ragu.html",
+      "steps": [
+        "Scaldare il latte con sale e noce moscata. Fondere il burro e cuocere la farina fino a un roux dorato; aggiungere prima poco latte, poi il resto, mescolando fino ad addensare. Lasciare raffreddare.",
+        "Tritare sedano, carota e cipolla; soffriggere nell'olio per 10 minuti. Unire concentrato e zenzero, lenticchie, passata, acqua fino a coprire e salvia. Cuocere coperto circa 40 minuti, mescolando e aggiungendo acqua se serve; regolare sale e pepe verso fine cottura.",
+        "Affettare la provola. In una pirofila per 4–6 persone stendere besciamella, tre sfoglie sovrapposte, besciamella, ragù, provola e Grana. Ripetere fino a tre strati.",
+        "Nell'ultimo strato omettere la provola e abbondare col ragù; finire con Grana, pepe e un filo d'olio. Cuocere in forno statico a 180 °C per 30 minuti; grill facoltativo."
+      ],
+      "temperature": "Forno statico 180 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: Lasagne ai funghi.",
+      "id": "GZ-00257",
+      "ingredients": [
+        "LASAGNE:",
+        "Sfoglie all'uovo 200 g",
+        "Porcini puliti 200 g",
+        "Pleurotus puliti 150 g",
+        "Finferli puliti 70 g",
+        "Champignon puliti 140 g",
+        "Pancetta arrotolata a fette 100 g",
+        "Vino bianco 100 g",
+        "Timo q.b.",
+        "Olio EVO q.b.",
+        "Sale q.b.",
+        "Pepe q.b.",
+        "BESCIAMELLA:",
+        "Latte intero 1 l",
+        "Burro 100 g",
+        "Farina 00 100 g",
+        "Sale e noce moscata q.b.",
+        "CREMA DI PORRI:",
+        "Panna fresca liquida 360 g",
+        "Porri 150 g",
+        "Taleggio 180 g",
+        "Sale e pepe q.b."
+      ],
+      "name": "Lasagne ai funghi",
+      "notes": [
+        "Conservazione: coperte in frigorifero per 3–4 giorni. La fonte suggerisce zafferano nella besciamella come opzione. La pancetta esclude la classificazione vegetariana."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "60 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Lasagna with Mushrooms",
+      "originalYield": "4 persone",
+      "pdfPage": 255,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8899b7adc05a4e249369601951b0574038a9cabeee07f714ac9ab5f9c362658d",
+        "previousAppSha256": "8899b7adc05a4e249369601951b0574038a9cabeee07f714ac9ab5f9c362658d",
+        "reviewedDigest": "6a2171e60b8078e04cfd51e4a3ad8a88256c4efef07e5cd60553429591d8c202"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "6a2171e60b8078e04cfd51e4a3ad8a88256c4efef07e5cd60553429591d8c202",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/lasagna-with-mushrooms.html",
+      "steps": [
+        "Scaldare il latte. A fuoco dolce sciogliere il burro, versare la farina e lavorarla con la frusta per circa un minuto. Incorporare il latte a filo, far addensare, insaporire con sale e noce moscata; coprire a contatto e lasciare raffreddare.",
+        "Eliminare la terra dai funghi, pulirli e asciugarli; affettarli e saltarli nell'olio. Sfumare con il vino; quando è evaporato aggiungere sale, pepe e timo e proseguire per qualche minuto.",
+        "Ridurre i porri a rondelle e cuocerli nella panna a fuoco basso per 10 minuti. Spegnere, aggiungere il taleggio a pezzetti e mescolare fino a scioglimento; regolare sale e pepe.",
+        "In una pirofila di 8×12 pollici distribuire abbondante besciamella sul fondo, poi sfoglie, crema di porri, besciamella, pancetta, funghi e altra besciamella. Ripetere gli strati e completare con timo fresco.",
+        "Cuocere nel forno già caldo a 350 °F per circa 40 minuti, poi dorare per pochi minuti sotto il grill."
+      ],
+      "temperature": "Forno preriscaldato 350 °F; grill finale"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "40 min",
+      "description": "Revisione editoriale della fonte originale: Lasagne al pistacchio.",
+      "id": "GZ-00260",
+      "ingredients": [
+        "LASAGNE:",
+        "Sfoglie secche all'uovo 320 g",
+        "Carne di suino macinata 500 g",
+        "Caciocavallo 250 g",
+        "Grana Padano DOP 30 g",
+        "Rosmarino 1 rametto",
+        "Timo 1 rametto",
+        "Vino bianco 30 g",
+        "Aglio 1 spicchio",
+        "Sale e pepe q.b.",
+        "BESCIAMELLA:",
+        "Latte intero 1 l",
+        "Farina 00 120 g",
+        "Burro 70 g",
+        "Sale q.b.",
+        "Pistacchi sgusciati non salati 50 g",
+        "Olio EVO 20 g",
+        "FINITURA:",
+        "Pistacchi 50 g",
+        "Olio e sale q.b.",
+        "Olio per rosolare e burro per ungere: quantità non dichiarata"
+      ],
+      "name": "Lasagne al pistacchio",
+      "notes": [
+        "Conservazione: un paio di giorni in frigorifero; congelabile prima o dopo cottura. Scongelare in frigorifero. Varianti: prosciutto oppure zucchine e provola; se si usa sfoglia fresca, sbollentarla. Fonte italiana primaria conferma Grana Padano; non sostituirlo col Parmigiano indicato nella traduzione EN."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "60 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Lasagne al pistacchio",
+      "originalYield": "4 persone; teglia 20×30 cm",
+      "pdfPage": 257,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c35d19fba915f923006f71cc9b1d436f42cc00230ecc42f39fc76094e190db86",
+        "previousAppSha256": "c35d19fba915f923006f71cc9b1d436f42cc00230ecc42f39fc76094e190db86",
+        "reviewedDigest": "d9ea2b507be334e49015d45c4ae14d1853391ad3786bd7d9ae0d9e285881ed05"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "d9ea2b507be334e49015d45c4ae14d1853391ad3786bd7d9ae0d9e285881ed05",
+      "serves": "4 persone; teglia 20×30 cm",
+      "source": "https://ricette.giallozafferano.it/Lasagne-al-pistacchio.html",
+      "steps": [
+        "Frullare 50 g di pistacchi con 20 g di olio per circa un minuto, mantenendo una grana grossolana.",
+        "Portare il latte quasi a bollore. Sciogliere il burro, amalgamare la farina e incorporare poco alla volta il latte caldo con una frusta; cuocere fino a crema liscia. Fuori dal fuoco incorporare i pistacchi tritati, salare e coprire.",
+        "Insaporire l'olio con aglio, rosmarino e timo per un minuto; rosolare il macinato per 5 minuti a fuoco medio. Sfumare col vino, far evaporare per altri 5 minuti, togliere l'aglio e regolare sale e pepe.",
+        "Tostare a parte i 50 g di pistacchi della finitura con poco olio e sale. Imburrare la teglia 20×30 cm; stendere besciamella e tre sfoglie, poi besciamella, carne, caciocavallo grattugiato grossolanamente e pistacchi. Proseguire per cinque strati.",
+        "Terminare con besciamella, carne, caciocavallo, Grana Padano, pistacchi e pepe. Infornare a 190 °C statico per 30 minuti e lasciare assestare brevemente."
+      ],
+      "temperature": "Forno statico 190 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "60 min",
+      "description": "Revisione editoriale della fonte originale: Linguine agli scampi.",
+      "id": "GZ-00291",
+      "ingredients": [
+        "Linguine 320 g",
+        "Scampi 700 g (12 pezzi)",
+        "Passata 400 g",
+        "Scalogno 1",
+        "Acqua 1 l",
+        "Prezzemolo 10 g",
+        "Olio EVO 60 g",
+        "Sale fino q.b."
+      ],
+      "name": "Linguine agli scampi",
+      "notes": [
+        "Consumare subito; congelabile il condimento se tutti gli ingredienti sono freschi. Variante senza pomodoro. Nota igienica distinta dalla fonte: la polpa dei crostacei deve risultare soda e opaca, secondo FDA https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely (consultato 24/11/2026). Non assumere che pochi istanti garantiscano cottura."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "30 min",
+        "rest": "Non applicabile"
+      },
+      "originalTitle": "Linguine agli scampi",
+      "originalYield": "4 persone",
+      "pdfPage": 125,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "70278780c4ba779f0419490f5dcf38d5fbbc1056bf0c60a1563e559b6d87209f",
+        "previousAppSha256": "70278780c4ba779f0419490f5dcf38d5fbbc1056bf0c60a1563e559b6d87209f",
+        "reviewedDigest": "7b751e688a5e81a8479a99744e28fa716d4424f0cd4f612a49c1b72fca1960f2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile",
+      "reviewedRecordSha256": "7b751e688a5e81a8479a99744e28fa716d4424f0cd4f612a49c1b72fca1960f2",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Linguine-agli-scampi.html",
+      "steps": [
+        "Separare teste e carapaci, incidendo la parte morbida con le forbici; estrarre la polpa, togliere il filo intestinale e tenere gli scarti per il fumetto.",
+        "Scaldare 40 g di olio, tostare gusci e teste schiacciandoli, versare l'acqua e lasciare ridurre per circa 30 minuti, quasi completamente.",
+        "Con l'olio rimanente rosolare brevemente la polpa degli scampi, trasferirla su un piatto e deglassare la padella con poco fumetto. Ammorbidire lo scalogno tritato nel fondo, aggiungere la passata e cuocere circa 30 minuti; regolare di sale.",
+        "Filtrare il fumetto e aggiungerlo al sugo fuori dal fuoco. Scolare le linguine due minuti prima del termine indicato e terminare la cottura nel condimento, aggiungendo acqua della pasta se serve.",
+        "Spegnere e unire gli scampi e il prezzemolo tritato. Per sicurezza verificare che la polpa degli scampi sia completamente cotta prima di unirla fuori fuoco."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "15 min",
+      "description": "Revisione editoriale della fonte originale: Linguine con alici marinate e pecorino.",
+      "id": "GZ-00300",
+      "ingredients": [
+        "Linguine 320 g",
+        "Alici fresche da pulire e bonificare 800 g",
+        "Pecorino 100 g",
+        "Colatura di alici q.b.",
+        "Scorza di limone q.b.",
+        "Olio EVO, sale, pepe e acqua q.b.",
+        "Aglio 2 spicchi",
+        "Succo di 1 limone",
+        "CITRONETTE:",
+        "Scorza di 1 limone",
+        "Succo di 1 limone",
+        "Prezzemolo q.b.",
+        "Olio EVO 3 cucchiai",
+        "Sale e pepe q.b."
+      ],
+      "name": "Linguine con alici marinate e pecorino",
+      "notes": [
+        "Consumare subito. Variante con peperoncino rosolato insieme all'aglio; 400 g di alici già pulite in alternativa agli 800 g interi. Non prolungare la marinatura. Per alici crude o marinate, congelamento preventivo a −18 °C per almeno 96 ore in congelatore domestico da almeno tre stelle, salvo prodotto già idoneamente trattato; la marinatura non sostituisce la bonifica. Riferimento: decreto Ministero della Salute 17/07/2013, allegato 1, https://www.gazzettaufficiale.it/eli/id/2013/08/10/13A06757/sg. Il congelamento non elimina ogni rischio microbiologico."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "20 min",
+        "rest": "Marinatura 10 min; bonifica preventiva separata"
+      },
+      "originalTitle": "Linguine with Marinated Anchovies and Pecorino",
+      "originalYield": "4 persone",
+      "pdfPage": 261,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "38aefb39bfd844b2833d0f0a73c0efb3c7f6692dca075903a04ca1c835fce641",
+        "previousAppSha256": "38aefb39bfd844b2833d0f0a73c0efb3c7f6692dca075903a04ca1c835fce641",
+        "reviewedDigest": "e799ee92a1d49f64401de3b3dafc23ef4145633c2348598e7d59df1800a1660f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Marinatura 10 min; bonifica preventiva separata",
+      "reviewedRecordSha256": "e799ee92a1d49f64401de3b3dafc23ef4145633c2348598e7d59df1800a1660f",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/linguine-with-marinated-anchovies-and-pecorino.html",
+      "steps": [
+        "Grattugiare la scorza di un limone e tenerla da parte. Per la citronette emulsionare i tre cucchiai di olio con succo, prezzemolo tritato, parte della scorza, sale e pepe.",
+        "Pulire le alici eliminando teste, lische e interiora, aprirle a libro e sciacquarle. Prima del consumo crudo procedere alla bonifica indicata nelle note e scongelare in frigorifero. Coprire i filetti con acqua, sale e succo di limone; marinare 10 minuti e trasferire nella citronette.",
+        "Lessare le linguine in acqua salata. Rosolare l'aglio nell'olio per qualche minuto, toglierlo, quindi aggiungere un mestolo di acqua della pasta, parte della scorza e poca colatura.",
+        "Scolare la pasta e mantecarla in padella con un altro mestolo di acqua, la scorza rimasta e il pecorino fino a consistenza cremosa.",
+        "Disporre cinque alici marinate sul piatto, un nido di linguine e la crema; completare con altre due alici e poca citronette."
+      ],
+      "temperature": "Non dichiarata dalla fonte"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "45 min",
+      "description": "Revisione editoriale della fonte originale: Lasagne alla Norma.",
+      "id": "GZ-00264",
+      "ingredients": [
+        "Sfoglie all'uovo 250 g",
+        "Pomodori pelati 1 kg",
+        "Melanzane 500 g",
+        "Aglio 1 spicchio",
+        "Basilico 6 foglie",
+        "Ricotta salata q.b.",
+        "Sale fino 1 pizzico",
+        "Olio EVO e pepe q.b.",
+        "CREMA:",
+        "Ricotta vaccina 1 kg",
+        "Latte intero 200 ml",
+        "Sale, pepe e noce moscata q.b."
+      ],
+      "name": "Lasagne alla Norma",
+      "notes": [
+        "Il metodo EN chiama il pomodoro purea mentre la lista prescrive pelati: si usa il pomodoro della lista per preparare il sugo, senza aggiungere altro pomodoro. Frigorifero 1–2 giorni; preparabile il giorno prima. Congelabile cruda se tutti gli ingredienti sono freschi; scongelare in frigorifero 24 ore. Variante con melanzane fritte. Ispirata alla pasta alla Norma siciliana, come indicato dalla fonte."
+      ],
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "20 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Lasagna alla Norma",
+      "originalYield": "6 persone",
+      "pdfPage": 260,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d3fd60d6ee5a9449447b052d2bed6bc077f10843ea93f5b092ac80b0397eca8b",
+        "previousAppSha256": "d3fd60d6ee5a9449447b052d2bed6bc077f10843ea93f5b092ac80b0397eca8b",
+        "reviewedDigest": "2779d3ad30ce2be45ef3dabfc3e36d2f841c454f5d8f3255b732806615f2668e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "2779d3ad30ce2be45ef3dabfc3e36d2f841c454f5d8f3255b732806615f2668e",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/Lasagna-alla-Norma.html",
+      "steps": [
+        "Preparare il sugo scaldando olio e aglio, unire il pomodoro della lista e condire; aggiungere il basilico a fine cottura.",
+        "Tagliare le melanzane a fette di circa 1/3 di pollice, grigliarle su entrambi i lati fino a doratura, lasciarle raffreddare e ridurle a cubetti.",
+        "Mescolare ricotta vaccina, latte, sale, pepe e noce moscata fino a ottenere una crema morbida; grattugiare la ricotta salata.",
+        "In una pirofila distribuire poco olio e sugo; alternare sfoglie, sugo, crema di ricotta, melanzane e ricotta salata, fino a esaurimento degli ingredienti. Completare con melanzane e ricotta salata.",
+        "Cuocere in forno statico a 425 °F per 20 minuti."
+      ],
+      "temperature": "Forno statico 425 °F"
     }
   ]
 }
