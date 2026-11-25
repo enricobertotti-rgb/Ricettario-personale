@@ -28619,6 +28619,68 @@
         "Versare la salsa sulla cheesecake fredda, uniformarla e farla rassodare in frigorifero per almeno 1 ora. Decorare con i 50 g di frutti freschi e menta."
       ],
       "temperature": null
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Zuppe, minestre e vellutate"
+      ],
+      "category": "Zuppe, minestre e vellutate",
+      "cook": "Nessuna cottura",
+      "description": "Zuppa fredda di anguria e verdure con tartare di ricciola e lime.",
+      "id": "GZ-01001",
+      "ingredients": [
+        "Per il gazpacho: anguria 520 g da pulire (240 g di polpa nel metodo)",
+        "Peperoni rossi 230 g da pulire (140 g di polpa nel metodo)",
+        "Pomodorini datterini 250 g",
+        "Cetrioli 150 g",
+        "Sedano 50 g",
+        "Mollica di pane 130 g",
+        "Acqua 50 g",
+        "Aceto di mele 70 g",
+        "Basilico q.b.",
+        "Tabasco q.b.",
+        "Olio extravergine di oliva 30 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Per la tartare: ricciola già bonificata per il consumo a crudo 400 g",
+        "Scorza di lime q.b.",
+        "Olio extravergine di oliva 10 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Gazpacho con tartare di ricciola",
+      "notes": "Le fonti ufficiali ES e FR attestano l’autore, le quantità nette di anguria e peperone e le dosi in grammi dei liquidi; la specie è ricciola, confermata da titolo, metodo e versioni EN/FR (refuso corvina nella lista ES). Il gazpacho si può conservare in frigorifero per 1–2 giorni; consumare la tartare subito. Possibile servire in bicchierini. Per il pesce crudo utilizzare prodotto idoneo al consumo a crudo già bonificato o rispettare l’indicazione ministeriale per la bonifica domestica: almeno 96 ore a −18 °C in congelatore con almeno tre stelle. Conservare la catena del freddo; il congelamento non elimina tutti i rischi microbiologici. La ricetta è una rivisitazione del gazpacho spagnolo, non una preparazione tradizionale di origine accertata.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "Nessuna cottura",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Gazpacho with Amberjack Tartare",
+      "originalYield": "4 persone",
+      "pdfPage": 267,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a7c4eea019d230dcf8a7639ffa6ab08d952b76f4b475fffe34621f067f501d58",
+        "previousAppSha256": "a7c4eea019d230dcf8a7639ffa6ab08d952b76f4b475fffe34621f067f501d58",
+        "reviewedDigest": "1abc53f85e4b20f915e2fd561d0cecd3d31ab5ba089d674375436e0475e40dec"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "1abc53f85e4b20f915e2fd561d0cecd3d31ab5ba089d674375436e0475e40dec",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/gazpacho-with-amberjack-tartare.html",
+      "steps": [
+        "Spezzettare la mollica e bagnarla in una ciotola con 50 g di acqua e 70 g di aceto di mele.",
+        "Mondare il peperone, eliminando picciolo, semi e filamenti; ricavare 140 g di polpa e tagliarla a dadi. Eliminare la buccia dell’anguria e ridurre in pezzi 240 g di polpa.",
+        "Lavare e asciugare i datterini; metterli nel mixer con l’anguria, il cetriolo affettato, il sedano a pezzi e il peperone. Condire con sale, pepe e qualche goccia di Tabasco; aggiungere i 30 g di olio, la mollica strizzata e alcune foglie di basilico.",
+        "Frullare fino a ottenere una crema e passarla al colino per una consistenza liscia.",
+        "Utilizzare ricciola idonea al consumo a crudo e già sottoposta alla bonifica preventiva necessaria; tagliarla a cubetti e poi al coltello. Condirla con i 10 g di olio, sale, pepe e scorza di lime.",
+        "Disporre la tartare in un coppapasta di 10 cm, compattarla delicatamente con il dorso del cucchiaio, sfilare l’anello, versare il gazpacho attorno e guarnire con basilico. Servire subito."
+      ],
+      "temperature": null
     }
   ]
 }
