@@ -22,41 +22,126 @@ function setRecipeColumns(value){if(value!=='one'&&value!=='two')return;recipeSt
 function recipeCard(r,image){return `<article class="recipe r3Recipe" aria-labelledby="recipeTitle"><div class="r3Intro"><header class="recipeHeader"><div class="category">${esc(r.category.toUpperCase())}</div><h1 id="recipeTitle">${esc(r.name)}</h1>${recipeSource(r)}${r.origin?`<p class="r3Origin">${recipeIcon('pin')}<span>${esc(r.origin)}</span></p>`:''}</header>${recipeMetrics(r)}<figure class="photo${DRIVE_PHOTOS[r.id]||(r.photo&&r.photoCreditUrl&&r.photoLicense)?'':' noPhoto'}"><div class="imageWrap">${image}</div>${r.photoCreditUrl&&recipeURL(r.photoCreditUrl)?`<figcaption class="photoCaption"><a href="${esc(recipeURL(r.photoCreditUrl))}" target="_blank" rel="noopener noreferrer">${esc(r.photoAuthor||'Fonte fotografia')} ↗</a><span>${esc(r.photoLicense||'')}${r.photoIllustrative?' · Immagine illustrativa':''}</span></figcaption>`:''}</figure>${r.description?`<p class="r3Description">${esc(r.description)}</p>`:''}</div><section class="ingredients r3Ingredients" aria-labelledby="ingredientTitle"><div class="r3SectionHeading"><h2 id="ingredientTitle">Ingredienti</h2>${r.serves?`<span>${esc(r.serves)}</span>`:''}</div>${ingredientRows(r.ingredients)}</section>${recipeMethod(r)}</article>`}
 
 
-// Sapore R4.1: append only editorially verified recipes without changing the 478 originals.
-// The matching approved versions retain their separate traceability in data/approved-r4-1.json.
-(function loadReviewedRecipesR41(){
-  const editorialDataUrl='data/approved-r4-1.json';
-  window.addEventListener('DOMContentLoaded',()=>{
-    fetch(editorialDataUrl,{cache:'no-cache'}).then(response=>{
-      if(!response.ok)throw new Error('Editorial dataset HTTP '+response.status);
-      return response.json();
-    }).then(data=>{
+// One initial load and at most two manual retries; no background polling.
+const saporeCatalogControl={attempts:0,maxAttempts:3,inFlight:null,inline:null,reviewed:new Map(),pendingDeepLink:null};
+function saporeCatalogStatus(){
+  if(typeof document==='undefined')return;
+  const app=document.getElementById('app');
+  if(!app)return;
+  let banner=document.getElementById('saporeCatalogStatus');
+  if(!banner){
+    banner=document.createElement('aside');banner.id='saporeCatalogStatus';banner.className='r3CatalogStatus';
+    banner.setAttribute('aria-label','Stato del catalogo');
+    const message=document.createElement('p');message.id='saporeCatalogMessage';message.setAttribute('role','status');message.setAttribute('aria-live','polite');
+    const button=document.createElement('button');button.type='button';button.id='saporeCatalogRetry';button.textContent='Riprova';
+    button.addEventListener('click',()=>{retrySaporeCatalog();});
+    banner.append(message,button);app.insertBefore(banner,document.getElementById('stage'));
+  }
+  const state=window.__saporeCatalogLoad;
+  banner.hidden=!state||state.status==='loaded';
+  if(!state)return;
+  banner.dataset.status=state.status;
+  document.getElementById('saporeCatalogMessage').textContent=state.status==='loading'?
+    'Caricamento del catalogo. Puoi già consultare le ricette disponibili.':
+    'Il catalogo è incompleto. Le ricette disponibili restano consultabili.'+(state.canRetry?' Puoi riprovare a caricare le altre.':' Ricarica la pagina più tardi per riprovare.');
+  const button=document.getElementById('saporeCatalogRetry');
+  button.hidden=state.status==='loaded'||(!state.canRetry&&state.status!=='loading');
+  button.disabled=!state.canRetry;
+}
+function saporeRefreshCatalog(){
+  CATEGORIES.splice(0,CATEGORIES.length,...new Set(RECIPES.map(r=>r.category)));
+  CATEGORIES.sort((a,b)=>a.localeCompare(b,'it'));
+  recipeSearchCache=null;pantryIndexCache=null;
+  if(typeof selected!=='undefined'&&selected){
+    const current=RECIPES.find(r=>r.id===selected.id);
+    if(current){selected=current;if(typeof category!=='undefined')category=current.category;}
+  }
+  const focus=typeof document!=='undefined'?document.activeElement:null;
+  const cursor=focus&&typeof focus.selectionStart==='number'?[focus.selectionStart,focus.selectionEnd]:null;
+  draw();
+  if(focus?.id&&typeof document!=='undefined'){
+    const replacement=document.getElementById(focus.id);
+    if(replacement&&replacement!==focus){replacement.focus({preventScroll:true});if(cursor&&replacement.setSelectionRange)replacement.setSelectionRange(...cursor);}
+  }
+}
+async function saporeCatalogJson(url){
+  const controller=new AbortController();let timer;
+  try{
+    const expired=new Promise((_,reject)=>{timer=setTimeout(()=>{controller.abort();reject(new Error('Catalog request timeout'));},12000);});
+    const request=(async()=>{const response=await fetch(url,{cache:'no-cache',signal:controller.signal});if(!response.ok)throw new Error('Catalog dataset HTTP '+response.status);return response.json();})();
+    return await Promise.race([request,expired]);
+  }finally{clearTimeout(timer);}
+}
+// Validate the whole R4.1 manifest against the immutable inline catalog, even
+// when a previous degraded attempt has already imported independent R15 rows.
+async function loadReviewedRecipesR41(){
+  if(window.__saporeEditorialImport?.status==='loaded')return;
+  try{
+      if(!saporeCatalogControl.inline){
+        const original=typeof SAPORE_ORIGINAL_RECORDS!=='undefined'?Array.from(SAPORE_ORIGINAL_RECORDS.values()):RECIPES;
+        saporeCatalogControl.inline=JSON.parse(JSON.stringify(original));
+      }
+      const data=await saporeCatalogJson('data/approved-r4-1.json');
       if(data.schema!=='sapore.app.editorial-import.v1'||data.editorial_revision!=='CUR-20261117-FONTE-R4.1'||data.new_recipe_count!==54||!Array.isArray(data.recipes)||data.recipes.length!==54||!Array.isArray(data.existingMatches)||data.existingMatches.length!==10)throw new Error('Editorial dataset does not match reviewed manifest');
-      if(RECIPES.length!==478)throw new Error('Unexpected original recipe count');
+      if(saporeCatalogControl.inline.length!==478)throw new Error('Unexpected original recipe count');
       const normUrl=value=>{try{const u=new URL(value);return u.hostname.toLowerCase().replace(/^www\./,'')+decodeURIComponent(u.pathname).toLowerCase().replace(/\/$/,'')}catch(_){return ''}};
-      const ids=new Set(RECIPES.map(r=>r.id));
-      const urls=new Set(RECIPES.map(r=>normUrl(r.source)).filter(Boolean));
+      const ids=new Set(saporeCatalogControl.inline.map(r=>r.id));
+      const urls=new Set(saporeCatalogControl.inline.map(r=>normUrl(r.source)).filter(Boolean));
       const pendingIds=new Set();
       const pendingUrls=new Set();
       for(const r of data.recipes){
         const url=normUrl(r.source);
         if(!r.id||!r.name||!r.category||!Array.isArray(r.ingredients)||!r.ingredients.length||!Array.isArray(r.steps)||!r.steps.length||!url||ids.has(r.id)||urls.has(url)||pendingIds.has(r.id)||pendingUrls.has(url)||!r.reviewedRecordSha256||!r.baseRecordSha256)throw new Error('Invalid, incomplete or duplicate editorial recipe: '+String(r.id));
+        const existing=RECIPES.find(current=>current.id===r.id);
+        if(existing&&saporeCanonicalJson(existing)!==saporeCanonicalJson(r))throw new Error('Editorial identity already occupied');
         pendingIds.add(r.id);pendingUrls.add(url);
       }
-      RECIPES.push(...data.recipes);
-      CATEGORIES.splice(0,CATEGORIES.length,...new Set(RECIPES.map(r=>r.category)));
-      CATEGORIES.sort((a,b)=>a.localeCompare(b,'it'));
-      recipeSearchCache=null;
-      pantryIndexCache=null;
-      draw();
-      window.__saporeEditorialImport={status:'loaded',added:data.recipes.length,alreadyMatched:data.existingMatches.length,total:RECIPES.length,revision:data.editorial_revision};
-      return loadPublishedRecipesR15();
-    }).catch(error=>{
+      const added=data.recipes.filter(r=>!RECIPES.some(current=>current.id===r.id));
+      for(const r of data.recipes)saporeCatalogControl.reviewed.set(r.id,JSON.parse(JSON.stringify(r)));
+      RECIPES.push(...added);
+      window.__saporeEditorialImport={status:'loaded',added:added.length,alreadyMatched:data.existingMatches.length,total:RECIPES.length,revision:data.editorial_revision};
+  }catch(error){
       window.__saporeEditorialImport={status:'error',message:String(error)};
       console.error('Sapore editorial import: previous catalog kept unchanged.',error);
-    });
-  },{once:true});
-})();
+  }
+  if(window.__saporeEditorialImport.status==='loaded')saporeRefreshCatalog();
+}
+function loadSaporeCatalog(){
+  if(saporeCatalogControl.inFlight)return saporeCatalogControl.inFlight;
+  if(window.__saporeCatalogLoad?.status==='loaded'||saporeCatalogControl.attempts>=saporeCatalogControl.maxAttempts)return Promise.resolve(window.__saporeCatalogLoad);
+  if(!saporeCatalogControl.attempts){
+    const hash=window.location?.hash||'',match=hash.match(/^#recipe=([A-Za-z0-9_-]+)$/);
+    if(match&&!RECIPES.some(r=>r.id===match[1]))saporeCatalogControl.pendingDeepLink=hash;
+  }
+  saporeCatalogControl.attempts++;
+  window.__saporeCatalogLoad={status:'loading',attempts:saporeCatalogControl.attempts,maxAttempts:saporeCatalogControl.maxAttempts,canRetry:false};
+  saporeCatalogStatus();
+  const promise=(async()=>{
+    try{
+      await loadReviewedRecipesR41();
+      await loadPublishedRecipesR15();
+    }catch(error){console.error('Sapore catalog: loading stopped; available recipes retained.',error);}
+    const complete=window.__saporeEditorialImport?.status==='loaded'&&window.__saporePublicationImport?.status==='loaded'&&!window.__saporePublicationImport.partial;
+    window.__saporeCatalogLoad={status:complete?'loaded':'partial',attempts:saporeCatalogControl.attempts,maxAttempts:saporeCatalogControl.maxAttempts,canRetry:!complete&&saporeCatalogControl.attempts<saporeCatalogControl.maxAttempts};
+    const pending=saporeCatalogControl.pendingDeepLink,match=pending?.match(/^#recipe=([A-Za-z0-9_-]+)$/);
+    if(match&&window.location?.hash===pending&&RECIPES.some(r=>r.id===match[1])){saporeCatalogControl.pendingDeepLink=null;openRecipeDeepLink();}
+    return window.__saporeCatalogLoad;
+  })().finally(()=>{saporeCatalogControl.inFlight=null;saporeCatalogStatus();});
+  saporeCatalogControl.inFlight=promise;window.__saporeCatalogReady=promise;
+  return promise;
+}
+function retrySaporeCatalog(){return loadSaporeCatalog();}
+window.addEventListener('DOMContentLoaded',()=>{
+  window.addEventListener('hashchange',()=>{
+    const hash=window.location?.hash||'',match=hash.match(/^#recipe=([A-Za-z0-9_-]+)$/);
+    saporeCatalogControl.pendingDeepLink=match&&!RECIPES.some(r=>r.id===match[1])?hash:null;
+  });
+  if(typeof document!=='undefined'){
+    document.addEventListener('click',event=>{if(!event.target.closest?.('#saporeCatalogStatus'))saporeCatalogControl.pendingDeepLink=null;});
+    document.addEventListener('input',()=>{saporeCatalogControl.pendingDeepLink=null;});
+  }
+  return loadSaporeCatalog();
+},{once:true});
 
 // Independent publication feed: preserve the reviewed R4.1 baseline unchanged.
 function publicationFingerprint(r){
@@ -76,9 +161,7 @@ async function saporeRecordSha256(value){
 }
 async function loadPublishedRecipesR15(){
   try{
-    const response=await fetch('data/published-r15.json',{cache:'no-cache'});
-    if(!response.ok)throw new Error('Publication dataset HTTP '+response.status);
-    const data=await response.json();
+    const data=await saporeCatalogJson('data/published-r15.json');
     if(data.schema!=='sapore.app.published.v1'||!Array.isArray(data.recipes))throw new Error('Invalid publication manifest');
     const normUrl=value=>{try{const u=new URL(value);if(!/^https?:$/.test(u.protocol))return '';return u.hostname.toLowerCase().replace(/^www\./,'')+decodeURIComponent(u.pathname).toLowerCase().replace(/\/$/,'')}catch(_){return ''}};
     const ids=new Map(RECIPES.map(r=>[r.id,r]));
@@ -94,16 +177,30 @@ async function loadPublishedRecipesR15(){
          !/^[a-f0-9]{64}$/.test(r.reviewedRecordSha256||'')||r.photo!=null){reject('invalid_record');continue;}
       const url=normUrl(r.source),fp=publicationFingerprint(r);
       if(!url){reject('invalid_source');continue;}
+      const proof=r.publicationUpdate;
+      if(proof&&(!/^[a-f0-9]{64}$/.test(proof.baseAppSha256||'')||!/^[a-f0-9]{64}$/.test(proof.previousAppSha256||'')||proof.reviewedDigest!==r.reviewedRecordSha256)){reject('invalid_update_proof');continue;}
+      // Until R4.1 is validated, an absent update ID might depend on that
+      // missing baseline. With both baselines loaded, an absent ID belongs to
+      // a standalone R15 publication, including its approved later revisions.
+      if(proof&&!ids.has(r.id)&&window.__saporeEditorialImport?.status!=='loaded'){reject('missing_baseline');continue;}
       if(ids.has(r.id)){
-        const previous=ids.get(r.id),proof=r.publicationUpdate;
-        const baseline=typeof SAPORE_ORIGINAL_RECORDS!=='undefined'&&SAPORE_ORIGINAL_RECORDS.has(r.id)?SAPORE_ORIGINAL_RECORDS.get(r.id):previous;
-        if(proof?.reviewedDigest===r.reviewedRecordSha256&&proof.baseAppSha256===await saporeRecordSha256(baseline)){
+        const previous=ids.get(r.id);
+        if(saporeCanonicalJson(previous)===saporeCanonicalJson(r)){reject('already_present',r.id);continue;}
+        const immutable=typeof SAPORE_ORIGINAL_RECORDS!=='undefined'&&SAPORE_ORIGINAL_RECORDS.has(r.id)?SAPORE_ORIGINAL_RECORDS.get(r.id):saporeCatalogControl.reviewed.get(r.id);
+        const baselineHash=await saporeRecordSha256(immutable||previous);
+        // A native R15 revision can advance during a manual recovery. When its
+        // original baseline is absent, require the exact previously loaded
+        // revision AND its unchanged original baseline proof.
+        const nativeSuccessor=!immutable&&previous.publicationUpdate&&proof&&
+          proof.baseAppSha256===previous.publicationUpdate.baseAppSha256&&proof.previousAppSha256===baselineHash;
+        const directBaseline=(immutable||!previous.publicationUpdate)&&proof?.baseAppSha256===baselineHash;
+        if(proof?.reviewedDigest===r.reviewedRecordSha256&&(directBaseline||nativeSuccessor)){
           if(fingerprints.has(fp)&&fingerprints.get(fp)!==r.id){reject('exact_content_duplicate',fingerprints.get(fp));continue;}
           updates.push(r);ids.set(r.id,r);fingerprints.delete(publicationFingerprint(previous));fingerprints.set(fp,r.id);
           const oldUrl=normUrl(previous.source);sourceIds.set(oldUrl,(sourceIds.get(oldUrl)||[]).filter(id=>id!==r.id));
           sourceIds.set(url,[...(sourceIds.get(url)||[]),r.id]);continue;
         }
-        reject(publicationFingerprint(previous)===fp?'already_present':'id_conflict',r.id);continue;
+        reject('id_conflict',r.id);continue;
       }
       if(fingerprints.has(fp)){reject('exact_content_duplicate',fingerprints.get(fp));continue;}
       // An URL match is a review signal, never proof that two recipes are identical.
@@ -115,12 +212,10 @@ async function loadPublishedRecipesR15(){
     }
     for(const r of updates){const index=RECIPES.findIndex(old=>old.id===r.id);if(index>=0)RECIPES[index]=r;}
     RECIPES.push(...accepted);
-    CATEGORIES.splice(0,CATEGORIES.length,...new Set(RECIPES.map(r=>r.category)));
-    CATEGORIES.sort((a,b)=>a.localeCompare(b,'it'));
-    recipeSearchCache=null;pantryIndexCache=null;
-    draw();openRecipeDeepLink();
-    window.__saporePublicationImport={status:'loaded',added:accepted.length,updated:updates.length,updateContract:'r26-baseline-overlay-v1',total:RECIPES.length,partial:skipped.length>0,skipped};
-    if(skipped.length)console.warn('Sapore publication: individual records skipped; remaining recipes loaded.',skipped);
+    const blocked=skipped.filter(r=>r.reason!=='already_present');
+    window.__saporePublicationImport={status:'loaded',added:accepted.length,updated:updates.length,updateContract:'r26-baseline-overlay-v1',total:RECIPES.length,partial:blocked.length>0,skipped};
+    saporeRefreshCatalog();
+    if(blocked.length)console.warn('Sapore publication: individual records skipped; remaining recipes loaded.',blocked);
   }catch(error){
     window.__saporePublicationImport={status:'error',message:String(error)};
     console.error('Sapore publication import: existing catalog retained.',error);
