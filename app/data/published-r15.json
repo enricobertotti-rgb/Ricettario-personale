@@ -29625,6 +29625,119 @@
         "Completare con le zucchine tenute da parte, menta e scorza di limone grattugiata."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "40 min",
+      "description": "Interpretazione algherese della paella, con fregola sarda al posto del riso e condimento di mare e terra.",
+      "id": "GZ-03860",
+      "ingredients": [
+        "Fregola sarda 400 g",
+        "Salsiccia 200 g",
+        "Petto di pollo 300 g",
+        "Cozze 500 g",
+        "Calamari 200 g",
+        "Gamberoni 300 g",
+        "Cipolla bianca 1",
+        "Peperone giallo 150 g",
+        "Pomodori ramati 400 g",
+        "Zafferano 1 bustina",
+        "Brodo di pollo 1,5 l",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Bottarga di muggine 40 g",
+        "Olio extravergine di oliva 5 cucchiai",
+        "Pisellini 200 g"
+      ],
+      "name": "Paella algherese",
+      "notes": "La fonte ufficiale IT/EN omette l’unità della fregola; Bixal, 7 gennaio 2020, conferma 400 g di fregola grossa, stessa resa, tempi e sequenza distintiva. La fonte originale indica 150 g di peperone e brodo di pollo: questi dati prevalgono sulle piccole divergenze della fonte secondaria. Il sale è q.b. nell’elenco ma il momento di aggiunta non è esplicitato. La fonte consiglia consumo immediato o conservazione in frigorifero in contenitore ermetico per non oltre 2 giorni; alternative: bottarga in polvere, peperoncino al posto del pepe, piselli surgelati. Nessuna temperatura esatta o riposo dichiarati. Autore individuale non attestato.",
+      "origin": "Italia — Sardegna, Alghero",
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Paella algherese",
+      "originalYield": "6 persone",
+      "pdfPage": 190,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "45abbfe010eba448eca50f6cd6509f5d2ca5b2e5cb8879ed2fd0a305b1896bb7",
+        "previousAppSha256": "45abbfe010eba448eca50f6cd6509f5d2ca5b2e5cb8879ed2fd0a305b1896bb7",
+        "reviewedDigest": "70d26f3dd2662dbbcc62d1af740d100cc68ce6bdbe44f9dbfd56ac258c74c2e9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "70d26f3dd2662dbbcc62d1af740d100cc68ce6bdbe44f9dbfd56ac258c74c2e9",
+      "serves": "6 persone",
+      "source": "https://www.giallozafferano.com/recipes/paella-algherese.html",
+      "steps": [
+        "Pulire le cozze, metterle in un tegame coperto a fuoco vivo finché si aprono, quindi filtrare e conservare il loro liquido di cottura.",
+        "Pulire i calamari e tagliarli ad anelli; ridurre il pollo a bocconi e sgranare la salsiccia. Mondare il peperone eliminando semi e filamenti e tagliarlo a strisce; privare i pomodori dei semi e tagliarli a pezzi.",
+        "Tritare la cipolla e farla appassire a fiamma bassa con 4–5 cucchiai d’olio in una paellera o padella antiaderente di circa 32 cm. Unire un mestolo di brodo per evitare che bruci, quindi rosolare salsiccia e pollo per qualche minuto.",
+        "Aggiungere peperone, pomodori e piselli sgranati e scolati. Unire circa un mestolo di brodo e lo zafferano sciolto in poco brodo; proseguire la cottura per qualche minuto.",
+        "Versare la fregola mescolando, aggiungere il brodo restante (tenerne da parte un paio di mestoli per eventuali aggiunte) e il fondo filtrato delle cozze. Cuocere a fiamma media per circa 20 minuti, rispettando il tempo indicato sulla confezione e controllando spesso la consistenza.",
+        "Dopo 10 minuti aggiungere i calamari; dopo altri 5 minuti unire i gamberoni. A circa 3 minuti dal termine aggiungere le cozze private della valva vuota. Pepare, impiattare e finire con bottarga a lamelle e, a piacere, un filo d’olio."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Lulù Gargari",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min",
+      "description": "Variante semplificata della pasta siciliana con le sarde, con finocchietto, zafferano, uvetta e pinoli.",
+      "id": "GZ-00087",
+      "ingredients": [
+        "Bucatini 320 g",
+        "Sarde già eviscerate 160 g",
+        "Finocchietto selvatico 40 g",
+        "Uvetta 50 g",
+        "Pinoli 50 g",
+        "Aglio 1 spicchio",
+        "Zafferano 2 bustine",
+        "Peperoncino q.b.",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Bucatini con sarde, uvetta e pinoli",
+      "notes": "La lista ufficiale IT/EN omette l’unità dopo 160; la fonte secondaria Rebuli, con la stessa resa, dosi e sequenza di lavorazioni, specifica 160 g di sarde già eviscerate. L’originale rimane conservato. La versione italiana indica aglio in camicia; quella inglese lo descrive schiacciato. Consiglio della fonte: ammollare facoltativamente l’uvetta in acqua tiepida per circa 10 minuti; possibile mantecatura con Parmigiano grattugiato. Consumare preferibilmente subito; eventuali avanzi in frigorifero in contenitore chiuso fino a 2 giorni. Nessuna temperatura precisa o riposo obbligatorio dichiarati.",
+      "origin": "Italia — Sicilia",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Bucatini with sardines, raisins, and pine nuts",
+      "originalYield": "4 persone",
+      "pdfPage": 213,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "83a1f0d1160549f691b5b08b535cb4dd734c0ada25284fbba814397e06e31b30",
+        "previousAppSha256": "83a1f0d1160549f691b5b08b535cb4dd734c0ada25284fbba814397e06e31b30",
+        "reviewedDigest": "8686b822a6148d791dbbafd9ddcc8a92ab1d5c1f4b8396fcf79d33cd2d5865e2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "8686b822a6148d791dbbafd9ddcc8a92ab1d5c1f4b8396fcf79d33cd2d5865e2",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/bucatini-with-sardines-raisins-and-pine-nuts.html",
+      "steps": [
+        "Eliminare testa e lisca delle sarde senza separare i filetti, sciacquarle e tenerle da parte.",
+        "Privare il finocchietto dei gambi, sbollentarlo, scolarlo e conservare il liquido di cottura. Tostare i pinoli in padella; unire aglio in camicia, peperoncino e un filo d’olio.",
+        "Lessare i bucatini in acqua bollente salata. Nella padella aggiungere le sarde con un mestolo di acqua del finocchietto.",
+        "Incorporare il finocchietto scolato, l’uvetta e lo zafferano, amalgamando il condimento.",
+        "Scolare i bucatini due minuti prima del termine indicato, completarne la cottura nel condimento e servire con olio a crudo."
+      ],
+      "temperature": null
     }
   ]
 }
