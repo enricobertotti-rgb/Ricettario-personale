@@ -28858,6 +28858,64 @@
         "Sgranare il couscous con una forchetta, unirlo al condimento e mescolare. Servire subito oppure tenere in frigorifero fino al servizio."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "50 min",
+      "description": "Agnello con carciofi e piselli, cotto in due tempi e gratinato con una copertura di pane e formaggi. Preparazione pasquale calabrese.",
+      "id": "GZ-01116",
+      "ingredients": [
+        "Agnello 1 kg",
+        "Cipolle medie 2",
+        "Parmigiano Reggiano DOP 50 g",
+        "Pecorino 30 g",
+        "Pangrattato 60 g",
+        "Mollica di pane 150 g",
+        "Prezzemolo tritato 2 cucchiai",
+        "Pepe nero q.b.",
+        "Aglio 1 spicchio",
+        "Vino rosso 1 bicchiere",
+        "Piselli 450 g",
+        "Cuori di carciofo 400 g",
+        "Brodo vegetale 500 ml",
+        "Olio extravergine di oliva 6 cucchiai",
+        "Sale q.b. (indicato nel procedimento)"
+      ],
+      "name": "Agnello gratinato con carciofi e piselli",
+      "notes": "La fonte francese identifica la tradizione calabrese e chiarisce la quantità indicativa di brodo residuo e la temperatura del forno. Consiglio della fonte: eliminare il grasso e non rosolare la carne prima del vino. Autore individuale e conservazione non dichiarati. Nota di sicurezza distinta dalla ricetta originale: non lavare la carne cruda, per ridurre il rischio di contaminazione crociata; tenere separati utensili e superfici usati per il crudo. Controllare con termometro il centro della preparazione: FoodSafety.gov indica 74 °C per i piatti in casseruola. Questa soglia non è una temperatura dichiarata da GialloZafferano. Fonti sicurezza: https://ask.fsis.usda.gov/article/Can-bacteria-spread-from-one-surface-to-another ; https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures .",
+      "origin": "Italia, Calabria",
+      "originalTimes": {
+        "cook": "50 min",
+        "prep": "25 min",
+        "rest": null
+      },
+      "originalTitle": "Gratinated Lamb with Artichokes and Peas",
+      "originalYield": "6 porzioni",
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a932fb687f1c126b9efb351d4da7cc6f403e6d27d99ae1a0c85c22522545d242",
+        "previousAppSha256": "a932fb687f1c126b9efb351d4da7cc6f403e6d27d99ae1a0c85c22522545d242",
+        "reviewedDigest": "22abe60366d9ba3497eba8a588464b76a7b2e80d575b6d267dc0431a9dee91ad"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "22abe60366d9ba3497eba8a588464b76a7b2e80d575b6d267dc0431a9dee91ad",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/gratinated-lamb-with-artichokes-and-peas.html",
+      "steps": [
+        "Preparare 500 ml di brodo vegetale. Tagliare l'agnello a pezzi, eliminando quanto più grasso possibile; asciugarlo. Per sicurezza evitare di lavare la carne cruda (vedi nota).",
+        "Tritare una cipolla e farla appassire in un tegame con 3 cucchiai di olio. Unire i piselli e i cuori di carciofo divisi in quarti. Cuocere a fuoco medio, aggiungendo brodo poco per volta secondo necessità, finché le verdure sono tenere ma non sfatte; regolare di sale.",
+        "In un altro tegame appassire a fuoco dolce la seconda cipolla tritata nei 3 cucchiai di olio rimanenti. Unire l'agnello: farlo appena schiarire, senza dorarlo. Salare, versare subito il vino e cuocere a fuoco medio con coperchio per circa 20 minuti, finché il fondo si addensa.",
+        "Preriscaldare il forno a circa 200 °C. Disporre in una pirofila capiente adatta anche al fornello prima la carne con il suo fondo, poi piselli e carciofi.",
+        "Sbriciolare la mollica e mescolarla con pangrattato, Parmigiano e Pecorino grattugiati, prezzemolo tritato, pepe e aglio schiacciato. Coprire interamente la superficie con il composto e bagnarlo con il brodo rimasto (circa 300 ml, secondo la versione ufficiale francese).",
+        "Tenere la pirofila sul fornello con il coperchio per 10 minuti affinché il vapore ammorbidisca la copertura. Passare in forno per circa 20 minuti, fino a ottenere una crosta dorata e croccante. Controllare anche la cottura al cuore come indicato nella nota di sicurezza. Servire ben caldo."
+      ],
+      "temperature": "Forno circa 200 °C"
     }
   ]
 }
