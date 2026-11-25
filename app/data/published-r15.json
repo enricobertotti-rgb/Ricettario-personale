@@ -29935,6 +29935,225 @@
         "Lasciar riposare e intiepidire circa mezz'ora prima di servire."
       ],
       "temperature": "180 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "15 min in testata; 10 + 2–3 min per pezzo nel metodo",
+      "description": "Focaccine inglesi dalla superficie alveolata, cotte in padella.",
+      "id": "SAP-GZ-EN-CRUMPETS",
+      "ingredients": [
+        "300 g farina 00",
+        "150 ml acqua",
+        "360 ml latte tiepido",
+        "15 g zucchero",
+        "1 cucchiaino sale fino",
+        "6 g lievito di birra secco",
+        "3 g bicarbonato",
+        "Burro q.b.",
+        "Olio di semi q.b."
+      ],
+      "name": "Crumpets",
+      "notes": "Conservazione indicata: 2 giorni sotto campana di vetro o congelare. Tostare e servire con burro e confettura oppure formaggio e prosciutto. Alternativa 18 g lievito di birra fresco. La risposta redazionale italiana del 14/02/2022 esclude il lievito per dolci; la versione inglese presenta un termine incongruente. Preferire olio di semi per non alterare il sapore.",
+      "origin": "Inghilterra — tradizione del tè documentata dalla fonte",
+      "originalTimes": {
+        "cook": "15 min in testata; 10 + 2–3 min per pezzo nel metodo",
+        "prep": "15 min",
+        "rest": "15 min + 1 ora"
+      },
+      "originalTitle": "Crumpets",
+      "originalYield": "10 pezzi",
+      "photo": null,
+      "prep": "15 min",
+      "rest": "15 min + 1 ora",
+      "reviewedRecordSha256": "1b0b8aa5d031d2097933164d0f55d53a167a5211856c83f296acd5d181a76cfd",
+      "serves": "10 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/crumpets.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Scaldare l’acqua a 45 °C, sciogliervi il lievito di birra secco e lo zucchero con una frusta. Coprire e lasciare riposare 15 minuti a temperatura ambiente.",
+        "Setacciare la farina e incorporarla gradualmente al composto; aggiungere sale e bicarbonato. Versare a filo il latte tiepido mescolando con la frusta fino a eliminare i grumi.",
+        "Coprire e lasciare riposare un’ora a temperatura ambiente.",
+        "Ungere una padella antiaderente, scaldarla a fuoco basso e imburrare internamente un anello di 8 cm. Versarvi un mestolo di pastella.",
+        "Cuocere circa 10 minuti, fino a quando compaiono le bolle in superficie. Sfilare l’anello, girare con una spatola e cuocere ancora 2–3 minuti fino a doratura. Ripetere per gli altri crumpets e lasciare raffreddare su una gratella."
+      ],
+      "temperature": "Acqua 45 °C; padella a fuoco basso"
+    },
+    {
+      "author": "Frau Knam",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "35 min",
+      "description": "Crostata di frolla al pistacchio e arancia con confettura di albicocche.",
+      "id": "SRC-HIST-98996043fd864ff8",
+      "ingredients": [
+        "200 g farina 00",
+        "100 g farina di pistacchi",
+        "150 g burro a temperatura ambiente",
+        "150 g zucchero",
+        "50 g uovo (circa 1 medio)",
+        "Scorza di 1 arancia",
+        "7 g lievito per dolci",
+        "2 g sale fino",
+        "Confettura di albicocche q.b.",
+        "Burro q.b. per lo stampo",
+        "Tuorlo q.b. per spennellare"
+      ],
+      "name": "Crostata al pistacchio e arancia con confettura di albicocche",
+      "notes": "Conservazione 2–3 giorni a temperatura ambiente; la frolla può essere preparata il giorno prima e conservata avvolta in frigorifero. Variante con marmellata di arance. Si conservano le unità di misura della fonte EN per stampo, spessore e temperatura; il dato metrico storico rimane nell’originale privato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "45 min",
+        "rest": "Almeno 2 ore in frigorifero"
+      },
+      "originalTitle": "Pistachio and orange tart with apricot jam",
+      "originalYield": "6 porzioni; stampo 9 pollici",
+      "photo": null,
+      "prep": "45 min",
+      "rest": "Almeno 2 ore in frigorifero",
+      "reviewedRecordSha256": "c534fb4a725eb3777134e1eeb6a3832865afc0b7052704d562f6b39c94a5a4d0",
+      "serves": "6 porzioni; stampo 9 pollici",
+      "source": "https://www.giallozafferano.com/recipes/pistachio-and-orange-tart-with-apricot-jam.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Amalgamare a mano burro morbido, zucchero, sale e scorza d’arancia. Incorporare l’uovo fino a completo assorbimento.",
+        "Aggiungere farina 00, lievito e farina di pistacchi; lavorare nella ciotola poi sul piano fino a ottenere una frolla omogenea. Avvolgere e riposare in frigorifero almeno 2 ore.",
+        "Su piano leggermente infarinato stendere la frolla a 1/8 di pollice. Ricavare la base e i bordi per lo stampo da 9 pollici, imburrarlo, rivestirlo e rifilare l’eccesso.",
+        "Distribuire e livellare la confettura. Reimpastare gli sfridi, stenderli allo stesso spessore, ricavare strisce da disporre prima orizzontalmente e poi in diagonale. Rifilare i bordi.",
+        "Spennellare con tuorlo sbattuto e cuocere in forno statico preriscaldato a 350 °F per 35 minuti. Lasciare raffreddare."
+      ],
+      "temperature": "350 °F statico (unità della fonte)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "70 min in testata; 60–70 min nel metodo",
+      "description": "Pane dolce natalizio con frutta, spezie e cuore di marzapane.",
+      "id": "SRC-HIST-a9a224fc0c567f1f",
+      "ingredients": [
+        "700 g farina Manitoba",
+        "250 ml latte intero",
+        "8 g lievito di birra secco",
+        "1 cucchiaino miele",
+        "200 g zucchero",
+        "300 g burro",
+        "2 uova medie",
+        "100 g mandorle pelate",
+        "100 ml rum (50 + 50 ml)",
+        "150 g uvetta",
+        "150 g arancia candita",
+        "Scorza di 1 limone",
+        "15 g zenzero fresco",
+        "1/2 cucchiaino cardamomo",
+        "1 bacca vaniglia",
+        "12 g sale fino",
+        "200 g marzapane",
+        "50 g burro fuso per finire",
+        "50 g zucchero a velo per finire"
+      ],
+      "name": "Stollen natalizio tedesco con marzapane",
+      "notes": "Dopo la maturazione la fonte indica conservazione sotto campana per circa una settimana. Cardamomo sostituibile con cannella o noce moscata; alternativa lievito fresco indicata come un cubetto senza peso. La ricetta non costituisce attestazione di appartenenza alla denominazione protetta Dresdner Stollen.",
+      "origin": "Germania — tradizione natalizia, Dresda citata dalla fonte",
+      "originalTimes": {
+        "cook": "70 min in testata; 60–70 min nel metodo",
+        "prep": "50 min",
+        "rest": "Oltre 2 ore in testata; almeno 30 min fino al raddoppio + 1 ora nel metodo; maturazione 2 giorni"
+      },
+      "originalTitle": "Stollen",
+      "originalYield": "12 porzioni",
+      "photo": null,
+      "prep": "50 min",
+      "rest": "Oltre 2 ore in testata; almeno 30 min fino al raddoppio + 1 ora nel metodo; maturazione 2 giorni",
+      "reviewedRecordSha256": "4d92eb9379be8d453758ee79941fd2a1f3422ad9acb7ba08a4cda496862fa336",
+      "serves": "12 porzioni",
+      "source": "https://www.giallozafferano.es/recetas/stollen.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tagliare a cubetti l’arancia candita; ammollarla con l’uvetta in acqua tiepida sufficiente a coprirla e 50 ml di rum. Tostare le mandorle senza scurirle, lasciarle raffreddare e tritarle grossolanamente. Se non pelate, sbollentarle 5 minuti e spellarle. Grattugiare scorza di limone e zenzero.",
+        "Sciogliere il lievito in parte del latte tiepido con il miele. Formare un incavo nella farina, versarvi il lievito e mescolare con parte della farina fino a una pastella. Coprire e lasciare al caldo almeno 30 minuti fino al raddoppio.",
+        "Scaldare il latte restante e aromatizzarlo con semi e baccello di vaniglia. Fondere il burro e farlo intiepidire. Scolare e tamponare la frutta, infarinarla leggermente ed eliminare l’eccesso di farina.",
+        "Sbattere le uova con il latte aromatizzato privato del baccello, sale, cardamomo, scorza di limone e zenzero. Avviare la planetaria con foglia a bassa velocità, unire il composto liquido, i 50 ml di rum rimanenti e lo zucchero; incorporare gradualmente il burro fuso. Passare al gancio e lavorare 10 minuti, fino a impasto omogeneo che si raccoglie sul gancio.",
+        "Incorporare mandorle e frutta, lavorando ancora 2 minuti. Formare una palla, coprire e lasciare lievitare al caldo per un’ora.",
+        "Formare un cilindro di marzapane. Stendere l’impasto in un rettangolo, assottigliarne il centro lasciando un lato lungo più spesso. Ripiegare le estremità corte verso l’interno; adagiare il marzapane vicino al lato spesso, ripiegare il lato sottile sopra quello spesso e sigillare con il matterello.",
+        "Trasferire su teglia foderata e cuocere in forno statico preriscaldato a 180 °C per 60–70 minuti, fino a doratura.",
+        "Appena sfornato spennellare con i 50 g di burro fuso e spolverare con 50 g di zucchero a velo. Raffreddare su gratella, avvolgere in alluminio e lasciare maturare due giorni in luogo fresco, non in frigorifero."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": "Giovanni Ricciardella — Cascina Vittoria",
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "60 min; ulteriori 5 min se necessario",
+      "description": "Grande lievitato pasquale italiano con lievito madre, arancia e glassa alle mandorle.",
+      "id": "SRC-a80afc87407ad4f6",
+      "ingredients": [
+        "Primo impasto A: 40 g acqua fredda",
+        "75 g zucchero",
+        "85 g lievito madre (rinfrescato 3 volte a intervalli di 3 ore)",
+        "50 g tuorli freddi",
+        "170 g farina 00 forte W 370-390",
+        "Primo impasto B: 20 g acqua fredda",
+        "50 g tuorli freddi",
+        "100 g burro freddo",
+        "Secondo impasto: 65 g farina 00 forte W 370-390",
+        "30 g tuorli freddi",
+        "15 g miele millefiori",
+        "20 g zucchero",
+        "5 g sale fino",
+        "40 g burro",
+        "1 bacca vaniglia",
+        "50 g pasta d’arancia",
+        "150 g arancia candita",
+        "Glassa: 90 g farina di mandorle",
+        "75 g albumi",
+        "60 g zucchero",
+        "40 g amido di mais",
+        "1 g sale fino",
+        "1 bacca vaniglia",
+        "Zucchero in granella q.b.",
+        "Mandorle q.b.",
+        "Zucchero a velo q.b."
+      ],
+      "name": "Colomba pasquale con lievito madre di Giovanni Ricciardella",
+      "notes": "Conservare 3–4 giorni in sacchetto di nylon, in ambiente asciutto. Ingredienti freddi nel secondo impasto perché la lavorazione lo riscalda. Per l’umidità della lievitazione in forno spento, usare un bicchiere d’acqua calda ed evitare di aprire. Se la glassa è troppo fluida, aggiungere farina di mandorle; se troppo dura, albume, senza inventare dosi. Non dividere il filone nello stampo. Temperature e quantità metriche corroborate dalla versione ufficiale ES.",
+      "origin": "Italia — tradizione pasquale",
+      "originalTimes": {
+        "cook": "60 min; ulteriori 5 min se necessario",
+        "prep": "2 ore",
+        "rest": "Rinfreschi ogni 3 ore; 20 ore + 12 ore in frigo + 30 min + circa 12 ore; glassa 15 min; raffreddamento almeno 8 ore"
+      },
+      "originalTitle": "Colomba with sourdough",
+      "originalYield": "12 porzioni; stampo 1 kg",
+      "photo": null,
+      "prep": "2 ore",
+      "rest": "Rinfreschi ogni 3 ore; 20 ore + 12 ore in frigo + 30 min + circa 12 ore; glassa 15 min; raffreddamento almeno 8 ore",
+      "reviewedRecordSha256": "0c498c0a4d80bc41787b947423d9be6de5df10a3b2b70a9291a590c2c60a6c5e",
+      "serves": "12 porzioni; stampo 1 kg",
+      "source": "https://www.giallozafferano.com/recipes/colomba-with-sourdough.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Rinfrescare il lievito madre tre volte, a distanza di 3 ore. In planetaria lavorare con gancio 40 g di acqua fredda, 75 g di zucchero, 85 g di lievito madre, 50 g di tuorli e 170 g di farina forte per 15–20 minuti a velocità media; l’impasto deve essere elastico e non superare 26 °C.",
+        "Unire lentamente altri 50 g di tuorli freddi, attendendo l’assorbimento, poi 20 g di acqua fredda e 100 g di burro freddo in tre aggiunte; mantenere la temperatura sotto controllo.",
+        "Trasferire sul piano imburrato, fare le pieghe e chiudere con la giuntura sotto. Porre in recipiente alto imburrato, ungere anche la superficie, coprire con pellicola e lasciare a 28–30 °C per circa 20 ore fino a triplicare. Passare in frigorifero 12 ore.",
+        "Lavorare l’impasto freddo con 65 g di farina a velocità minima per circa 45 minuti fino a incordatura. Incorporare 30 g di tuorli freddi, attendere l’assorbimento, poi 20 g di zucchero e 15 g di miele; infine semi della vaniglia, 5 g di sale e 40 g di burro freddo a cubetti, lasciando assorbire.",
+        "Aggiungere 50 g di pasta d’arancia e 150 g di canditi freddi; impastare al massimo un minuto. Fare le pieghe sul piano imburrato e lasciare riposare 30 minuti in un contenitore imburrato, ungendo anche la superficie.",
+        "Modellare un unico filone con centro alto ed estremità più sottili. Trasferire nello stampo da 1 kg e allargare il centro verso le ali. Chiudere in un sacchetto e lievitare a 28 °C per circa 12 ore, fin quasi al bordo.",
+        "Per la glassa lavorare con la foglia a velocità media circa 3 minuti 90 g di farina di mandorle, 60 g di zucchero, 1 g di sale, 40 g di amido, 75 g di albumi e semi di una bacca di vaniglia; raccogliere il composto dalle pareti. Mettere in sac à poche e riposare 15 minuti a temperatura ambiente.",
+        "Distribuire la glassa, livellare con spatola e decorare con mandorle, granella e zucchero a velo. Cuocere a 150 °C statico per un’ora; se pallida, proseguire 5 minuti a 160 °C. Verificare al cuore 94–96 °C. Infilzare al centro e capovolgere a temperatura ambiente per almeno 8 ore."
+      ],
+      "temperature": "Impasto max 26 °C; lievitazione 28–30 °C; forno statico 150 °C, eventuali 5 min a 160 °C; cuore 94–96 °C"
     }
   ]
 }
