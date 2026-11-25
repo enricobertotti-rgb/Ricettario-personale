@@ -28751,6 +28751,59 @@
         "Cuocere in forno statico preriscaldato a 170 °C per circa 40 minuti; lasciare assestare per circa 10 minuti prima di porzionare."
       ],
       "temperature": "170 °C, forno statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "30 min",
+      "description": "Rivisitazione italiana del sushi giapponese, con foglie di bietola al posto dell'alga, riso condito e salmone.",
+      "id": "GZ-03870",
+      "ingredients": [
+        "Per il riso: riso per sushi 250 g",
+        "Acqua 300 ml",
+        "Aceto di riso 75 ml",
+        "Zucchero 30 g",
+        "Sale fino 2 g",
+        "Per i rotoli: bietole, foglie intere 200 g",
+        "Filetto di salmone senza lische 100 g, idoneo al consumo a crudo e già bonificato"
+      ],
+      "name": "Sushi all'italiana",
+      "notes": "La fonte indica 14 rotolini (pezzi tagliati), non 14 rotoli interi. Alternativa: usare 50 g di salmone e 50 g di tonno, entrambi idonei al consumo a crudo. Conservare in frigorifero in contenitore ermetico per non oltre un giorno; non congelare il sushi già preparato. Per il pesce crudo utilizzare prodotto già bonificato e idoneo al consumo a crudo; la fonte, richiamando le indicazioni ministeriali, prescrive in alternativa il congelamento domestico preventivo a −18 °C per almeno 96 ore in congelatore con tre o più stelle. Mantenere la catena del freddo: il trattamento antiparassitario non elimina tutti i rischi microbiologici. Raffreddare rapidamente il riso, conservarlo refrigerato. Autore individuale non indicato. Provenienza: rivisitazione italiana, non attestata come ricetta tradizionale giapponese.",
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "15 min ammollo + 15 min riposo riso + almeno 10 min a fuoco spento; 1–2 h in frigorifero"
+      },
+      "originalTitle": "Italian-style sushi",
+      "originalYield": "3 persone / 14 rotolini",
+      "pdfPage": 194,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "546500258bcb48d68a9655a745b4a068b5ca3aee819ea7b8592c4a822bfb72f5",
+        "previousAppSha256": "546500258bcb48d68a9655a745b4a068b5ca3aee819ea7b8592c4a822bfb72f5",
+        "reviewedDigest": "280ed8aed84df4acff6617c251cbf34121fc3b5a5a678913d3eede8484734639"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "15 min ammollo + 15 min riposo riso + almeno 10 min a fuoco spento; 1–2 h in frigorifero",
+      "reviewedRecordSha256": "280ed8aed84df4acff6617c251cbf34121fc3b5a5a678913d3eede8484734639",
+      "serves": "3 persone / 14 rotolini",
+      "source": "https://www.giallozafferano.com/recipes/italian-style-sushi.html",
+      "steps": [
+        "Lavare il riso in acqua fredda, cambiandola ripetutamente (circa dieci volte) finché risulta limpida. Lasciare il riso immerso per 15 minuti; scolarlo e lasciarlo riposare altri 15 minuti.",
+        "Mettere il riso in casseruola con i 300 ml di acqua, coprire e portare a bollore. Cuocere a fuoco medio per 8–10 minuti, poi abbassare la fiamma e proseguire per altri 8–10 minuti senza sollevare il coperchio. Spegnere e lasciare riposare coperto almeno 10 minuti.",
+        "Nel frattempo scaldare in un pentolino i 75 ml di aceto di riso, i 30 g di zucchero e i 2 g di sale, mescolando finché si sciolgono senza portare a bollore; lasciare raffreddare.",
+        "Trasferire il riso in un recipiente largo e basso. Distribuirvi il condimento a filo, separando i chicchi con una spatola di legno e ventilando per raffreddarlo rapidamente. Coprire con un canovaccio pulito.",
+        "Utilizzare solo salmone idoneo al consumo a crudo, già sottoposto alla bonifica preventiva necessaria. Asciugare il filetto e ricavarne strisce di circa 1 cm. Lavare le bietole, eliminare gambi e coste centrali dure; cuocere le foglie a vapore per 2–3 minuti, girandole a metà cottura, e asciugarle.",
+        "Stendere la pellicola alimentare e sovrapporre le foglie in modo da formare un quadrato di circa 18 cm per lato. Distribuire al centro circa 120 g di riso cotto, lasciando un margine di circa 1 cm; disporre una striscia di salmone.",
+        "Sollevare la pellicola per avvolgere le bietole attorno al ripieno senza incorporarla nel rotolo; compattare, avvolgere l'esterno con la pellicola e torcere le estremità a caramella. Ripetere con gli ingredienti rimasti e far assestare in frigorifero per 1–2 ore.",
+        "Eliminare la pellicola e tagliare a fettine di circa 2 cm con un coltello bagnato in acqua acidulata. Servire freddo; a piacere accompagnare con salsa di soia, zenzero o wasabi."
+      ],
+      "temperature": null
     }
   ]
 }
