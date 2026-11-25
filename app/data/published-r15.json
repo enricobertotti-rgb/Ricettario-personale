@@ -28804,6 +28804,60 @@
         "Eliminare la pellicola e tagliare a fettine di circa 2 cm con un coltello bagnato in acqua acidulata. Servire freddo; a piacere accompagnare con salsa di soia, zenzero o wasabi."
       ],
       "temperature": null
+    },
+    {
+      "author": "Luisa Orizio",
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "",
+      "description": "Couscous con pomodorini, mozzarella, olive taggiasche, capperi, pinoli e basilico.",
+      "id": "GZ-00123",
+      "ingredients": [
+        "Couscous precotto 200 g",
+        "Acqua 240 g",
+        "Sale fino q.b. (per il couscous)",
+        "Olio extravergine d'oliva q.b. (per il couscous)",
+        "Pomodorini 250 g",
+        "Olive taggiasche denocciolate 80 g",
+        "Capperi sotto sale, dissalati, 30 g",
+        "Pinoli 20 g",
+        "Mozzarelline 200 g",
+        "Basilico fresco q.b.",
+        "Olio extravergine d'oliva q.b. (per condire)",
+        "Sale fino q.b. (per condire)"
+      ],
+      "name": "Couscous alla mediterranea",
+      "notes": "Si può servire freddo, aggiungere due cucchiaini di pesto oppure tostare i pinoli. Conservare in frigorifero in contenitore ermetico per 1–2 giorni: la versione ufficiale tedesca della stessa ricetta, con autrice, ingredienti e metodo coincidenti, chiarisce il refuso dei 100 giorni nella versione inglese. Nessun Paese di origine esplicitamente attestato; temperatura numerica non dichiarata.",
+      "origin": null,
+      "originalTimes": {
+        "cook": null,
+        "prep": "10 min",
+        "rest": "Circa 5 min di reidratazione"
+      },
+      "originalTitle": "Mediterranean couscous",
+      "originalYield": "4 persone",
+      "pdfPage": 269,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ecda64fe6882dd7f60c4ad8d424930f8684db43c7e30674e704031f6ee58c662",
+        "previousAppSha256": "ecda64fe6882dd7f60c4ad8d424930f8684db43c7e30674e704031f6ee58c662",
+        "reviewedDigest": "a035d8ef60b7231b6b5ee41e23f7dca3ccb96e1fb68c264dfe4091935bc43ff5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 5 min di reidratazione",
+      "reviewedRecordSha256": "a035d8ef60b7231b6b5ee41e23f7dca3ccb96e1fb68c264dfe4091935bc43ff5",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/mediterranean-couscous.html",
+      "steps": [
+        "Portare l'acqua a ebollizione. Mettere il couscous in una ciotola, aggiungere un pizzico di sale, l'acqua bollente e un filo d'olio. Coprire con pellicola e lasciar reidratare per circa 5 minuti.",
+        "Lavare i pomodorini e dividerli in quarti; raccoglierli in una ciotola con le mozzarelline, le olive denocciolate, i capperi dissalati e i pinoli.",
+        "Unire il basilico fresco, un filo d'olio e un pizzico di sale; mescolare il condimento.",
+        "Sgranare il couscous con una forchetta, unirlo al condimento e mescolare. Servire subito oppure tenere in frigorifero fino al servizio."
+      ],
+      "temperature": null
     }
   ]
 }
