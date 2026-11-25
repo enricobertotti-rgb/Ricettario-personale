@@ -30374,6 +30374,220 @@
         "Frullare la crema ancora calda, aggiungendo acqua se occorre per regolare la densità. Assaggiare e correggere il sale. Servire con i crostini, qualche fogliolina di salvia e olio a crudo."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "10 min",
+      "description": "Budino di latte e fragole addensato con amido, servito con salsa di fragole.",
+      "id": "GZ-02555",
+      "ingredients": [
+        "Fragole 500 g",
+        "Latte intero 250 g",
+        "Zucchero 150 g",
+        "Amido di mais 40 g",
+        "Succo di limone: 1 limone in elenco, 1/2 impiegato esplicitamente nel metodo"
+      ],
+      "name": "Budino alle fragole",
+      "notes": "La lista della fonte riporta il succo di un limone, mentre la sequenza operativa indica esplicitamente mezzo limone; nessun impiego del restante mezzo è dichiarato. La dose usata nel metodo è quindi riportata senza inventare una seconda aggiunta. La fonte indica conservazione in frigorifero per due giorni e sconsiglia il congelamento. Decorazione facoltativa con panna montata e fragole a cubetti. Autore individuale non indicato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "10 min",
+        "rest": "Almeno 2 h in frigorifero"
+      },
+      "originalTitle": "Strawberry Pudding",
+      "originalYield": "4 budini (stampini 7 × 7 × 4 cm)",
+      "pdfPage": 119,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "2ee4f22a06a716839930b49163d59c04d2894f00886e3ad999411a95bad40324",
+        "previousAppSha256": "2ee4f22a06a716839930b49163d59c04d2894f00886e3ad999411a95bad40324",
+        "reviewedDigest": "4b45f8c05bbde00b2371a38143ee13b2b1b64acbad581285dd5bd9258c71e8f4"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 2 h in frigorifero",
+      "reviewedRecordSha256": "4b45f8c05bbde00b2371a38143ee13b2b1b64acbad581285dd5bd9258c71e8f4",
+      "serves": "4 budini (stampini 7 × 7 × 4 cm)",
+      "source": "https://www.giallozafferano.com/recipes/strawberry-pudding.html",
+      "steps": [
+        "Lavare e asciugare le fragole, eliminare le foglie e frullare con un mixer a immersione. Filtrare la purea per eliminare i semini.",
+        "Versare in un pentolino latte e 300 g di purea; coprire e refrigerare la purea restante destinata alla guarnizione.",
+        "Mescolare con la frusta, aggiungere zucchero e amido, sciogliendo bene i grumi. Accendere a fuoco medio e aggiungere il succo di mezzo limone. Cuocere mescolando frequentemente fino al bollore e all’addensamento.",
+        "Inumidire con acqua quattro stampini da 7 × 7 cm alti 4 cm, riempirli fino al bordo, coprire e refrigerare almeno due ore.",
+        "Sformare sui piattini, aiutandosi eventualmente con acqua tiepida sul fondo degli stampini. Completare con la salsa di fragole tenuta in frigorifero e servire."
+      ],
+      "temperature": "Fuoco medio, fino al bollore e addensamento; frigorifero per rassodare"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "1 h 20 min dichiarati; 10 min verdure e 60 min forno, oltre al soffritto",
+      "description": "Frittata vegetariana al forno con uova, ricotta, ceci, piselli e pomodoro. Non è vegana.",
+      "id": "GZ-01941",
+      "ingredients": [
+        "Ceci precotti 250 g",
+        "Olio extravergine di oliva 70 g in elenco; 3 cucchiai espliciti nel soffritto",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Prezzemolo 3 ciuffi",
+        "Timo 3 rametti",
+        "Uova 8",
+        "Ricotta vaccina 150 g",
+        "Pomodori ramati 180 g",
+        "Semi di finocchio 1 cucchiaino",
+        "Cipolla rossa 70 g",
+        "Peperoncino rosso fresco 1/2 (circa un cucchiaino, secondo il metodo)",
+        "Piselli surgelati 150 g"
+      ],
+      "name": "Frittata al forno ai ceci",
+      "notes": "La fonte italiana e quella inglese riportano 70 g di olio nella lista ma tre cucchiai nel soffritto; non assegnano l’eventuale residuo, né una fase precisa a sale e pepe q.b. Il metodo operativo è completo con la dose esplicita del soffritto, senza convertire o inventare altre aggiunte. L’introduzione inglese che definisce il piatto vegano e senza uova è incompatibile con ingredienti e metodo, non ripresa. Conservare in frigorifero in recipiente ermetico per un paio di giorni. Coriandolo al posto del prezzemolo; la redazione italiana 31/03/2018 consiglia ripiano basso e copertura con alluminio se colora troppo, il 31/10/2017 ammette l’omissione della ricotta come variante. Autore individuale non indicato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 20 min dichiarati; 10 min verdure e 60 min forno, oltre al soffritto",
+        "prep": "20 min",
+        "rest": "Non previsto"
+      },
+      "originalTitle": "Baked Chickpea Omelette",
+      "originalYield": "4 persone (pirofila rotonda 28 cm)",
+      "pdfPage": 348,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8b0a45db5eb5ead68f23eba421296285fdf44866b97784ccf744d464abc27071",
+        "previousAppSha256": "8b0a45db5eb5ead68f23eba421296285fdf44866b97784ccf744d464abc27071",
+        "reviewedDigest": "07de14e7f7e6ac5fdaf78e838c12895be3266c99aff57935ddaa9469b33b1047"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "07de14e7f7e6ac5fdaf78e838c12895be3266c99aff57935ddaa9469b33b1047",
+      "serves": "4 persone (pirofila rotonda 28 cm)",
+      "source": "https://www.giallozafferano.com/recipes/baked-chickpea-omelette.html",
+      "steps": [
+        "Mondare e tritare la cipolla; lavare e tagliare i pomodori a dadini. Tritare prezzemolo, timo e peperoncino.",
+        "Rosolare la cipolla in tre cucchiai d’olio; quando è dorata, unire i semi di finocchio e il peperoncino, poi i ceci sciacquati e scolati, i piselli scongelati e i pomodori. Cuocere a fuoco medio per 10 minuti.",
+        "Sbattere le uova intere, aggiungere ricotta, timo e prezzemolo, amalgamare. Incorporare il composto di verdure cotte.",
+        "Bagnare e strizzare un foglio di carta da forno e rivestire una pirofila rotonda da 28 cm. Versare il composto.",
+        "Cuocere per 60 minuti in forno ventilato a 190 °C; servire a fette o quadratini, tiepida o a temperatura ambiente senza prolungare la permanenza fuori dal frigorifero."
+      ],
+      "temperature": "190 °C, forno ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "15 min",
+      "description": "Frittata con uno strato di barbabietola precotta fra due strati di uova, formaggio ed erbe.",
+      "id": "GZ-01947",
+      "ingredients": [
+        "Uova 6",
+        "Barbabietole rosse precotte 200 g",
+        "Grana Padano DOP da grattugiare 120 g",
+        "Salvia 1 foglia",
+        "Menta 1 rametto",
+        "Prezzemolo 1 rametto",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Frittata di barbabietole rosse",
+      "notes": "La salvia è elencata e citata nella presentazione, ma non compare in una fase specifica del metodo spagnolo o inglese. Conservata la foglia come indicazione non assegnata; non si inventa una lavorazione. È un aroma non essenziale alla struttura della frittata. Conservazione indicata: due giorni in frigorifero, congelamento sconsigliato. Variante suggerita: Emmental o Asiago a fettine sottili nel composto. Autore individuale non indicato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "10 min",
+        "rest": "Non previsto"
+      },
+      "originalTitle": "Tortilla de remolachas rojas",
+      "originalYield": "4 persone",
+      "pdfPage": 459,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9d9b10833fda44bc42fb4262336ebbf98c71d320b01dd1ea2397bc0c12122cf1",
+        "previousAppSha256": "9d9b10833fda44bc42fb4262336ebbf98c71d320b01dd1ea2397bc0c12122cf1",
+        "reviewedDigest": "73fb55b070b54a054fbbfc9a5ce4d6bf6cd610629fcff53cdda234738510a44d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "73fb55b070b54a054fbbfc9a5ce4d6bf6cd610629fcff53cdda234738510a44d",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/tortilla-de-remolachas-rojas.html",
+      "steps": [
+        "Lavare e tritare menta e prezzemolo; affettare finemente le barbabietole precotte. Sbattere le uova con la frusta.",
+        "Incorporare il Grana grattugiato, un pizzico di sale e le erbe tritate, mescolando.",
+        "Distribuire un filo d’olio in una padella di circa 22 cm e scaldare. Versare metà del composto e cuocere circa 5 minuti, fino a leggero rassodamento delle uova.",
+        "Disporre le fette di barbabietola sullo strato di uova, coprire con il restante composto e cuocere altri 5 minuti, finché la base è compatta.",
+        "Girare con un piatto o coperchio della stessa misura e completare la cottura dell’altro lato per circa 5 minuti o finché l’uovo è completamente cotto; servire calda."
+      ],
+      "temperature": "Non dichiarata numericamente; cottura in padella"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "20 min",
+      "description": "Calamari in padella con un ripieno di couscous, ortaggi, menta e lime.",
+      "id": "GZ-00090",
+      "ingredients": [
+        "Couscous precotto 100 g",
+        "Calamari 500 g",
+        "Carota 1",
+        "Zucchina piccola 1",
+        "Cipollotto fresco piccolo 1",
+        "Peperone rosso 1/2",
+        "Aglio 1 spicchio",
+        "Acqua 100 ml per il couscous; mezzo bicchiere d’acqua o brodo vegetale per il soffritto, indicato nel metodo",
+        "Vino bianco secco 1 bicchiere",
+        "Scorza di lime 1",
+        "Olio extravergine di oliva 4 cucchiai, più il filo iniziale indicato nel metodo",
+        "Menta q.b.",
+        "Timo q.b.",
+        "Pepe nero q.b.",
+        "Sale fino q.b."
+      ],
+      "name": "Calamari ripieni di couscous",
+      "notes": "L’elenco della fonte indica quattro cucchiai d’olio, integralmente assegnati alle due cotture; la reidratazione del couscous prevede inoltre un filo non quantificato. Conservate le indicazioni operative senza convertirle in un totale inventato. Il mezzo bicchiere di acqua o brodo è esplicitato nel metodo, oltre ai 100 ml per il couscous. Conservare in frigorifero, chiusi o coperti, fino a due giorni; la fonte ammette congelamento crudo o cotto solo partendo da calamari freschi. Servire preferibilmente caldi; eventuale ripieno avanzato con piselli saltati allo scalogno. Autore individuale non indicato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": "5 min circa, fino al raddoppio del volume del couscous"
+      },
+      "originalTitle": "Stuffed Squid with Couscous",
+      "originalYield": "4 persone",
+      "pdfPage": 321,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9c404b54a998978586dcadfbd3c9567367cdc67eabb2aa959dc755406bf9fb0e",
+        "previousAppSha256": "9c404b54a998978586dcadfbd3c9567367cdc67eabb2aa959dc755406bf9fb0e",
+        "reviewedDigest": "4f5a30805c26c8fbd4090e6956f9cab95fcb575fe11b5bf8441c87775050bdff"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "5 min circa, fino al raddoppio del volume del couscous",
+      "reviewedRecordSha256": "4f5a30805c26c8fbd4090e6956f9cab95fcb575fe11b5bf8441c87775050bdff",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/stuffed-squid-with-couscous.html",
+      "steps": [
+        "Mettere il couscous in una ciotola, salarlo, aggiungere un filo d’olio e 100 ml di acqua bollente. Coprire finché si gonfia e raddoppia di volume.",
+        "Pulire i calamari eliminando pelle, interiora e penna cartilaginea; separare i tentacoli e tritarli. Lasciare intere le sacche.",
+        "Lavare le verdure. Pelare la carota, spuntare la zucchina, mondare il peperone dai semi e tagliare tutto a cubetti minuti. Affettare il cipollotto.",
+        "Rosolare lo spicchio d’aglio privato del germoglio in due cucchiai di olio; unire il cipollotto. Aggiungere mezzo bicchiere d’acqua o brodo per evitare che il soffritto bruci. Unire carota e peperone, salare e pepare, cuocere 5 minuti; aggiungere zucchina e tentacoli e proseguire 2 minuti.",
+        "A fuoco spento incorporare il couscous reidratato, la scorza grattugiata del lime lavato e alcune foglie di menta. Riempire le sacche per due terzi e chiuderle con uno stecchino.",
+        "Scaldare altri due cucchiai d’olio, adagiare i calamari, salare e pepare; cuocere 5 minuti per lato, sfumando durante la cottura con il vino. Quando il liquido si è ristretto e il vino è evaporato, completare con timo e servire."
+      ],
+      "temperature": "Non dichiarata numericamente; cottura in padella"
     }
   ]
 }
