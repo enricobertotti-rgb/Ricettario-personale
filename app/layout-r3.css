@@ -1,4 +1,9 @@
 /* SAPORE_LAYOUT_R3_20261116: shared presentation, ingredients and full-width method. */
+.r3CatalogStatus{display:flex;align-items:center;gap:16px;margin:4px 0 18px;padding:14px 18px;border:1px solid var(--line);border-radius:12px;background:var(--soft);color:var(--ink)}
+.r3CatalogStatus[hidden]{display:none}.r3CatalogStatus p{flex:1;margin:0;font-size:13px;line-height:1.55;overflow-wrap:anywhere}
+.r3CatalogStatus button{flex:none;min-height:44px;padding:8px 16px;border:1px solid var(--line);border-radius:8px;color:var(--ink);background:transparent;font:inherit;font-size:13px;cursor:pointer}.r3CatalogStatus button:disabled{opacity:.55;cursor:default}.r3CatalogStatus button:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+@media(max-width:480px){.r3CatalogStatus{align-items:flex-start;flex-wrap:wrap;gap:10px;padding:12px 14px}.r3CatalogStatus p{flex-basis:100%}}
+@media print{.r3CatalogStatus{display:none!important}}
 .recipe.r3Recipe{display:grid;grid-template-columns:minmax(0,1.12fr) minmax(0,1fr);gap:30px 40px;align-items:start;padding:4px 8px 0}
 .r3Intro{grid-column:1;grid-row:1;min-width:0;display:grid;grid-template-areas:"header" "metrics" "photo" "description"}
 .r3Recipe .recipeHeader{grid-area:header;margin:0;padding:0;border:0;min-width:0}

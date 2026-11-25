@@ -3,11 +3,11 @@ const fs=require('fs'),vm=require('vm'),assert=require('assert/strict'),{webcryp
 const layout=fs.readFileSync(process.argv[2]||'app/layout-r3.js','utf8');
 function canonical(v){if(Array.isArray(v))return '['+v.map(canonical).join(',')+']';if(v!==null&&typeof v==='object')return '{'+Object.keys(v).sort().map(k=>JSON.stringify(k)+':'+canonical(v[k])).join(',')+'}';return JSON.stringify(v)}
 const fixtures=process.argv[3]?JSON.parse(fs.readFileSync(process.argv[3],'utf8')):[...JSON.parse(fs.readFileSync('app/index.html','utf8').match(/const RECIPES=(\[.*?\]);/s)[1]),...JSON.parse(fs.readFileSync('app/data/approved-r4-1.json','utf8')).recipes].map(row=>({row,sha256:require('crypto').createHash('sha256').update(canonical(row)).digest('hex')}));
-const code=layout.slice(layout.indexOf('function publicationFingerprint'));
+const code=layout;
 const baseline=fixtures.map(x=>x.row),first=baseline[0];
 const correction={...first,name:'Synthetic isolated correction',ingredients:['1 g test ingredient'],steps:['Synthetic test only'],photo:null,reviewedRecordSha256:'a'.repeat(64),publicationUpdate:{baseAppSha256:fixtures[0].sha256,previousAppSha256:fixtures[0].sha256,reviewedDigest:'a'.repeat(64)}};
 async function run(feed,enrich=false){
- const sandbox={RECIPES:structuredClone(baseline),CATEGORIES:[],recipeSearchCache:null,pantryIndexCache:null,draw(){},openRecipeDeepLink(){},window:{},crypto:webcrypto,TextEncoder,URL,console:{warn(){},error(...args){throw Error(args.join(' '))}},fetch:async()=>({ok:true,json:async()=>({schema:'sapore.app.published.v1',recipes:feed})})};
+ const sandbox={RECIPES:structuredClone(baseline),CATEGORIES:[],recipeSearchCache:null,pantryIndexCache:null,draw(){},openRecipeDeepLink(){},window:{addEventListener(){}},crypto:webcrypto,TextEncoder,URL,AbortController,setTimeout,clearTimeout,console:{warn(){},error(...args){throw Error(args.join(' '))}},fetch:async()=>({ok:true,json:async()=>({schema:'sapore.app.published.v1',recipes:feed})})};
  vm.createContext(sandbox);
  if(enrich){const html=fs.readFileSync('app/index.html','utf8');const start=html.indexOf('const SAPORE_ORIGINAL_RECORDS=');const end=html.indexOf('const CATEGORIES=',start);assert.ok(start>=0&&end>start);sandbox.EDITORIAL_ENRICHMENT={[first.id]:{description:'Display-only text',story:'Display story',history_status:'display'}};vm.runInContext(html.slice(start,end),sandbox);}
  vm.runInContext(code,sandbox);await sandbox.loadPublishedRecipesR15();return sandbox;
@@ -21,5 +21,6 @@ async function run(feed,enrich=false){
  const second={...correction,ingredients:['2 g test ingredient'],reviewedRecordSha256:'b'.repeat(64),publicationUpdate:{...correction.publicationUpdate,previousAppSha256:await env.saporeRecordSha256(correction),reviewedDigest:'b'.repeat(64)}};
  const updated=await run([second]);assert.equal(updated.RECIPES[0].ingredients[0],'2 g test ingredient');assert.equal(updated.RECIPES.length,baseline.length);
  const corrupt=await run([{...correction,ingredients:[]}]);assert.equal(corrupt.RECIPES[0].name,first.name);
+ require('child_process').execFileSync(process.execPath,[require('path').join(__dirname,'test-catalog-loading.cjs'),process.argv[2]||'app/layout-r3.js'],{stdio:'inherit'});
  console.log(JSON.stringify({status:'PASS',hashParity:fixtures.length,checks:['display enrichment preserves original hash','invalid enriched update rejected','stable ID update','stale hash rejected','second revision baseline preserved','incomplete update rejected']}));
 })().catch(e=>{console.error(e);process.exit(1)});
