@@ -29460,6 +29460,64 @@
         "Trasferire la pasta al dente nella padella con il salmone e un mestolo d'acqua di cottura, saltare a fiamma media. Spegnere e versare subito la crema di uova, mescolando rapidamente; aggiungere altra acqua di cottura se necessario. Pepare e servire subito."
       ],
       "temperature": null
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "25 min",
+      "description": "Variante marinara della carbonara con tonno, spada, crema di pecorino e tuorli, fondo di gamberi e bottarga.",
+      "id": "GZ-00102",
+      "ingredients": [
+        "Spaghetti 320 g",
+        "Tonno 100 g",
+        "Pesce spada 100 g",
+        "Gamberi 12",
+        "Scorza di lime q.b.",
+        "Sale q.b.",
+        "Pepe bianco q.b.",
+        "Pepe nero q.b.",
+        "Olio extravergine di oliva q.b.",
+        "Per la crema: pecorino 60 g",
+        "Tuorli 4",
+        "Pepe bianco q.b.",
+        "Per la finitura: bottarga di tonno q.b.",
+        "Per il fondo di gamberi (dal metodo): 1½ cucchiai di olio, 2 cucchiai di acqua"
+      ],
+      "name": "Carbonara di mare con gamberi",
+      "notes": "La fonte consiglia il consumo immediato e indica al massimo un giorno in frigorifero per gli avanzi in contenitore chiuso. Varianti della fonte: peperoncino o paprika piccante nella crema, basilico, prezzemolo o timo; dosare il sale tenendo conto di pecorino e bottarga. Durata della marinatura e temperatura del bagnomaria non dichiarate. Nota editoriale di sicurezza distinta: il consumo di gamberi crudi o pesce poco cotto espone a patogeni; il congelamento non elimina tutti i microrganismi. La scelta più sicura è cuocere completamente i gamberi e il fondo; per tonno e spada verificare 63 °C al cuore. Preferire tuorli pastorizzati se non è garantita la cottura completa. Conservare refrigerato durante la lavorazione e servire subito; non conservare la tartare cruda avanzata. Gestanti, bambini, anziani e immunodepressi devono evitare prodotti ittici crudi o poco cotti; gestanti, persone in allattamento e bambini devono evitare pesce spada per il mercurio. Riferimenti FDA: https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely ; https://www.fda.gov/food/retail-food-industryregulatory-assistance-training/assuring-safety-eggs-and-menu-and-deli-items-made-raw-shell-eggs .",
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Seafood Carbonara with Shrimp",
+      "originalYield": "4 persone",
+      "pdfPage": 224,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c8f1c34d614292030a510968be80658aa8921cfdafc3457d1dfd35266770892c",
+        "previousAppSha256": "c8f1c34d614292030a510968be80658aa8921cfdafc3457d1dfd35266770892c",
+        "reviewedDigest": "f71fe909b7c40472e13c99971641d29b5c44082ac0590591aca010eaa46d94c7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "f71fe909b7c40472e13c99971641d29b5c44082ac0590591aca010eaa46d94c7",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/seafood-carbonara-with-shrimp.html",
+      "steps": [
+        "Pulire i gamberi, conservare le teste ed eliminare carapaci e intestino. Ridurre la polpa in dadini; condirla con lime, sale, pepe bianco e olio. La fonte prevede una tartare; tenere al freddo durante la marinatura e consultare la nota di sicurezza prima del consumo.",
+        "Riunire pecorino, tuorli e pepe bianco in una ciotola; amalgamare e scaldare a bagnomaria. La fonte non indica temperatura o durata; utilizzare tuorli pastorizzati.",
+        "Frullare le teste con 1½ cucchiai d’olio e 2 cucchiai d’acqua, quindi passare al colino fine.",
+        "Tagliare tonno e spada a cubetti di di ¾ di pollice, come indicato dalla fonte. Rosolarli con un filo d’olio, sale e pepe a fiamma alta: la fonte indica 2 minuti. Mettere da parte; verificare la cottura secondo la nota di sicurezza.",
+        "Lessare gli spaghetti in acqua salata e scolarli al dente. Versare il fondo di gamberi nella padella del pesce, aggiungere gli spaghetti e la crema di tuorli; saltare per qualche minuto.",
+        "Unire tonno e spada e saltare ancora per qualche minuto; regolare la cremosità con acqua di cottura se necessario. Completare con la bottarga e i gamberi: nella ricetta originale sono crudi; per la versione più sicura cuocerli completamente prima di aggiungerli."
+      ],
+      "temperature": null
     }
   ]
 }
