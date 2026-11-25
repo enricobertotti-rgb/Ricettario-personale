@@ -30588,6 +30588,124 @@
         "Scaldare altri due cucchiai d’olio, adagiare i calamari, salare e pepare; cuocere 5 minuti per lato, sfumando durante la cottura con il vino. Quando il liquido si è ristretto e il vino è evaporato, completare con timo e servire."
       ],
       "temperature": "Non dichiarata numericamente; cottura in padella"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "45 min dichiarati; crema 25–30 min, braciole 5 min per lato + 5 min nella crema + 2 min per fondere il formaggio",
+      "description": "Braciole di maiale rosolate con erbe aromatiche, crema di zucca e taleggio fuso.",
+      "id": "GZ-00984",
+      "ingredients": [
+        "Crema: zucca 500 g",
+        "Patate 100 g",
+        "Brodo vegetale 500 ml",
+        "Cipolla bianca 40 g",
+        "Olio EVO 30 g",
+        "Sale fino 1 pizzico",
+        "Cannella in polvere 1 pizzico",
+        "Pepe nero 1 pizzico",
+        "Noce moscata 1 pizzico",
+        "Braciole di maiale 600 g (4 pezzi)",
+        "Taleggio 200 g",
+        "Salvia 3 g",
+        "Rosmarino 3 g",
+        "Sale fino 1 pizzico",
+        "Olio EVO 40 g",
+        "Timo 2 rametti"
+      ],
+      "name": "Braciole di maiale con crema di zucca e taleggio",
+      "notes": "La fonte italiana specifica 10 minuti per la rosolatura di braciole sottili e poi ulteriori 5 e 2 minuti di finitura. Il consiglio finale parla invece di un massimo di 10 minuti totali: è discordante con la sequenza dettagliata, riportata senza ridurla. Il pepe viene richiamato anche sulla carne senza quantità distinta. Conservazione secondo fonte: preferire consumo immediato oppure frigorifero in contenitore ermetico per massimo un giorno. Nota editoriale separata di sicurezza: per tagli interi di maiale verificare almeno 63 °C al cuore e riposo di almeno 3 minuti dopo la cottura, non basarsi solo sui minuti; FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures (consultato 25/11/2026). Autore individuale non indicato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "45 min dichiarati; crema 25–30 min, braciole 5 min per lato + 5 min nella crema + 2 min per fondere il formaggio",
+        "prep": "20 min",
+        "rest": "Non dichiarato dalla fonte; nota di sicurezza: almeno 3 min dopo cottura"
+      },
+      "originalTitle": "Pork chops with pumpkin cream and taleggio",
+      "originalYield": "4 persone",
+      "pdfPage": 298,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "70fe545245e4748bfda5904a76033ce7055f6a92565812b3d9ea8db99c3740fd",
+        "previousAppSha256": "70fe545245e4748bfda5904a76033ce7055f6a92565812b3d9ea8db99c3740fd",
+        "reviewedDigest": "85105ab17353b787a5ed9906c8de74defcf2b4690db225c2cb4dbed6547e0a92"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato dalla fonte; nota di sicurezza: almeno 3 min dopo cottura",
+      "reviewedRecordSha256": "85105ab17353b787a5ed9906c8de74defcf2b4690db225c2cb4dbed6547e0a92",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/pork-chops-with-pumpkin-cream-and-taleggio.html",
+      "steps": [
+        "Preparare il brodo vegetale. Privare la zucca di buccia e semi e ridurla a cubetti; pelare e tagliare a cubetti le patate. Tritare la cipolla e soffriggerla con l'olio della crema a fuoco dolce.",
+        "Quando la cipolla è dorata, unire zucca e patate e coprirle progressivamente con il brodo. Salare, pepare e cuocere a fuoco dolce 25–30 minuti, aggiungendo altro brodo se necessario.",
+        "A fuoco spento frullare le verdure fino a una crema liscia; aggiungere cannella e noce moscata e tenere da parte.",
+        "Battere le braciole fino a circa 1 cm di spessore. Tritare salvia e rosmarino e scaldarli con l'olio della carne in una padella antiaderente. Unire le braciole, salare e pepare; dorare a fiamma medio-alta per circa 5 minuti per lato se non troppo spesse.",
+        "Togliere le braciole e tenerle al caldo. Nella stessa padella versare la crema, rimettere la carne e fare insaporire altri 5 minuti. Tagliare il taleggio a fette e adagiarlo sulle braciole, cuocendo circa 2 minuti perché fonda. Completare con foglie di timo. Verificare cottura sicura e riposo (nota)."
+      ],
+      "temperature": "Fiamma dolce per crema, medio-alta per rosolatura; nota di sicurezza: maiale 63 °C al cuore"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "40 min dichiarati; brodo circa 30 min, pollo 1 + 2–3 + 5 min indicativi",
+      "description": "Bocconcini di pollo in salsa aromatica al latte di cocco, lime, lemongrass e curry verde.",
+      "id": "GZ-01320",
+      "ingredients": [
+        "Brodo: latte di cocco 400 g",
+        "Zenzero fresco 20 g",
+        "Peperoncino fresco 1",
+        "Lemongrass 1 stelo",
+        "Sale grosso 1 cucchiaio",
+        "Pepe in grani 1 cucchiaio",
+        "Lime 1 (scorza e succo)",
+        "Zucchero di canna 10 g",
+        "Pollo: petto di pollo 800 g",
+        "Farina di riso 30 g",
+        "Curry thai verde 20 g",
+        "Olio di semi 10 g",
+        "Aglio 1 spicchio",
+        "Peperoncino fresco 1",
+        "Sale fino q.b.",
+        "Erba cipollina q.b."
+      ],
+      "name": "Pollo al latte di cocco e curry",
+      "notes": "La fonte italiana dapprima indica di mantenere i semi del peperoncino del brodo, poi di aggiungerlo senza semi: entrambe le indicazioni sono documentate; non è determinabile se debbano essere rimossi durante la preparazione. La scelta riguarda la piccantezza, non le dosi o la sequenza fondamentale. Il sale fino q.b. è elencato senza fase specifica. Fonte: conservazione in frigorifero 1–2 giorni, congelazione sconsigliata; curry comune ammesso come variante (risposta redazione 03/04/2026). Nota editoriale separata di sicurezza: verificare 74 °C al cuore del pollo e proseguire se necessario, senza affidarsi ai soli minuti; FoodSafety.gov, https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, consultato 25/11/2026. Autore individuale non indicato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min dichiarati; brodo circa 30 min, pollo 1 + 2–3 + 5 min indicativi",
+        "prep": "15 min",
+        "rest": "Non previsto"
+      },
+      "originalTitle": "Pollo al latte di cocco e curry",
+      "originalYield": "4 persone",
+      "pdfPage": 302,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ef07861f50756f90d6b31bd8ba80c11a343d15022a3510411702fb91cc133b27",
+        "previousAppSha256": "ef07861f50756f90d6b31bd8ba80c11a343d15022a3510411702fb91cc133b27",
+        "reviewedDigest": "a517c664d5e2303d50b3d53d3fc069d628099bab96688a16cd57b9b40c9b5f2b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "a517c664d5e2303d50b3d53d3fc069d628099bab96688a16cd57b9b40c9b5f2b",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Pollo-al-latte-di-cocco-e-curry.html",
+      "steps": [
+        "Togliere il picciolo a un peperoncino e dividerlo a metà; pelare lo zenzero, eliminare la base del lemongrass e tagliare lo stelo in tre parti. La fonte dà indicazioni discordanti sui semi (vedi nota).",
+        "In un tegame unire latte di cocco, sale grosso, pepe in grani, zucchero, zenzero (anche a falde per intensificare l'aroma), peperoncino del brodo, lemongrass, scorza di lime lavato e asciugato e suo succo. Cuocere circa 30 minuti dall'ebollizione, quindi spegnere.",
+        "Ridurre il pollo a cubetti, infarinarlo con la farina di riso e scuoterlo in un colino. Tagliare a listarelle il secondo peperoncino.",
+        "Scaldare bene il wok, aggiungere olio, listarelle di peperoncino e aglio spremuto, quindi il pollo. Rosolare mescolando per circa 1 minuto; unire il curry e saltare altri 2–3 minuti.",
+        "Versare il brodo attraverso un colino; cuocere circa 5 minuti affinché la salsa si addensi. Verificare la cottura sicura del pollo (nota), completare con erba cipollina tritata e servire caldo."
+      ],
+      "temperature": "Non dichiarata dalla fonte; nota di sicurezza: pollo 74 °C al cuore"
     }
   ]
 }
