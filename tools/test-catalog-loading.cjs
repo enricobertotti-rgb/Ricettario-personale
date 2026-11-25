@@ -258,10 +258,16 @@ function assertOriginal(env, exceptions = []) {
       assert.equal(find(env, a.id).name, b.name, 'a native successor arriving during recovery applies against the exact previous record');
       assert.equal(env.sandbox.window.__saporeCatalogLoad.status, 'loaded');
       assertOriginal(env);
-      for (const field of ['previousAppSha256', 'baseAppSha256']) {
+      const invalidSuccessors = [
+        ['previousAppSha256', { ...b.publicationUpdate, previousAppSha256: '0'.repeat(64) }],
+        ['baseAppSha256', { ...b.publicationUpdate, baseAppSha256: '0'.repeat(64) }],
+        ['base identity replaced with the previous revision hash',
+          { ...b.publicationUpdate, baseAppSha256: digest(a), previousAppSha256: digest(a) }],
+      ];
+      for (const [field, proof] of invalidSuccessors) {
         const rejectedOptions = { feed: [a, invalidProof] };
         const rejected = await start(rejectedOptions);
-        rejectedOptions.feed = [{ ...b, publicationUpdate: { ...b.publicationUpdate, [field]: '0'.repeat(64) } }];
+        rejectedOptions.feed = [{ ...b, publicationUpdate: proof }];
         await rejected.sandbox.retrySaporeCatalog();
         assert.equal(find(rejected, a.id).name, a.name, 'wrong ' + field + ' cannot replace a native revision');
         assert.equal(rejected.sandbox.window.__saporeCatalogLoad.status, 'partial');

@@ -193,7 +193,8 @@ async function loadPublishedRecipesR15(){
         // revision AND its unchanged original baseline proof.
         const nativeSuccessor=!immutable&&previous.publicationUpdate&&proof&&
           proof.baseAppSha256===previous.publicationUpdate.baseAppSha256&&proof.previousAppSha256===baselineHash;
-        if(proof?.reviewedDigest===r.reviewedRecordSha256&&(proof.baseAppSha256===baselineHash||nativeSuccessor)){
+        const directBaseline=(immutable||!previous.publicationUpdate)&&proof?.baseAppSha256===baselineHash;
+        if(proof?.reviewedDigest===r.reviewedRecordSha256&&(directBaseline||nativeSuccessor)){
           if(fingerprints.has(fp)&&fingerprints.get(fp)!==r.id){reject('exact_content_duplicate',fingerprints.get(fp));continue;}
           updates.push(r);ids.set(r.id,r);fingerprints.delete(publicationFingerprint(previous));fingerprints.set(fp,r.id);
           const oldUrl=normUrl(previous.source);sourceIds.set(oldUrl,(sourceIds.get(oldUrl)||[]).filter(id=>id!==r.id));
