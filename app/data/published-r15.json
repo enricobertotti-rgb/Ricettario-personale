@@ -30154,6 +30154,226 @@
         "Distribuire la glassa, livellare con spatola e decorare con mandorle, granella e zucchero a velo. Cuocere a 150 °C statico per un’ora; se pallida, proseguire 5 minuti a 160 °C. Verificare al cuore 94–96 °C. Infilzare al centro e capovolgere a temperatura ambiente per almeno 8 ore."
       ],
       "temperature": "Impasto max 26 °C; lievitazione 28–30 °C; forno statico 150 °C, eventuali 5 min a 160 °C; cuore 94–96 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "50 min circa; doratura finale alcuni minuti",
+      "description": "Frittata al forno con patate a piccoli cubetti, formaggio e origano.",
+      "id": "GZ-01951",
+      "ingredients": [
+        "Uova 6",
+        "Patate 400 g",
+        "Pangrattato 50 g",
+        "Grana Padano DOP 50 g da grattugiare",
+        "Sale fino q.b.",
+        "Olio extravergine di oliva q.b.",
+        "Pepe nero q.b.",
+        "Origano fresco q.b.",
+        "Per la teglia: olio extravergine di oliva q.b.",
+        "Per la teglia: pangrattato q.b."
+      ],
+      "name": "Frittata di patate al forno",
+      "notes": "La fonte elenca olio q.b. anche fra gli ingredienti principali, ma il procedimento lo richiama soltanto per ungere la teglia. Conservate entrambe le voci originali senza attribuire una dose o un'aggiunta nell'impasto non dichiarata. La doppia voce q.b. non è una quantità essenziale mancante. Conservare in frigorifero al massimo un giorno; congelamento sconsigliato. Varianti indicate: cubetti di formaggio o prosciutto cotto a listarelle. Autore individuale non indicato.",
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "50 min circa; doratura finale alcuni minuti",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Baked Potato Frittata",
+      "originalYield": "4 persone; teglia 20×26 cm",
+      "pdfPage": 352,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "3a5cf9400f0f5c8ce668bd2253aa7539b999d27990659a263270effe5c600778",
+        "previousAppSha256": "3a5cf9400f0f5c8ce668bd2253aa7539b999d27990659a263270effe5c600778",
+        "reviewedDigest": "dbfcfca95fe838632b09d85dc112d3f88aa92a189cce1ced310714a486bfc665"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "dbfcfca95fe838632b09d85dc112d3f88aa92a189cce1ced310714a486bfc665",
+      "serves": "4 persone; teglia 20×26 cm",
+      "source": "https://www.giallozafferano.com/recipes/baked-potato-frittata.html",
+      "steps": [
+        "Lavare e pelare le patate, tagliarle a fettine di circa mezzo centimetro, poi a bastoncini e a cubetti piccoli.",
+        "Sbattere le uova con una frusta, insaporire con sale e pepe. Incorporare pangrattato, Grana grattugiato, foglie di origano e per ultimi i cubetti di patata crudi. Amalgamare.",
+        "Ungere bene una teglia rettangolare da 20×26 cm con bordi alti, rivestirla con pangrattato e versarvi il composto.",
+        "Cuocere a 170 °C in forno statico preriscaldato per circa 50 minuti; dorare la superficie per qualche minuto a 220 °C ventilato oppure con il grill. Sfornare quando ben dorata, fare intiepidire e servire, anche a cubetti."
+      ],
+      "temperature": "170 °C statico; 220 °C ventilato oppure grill per dorare"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "25 min",
+      "description": "Fregola sarda cotta come un risotto con baccalà, pomodorini, olive e capperi.",
+      "id": "GZ-00145",
+      "ingredients": [
+        "Fregola 300 g",
+        "Baccalà dissalato 500 g",
+        "Olio extravergine di oliva 60 g",
+        "Brodo vegetale 1,2 l",
+        "Pomodorini 200 g",
+        "Olive taggiasche 30 g",
+        "Aglio 1 spicchio",
+        "Peperoncino fresco 1",
+        "Timo q.b.",
+        "Maggiorana q.b.",
+        "Vino bianco 1/2 bicchiere",
+        "Scorza di limone 1 (formulazione della fonte)",
+        "Basilico q.b.",
+        "Capperi sotto sale 15 g"
+      ],
+      "name": "Fregola con baccalà",
+      "notes": "La fonte inglese dichiara 60 g di olio e specifica tre aggiunte da 1 cucchiaio e mezzo, oltre a un filo finale; riportate le misure dichiarate senza conversioni o quantità aggiuntive inventate. La fonte elenca basilico q.b. senza indicare in quale passaggio usarlo: conservato come condimento non assegnato, senza trasformare in dato dell'autore una scelta editoriale. Non è una mancanza essenziale alla cottura. Consumare subito; per baccalà sotto sale seguire la dissalatura indicata dalla fonte. Autore individuale non indicato.",
+      "origin": "Italia — Sardegna",
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Fregola with cod",
+      "originalYield": "4 persone",
+      "pdfPage": 272,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d5891c40c6db17413d12dcdb3793835c1aab70c0c9a220d1860755bfd71d3fe1",
+        "previousAppSha256": "d5891c40c6db17413d12dcdb3793835c1aab70c0c9a220d1860755bfd71d3fe1",
+        "reviewedDigest": "2c7d342909e5356e9d31bcafe669a445b860ac3fee5b865ebc8af0a1b95aa1ed"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "2c7d342909e5356e9d31bcafe669a445b860ac3fee5b865ebc8af0a1b95aa1ed",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/fregola-with-cod.html",
+      "steps": [
+        "Controllare il baccalà dissalato, privarlo delle spine e tagliarlo in bocconcini. Schiacciare l'aglio e farlo dorare in padella con 1 cucchiaio e mezzo di olio; toglierlo, aggiungere il pesce e sfumare con vino bianco.",
+        "Cuocere il baccalà 7 minuti e tenerlo da parte. Nella stessa padella scaldare un altro cucchiaio e mezzo di olio e tostare la fregola.",
+        "Cuocere la fregola aggiungendo brodo vegetale caldo poco per volta, coprendola e aspettando che assorba il liquido prima di aggiungerne altro; controllare la cottura dopo 12 minuti.",
+        "Risciacquare bene i capperi e lasciarli in acqua tiepida per dissalarli. Tagliare i pomodorini a spicchi e condirli con un cucchiaio e mezzo di olio, sale, maggiorana e timo.",
+        "Dopo circa 12 minuti di cottura della fregola unire baccalà, pomodorini, capperi e olive; lasciare insaporire un minuto, assaggiare e regolare il sale se serve. Completare con peperoncino, olio a crudo e scorza di limone grattugiata; servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "30 min dichiarati; seguire i tempi per strato e la cottura finale",
+      "description": "Versione domestica del dolce tedesco a strati con marzapane, confettura di albicocche e rivestimento di cioccolato.",
+      "id": "GZ-02538",
+      "ingredients": [
+        "Uova medie 5 (circa 175 g albumi e 100 g tuorli)",
+        "Marzapane 150 g",
+        "Burro a temperatura ambiente 200 g",
+        "Zucchero semolato 120 g",
+        "Farina 00 100 g",
+        "Sale fino 1 pizzico",
+        "Baccello di vaniglia 1",
+        "Zucchero a velo 100 g",
+        "Per la copertura: confettura di albicocche 100 g",
+        "Grand Marnier 20 g",
+        "Cioccolato fondente 150 g",
+        "Olio di cocco 10 g"
+      ],
+      "name": "Baumkuchen",
+      "notes": "Il pizzico di sale compare nelle liste italiana e spagnola, ma la fonte non ne specifica la fase: conservato come indicazione non assegnata, senza inventare il passaggio. È un condimento in quantità minima, non un dato essenziale per eseguire la struttura dell'impasto. La fonte indica circa venti strati e dichiara 30 minuti di cottura in testata; i tempi operativi sono 1–2 minuti per strato e 20 minuti finali. La redazione del 27/02/2018 chiarisce che gli strati restano nella tortiera; il 14/08/2017 ammette lavorazione manuale con mestolo. Conservare in frigorifero 2–3 giorni, non congelare. Possibili burro al posto dell'olio di cocco in uguale quantità e profumo di scorza di agrumi. Autore individuale non indicato.",
+      "origin": "Germania",
+      "originalTimes": {
+        "cook": "30 min dichiarati; seguire i tempi per strato e la cottura finale",
+        "prep": "60 min",
+        "rest": "Raffreddamento completo; frigorifero almeno 15 min dopo confettura e 1 h dopo glassatura"
+      },
+      "originalTitle": "Baumkuchen",
+      "originalYield": "8 porzioni (stampo 20 cm)",
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "dab6f3b24e8ba3c6d65fe3590fa8244de932a3f4ec6bc926920226c7b5993c06",
+        "previousAppSha256": "dab6f3b24e8ba3c6d65fe3590fa8244de932a3f4ec6bc926920226c7b5993c06",
+        "reviewedDigest": "fac5e34b0a670c302054e21a151ca2a6480ffd66f9823d373da7886e79c15b02"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento completo; frigorifero almeno 15 min dopo confettura e 1 h dopo glassatura",
+      "reviewedRecordSha256": "fac5e34b0a670c302054e21a151ca2a6480ffd66f9823d373da7886e79c15b02",
+      "serves": "8 porzioni (stampo 20 cm)",
+      "source": "https://www.giallozafferano.es/recetas/baumkuchen.html",
+      "steps": [
+        "Separare gli albumi dai tuorli. Preriscaldare il grill a 240 °C. Ridurre il marzapane a cubi, lavorarlo con zucchero a velo, semi della vaniglia e burro morbido usando la foglia della planetaria a velocità moderata.",
+        "Montare gli albumi aggiungendo poco alla volta lo zucchero semolato, fino a una massa ferma. Incorporare i tuorli gradualmente alla crema di marzapane, quindi la farina; lavorare ancora 1–2 minuti.",
+        "Uniformare il composto con la spatola e incorporare gli albumi a più riprese con movimenti dal basso verso l'alto.",
+        "Imburrare la base dello stampo da 20 cm e coprirla con un disco di carta da forno. Distribuire circa due cucchiai di impasto in uno strato sottile.",
+        "Cuocere sotto il grill 1–2 minuti fino a doratura. Stendere due cucchiai di nuovo impasto sopra lo strato già cotto e ripetere senza estrarre gli strati dalla tortiera, fino a esaurimento del composto.",
+        "Dopo aver steso l'ultimo strato abbassare a 180 °C statico e cuocere 20 minuti. Lasciare intiepidire, staccare i bordi con un coltellino, rovesciare su una gratella, togliere la carta e fare raffreddare del tutto.",
+        "Setacciare la confettura di albicocche, diluirla con il Grand Marnier e spennellare la torta. Tenere in frigorifero almeno 15 minuti.",
+        "Tritare e fondere il cioccolato a bagnomaria, poi sciogliervi l'olio di cocco. Togliere dal bagnomaria e mescolare di tanto in tanto finché intiepidito. Versare sul dolce coprendo anche i lati, livellare e lasciare solidificare in frigorifero circa un'ora."
+      ],
+      "temperature": "240 °C grill per gli strati; 180 °C statico per la cottura finale"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Zuppe, minestre e vellutate"
+      ],
+      "category": "Zuppe, minestre e vellutate",
+      "cook": "1 h 5 min",
+      "description": "Zuppa autunnale vellutata di castagne e porri, accompagnata da crostini alle erbe.",
+      "id": "GZ-00991",
+      "ingredients": [
+        "Porri 620 g",
+        "Castagne 1 kg",
+        "Acqua 1,1 l",
+        "Pane 40 g",
+        "Rosmarino 5 rametti",
+        "Salvia 8 foglie",
+        "Noce moscata q.b.",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Crema di porri e castagne",
+      "notes": "La redazione, il 27/10/2025, precisa che si sala durante la cottura e si aggiusta alla fine; il 21/11/2020 conferma che non serve incidere le castagne. La versione italiana indica dadini di pane di circa 1 cm, quella inglese circa 1 pollice: conservata la misura della versione italiana dello stesso editore. Conservazione indicata: frigorifero 2–3 giorni, congelamento possibile. Varianti suggerite: brodo vegetale leggero al posto dell'acqua, peperoncino sui crostini, pane intero gratinato con formaggio o pancetta per una versione non vegetariana. Autore individuale non indicato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 5 min",
+        "prep": "40 min",
+        "rest": null
+      },
+      "originalTitle": "Leek and Chestnut Cream",
+      "originalYield": "4 persone",
+      "pdfPage": 367,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7c5334f8be0b590b165c4c4dac6456646de22f6ee744273dd05532c6b0e09fbc",
+        "previousAppSha256": "7c5334f8be0b590b165c4c4dac6456646de22f6ee744273dd05532c6b0e09fbc",
+        "reviewedDigest": "a60bbd8fe767b5134fa2166ece28ec12a5e7d4b32d073a83431bebd45c13682d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "a60bbd8fe767b5134fa2166ece28ec12a5e7d4b32d073a83431bebd45c13682d",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/leek-and-chestnut-cream.html",
+      "steps": [
+        "Lavare e asciugare le castagne. Coprirle con acqua fredda, portare a bollore e cuocere 10 minuti. Scolarle e, ancora calde, togliere guscio e pellicina con uno spelucchino.",
+        "Tritare salvia e rosmarino; mondare i porri e affettarli sottilmente. Scaldare poco olio in una pentola capiente e rosolarvi le castagne per qualche istante.",
+        "Unire circa due terzi del trito aromatico, abbassare il fuoco e cuocere mescolando per 7–8 minuti. Aggiungere i porri e farli ammorbidire per altri 6–7 minuti.",
+        "Scaldare a parte 1,1 l d'acqua; versarla sulle verdure, salare quanto basta, coprire e lasciare sobbollire circa 40 minuti.",
+        "Ridurre il pane a dadini di circa 1 cm. Tostarlo a fiamma vivace in una padella calda con poco olio, le erbe restanti, pepe e noce moscata; tenerlo da parte.",
+        "Frullare la crema ancora calda, aggiungendo acqua se occorre per regolare la densità. Assaggiare e correggere il sale. Servire con i crostini, qualche fogliolina di salvia e olio a crudo."
+      ],
+      "temperature": null
     }
   ]
 }
