@@ -29518,6 +29518,113 @@
         "Unire tonno e spada e saltare ancora per qualche minuto; regolare la cremosità con acqua di cottura se necessario. Completare con la bottarga e i gamberi: nella ricetta originale sono crudi; per la versione più sicura cuocerli completamente prima di aggiungerli."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "15 min",
+      "description": "Calzoni a lunga lievitazione ripieni di radicchio, gorgonzola e mozzarella.",
+      "id": "GZ-02324",
+      "ingredients": [
+        "Per l’impasto: farina tipo 0 1 kg",
+        "Lievito di birra fresco 5 g",
+        "Acqua 600 g",
+        "Sale fino 20 g",
+        "Per il ripieno: radicchio 180 g",
+        "Mozzarella fiordilatte 600 g",
+        "Gorgonzola 400 g",
+        "Per la superficie: olio extravergine di oliva q.b.",
+        "Parmigiano Reggiano DOP q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Calzone ripieno",
+      "notes": "La fonte inglese contiene una sigla W anomala (2890–290); il ricettario congiunto GialloZafferano–Galbani, stessa formula e stesso metodo, indica farina tipo 0 senza W. Si conserva l’originale nel master, senza inventare un W corretto. Consumo preferibilmente immediato; avanzi in frigorifero e riscaldamento in forno, durata non dichiarata. Se manca il contenitore per lievitazione, usare teglie sovrapposte e pellicola come da consiglio. Autore individuale non attestato; fonte GialloZafferano in collaborazione con Galbani.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "30 min",
+        "rest": "15 ore"
+      },
+      "originalTitle": "Stuffed Calzone",
+      "originalYield": "6 calzoni",
+      "pdfPage": 198,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "749aaaf7e92d87a7a1272a8001d4f81847ce2bc0389210e48cc6078d3cad9e80",
+        "previousAppSha256": "749aaaf7e92d87a7a1272a8001d4f81847ce2bc0389210e48cc6078d3cad9e80",
+        "reviewedDigest": "245973d5e5bc4d239da9ca2676db562d444169727315fc532843b1b6b23ea7a6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "15 ore",
+      "reviewedRecordSha256": "245973d5e5bc4d239da9ca2676db562d444169727315fc532843b1b6b23ea7a6",
+      "serves": "6 calzoni",
+      "source": "https://www.giallozafferano.com/recipes/Stuffed-Calzone.html",
+      "steps": [
+        "Mescolare in una ciotola farina, lievito sbriciolato e quasi tutta l’acqua. Incorporare il sale, aggiungere l’acqua rimanente e lavorare a mano sul piano infarinato fino a ottenere una massa liscia e omogenea.",
+        "Formare una palla, coprire la ciotola con pellicola e far lievitare 1 ora a temperatura ambiente, poi 12 ore in frigorifero.",
+        "Dividere in 6 panetti da circa 270 g; sistemarli in un contenitore da lievitazione coperto e lasciarli riposare altre 2 ore a temperatura ambiente.",
+        "Tagliare il radicchio a strisce e il fiordilatte a bastoncini, facendolo sgocciolare in un colino.",
+        "Stendere ciascun panetto in un disco di circa 30 cm, a mano o con il mattarello; distribuire gorgonzola, radicchio e fiordilatte. Ripiegare a mezzaluna e sigillare bene i bordi.",
+        "Spennellare con olio e distribuire Parmigiano e pepe. Preriscaldare la pietra refrattaria per 30 minuti nel forno statico a 250 °C; cuocere i calzoni sulla pietra per circa 15 minuti. Servire caldi."
+      ],
+      "temperature": "250 °C, forno statico"
+    },
+    {
+      "author": "Andrea Capodanno",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min",
+      "description": "Pasta vegetale con crema di anacardi, zucchine e menta, finita con scorza di limone.",
+      "id": "GZ-00088",
+      "ingredients": [
+        "Bucatini 320 g",
+        "Zucchine 300 g",
+        "Anacardi naturali 100 g",
+        "Menta q.b.",
+        "Lievito alimentare in scaglie 5 g",
+        "Aglio 1 spicchio",
+        "Scorza di limone q.b.",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Bucatini cremosi con zucchine e menta",
+      "notes": "La fonte consiglia conservazione in frigorifero in contenitore chiuso per 1–2 giorni. Usare lievito alimentare disattivato, non lievito per impasti. La lista ingredienti e la descrizione della videoricetta ufficiale confermano 5 g; la misura a cucchiaio nel testo non è trattata come conversione equivalente. Variante non vegana citata dalla redazione: Parmigiano o Grana. Nessun riposo o temperatura precisa dichiarati.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Creamy Bucatini with Zucchini and Mint",
+      "originalYield": "4 persone",
+      "pdfPage": 214,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e1d4ecbe2645d230302ac8fa264b12e57b0aa6e1129bf84b08035ccfa47fb556",
+        "previousAppSha256": "e1d4ecbe2645d230302ac8fa264b12e57b0aa6e1129bf84b08035ccfa47fb556",
+        "reviewedDigest": "aef20b580c23f0cbd04d15ee49235693a08dae499f9246e9df5a532c3ad54c30"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "aef20b580c23f0cbd04d15ee49235693a08dae499f9246e9df5a532c3ad54c30",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Creamy-Bucatini-with-Zucchini-and-Mint.html",
+      "steps": [
+        "Lavare e spuntare le zucchine, quindi affettarle. Rosolare l’aglio sbucciato nell’olio; aggiungere le zucchine, salare e pepare. Cuocere a fiamma media per circa 10 minuti, girandole sui due lati. Tenere da parte.",
+        "Coprire gli anacardi con acqua in un pentolino e farli bollire per circa 5 minuti, finché ammorbiditi. Nel frattempo lessare i bucatini in acqua bollente salata.",
+        "Raccogliere nel bicchiere del frullatore gli anacardi con la loro acqua di cottura, quasi tutte le zucchine, i 5 g di lievito alimentare, foglie di menta e un pizzico di sale. Frullare a immersione fino a una crema liscia; diluire con acqua della pasta se necessario.",
+        "Scolare i bucatini al dente e saltarli brevemente nella padella con la crema e un mestolo di acqua di cottura, aggiungendone altra se occorre.",
+        "Completare con le zucchine tenute da parte, menta e scorza di limone grattugiata."
+      ],
+      "temperature": null
     }
   ]
 }
