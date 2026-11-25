@@ -28681,6 +28681,76 @@
         "Disporre la tartare in un coppapasta di 10 cm, compattarla delicatamente con il dorso del cucchiaio, sfilare l’anello, versare il gazpacho attorno e guarnire con basilico. Servire subito."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "3 h",
+      "description": "Lasagne verdi agli spinaci con ragù di manzo e pancetta, besciamella e Parmigiano, secondo la formula bolognese della fonte originale.",
+      "id": "GZ-00263",
+      "ingredients": [
+        "Per la sfoglia verde: semola rimacinata 350 g",
+        "Farina 00 150 g",
+        "Spinaci 250 g",
+        "Uova 2",
+        "Tuorli 3",
+        "Per il ragù: manzo macinato 300 g",
+        "Pancetta 150 g",
+        "Carote 50 g",
+        "Sedano 50 g",
+        "Cipolla dorata 50 g",
+        "Vino rosso 100 g",
+        "Passata di pomodoro 300 g",
+        "Brodo vegetale q.b.",
+        "Olio extravergine di oliva 1 cucchiaio",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Per la besciamella: burro 70 g",
+        "Farina 00 70 g",
+        "Latte intero 1 l",
+        "Sale fino 1 pizzico",
+        "Noce moscata q.b.",
+        "Per la finitura: burro q.b.",
+        "Parmigiano Reggiano 270 g"
+      ],
+      "name": "Lasagne alla bolognese",
+      "notes": "Origine: Bologna, Italia, documentata nella presentazione. Il ragù si conserva in frigorifero in contenitore chiuso per 2–3 giorni; le lasagne per 1–2 giorni, coperte. Si possono assemblare il giorno prima o congelare se preparate con ingredienti freschi, preferibilmente prima della cottura, e scongelare in frigorifero 24 ore prima di cuocerle. Le varianti suggerite dalla fonte comprendono carne più grassa o mista, brodo di carne o acqua calda, vino bianco anziché rosso, un poco di latte o un pizzico di zucchero nel ragù. La ricetta base prevede cinque strati. Autore individuale non dichiarato. Formula originale EN conservata, confermata dalla versione ES; la pagina italiana corrente ha dosi differenti e non è stata utilizzata per sostituirle.",
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "3 h",
+        "prep": "2 h",
+        "rest": "30 min per l'impasto; circa 10 min prima del taglio"
+      },
+      "originalTitle": "Lasagne alla Bolognese",
+      "originalYield": "8 persone",
+      "pdfPage": 259,
+      "photo": null,
+      "prep": "2 h",
+      "publicationUpdate": {
+        "baseAppSha256": "c430f8b9d9c26c144aa83a33b2f712e7152e5d01d41f2cd4c6f7724eb6ab31ff",
+        "previousAppSha256": "c430f8b9d9c26c144aa83a33b2f712e7152e5d01d41f2cd4c6f7724eb6ab31ff",
+        "reviewedDigest": "32f834ee5a7af26a09c642754c3d62b4c073f22f2fdf7de76fe2e9b1983b3cdc"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min per l'impasto; circa 10 min prima del taglio",
+      "reviewedRecordSha256": "32f834ee5a7af26a09c642754c3d62b4c073f22f2fdf7de76fe2e9b1983b3cdc",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.com/recipes/Lasagne-alla-Bolognese.html",
+      "steps": [
+        "Tritare finemente la pancetta e le verdure del soffritto. Scaldare l'olio in casseruola, far rosolare la pancetta, aggiungere sedano, carota e cipolla e farli appassire. Unire il manzo macinato e rosolarlo, mescolando.",
+        "Sfumare con il vino rosso e lasciarlo evaporare. Aggiungere la passata; raggiunto il bollore, versare uno o due mestoli di brodo caldo. Cuocere il ragù a fuoco basso con coperchio socchiuso per almeno 2 ore complessive, mescolando e aggiungendo brodo se necessario. Regolare sale e pepe alla fine.",
+        "Cuocere gli spinaci coperti con poca acqua per 5–6 minuti. Scolarli, farli raffreddare, strizzarli accuratamente e frullarli fino a ottenere circa 100 g di purea.",
+        "Mescolare semola e farina, aggiungere la purea e le uova con i tuorli leggermente sbattuti. Lavorare fino a ottenere un impasto omogeneo; avvolgerlo e lasciarlo riposare 30 minuti a temperatura ambiente.",
+        "Scaldare il latte senza farlo bollire. Sciogliere il burro, incorporare la farina e mescolare fino a ottenere un roux dorato. Aggiungere il latte in tre volte, mescolando per evitare grumi; insaporire con sale e noce moscata, proseguire fino a consistenza cremosa e coprire a contatto.",
+        "Prelevare un pezzo di pasta mantenendo coperto il resto. Appiattirlo, spolverandolo con semola se necessario, passarlo nella sfogliatrice con pieghe e aperture progressivamente più strette, fino a poco più di mezzo millimetro di spessore. Ricavare rettangoli di circa 30 × 20 cm.",
+        "Lessare una sfoglia per volta in acqua salata bollente per 30–40 secondi, scolarla e tamponarla su un canovaccio; disporre le sfoglie senza sovrapporle.",
+        "Imburrare una teglia di circa 30 × 20 cm. Distribuire un poco di besciamella e ragù sul fondo, sistemare la prima sfoglia e ricoprirla con besciamella, ragù e Parmigiano. Ripetere fino a formare cinque strati; terminare con ragù, Parmigiano e fiocchetti di burro.",
+        "Cuocere in forno statico preriscaldato a 170 °C per circa 40 minuti; lasciare assestare per circa 10 minuti prima di porzionare."
+      ],
+      "temperature": "170 °C, forno statico"
     }
   ]
 }
