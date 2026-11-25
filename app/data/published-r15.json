@@ -27831,6 +27831,350 @@
         "Servire con le lamelle di tartufo tenute da parte."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "30 min",
+      "description": "Involtini alla pizzaiola",
+      "id": "GZ-02397",
+      "ingredients": [
+        "Fettine di manzo 4 (80–90 g ciascuna)",
+        "Mozzarella 250 g",
+        "Olive nere 30 g",
+        "Passata di pomodoro 300 g",
+        "Aglio 1 spicchio",
+        "Olio extravergine di oliva 4 cucchiai",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Prezzemolo tritato 1 cucchiaio",
+        "Origano tritato 1 cucchiaino"
+      ],
+      "name": "Involtini alla pizzaiola",
+      "notes": "In frigorifero, in contenitore chiuso, al massimo 2 giorni. Variante suggerita: scamorza al posto della mozzarella ed erbe al posto delle olive; accompagnare con purè o riso bollito.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Involtini alla pizzaiola",
+      "originalYield": "4 involtini",
+      "pdfPage": 300,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "2872bd448143711cfcc549530070cfde5c04f66a6eda633ffe9dcf05be046147",
+        "previousAppSha256": "2872bd448143711cfcc549530070cfde5c04f66a6eda633ffe9dcf05be046147",
+        "reviewedDigest": "39a48f7674bd962f74a73e87a3ed6cea43c3a7d18a98890e9f7f528bff1a2cb7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "39a48f7674bd962f74a73e87a3ed6cea43c3a7d18a98890e9f7f528bff1a2cb7",
+      "serves": "4 involtini",
+      "source": "https://ricette.giallozafferano.it/Involtini-alla-pizzaiola.html",
+      "steps": [
+        "Dorare l’aglio schiacciato nell’olio, versare la passata e cuocere regolando sale e pepe. A fine cottura del sugo unire origano e prezzemolo.",
+        "Battere leggermente le fettine di manzo e regolarizzarne la forma. Affettare sottilmente la mozzarella, sgocciolarla nel colino e tritare le olive.",
+        "Farcire ogni fetta con 2–3 fettine di mozzarella e parte delle olive. Arrotolare dal lato corto e fermare ciascun involtino con due stecchini.",
+        "Immergere gli involtini nel sugo, salare sui due lati e coprire. Cuocere a fuoco molto basso, mantenendo un leggero sobbollore per circa 20 minuti; regolare il sale.",
+        "Se il formaggio ha rilasciato acqua, tenere gli involtini al caldo fuori dal tegame e restringere il sugo. Servire caldi."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "50 min",
+      "description": "Gnocchi di zucca con crema di gorgonzola",
+      "id": "GZ-00217",
+      "ingredients": [
+        "Zucca mantovana da pulire 500 g",
+        "Patate rosse 400 g",
+        "Tuorli 2",
+        "Farina 00 150 g",
+        "Sale fino q.b.",
+        "Semola rimacinata di grano duro q.b. (per spolverare)",
+        "Per la crema: gorgonzola dolce 150 g",
+        "Latte intero 60 g",
+        "Noce moscata q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Gnocchi di zucca con crema di gorgonzola",
+      "notes": "Cuocere gli gnocchi formati preferibilmente entro mezz’ora; altrimenti congelarli e cuocerli direttamente da congelati. Cotti, con un filo d’olio o già conditi, si conservano in frigo un giorno; riscaldare in padella. Preferire zucca asciutta e saporita e patate sode. La presentazione menziona noci, assenti da ingredienti e procedimento: non incluse nella formula.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "50 min",
+        "prep": "50 min",
+        "rest": null
+      },
+      "originalTitle": "Pumpkin Gnocchi with Gorgonzola Cream",
+      "originalYield": "4 persone",
+      "pdfPage": 253,
+      "photo": null,
+      "prep": "50 min",
+      "publicationUpdate": {
+        "baseAppSha256": "3ebc5f027eee444d84a54b52e5a047c2deec15a1f4ae526969f85aa15b8dc3a1",
+        "previousAppSha256": "3ebc5f027eee444d84a54b52e5a047c2deec15a1f4ae526969f85aa15b8dc3a1",
+        "reviewedDigest": "b74fb8f7b2420bc6421f24c4ec27e33d35f9e21a66eff722a713b4e9ba4ccd92"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "b74fb8f7b2420bc6421f24c4ec27e33d35f9e21a66eff722a713b4e9ba4ccd92",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/pumpkin-gnocchi-with-gorgonzola-cream.html",
+      "steps": [
+        "Lessare le patate lavate e non sbucciate partendo da acqua fredda salata. Pulire la zucca da scorza, semi e filamenti; la fonte indica 9 oz di polpa.",
+        "Dopo 20 minuti di cottura delle patate aggiungere la zucca a pezzi e continuare 15 minuti. Verificare con la forchetta che siano tenere ma ancora consistenti. Scolare separatamente zucca e patate, conservando l’acqua.",
+        "Schiacciare le patate ancora calde al centro della farina, eliminare le bucce dallo schiacciapatate e passare la zucca. Mescolare con un raschietto, incorporare i due tuorli e lavorare brevemente fino a ottenere un impasto uniforme, morbido ma consistente.",
+        "Spolverare di semola, coprire con un telo e prelevare porzioni di impasto. Formare filoncini di circa 0,6 pollici di diametro e tagliare pezzi della stessa lunghezza; arrotondarli sommariamente, rigarli e disporli sul vassoio infarinato con semola.",
+        "Scaldare il latte, aggiungere il gorgonzola privato della crosta e tagliato a cubetti, noce moscata, sale e pepe. Mescolare fino a fusione, spegnere e lasciare addensare.",
+        "Riportare a ebollizione l’acqua di cottura, regolare il sale se necessario e calare gli gnocchi con una schiumarola. Scolarli quando affiorano, trasferirli nella crema e amalgamare a fuoco spento. Servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "30 min",
+      "description": "Brodetto fanese",
+      "id": "GZ-00985",
+      "ingredients": [
+        "Olio extravergine di oliva 70 ml",
+        "Aceto di vino bianco 60 ml",
+        "Acqua o fumetto di pesce 500 ml",
+        "Cipolla 50 g",
+        "Aglio 1 spicchio",
+        "Doppio concentrato di pomodoro 80 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Seppie pulite 200 g",
+        "Calamari puliti 200 g",
+        "Scampi 200 g",
+        "Gamberi 200 g",
+        "Palombo 300 g",
+        "Rana pescatrice 250 g",
+        "Canocchie 200 g",
+        "Gallinella 150 g",
+        "Nasello 200 g",
+        "Sogliola 300 g",
+        "Triglie 150 g",
+        "Pane toscano 6 fette"
+      ],
+      "name": "Brodetto fanese",
+      "notes": "Specialità di Fano, Marche. La fonte indica 4,4 lb come totale orientativo dei pesci, ma le singole dosi sono riportate separatamente e prevalgono nella lista; mantenute senza conversioni. Consumare preferibilmente subito, avanzi in frigo massimo un giorno; sconsigliato congelare. Pesci stagionali e prezzemolo tritato come finitura facoltativa.",
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "40 min",
+        "rest": null
+      },
+      "originalTitle": "Brodetto fanese",
+      "originalYield": "4 persone",
+      "pdfPage": 319,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "79dc2406788213c239711bbd9f5925553a4bf66766d493ada45f99f205f2e013",
+        "previousAppSha256": "79dc2406788213c239711bbd9f5925553a4bf66766d493ada45f99f205f2e013",
+        "reviewedDigest": "8d719a20eda0cf7557cb72150324fe15cb26f70c25534f877251b85ec21a4806"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "8d719a20eda0cf7557cb72150324fe15cb26f70c25534f877251b85ec21a4806",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/brodetto-fanese.html",
+      "steps": [
+        "Pulire seppie e calamari; lasciare intere le seppie piccole, tagliare le grandi a pezzi e i calamari ad anelli. Eviscerare gallinella, nasello e triglie; mantenere interi i piccoli, togliere la testa del nasello e tagliare quelli grandi. Ridurre palombo e rana pescatrice a tranci.",
+        "Spellare entrambi i lati delle sogliole e rifilare le lische esterne. Eliminare le zampe delle canocchie e incidere il carapace longitudinalmente; facoltativo lo stesso taglio sugli scampi.",
+        "Stufare cipolla tritata e aglio nell’olio a fiamma bassissima 15 minuti. Sfumare con l’aceto; dopo l’evaporazione unire il concentrato.",
+        "Saltare seppie e calamari nel fondo per circa 10 minuti; aggiungere l’acqua calda o il fumetto e coprire.",
+        "Inserire nell’ordine gallinella, palombo, rana pescatrice e nasello. Da questo punto non mescolare con utensili: scuotere il recipiente dai manici.",
+        "Aggiungere scampi, canocchie, triglie, sogliole e infine gamberi; proseguire al massimo 10 minuti, regolare sale e pepe. Servire con pane fresco o tostato."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "4 h",
+      "description": "Agnello kleftiko",
+      "id": "GZ-01117",
+      "ingredients": [
+        "Cosciotto di agnello 1,3 kg",
+        "Patate 700 g",
+        "Pomodori ramati 400 g",
+        "Feta 200 g",
+        "Cipolla rossa 1",
+        "Rosmarino 3 rametti",
+        "Olio extravergine di oliva q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Per marinare: succo di limone 150 g",
+        "Vino bianco secco 120 g",
+        "Timo 3 rametti",
+        "Bacche di ginepro 4",
+        "Pepe nero q.b."
+      ],
+      "name": "Agnello kleftiko",
+      "notes": "Conservazione in frigorifero fino a 2 giorni; non congelare. La superficie scura è normale con la lunga cottura, non necessariamente bruciata.",
+      "origin": "Grecia",
+      "originalTimes": {
+        "cook": "4 h",
+        "prep": "30 min",
+        "rest": "30 min di marinatura"
+      },
+      "originalTitle": "Agnello kleftiko",
+      "originalYield": "4 persone",
+      "pdfPage": 292,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e6bdb2c92c349d78d00d581bd7ec78cd74ec11e4eedf92ebe2fe296f58ac92b4",
+        "previousAppSha256": "e6bdb2c92c349d78d00d581bd7ec78cd74ec11e4eedf92ebe2fe296f58ac92b4",
+        "reviewedDigest": "9fd8497ddbaef2ca680ec6254004b8e06ff8ec96e8268d023603f96ece486c61"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min di marinatura",
+      "reviewedRecordSha256": "9fd8497ddbaef2ca680ec6254004b8e06ff8ec96e8268d023603f96ece486c61",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Agnello-kleftiko.html",
+      "steps": [
+        "Disossare il cosciotto ed eliminare grasso esterno e tessuti connettivi. Ridurre circa 890 g di polpa pulita a bocconi di 4–5 cm.",
+        "Mescolare carne, succo di limone, vino, timo, ginepro e pepe. Coprire e marinare in frigorifero per circa 30 minuti.",
+        "Tagliare la cipolla a spicchi non troppo sottili; sbucciare le patate e ricavare pezzi di circa 3 cm da patate e pomodori. Scolare la carne con una schiumarola, unirla alle verdure e condire con olio, rosmarino, sale e pepe.",
+        "Dividere in quattro porzioni su quattro fogli di carta forno da 33×36 cm. Distribuire la feta a cubetti sbriciolandola sopra. Ripiegare ciascun foglio, chiudendo prima due lati opposti e poi gli altri; avvolgere con un secondo foglio e legare ciascun cartoccio con spago da cucina.",
+        "Disporre sulla teglia e cuocere in forno statico preriscaldato a 150 °C per circa 4 ore. Aprire i cartocci, amalgamare i succhi e servire caldo."
+      ],
+      "temperature": "150 °C, forno statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "90 min",
+      "description": "Agnello al forno con patate",
+      "id": "GZ-01114",
+      "ingredients": [
+        "Agnello 1,5 kg",
+        "Patate novelle 1 kg",
+        "Cipolle bianche 200 g",
+        "Aglio 1 testa intera",
+        "Acqua 500 g",
+        "Aceto di vino bianco 500 g",
+        "Timo 3 rametti",
+        "Rosmarino 2 rametti",
+        "Salvia 4 foglie",
+        "Alloro 2 foglie",
+        "Bacche di ginepro 10",
+        "Olio extravergine d’oliva 80 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Agnello al forno con patate",
+      "notes": "La fonte consiglia di aggiungere acqua calda se il fondo si asciuga; pomodorini facoltativi. Conservare in frigorifero 2–3 giorni. La temperatura in Celsius è confermata dalla versione ufficiale spagnola.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "90 min",
+        "prep": "20 min",
+        "rest": "Ammollo durante la preparazione delle verdure; durata non indicata"
+      },
+      "originalTitle": "Roasted Lamb and Potatoes",
+      "originalYield": "4 persone",
+      "pdfPage": 290,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "d14c270c01fb5f760cd068cd769c5fcc9af861b9698017145c13502e49ca9019",
+        "previousAppSha256": "d14c270c01fb5f760cd068cd769c5fcc9af861b9698017145c13502e49ca9019",
+        "reviewedDigest": "fb815cf08c8324deb72aa995cc284aeefde35a60e7689e8327fc2c4177fe7cc7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Ammollo durante la preparazione delle verdure; durata non indicata",
+      "reviewedRecordSha256": "fb815cf08c8324deb72aa995cc284aeefde35a60e7689e8327fc2c4177fe7cc7",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Roasted-Lamb-and-Potatoes.html",
+      "steps": [
+        "Immergere i pezzi di agnello in acqua e aceto mentre si preparano le verdure.",
+        "Lavare, asciugare e dimezzare le patate novelle. Tagliare le cipolle a spicchi e dividere la testa d’aglio a metà.",
+        "Sistemare le verdure nella teglia, profumandole con timo, rosmarino, salvia spezzettata, alloro e ginepro. Scolare l’agnello e unirlo.",
+        "Distribuire gli 80 g di olio, sale e pepe, quindi mescolare. Infornare a 200 °C in modalità statica per circa 90 minuti, voltando la carne ogni 20 minuti. Servire caldo."
+      ],
+      "temperature": "200 °C, forno statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "2 h",
+      "description": "Arrosto di vitello all'uva",
+      "id": "GZ-01131",
+      "ingredients": [
+        "Noce di vitello circa 1 kg",
+        "Uva bianca 300 g",
+        "Uva nera 300 g",
+        "Vino bianco 250 ml",
+        "Olio extravergine di oliva q.b.",
+        "Burro 50 g",
+        "Sedano 2 coste",
+        "Carote 2",
+        "Cipolle 2",
+        "Aglio 3 spicchi",
+        "Rosmarino 1 rametto",
+        "Bacche di ginepro 3",
+        "Salvia 3 foglie",
+        "Prezzemolo 1 ciuffo",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Arrosto di vitello all'uva",
+      "notes": "La voce inglese Pork contrasta con titolo e procedimento: la versione ufficiale spagnola conferma noce di vitello. La durata complessiva dichiarata è 2 ore; i passaggi in forno indicano un’ora più 20 minuti. La fonte suggerisce anche altri tagli da arrosto. Conservazione non dichiarata.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "2 h",
+        "prep": "20 min",
+        "rest": "Qualche minuto prima del taglio"
+      },
+      "originalTitle": "Veal roast with grapes",
+      "originalYield": "8 persone",
+      "pdfPage": 297,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7d8249afa2e17ed0fbea077bb6734a532a44c0d0a252e8471c089e84f90835ab",
+        "previousAppSha256": "7d8249afa2e17ed0fbea077bb6734a532a44c0d0a252e8471c089e84f90835ab",
+        "reviewedDigest": "de129cd7f9ad59f732f4b23ba7993f95d4f5b3d81eca3c99adcb578639bc4f0c"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Qualche minuto prima del taglio",
+      "reviewedRecordSha256": "de129cd7f9ad59f732f4b23ba7993f95d4f5b3d81eca3c99adcb578639bc4f0c",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.com/recipes/veal-roast-with-grapes.html",
+      "steps": [
+        "Mondare la carne dalle cartilagini e legarla con spago da cucina, fissando salvia e rosmarino.",
+        "Scaldare burro e olio in un tegame; rosolare l’arrosto su tutti i lati, voltandolo con un cucchiaio di legno. Sfumare con il vino e trasferire carne ben dorata e fondo in una teglia.",
+        "Pulire e aggiungere sedano, carote, cipolle e aglio, insieme a ginepro, prezzemolo, sale e pepe. Cuocere in forno preriscaldato a 180 °C per un’ora, girando di tanto in tanto.",
+        "Lavare l’uva, dividere gli acini ed eliminare i semi. Rimuovere verdure ed erbe dalla teglia lasciando il fondo; aggiungere l’uva e continuare a 180 °C per 20 minuti.",
+        "Spegnere il forno, lasciar riposare qualche minuto, affettare e servire con gli acini e il fondo di cottura."
+      ],
+      "temperature": "180 °C"
     }
   ]
 }
