@@ -28385,6 +28385,240 @@
         "Spegnere il fuoco, incorporare la crema di formaggi e i fiori crudi, mescolare e servire con il guanciale croccante e pepe."
       ],
       "temperature": null
+    },
+    {
+      "author": "Nicola Sorrentino",
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "5 min dichiarati dalla fonte; tempi dei passaggi discordanti",
+      "description": "Tacos vegetariani",
+      "id": "GZ-03875",
+      "ingredients": [
+        "Tortillas di mais 320 g",
+        "Peperoni rossi 150 g",
+        "Zucchine 150 g",
+        "Cipolle rosse 100 g",
+        "Fagioli neri precotti 250 g",
+        "Mais 100 g",
+        "Fiocchi di latte 120 g",
+        "Olio extravergine d'oliva 30 g",
+        "Succo di lime 10 g",
+        "Paprika dolce q.b.",
+        "Prezzemolo q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Tacos vegetariani",
+      "notes": "Il totale di cottura dichiarato nella testata è 5 minuti ma i singoli passaggi indicano 2, 8 e 4 minuti, oltre al riscaldamento delle tortillas; si mantengono i tempi del procedimento senza inventare un totale. La fonte italiana ufficiale identifica il formaggio come fiocchi di latte, non ricotta. Conservare soltanto il ripieno di verdure in frigorifero fino a 2 giorni; consumare subito i tacos assemblati. Facoltativo Tabasco a fine preparazione; possibili varianti con legumi, formaggi o salse.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min dichiarati dalla fonte; tempi dei passaggi discordanti",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Tacos vegetarianos",
+      "originalYield": "4 persone",
+      "pdfPage": 846,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "3195fde0805f4a864134434f617a0804815c53fe73bb1eb7bca48a53f869f51e",
+        "previousAppSha256": "3195fde0805f4a864134434f617a0804815c53fe73bb1eb7bca48a53f869f51e",
+        "reviewedDigest": "fcc965e66032a69986f77e63ccb6e17e28d192d26a1464186199a0ccf68f9628"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "fcc965e66032a69986f77e63ccb6e17e28d192d26a1464186199a0ccf68f9628",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/tacos-vegetarianos.html",
+      "steps": [
+        "Lavare e mondare le verdure. Ridurre le zucchine a dadini, i peperoni a listarelle e le cipolle a falde.",
+        "Versare l'olio in padella; cuocere le cipolle a fuoco medio per 2 minuti. Unire zucchine e peperoni e proseguire a fuoco medio per 8 minuti.",
+        "Scolare bene fagioli e mais, incorporarli alle verdure e mescolare a fuoco medio. Insaporire con paprika, sale e pepe; terminare a fuoco dolce negli ultimi 4 minuti.",
+        "Scaldare le tortillas da entrambi i lati in una padella antiaderente. Disporre il ripieno caldo su una metà, aggiungere i fiocchi di latte e il prezzemolo tritato.",
+        "Ripiegare ciascuna tortilla, completare con il succo di lime e servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "25 min",
+      "description": "Brownies all'avocado",
+      "id": "GZ-02530",
+      "ingredients": [
+        "Avocado 300 g (1 medio)",
+        "Cioccolato fondente 150 g",
+        "Farina 00 150 g",
+        "Farina di nocciole 50 g",
+        "Olio di cocco 60 g",
+        "Nocciole intere pelate 50 g",
+        "Zucchero muscovado 50 g",
+        "Lievito chimico per dolci 3 g",
+        "Sale fino 1 pizzico"
+      ],
+      "name": "Brownies all'avocado",
+      "notes": "Conservare in frigorifero fino a 3 giorni; sconsigliato congelare. Variante: sostituire 20 g di farina di nocciole con altrettanto cocco grattugiato; facoltativi 15 g di rum scuro o altro distillato. La temperatura di 180 °C è attestata dalla versione tedesca ufficiale con la medesima formula; nella pagina inglese è presente un refuso numerico. URL canonico invariato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Avocado brownies",
+      "originalYield": "6 persone; stampo 20 × 20 cm",
+      "pdfPage": 327,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "06ff77c9b4cd6f994d7ddfe33598d4edbec07278e2fb071d766892b28954402c",
+        "previousAppSha256": "06ff77c9b4cd6f994d7ddfe33598d4edbec07278e2fb071d766892b28954402c",
+        "reviewedDigest": "0e961731bb65a83d27b2633983b50c3b60d0b7fc377544a33d0c2c87f34d9cc7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "0e961731bb65a83d27b2633983b50c3b60d0b7fc377544a33d0c2c87f34d9cc7",
+      "serves": "6 persone; stampo 20 × 20 cm",
+      "source": "https://www.giallozafferano.com/recipes/avocado-brownies.html",
+      "steps": [
+        "Spezzettare il cioccolato, fonderlo a bagnomaria o nel microonde e lasciarlo intiepidire. Eliminare il nocciolo dell'avocado, estrarre la polpa con un cucchiaio e schiacciarla con una forchetta.",
+        "Riunire le due farine e il lievito in una ciotola; mescolare con le fruste elettriche e incorporare lo zucchero muscovado.",
+        "Aggiungere il sale, poi l'olio di cocco e il cioccolato fuso continuando a lavorare. Incorporare la polpa d'avocado fino a ottenere una massa uniforme.",
+        "Foderare uno stampo quadrato di 20 × 20 cm con carta forno; distribuire l'impasto, livellarlo e cospargerlo con le nocciole tritate grossolanamente.",
+        "Cuocere in forno statico preriscaldato a 180 °C per 25 minuti. Lasciare raffreddare prima di suddividere in quadrotti."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "10 min",
+      "description": "Burger di salmone con maionese senza uova e patate saltate",
+      "id": "GZ-03608",
+      "ingredients": [
+        "Per i burger: salmone affumicato norvegese 400 g",
+        "Timo 1 rametto",
+        "Maggiorana 1 rametto",
+        "Aneto 1 rametto",
+        "Olio extravergine d'oliva 10 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Per la maionese: latte di soia 50 g",
+        "Olio di semi di girasole 100 g",
+        "Aceto di mele 20 g",
+        "Sale fino 1 pizzico",
+        "Per le patate: patate 200 g",
+        "Rosmarino 1 rametto",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Olio per rosolare e ungere la piastra (quantità e tipo non dichiarati nel metodo)",
+        "Acqua di cottura delle patate 100 g; acqua per lessare q.b."
+      ],
+      "name": "Burger di salmone con maionese senza uova e patate saltate",
+      "notes": "La redazione italiana (11/11/2016) chiarisce che il pesce è salmone affumicato confezionato, non filetto crudo: la breve rosolatura serve a formare la crosticina. La fonte non quantifica l'olio aggiuntivo per patate e piastra; distinto dai 10 g del trito e dai 100 g della salsa. Le indicazioni di conservazione riguardano i burger conditi e formati prima della cottura: massimo un giorno in frigorifero; eventuale congelamento solo con ingredienti freschi idonei al congelamento secondo etichetta. Non estendere tale indicazione a maionese o piatto assemblato. Variante di servizio con panino morbido, insalata e patate tagliate a fettine di 2 mm.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Salmon burger with eggless mayonnaise and sautéed potatoes",
+      "originalYield": "2 burger",
+      "pdfPage": 792,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "88cb9a3a06c4fdff0172398d8349d36547eee35e3c04c1c1d8e3e29dee4d1ee3",
+        "previousAppSha256": "88cb9a3a06c4fdff0172398d8349d36547eee35e3c04c1c1d8e3e29dee4d1ee3",
+        "reviewedDigest": "65ea558ca3405971cf1db32655f3dcf0a6ad24dd188f00922e33fc9ce1aaaa2d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "65ea558ca3405971cf1db32655f3dcf0a6ad24dd188f00922e33fc9ce1aaaa2d",
+      "serves": "2 burger",
+      "source": "https://www.giallozafferano.com/recipes/salmon-burger-with-eggless-mayonnaise-and-sauteed-potatoes.html",
+      "steps": [
+        "Tagliare a cubetti e tritare finemente al coltello il salmone affumicato già pronto al consumo; tritare timo, maggiorana e aneto. Unire in una ciotola, condire con sale, pepe e i 10 g di olio.",
+        "Dividere il trito in due porzioni, comprimerle con un coppapasta di 8 cm per formare burger compatti da circa 200 g ciascuno; trasferire su un vassoio in frigorifero.",
+        "Emulsionare con il frullatore a immersione l'olio di girasole, il pizzico di sale e l'aceto; versare a filo il latte di soia continuando a frullare fino a ottenere una salsa densa e spumosa. Trasferire in una ciotolina.",
+        "Sbucciare le patate, ridurle a cubetti di 1 cm e tenerle in acqua fredda per non farle annerire. Lessarle in acqua salata bollente 4–5 minuti; scolarle conservando l'acqua di cottura.",
+        "Rosolare le patate in padella con olio già caldo, rosmarino, sale e pepe. Versare 100 g di acqua di cottura e proseguire a fuoco vivo fino a evaporazione e completa cottura delle patate; tenerle al caldo.",
+        "Ungere e scaldare bene una piastra di ghisa; rosolare i burger per 2 minuti per lato. Servire caldi con le patate e la maionese."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "10 min",
+      "description": "Cheesecake ai frutti di bosco",
+      "id": "GZ-02577",
+      "ingredients": [
+        "Per la base: biscotti Digestive 180 g",
+        "Burro 100 g",
+        "Per la crema: ricotta vaccina 500 g",
+        "Formaggio fresco spalmabile 250 g",
+        "Panna fresca liquida 100 g",
+        "Zucchero a velo 150 g",
+        "Gelatina in fogli 10 g",
+        "Scorza di limone 1 (unità non ulteriormente specificata dalla fonte)",
+        "Per la farcitura: more 190 g",
+        "Mirtilli 180 g",
+        "Lamponi 180 g",
+        "Ribes 135 g",
+        "Zucchero a velo 100 g",
+        "Succo di limone 70 g",
+        "Per la copertura: 280 g di succo ricavato dai frutti di bosco della farcitura (come precisato nel metodo)",
+        "Amido di mais 35 g",
+        "Per guarnire: frutti di bosco 50 g",
+        "Menta q.b.",
+        "Acqua fredda per ammollo della gelatina q.b.",
+        "Burro per lo stampo (quantità non specificata nel metodo)"
+      ],
+      "name": "Cheesecake ai frutti di bosco",
+      "notes": "La lista ingredienti inglese indica panna fresca 100 g ma il metodo tradotto riporta latte. Le versioni ufficiali italiana e tedesca della stessa ricetta confermano che la gelatina si scioglie nella panna e che non serve latte aggiuntivo. Il succo di copertura (280 g) è quello ricavato dalla farcitura, come indicato nel metodo. Conservare in frigorifero 2–3 giorni; congelare eventualmente senza copertura. Possibile usare biscotti di altro tipo, anche al cacao.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "30 min",
+        "rest": "Base almeno 30 min; crema 2 h; copertura almeno 1 h; eventuale sgocciolatura ricotta 1–2 h"
+      },
+      "originalTitle": "Wild berry cheesecake",
+      "originalYield": "6 persone; stampo 20 cm",
+      "pdfPage": 125,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "9cb54f05db15aed95faf76318a89e08b2176ff98c9ac881238ab94fb80c08b6e",
+        "previousAppSha256": "9cb54f05db15aed95faf76318a89e08b2176ff98c9ac881238ab94fb80c08b6e",
+        "reviewedDigest": "4de54bde78307130aeba25192296eb2cfb28ee3ffa8ec63b5196163a8911ce7e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Base almeno 30 min; crema 2 h; copertura almeno 1 h; eventuale sgocciolatura ricotta 1–2 h",
+      "reviewedRecordSha256": "4de54bde78307130aeba25192296eb2cfb28ee3ffa8ec63b5196163a8911ce7e",
+      "serves": "6 persone; stampo 20 cm",
+      "source": "https://www.giallozafferano.com/recipes/Wild-berry-cheesecake.html",
+      "steps": [
+        "Sciogliere il burro a calore molto basso e lasciarlo intiepidire. Tritare finemente i biscotti e amalgamarli con il burro fuso. Imburrare e foderare con carta forno uno stampo a cerniera da 20 cm; comprimere il composto sul fondo fino a ottenere una base uniforme e soda. Refrigerare almeno 30 minuti.",
+        "Ammollare la gelatina in acqua fredda per circa 10 minuti, finché morbida. Lavare e asciugare i frutti della farcitura; versarli in padella con i 70 g di succo di limone filtrato e i 100 g di zucchero a velo. Cuocere a fuoco dolce circa 5 minuti, mescolando di tanto in tanto.",
+        "Scolare i frutti in un colino sopra una ciotola e lasciarli raffreddare; riservare il succo per la copertura e la frutta per l'interno.",
+        "Scaldare i 100 g di panna, strizzare la gelatina e scioglierla nella panna mescolando con la frusta; lasciare intiepidire. Setacciare la ricotta (se molto ricca di siero, lasciarla scolare 1–2 ore), incorporare il formaggio spalmabile, la scorza grattugiata e i 150 g di zucchero a velo; aggiungere la panna con la gelatina e amalgamare.",
+        "Versare metà crema sulla base fredda, livellare, distribuire la frutta scolata e ricoprire con la crema rimanente. Rassodare in frigorifero per 2 ore.",
+        "Misurare 280 g del succo di frutta tenuto da parte, aggiungere i 35 g di amido setacciato e mescolare con una frusta. Addensare a fuoco basso per circa 5 minuti; fare intiepidire mescolando spesso.",
+        "Versare la salsa sulla cheesecake fredda, uniformarla e farla rassodare in frigorifero per almeno 1 ora. Decorare con i 50 g di frutti freschi e menta."
+      ],
+      "temperature": null
     }
   ]
 }
