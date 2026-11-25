@@ -29738,6 +29738,203 @@
         "Scolare i bucatini due minuti prima del termine indicato, completarne la cottura nel condimento e servire con olio a crudo."
       ],
       "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "60 min",
+      "description": "Dolce morbido da colazione o merenda, variante estiva della famiglia dei dolci agrumati frullati. La polpa di pesca viene lavorata insieme agli altri ingredienti nel mixer prima della cottura.",
+      "id": "SRC-HIST-5161c862812058fc",
+      "ingredients": [
+        "Pesche 330 g (285 g di polpa pulita)",
+        "Farina 00 280 g",
+        "Zucchero 170 g",
+        "Olio di semi 90 g",
+        "Latte intero 90 g a temperatura ambiente",
+        "Uova 155 g (circa 3) a temperatura ambiente",
+        "Lievito in polvere per dolci 16 g",
+        "Scorza grattugiata di 1 limone",
+        "Burro q.b. e farina 00 q.b. per lo stampo"
+      ],
+      "name": "Torta soffice alle pesche frullate (pan di pesche)",
+      "notes": "Conservazione indicata: 2–3 giorni sotto campana; congelabile dopo cottura, anche a fette. Consiglio: accompagnare con gelato alla crema. La fonte non documenta un’origine geografica o l’autore.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "15 min",
+        "rest": "raffreddamento, durata non dichiarata"
+      },
+      "originalTitle": "Pan de melocotón",
+      "originalYield": "8 porzioni; stampo 22 cm",
+      "photo": null,
+      "prep": "15 min",
+      "rest": "raffreddamento, durata non dichiarata",
+      "reviewedRecordSha256": "d40b3aae8cc37a7fd02fc76bb8ae2c32168f42d5ce933d2c6b77258305393d27",
+      "serves": "8 porzioni; stampo 22 cm",
+      "source": "https://www.giallozafferano.es/recetas/pan-de-melocoton.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Preriscaldare il forno a 180 °C. Lavare, asciugare e tagliare le pesche, pesando 285 g di polpa.",
+        "Mettere nel mixer le pesche a fette, lo zucchero, la farina e le uova intere.",
+        "Aggiungere lievito, scorza di limone, olio e latte.",
+        "Azionare il mixer fino a ottenere una massa cremosa uniforme. Imburrare e infarinare lo stampo da 22 cm, quindi versarvi l’impasto.",
+        "Cuocere 60 minuti a 180 °C; lasciare intiepidire prima di affettare."
+      ],
+      "temperature": "180 °C; modalità non dichiarata"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "10 min",
+      "description": "Bocconcini di pane raffermo passati nel latte e nell'uovo, fritti e rivestiti di zucchero alla cannella. Dolce semplice da merenda, da servire appena pronto.",
+      "id": "gz-es-pan-frito-dulce",
+      "ingredients": [
+        "Pane raffermo 200 g (non eccessivamente duro)",
+        "Latte intero 200 g",
+        "Uova 3",
+        "Zucchero 20 g per le uova",
+        "Sale fino 1 pizzico",
+        "Olio di arachidi q.b. per friggere",
+        "Zucchero 150 g per rivestire",
+        "Cannella in polvere 2 g per rivestire"
+      ],
+      "name": "Pane fritto dolce",
+      "notes": "La fonte non precisa la temperatura numerica dell’olio. Variante esplicita: friggere nel burro a fuoco più basso, per evitare che bruci; assorbimento di grasso maggiore. La fonte lo presenta come antecedente del french toast, senza origine geografica documentata; consumare appena preparato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Pan frito dulce",
+      "originalYield": "6 porzioni",
+      "photo": null,
+      "prep": "15 min",
+      "rest": "",
+      "reviewedRecordSha256": "3b05556fbc1bb08318b7bded2779711452a3410b5d67f3451938b754a0d4f3bf",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.es/recetas/pan-frito-dulce.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Ricavare fette o bocconi dal pane raffermo.",
+        "Sbattere le uova con i 20 g di zucchero e il sale.",
+        "Passare ogni pezzo velocemente nel latte e poi nelle uova; far colare il liquido in eccesso.",
+        "Scaldare in padella l’olio di arachidi fino a coprirne il fondo, senza surriscaldarlo. Dorare il pane alcuni minuti per lato.",
+        "Scolare su carta assorbente; mescolare separatamente i 150 g di zucchero con la cannella e rivestire i pezzi.",
+        "Servire immediatamente."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "cucina preDiletta",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "50 min complessivi dichiarati",
+      "description": "Corona di pasta choux farcita con crema pasticcera alleggerita da panna e fragole fresche.",
+      "id": "SAP-20261115-002-PARIS_BREST",
+      "ingredients": [
+        "Pasta choux: Farina 00 120 g",
+        "Pasta choux: Acqua 200 ml",
+        "Pasta choux: Burro 70 g",
+        "Pasta choux: Uova medie 3",
+        "Pasta choux: Sale 1 pizzico",
+        "Crema pasticcera: Latte intero 500 ml",
+        "Crema pasticcera: Zucchero 100 g",
+        "Crema pasticcera: Farina 00 70 g",
+        "Crema pasticcera: Tuorli 3",
+        "Crema pasticcera: Vanillina 1 bustina (oppure estratto di vaniglia, quantità non specificata)",
+        "Chantilly: Panna da montare 250 ml",
+        "Chantilly: Zucchero a velo 25 g",
+        "Completamento: Fragole 250 g",
+        "Completamento: Zucchero a velo q.b."
+      ],
+      "name": "Paris-Brest alle fragole e crema Chantilly",
+      "notes": "Il metodo della crema è esplicitamente richiamato dall’autrice nel collegamento; usare le dosi del Paris-Brest (non quelle diverse della crema classica collegata). Il dolce farcito si conserva coperto in frigo per 1–2 giorni. Possibile preparare la corona qualche ora prima o congelarla non farcita; alternative dichiarate: lamponi, frutti di bosco, ciliegie o pesche. La fonte collega il dolce alla corsa ciclistica francese; la crema è diplomatica, non chantilly classica.",
+      "origin": "Francia (tradizione del Paris-Brest)",
+      "originalTimes": {
+        "cook": "50 min complessivi dichiarati",
+        "prep": "60 min",
+        "rest": "raffreddamento base e crema; 10 min nel forno spento"
+      },
+      "originalTitle": "Paris Brest con crema Chantilly e fragole",
+      "originalYield": "10 persone; corona 22–23 cm",
+      "photo": null,
+      "prep": "60 min",
+      "rest": "raffreddamento base e crema; 10 min nel forno spento",
+      "reviewedRecordSha256": "c6f55dee8b3b27706224924945d406e0a8686b1c55d8651d8ee3ab860dfbe96b",
+      "serves": "10 persone; corona 22–23 cm",
+      "source": "https://blog.giallozafferano.it/cucinaprediletta/paris-brest-con-crema-chantilly-e-fragole/",
+      "sourceLabel": "GialloZafferano Blog",
+      "steps": [
+        "Disegnare una circonferenza di 22–23 cm sulla carta da forno e capovolgerla sulla placca.",
+        "Per la crema usare le dosi della presente ricetta: tenere da parte poco latte, scaldare il resto quasi a bollore; lavorare tuorli e zucchero con il latte tenuto da parte, incorporare la farina setacciata e aromatizzare con la vanillina o la vaniglia. Versare il latte caldo a filo mescolando, rimettere sul fuoco dolce per 5–6 minuti fino ad addensamento. Trasferire in una ciotola larga, coprire a contatto e raffreddare in frigorifero.",
+        "Per la choux portare a ebollizione acqua, burro e sale. Allontanare dal fuoco, incorporare la farina tutta insieme, mescolare senza grumi e rimettere a fuoco basso fino a massa che si stacca dalle pareti. Lasciare intiepidire.",
+        "Unire le tre uova una alla volta, aspettando il completo assorbimento. Trasferire in sac à poche con bocchetta liscia grande; tracciare due anelli adiacenti e un terzo sopra la giunzione, usando l’eventuale impasto restante.",
+        "Cuocere in forno ventilato preriscaldato a 200 °C per 15 minuti, poi a 150 °C per circa 15 minuti. Lasciare altri 10 minuti nel forno spento senza aprire durante la cottura; estrarre, intiepidire e raffreddare su gratella.",
+        "Montare la panna con 25 g di zucchero a velo; incorporarla delicatamente e poco alla volta alla crema pasticcera ben fredda.",
+        "Lavare e asciugare le fragole. Aprire la corona orizzontalmente, farcire la base con la diplomatica usando la sac à poche, distribuire una parte delle fragole a pezzi e spolverare con zucchero a velo.",
+        "Chiudere con l’altra metà, usare parte della crema per fissare le fragole rimanenti sopra, completare con ciuffi di crema e zucchero a velo q.b. Servire subito o refrigerare per qualche ora."
+      ],
+      "temperature": "200 °C ventilato 15 min, 150 °C 15 min circa, 10 min a forno spento"
+    },
+    {
+      "author": "Sonia Peronaci",
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "60 min",
+      "description": "Teglia di patate affettate molto sottili alternate a cipolle e pomodori, ricoperta di mollica, origano e pecorino e cotta al forno.",
+      "id": "SRC-074f50f1d15cd3ab",
+      "ingredients": [
+        "1 kg patate",
+        "300 g cipolle",
+        "500 g pomodori ramati",
+        "240 g mollica di pane fresco",
+        "40 g pecorino grattugiato",
+        "Olio extravergine d'oliva q.b.",
+        "Origano secco q.b.",
+        "Sale q.b.",
+        "Pepe q.b."
+      ],
+      "name": "Patate raganate lucane gratinate con pomodori, cipolle e mollica",
+      "notes": "La fonte indica cipolla rossa nella presentazione, fette di patate molto sottili per la cottura; il pangrattato può sostituire la mollica fresca ma dà minore croccantezza. Conservare ben coperte in frigorifero fino a 2 giorni; congelazione sconsigliata. Tradizione contadina lucana documentata dall’autrice: la teglia veniva avvolta in strofinacci e portata nei campi. Contiene cereali e latte.",
+      "origin": "Italia — Basilicata",
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "60 min",
+        "rest": "30 min circa dopo la cottura"
+      },
+      "originalTitle": "Patate raganate",
+      "originalYield": "4 persone; teglia ovale 25 × 35 × 8 cm",
+      "photo": null,
+      "prep": "60 min",
+      "rest": "30 min circa dopo la cottura",
+      "reviewedRecordSha256": "3818d6b48c72bc616fa77add143bca4c065fed8f7dd733b93b9e7d9ee80899a4",
+      "serves": "4 persone; teglia ovale 25 × 35 × 8 cm",
+      "source": "https://www.soniaperonaci.it/patate-raganate",
+      "sourceLabel": "Sonia Peronaci",
+      "steps": [
+        "Pelare le cipolle e affettarle sottilmente, a circa 2 mm. Sbucciare le patate e tagliarle in rondelle altrettanto sottili, per permettere una cottura uniforme.",
+        "Sminuzzare la mollica fresca di pane con un tritatutto; predisporre il pecorino grattugiato.",
+        "Incidere la buccia dei pomodori puliti, immergerli in acqua bollente per circa 30 secondi, scolarli e pelarli.",
+        "Tagliare i pomodori spellati in fette da circa 3–4 mm.",
+        "Ungere una pirofila di circa 25×35 cm; allineare sul fondo un terzo delle rondelle di patate, salare e pepare.",
+        "Distribuire sopra metà delle cipolle e metà dei pomodori, condire con sale, pepe e poco olio, poi coprire con circa un terzo della mollica di pane.",
+        "Ripetere uno strato analogo di patate, cipolle, pomodori e mollica; coprire con le patate rimaste.",
+        "Terminare con la restante mollica, il pecorino grattugiato e origano secco; aggiustare sale e pepe e irrorare con olio extravergine.",
+        "Cuocere nel forno statico preriscaldato a 180 °C per circa un'ora, finché le patate sono cotte e si è formata una crosta dorata.",
+        "Lasciar riposare e intiepidire circa mezz'ora prima di servire."
+      ],
+      "temperature": "180 °C statico"
     }
   ]
 }
