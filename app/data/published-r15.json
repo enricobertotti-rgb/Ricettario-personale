@@ -28916,6 +28916,550 @@
         "Tenere la pirofila sul fornello con il coperchio per 10 minuti affinché il vapore ammorbidisca la copertura. Passare in forno per circa 20 minuti, fino a ottenere una crosta dorata e croccante. Controllare anche la cottura al cuore come indicato nella nota di sicurezza. Servire ben caldo."
       ],
       "temperature": "Forno circa 200 °C"
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "5 min dichiarati; circa 2–3 min nel metodo, verificare cottura",
+      "description": "Involtini di pesce spada con ripieno di pane, basilico e limone, accompagnati da una salsa di mango e zenzero.",
+      "id": "GZ-00040",
+      "ingredients": [
+        "Pesce spada 480 g (8 fettine)",
+        "Per il ripieno: mollica di pane casereccio 100 g",
+        "Scorza grattugiata di 1 limone",
+        "Basilico q.b.",
+        "Olio extravergine di oliva 10 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Per la salsa: mango maturo 1",
+        "Zenzero fresco 30 g",
+        "Olio extravergine di oliva 10 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Per la padella: un filo di olio extravergine di oliva (dal procedimento)"
+      ],
+      "name": "Involtini di spada con salsa al mango",
+      "notes": "Consumare appena pronti o conservare in frigorifero per un giorno; la salsa si può congelare. Varianti della fonte: lamelle di mandorle, pistacchi tostati o pomodori secchi tritati nel ripieno; olio delicato o pari quantità di olio di semi nella salsa. La redazione conferma anche la possibile sostituzione con tonno (commento 4 settembre 2026). Nota di sicurezza distinta dalla ricetta: FDA Food Code 2022, §3-401.11(A)(3), cap.3 p.19, raccomanda 74 °C al centro del pesce ripieno; i tempi della fonte non attestano il raggiungimento della soglia. https://www.fda.gov/media/164194/download?lang=en . FDA raccomanda a gestanti, persone che potrebbero diventarlo, persone in allattamento e bambini di evitare pesce spada per il metilmercurio: https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-fresh-and-frozen-seafood-safely .",
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min dichiarati; circa 2–3 min nel metodo, verificare cottura",
+        "prep": "15 min",
+        "rest": null
+      },
+      "originalTitle": "Involtini di spada con salsa al mango",
+      "originalYield": "8 involtini",
+      "pdfPage": 324,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "80ce7b1a74218c0a7b00216c60b4b826f3d9c2ca526903e29cb49a367e7882c4",
+        "previousAppSha256": "80ce7b1a74218c0a7b00216c60b4b826f3d9c2ca526903e29cb49a367e7882c4",
+        "reviewedDigest": "366c8cb6a74a38e693fb30edcf709b5fc33dc7cea7d548507b445604686c92ce"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "366c8cb6a74a38e693fb30edcf709b5fc33dc7cea7d548507b445604686c92ce",
+      "serves": "8 involtini",
+      "source": "https://ricette.giallozafferano.it/Involtini-di-spada-con-salsa-al-mango.html",
+      "steps": [
+        "Sbucciare il mango e tagliare grossolanamente la polpa. Pelare e grattugiare lo zenzero; unire mango, 10 g di olio, sale e pepe in un boccale e frullare con il mixer a immersione fino a ottenere una salsa omogenea e cremosa.",
+        "Tagliare la mollica di pane fresco a cubetti; frullarla con il basilico lavato e asciugato (tenere le foglie più piccole per guarnire), la scorza del limone, 10 g di olio, sale e pepe fino a ottenere briciole fini e uniformi.",
+        "Disporre le fettine di pesce sul piano e ripartire un cucchiaio di ripieno su ciascuna, lasciando liberi i bordi. Ripiegare i lati lunghi verso l'interno e arrotolare dal basso verso l'alto.",
+        "Scaldare un filo d'olio in una padella antiaderente. Adagiare gli involtini con la chiusura verso il basso, cuocere a fiamma medio-alta circa un minuto per sigillarli, poi girarli per dorare tutti i lati. La fonte indica 2–3 minuti complessivi; verificare con termometro che il centro della preparazione ripiena raggiunga 74 °C e proseguire la cottura se necessario (nota di sicurezza distinta).",
+        "Trasferire gli involtini con pinze senza forarli, completare con salsa al mango e foglioline di basilico tenute da parte. Servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "35 min",
+      "description": "Focaccia con farine di frumento e miglio, bietole e provola.",
+      "id": "GZ-02344",
+      "ingredients": [
+        "Farina 00 100 g",
+        "Farina integrale di miglio bruno 70 g",
+        "Farina Manitoba 90 g",
+        "Acqua 150 g",
+        "Lievito di birra fresco 5 g",
+        "Malto 20 g",
+        "Sale fino 15 g",
+        "Olio extravergine di oliva 25 g",
+        "Per la farcitura: bietole 80 g",
+        "Olio extravergine di oliva q.b.",
+        "Aglio 1 spicchio",
+        "Provola affumicata 50 g",
+        "Sale Maldon q.b.",
+        "Per la salamoia: olio extravergine di oliva 25 g",
+        "Acqua 25 g"
+      ],
+      "name": "Focaccia al miglio",
+      "notes": "Si può preparare senza farcitura o insaporire con peperoncino. Contiene glutine: le farine 00 e Manitoba smentiscono la descrizione inglese; la fonte francese non presenta tale contraddizione. Non adatta ai celiaci. Non attribuito un Paese sulla sola presentazione discordante. La conservazione a temperatura ambiente non è riproposta per il ripieno deperibile. Nota di sicurezza separata: refrigerare gli alimenti deperibili entro 2 ore (1 ora sopra 32 °C) a 4 °C o meno: https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety .",
+      "origin": null,
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "25 min",
+        "rest": "Circa 2 ore e 30 min"
+      },
+      "originalTitle": "Millet focaccia",
+      "originalYield": "4 persone / stampo 24 cm",
+      "pdfPage": 160,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "69dc75933b5924859a11020e33b3e8afc55d12058f87fea0fdf3fb1936ee167c",
+        "previousAppSha256": "69dc75933b5924859a11020e33b3e8afc55d12058f87fea0fdf3fb1936ee167c",
+        "reviewedDigest": "bea95053f7c2bc5b455034d4d86612b339dd6225cb9d8145fb2876eed0a2dbe7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 2 ore e 30 min",
+      "reviewedRecordSha256": "bea95053f7c2bc5b455034d4d86612b339dd6225cb9d8145fb2876eed0a2dbe7",
+      "serves": "4 persone / stampo 24 cm",
+      "source": "https://www.giallozafferano.com/recipes/millet-focaccia.html",
+      "steps": [
+        "Sciogliere il lievito nell'acqua a temperatura ambiente. Unire le farine e il malto, aggiungere l'acqua con il lievito e impastare fino a ottenere un composto elastico; incorporare olio e sale e lavorare fino ad assorbimento.",
+        "Sul piano appena unto ripiegare i bordi verso il centro. Coprire con una ciotola per 5 minuti; ripetere le pieghe e trasferire in una ciotola oliata, coprire con pellicola e far lievitare circa 2 ore in forno spento con luce accesa.",
+        "Scaldare in padella olio e aglio, aggiungere le bietole e farle appassire. Quando l'impasto è raddoppiato trasferirlo nello stampo rotondo da 24 cm e allargarlo con le dita; disporre al centro le bietole.",
+        "Emulsionare i 25 g di acqua con i 25 g di olio e spennellare il bordo. Far lievitare altri 20 minuti e distribuire sale Maldon.",
+        "Cuocere a 210 °C in forno statico sul ripiano basso per 30 minuti; proteggere la superficie con una teglia sul ripiano superiore. Distribuire la provola affettata sottile e cuocere altri 5 minuti. Servire tiepida."
+      ],
+      "temperature": "Forno statico 210 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "45 min",
+      "description": "Secondo pasquale abruzzese di agnello stufato con uova e pecorino.",
+      "id": "GZ-01115",
+      "ingredients": [
+        "Polpa di agnello 1 kg",
+        "Uova 7 (pastorizzate, nota di sicurezza)",
+        "Pecorino abruzzese 150 g",
+        "Rosmarino 1 rametto",
+        "Timo 1 rametto",
+        "Vino bianco secco 100 ml",
+        "Olio extravergine di oliva q.b.",
+        "Sale q.b.",
+        "Pepe q.b.",
+        "Bacche di ginepro 4",
+        "Alloro 1 foglia",
+        "Cipolla dorata 1",
+        "Acqua q.b. (quanto basta a coprire la carne, nel metodo)"
+      ],
+      "name": "Agnello cacio e ova",
+      "notes": "Consumare subito o conservare in frigorifero fino a 2 giorni, secondo la fonte. Congelare eventualmente la carne senza salsa di uova. Varianti: limone, carne infarinata o aglio al posto della cipolla. Nota di sicurezza distinta dalla ricetta originale: utilizzare uova o tuorli pastorizzati perché la cottura prevista non garantisce un trattamento termico completo. FDA: https://www.fda.gov/food/retail-food-industryregulatory-assistance-training/assuring-safety-eggs-and-menu-and-deli-items-made-raw-shell-eggs . Per tagli interi di agnello FoodSafety.gov indica 63 °C e riposo di 3 minuti; non è una temperatura della ricetta originale: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures.",
+      "origin": "Italia, Abruzzo",
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Cordeiro com queijo e ovos",
+      "originalYield": "4 persone",
+      "pdfPage": 291,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "65a7f3e9cfb1f6126a5cef750b89cf70cc33710e59956eda3a1aec68e0fbdc2e",
+        "previousAppSha256": "65a7f3e9cfb1f6126a5cef750b89cf70cc33710e59956eda3a1aec68e0fbdc2e",
+        "reviewedDigest": "e8d8427c7e4f7abb5d4329c952128028d0b15c5ffbc1d49629a391ecbe772a62"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "e8d8427c7e4f7abb5d4329c952128028d0b15c5ffbc1d49629a391ecbe772a62",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com.br/receitas/cordeiro-com-queijo-e-ovos.html",
+      "steps": [
+        "Affettare sottilmente la cipolla. Scaldare l'olio in un tegame, aggiungere cipolla e bacche di ginepro e cuocere a fiamma dolce circa 5 minuti.",
+        "Tagliare l'agnello a cubetti. Alzare la fiamma, aggiungere carne, rosmarino, timo e alloro e rosolare circa 5 minuti. Salare, pepare e sfumare con il vino lasciandolo evaporare.",
+        "Aggiungere acqua fino a coprire la carne; cuocere con coperchio a fuoco medio circa 35 minuti. Togliere le erbe aromatiche e controllare la cottura.",
+        "Sbattere le uova pastorizzate con il pecorino grattugiato. Abbassare la fiamma al minimo, versare sulla carne e mescolare pochi minuti finché si rapprende appena. Servire caldo, eventualmente con un filo di olio."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Daniele Rossi",
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "30 min",
+      "description": "Focaccia con mix senza glutine, erbe aromatiche e olio al rosmarino.",
+      "id": "GZ-02379",
+      "ingredients": [
+        "Mix di farine senza glutine per pizza e focaccia 500 g",
+        "Acqua 450 g",
+        "Olio extravergine di oliva 70 g",
+        "Lievito di birra fresco senza glutine 15 g",
+        "Miele 1 cucchiaino",
+        "Rosmarino q.b.",
+        "Salvia q.b.",
+        "Timo q.b.",
+        "Maggiorana q.b.",
+        "Sale fino 25 g",
+        "Per l'olio aromatico: olio extravergine di oliva q.b.",
+        "Rosmarino q.b.",
+        "Per la superficie: olio extravergine di oliva q.b.",
+        "Acqua q.b.",
+        "Sale fino q.b.",
+        "Sale Maldon q.b."
+      ],
+      "name": "Focaccia senza glutine con erbe aromatiche",
+      "notes": "Usare ingredienti certificati senza glutine ed evitare contaminazioni. La fonte consente il congelamento della focaccia cotta e suggerisce 1–2 giorni coperta a temperatura ambiente. Nota CDC separata: refrigerare prontamente l'olio casalingo alle erbe, non lasciare in infusione a temperatura ambiente e scartare dopo 4 giorni: https://www.cdc.gov/botulism/prevention/ . Refrigerare anche la focaccia avanzata già condita con olio aromatico. Nota di sicurezza separata: refrigerare gli alimenti deperibili entro 2 ore (1 ora sopra 32 °C) a 4 °C o meno: https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety .",
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "2–2 ore e 30 min di lievitazione; infusione alcune ore o una notte"
+      },
+      "originalTitle": "Focaccia sin gluten con hierbas aromáticas",
+      "originalYield": "8 persone",
+      "pdfPage": 545,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c92f372e33eacaa7f52582f47d4d8cbc44791439ffc6d6e5f88aa1a105726d54",
+        "previousAppSha256": "c92f372e33eacaa7f52582f47d4d8cbc44791439ffc6d6e5f88aa1a105726d54",
+        "reviewedDigest": "2d7031aaf4de9a06224244ae943a614bfe021397642aaa71ed5e7334223bfaec"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2–2 ore e 30 min di lievitazione; infusione alcune ore o una notte",
+      "reviewedRecordSha256": "2d7031aaf4de9a06224244ae943a614bfe021397642aaa71ed5e7334223bfaec",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.es/recetas/focaccia-sin-gluten-con-hierbas-aromaticas.html",
+      "steps": [
+        "Scaldare l'olio con il rosmarino per l'infusione; spegnere quando inizia a sfrigolare e lasciare insaporire alcune ore o una notte, refrigerando prontamente come indicato nella nota di sicurezza.",
+        "Tritare le erbe, mescolarle con il mix di farine e il lievito sbriciolato; unire l'acqua poco alla volta mescolando energicamente. L'impasto inizialmente sbriciolato diventa compatto. Aggiungere miele, olio in più riprese e infine il sale; lavorare con un cucchiaio di legno fino a ottenere un composto cremoso e omogeneo.",
+        "Rivestire una teglia 30 × 40 cm con carta forno, inumidire con acqua e ungere. Distribuire l'impasto con mani unte, coprire con pellicola e far lievitare in forno spento con luce accesa per 2–2 ore e 30 minuti.",
+        "Distribuire olio, acqua e sale fino sulla superficie e fare piccole fossette con le dita. Cuocere in forno ventilato a 220 °C per 30 minuti fino a doratura.",
+        "Lasciare intiepidire leggermente, spennellare con l'olio aromatico conservato in frigorifero, distribuire sale Maldon, tagliare e servire."
+      ],
+      "temperature": "Forno ventilato 220 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Verdure e contorni"
+      ],
+      "category": "Verdure e contorni",
+      "cook": "15 min",
+      "description": "Asparagi lessati con salsa montata di tuorli, burro e vino.",
+      "id": "GZ-01797",
+      "ingredients": [
+        "Asparagi 600 g",
+        "Tuorli 4 (pastorizzati, nota di sicurezza)",
+        "Burro morbido 60 g",
+        "Vino bianco secco 80 ml",
+        "Sale q.b.",
+        "Pepe q.b."
+      ],
+      "name": "Asparagi allo zabaione salato",
+      "notes": "Lo zabaione salato può accompagnare altre verdure lessate, carne o pesce. Conservazione e temperatura numerica non dichiarate. Nota di sicurezza distinta dalla ricetta originale: utilizzare uova o tuorli pastorizzati perché la cottura prevista non garantisce un trattamento termico completo. FDA: https://www.fda.gov/food/retail-food-industryregulatory-assistance-training/assuring-safety-eggs-and-menu-and-deli-items-made-raw-shell-eggs .",
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "30 min",
+        "rest": null
+      },
+      "originalTitle": "Asparagi allo zabaione salato",
+      "originalYield": "4 persone",
+      "pdfPage": 355,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "debc5fd7c6b52d09503f7f201f7ca23510684bfacb81247cb1fe7173402e8e90",
+        "previousAppSha256": "debc5fd7c6b52d09503f7f201f7ca23510684bfacb81247cb1fe7173402e8e90",
+        "reviewedDigest": "4f6e9f96d0ff7b18000c212d82b75dcc65666c7021f386cd692119d304dd3867"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "4f6e9f96d0ff7b18000c212d82b75dcc65666c7021f386cd692119d304dd3867",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Asparagi-allo-zabaione-salato.html",
+      "steps": [
+        "Lavare gli asparagi, eliminare la parte bianca e dura del gambo e pelare. Legare in un mazzetto e lessare in acqua salata 10–15 minuti; devono risultare cotti ma sodi. Tenere al caldo.",
+        "Mettere i tuorli pastorizzati in un recipiente d'acciaio dal fondo spesso con un pizzico di sale e sbattere. Disporre a bagnomaria in una pentola più grande riempita per un terzo di acqua molto calda; mantenere fiamma bassa e acqua appena fremante, senza bollire.",
+        "Aggiungere il burro ammorbidito e sbattere energicamente. Quando omogeneo versare il vino a filo e continuare a montare fino al principio dell'addensamento.",
+        "Togliere dal fuoco, versare sulle punte degli asparagi, pepare e servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Davide Civitiello",
+      "categories": [
+        "Pizze e lievitati salati"
+      ],
+      "category": "Pizze e lievitati salati",
+      "cook": "60 min",
+      "description": "Lievitato salato pasquale napoletano con salumi, formaggi e uova intere in superficie.",
+      "id": "GZ-02327",
+      "ingredients": [
+        "Farina 0 1 kg",
+        "Acqua a temperatura ambiente 600 g",
+        "Strutto 200 g",
+        "Sale 25 g",
+        "Lievito di birra secco 15 g",
+        "Per il ripieno: salame napoletano 400 g",
+        "Provolone semipiccante 400 g",
+        "Cicoli 400 g",
+        "Pecorino Romano 200 g",
+        "Parmigiano Reggiano 120 g",
+        "Pepe q.b.",
+        "Per la superficie: uova intere 5",
+        "Strutto q.b. per ungere e spennellare"
+      ],
+      "name": "Casatiello napoletano",
+      "notes": "La fonte italiana chiarisce che il lievito è secco. La fonte permette di sostituire lo strutto con pari dose di burro o olio e di lievitare in forno spento con luce accesa o coperto. Si può congelare da cotto, raffreddato e affettato. La conservazione a temperatura ambiente della fonte non è riproposta per il ripieno deperibile. Nota di sicurezza separata: refrigerare gli alimenti deperibili entro 2 ore (1 ora sopra 32 °C) a 4 °C o meno: https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety . Verificare uova completamente cotte e ripieno ben caldo al centro; riferimento prudenziale per casseruole 74 °C, non temperatura interna dichiarata dalla fonte: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures.",
+      "origin": "Italia, Campania, Napoli",
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "60 min",
+        "rest": "Circa 4 ore di lievitazione"
+      },
+      "originalTitle": "Neapolitan casatiello",
+      "originalYield": "10 porzioni",
+      "pdfPage": 199,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7c3c03774cf09a241d3e4ffc0dcf2083ec4b93f3f4188adebb6694ceb64c2f08",
+        "previousAppSha256": "7c3c03774cf09a241d3e4ffc0dcf2083ec4b93f3f4188adebb6694ceb64c2f08",
+        "reviewedDigest": "d86057f6a8663d60b677f2e472c76e5a335a33eaaa488b605495975ada755f11"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 4 ore di lievitazione",
+      "reviewedRecordSha256": "d86057f6a8663d60b677f2e472c76e5a335a33eaaa488b605495975ada755f11",
+      "serves": "10 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/Neapolitan-casatiello.html",
+      "steps": [
+        "Mescolare farina e lievito; versare l'acqua gradualmente impastando a mano. Aggiungere sale e strutto al centro e ripiegare fino a incorporarli uniformemente. Formare una palla con pieghe, coprire con pellicola e lasciar lievitare circa 3 ore a temperatura ambiente fino al raddoppio.",
+        "Tagliare salame, provolone e cicoli a cubetti di circa 1 cm. Stendere su piano infarinato un rettangolo spesso 1,5 cm; rifilare a circa 50 × 70 cm e tenere i ritagli per decorare.",
+        "Distribuire il ripieno lasciando liberi circa 2 cm dal bordo; aggiungere formaggi grattugiati e pepe. Arrotolare dal lato lungo, sigillare e rifilare le estremità; inserirne una nell'altra formando una ciambella.",
+        "Sistemare in uno stampo da ciambella unto di strutto di circa 32 × 29 × 11 cm. Disporre cinque uova intere equidistanti e fermarle con strisce di pasta incrociate. Spennellare con strutto e lasciar lievitare un'altra ora.",
+        "Cuocere in forno statico a 180 °C per 50 minuti sul ripiano basso, poi a 200 °C per 10 minuti sul ripiano superiore. Lasciare intiepidire prima di sformare e servire."
+      ],
+      "temperature": "Forno statico 180 °C, poi 200 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "5 min",
+      "description": "Budino di latte, panna e vaniglia rassodato con gelatina.",
+      "id": "GZ-02554",
+      "ingredients": [
+        "Zucchero 100 g",
+        "Vaniglia 1 baccello",
+        "Latte intero 350 ml",
+        "Panna fresca 200 ml",
+        "Tuorli 4 (pastorizzati, nota di sicurezza)",
+        "Gelatina in fogli 9 g"
+      ],
+      "name": "Budino alla vaniglia",
+      "notes": "Servire eventualmente con frutta, panna montata o salsa. Temperatura numerica e durata di conservazione non dichiarate; mantenere refrigerato. Nota di sicurezza distinta dalla ricetta originale: utilizzare uova o tuorli pastorizzati perché la cottura prevista non garantisce un trattamento termico completo. FDA: https://www.fda.gov/food/retail-food-industryregulatory-assistance-training/assuring-safety-eggs-and-menu-and-deli-items-made-raw-shell-eggs .",
+      "origin": null,
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "15 min",
+        "rest": "Almeno 4 ore in frigorifero; ammollo gelatina 15 min"
+      },
+      "originalTitle": "Vanilla Pudding",
+      "originalYield": "4 persone",
+      "pdfPage": 118,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "170f049b8b45fa5de8399eb15104191fdd7042a96c83e42df171c5d47dd0fc77",
+        "previousAppSha256": "170f049b8b45fa5de8399eb15104191fdd7042a96c83e42df171c5d47dd0fc77",
+        "reviewedDigest": "397250e735a56a5f055559db4a4837a0bc9ba0471c51105507abcf5d90bca4a3"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 4 ore in frigorifero; ammollo gelatina 15 min",
+      "reviewedRecordSha256": "397250e735a56a5f055559db4a4837a0bc9ba0471c51105507abcf5d90bca4a3",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Vanilla-Pudding.html",
+      "steps": [
+        "Ammollare la gelatina in acqua fredda per 15 minuti. Aprire il baccello di vaniglia e raschiare i semi.",
+        "Scaldare lentamente latte, panna, semi e baccello fino a sfiorare il bollore. Togliere dal fuoco, filtrare e sciogliervi la gelatina strizzata.",
+        "Montare con una frusta i tuorli pastorizzati con lo zucchero; versare il composto caldo di latte e panna mescolando continuamente.",
+        "Versare in uno stampo unico oppure quattro stampini e far rassodare in frigorifero almeno 4 ore. Immergere brevemente il fondo dello stampo in acqua bollente e capovolgere sul piatto."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Lucake",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "50 min dichiarati; circa 55 min nel metodo",
+      "description": "Torta alta e soffice profumata di scorza d'arancia, ricoperta di ganache al cioccolato fondente.",
+      "id": "GZ-02626",
+      "ingredients": [
+        "Farina 00 280 g",
+        "Zucchero 280 g",
+        "Acqua 180 g",
+        "Albumi 240 g (circa 6–7 uova)",
+        "Tuorli 120 g (circa 6–7 uova)",
+        "Olio di semi di girasole 120 g",
+        "Lievito per dolci 16 g",
+        "Scorza di 1 arancia non trattata",
+        "Cremor tartaro 8 g",
+        "Sale fino 1 pizzico",
+        "Per la glassa: cioccolato fondente 55% 240 g",
+        "Panna fresca liquida 200 g",
+        "Per decorare: arancia candita q.b."
+      ],
+      "name": "Chiffon cake arancia e cioccolato",
+      "notes": "La fonte EN ha una presentazione discordante (gocce di cioccolato e glassa all'arancia), non corrispondente alla formula e al metodo EN/ES; si conserva la formula della glassa al cioccolato e la decorazione con arancia candita. Il titolo della testata indica 50 min di cottura, il metodo 55 circa e prova stecchino; mantenuti entrambi. Non ungere lo stampo, raffreddare capovolto; possibile usare estratto di vaniglia. La fonte indica campana di vetro 2–3 giorni e sconsiglia congelamento; per la copertura di panna si integra nota di sicurezza distinta: conservare coperta in frigorifero a 4 °C o meno, refrigerando entro 2 ore dalla preparazione della copertura (1 ora sopra 32 °C), non garantire conservazione a temperatura ambiente. https://www.foodsafety.gov/people-at-risk ; https://www.foodsafety.gov/keep-food-safe/4-steps-to-food-safety .",
+      "origin": null,
+      "originalTimes": {
+        "cook": "50 min dichiarati; circa 55 min nel metodo",
+        "prep": "35 min",
+        "rest": "Raffreddamento completo capovolto"
+      },
+      "originalTitle": "Chiffon cake orange and chocolate",
+      "originalYield": "8 persone",
+      "pdfPage": 341,
+      "photo": null,
+      "prep": "35 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a1494b18c1903007b69a86dfd63ce971b16ef5c180732a250d3a2433ed674547",
+        "previousAppSha256": "a1494b18c1903007b69a86dfd63ce971b16ef5c180732a250d3a2433ed674547",
+        "reviewedDigest": "07b63312124b20c5de974ef7fcfe71f7782fa62a3a7b7ec26d0a4e6ecf48ec3f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento completo capovolto",
+      "reviewedRecordSha256": "07b63312124b20c5de974ef7fcfe71f7782fa62a3a7b7ec26d0a4e6ecf48ec3f",
+      "serves": "8 persone",
+      "source": "https://www.giallozafferano.com/recipes/chiffon-cake-orange-and-chocolate.html",
+      "steps": [
+        "Setacciare farina e lievito in una ciotola ampia, unire il pizzico di sale e lo zucchero e mescolare con la frusta per distribuire le polveri.",
+        "In una seconda ciotola unire acqua a temperatura ambiente, olio, scorza grattugiata dell'arancia e tuorli. Mescolare con la frusta, versare nelle polveri e lavorare fino a eliminare i grumi.",
+        "In una ciotola pulita montare gli albumi con le fruste elettriche; quando quasi montati, setacciare il cremor tartaro e terminare di montarli. Incorporarne una prima parte nell'impasto con una spatola dal basso verso l'alto, quindi aggiungere il resto poco alla volta senza smontare.",
+        "Versare nello stampo da chiffon cake con piedini e fondo amovibile, non unto, livellando delicatamente senza batterlo. Cuocere sul ripiano più basso del forno statico preriscaldato a 160 °C per circa 55 minuti. Fare la prova dello stecchino.",
+        "Appena sfornato capovolgere lo stampo su una teglia, sfruttando i piedini, e lasciare raffreddare completamente in questa posizione. Sformare togliendo prima la base e trasferire sul piatto.",
+        "Tritare finemente il cioccolato. Scaldare la panna fino a sfiorare il bollore, versarla sul cioccolato e lavorare con la frusta fino a ottenere una glassa lucida, senza pezzi. Lasciare intiepidire affinché si addensi leggermente.",
+        "Distribuire la glassa facendo colare prima ai lati e poi sulla superficie, eventualmente con una sac à poche. Tagliare l'arancia candita a striscioline e decorare."
+      ],
+      "temperature": "Forno statico 160 °C (versione ES ufficiale)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "30 min",
+      "description": "Spaghetti alla carbonara di mare con molluschi, calamari e gamberi.",
+      "id": "GZ-00103",
+      "ingredients": [
+        "Spaghetti 320 g",
+        "Cozze 500 g da pulire",
+        "Vongole 500 g da pulire",
+        "Calamari 300 g da pulire",
+        "Gamberi 12",
+        "Uova 2 e 1 tuorlo (pastorizzati, nota di sicurezza)",
+        "Panna fresca 50 g",
+        "Aglio 2 spicchi",
+        "Prezzemolo q.b.",
+        "Olio extravergine di oliva q.b.",
+        "Sale q.b.",
+        "Pepe q.b."
+      ],
+      "name": "Carbonara di mare viareggina",
+      "notes": "La fonte consente altri frutti di mare; preferibile consumare subito. Nota di sicurezza distinta dalla ricetta originale: utilizzare uova o tuorli pastorizzati perché la cottura prevista non garantisce un trattamento termico completo. FDA: https://www.fda.gov/food/retail-food-industryregulatory-assistance-training/assuring-safety-eggs-and-menu-and-deli-items-made-raw-shell-eggs . Scartare molluschi che non si aprono; cuocere i gamberi finché opachi e i frutti di mare completamente. https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures.",
+      "origin": "Italia, Toscana, Viareggio",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "40 min",
+        "rest": null
+      },
+      "originalTitle": "Viareggio-style seafood carbonara",
+      "originalYield": "4 persone",
+      "pdfPage": 225,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7e053036f0b66e6a8f7c741f52fd57427be0929bb770d9bda815eb33d17326a3",
+        "previousAppSha256": "7e053036f0b66e6a8f7c741f52fd57427be0929bb770d9bda815eb33d17326a3",
+        "reviewedDigest": "3476b597eadff19ffb2246f7af65131a93f080a3fff2a36656f71d9fd9272feb"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "3476b597eadff19ffb2246f7af65131a93f080a3fff2a36656f71d9fd9272feb",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/viareggio-style-seafood-carbonara.html",
+      "steps": [
+        "Pulire i calamari e tagliarli ad anelli; sgusciare i gamberi e togliere il filo intestinale. Pulire cozze e vongole.",
+        "Scaldare olio e uno spicchio d'aglio in una pentola, unire cozze e vongole, coprire e cuocere a fiamma viva pochi minuti finché si aprono. Filtrare il liquido e sgusciare i molluschi, lasciandone alcuni interi per decorare. Versare quasi tutto il liquido nell'acqua per la pasta e conservarne un po'.",
+        "Scaldare l'altro aglio in olio, unire calamari e poi gamberi, cuocere 3–4 minuti, bagnare con il liquido tenuto da parte. Rimuovere l'aglio, aggiungere i molluschi, mescolare e spegnere.",
+        "Lessare gli spaghetti salando moderatamente. Sbattere le uova e il tuorlo pastorizzati con panna, sale e pepe. Scolare la pasta direttamente nella padella del pesce e saltarla brevemente con un mestolo d'acqua di cottura.",
+        "A fuoco spento incorporare il composto d'uova mescolando velocemente; completare con prezzemolo tritato, decorare con i molluschi interi e servire subito."
+      ],
+      "temperature": null
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "15 min",
+      "description": "Variante della carbonara con salmone fresco e crema di uova e pecorino.",
+      "id": "GZ-00104",
+      "ingredients": [
+        "Spaghetti 320 g",
+        "Salmone fresco 300 g",
+        "Uovo 1 medio (pastorizzato, nota di sicurezza)",
+        "Tuorli 3 medi (pastorizzati, nota di sicurezza)",
+        "Pecorino Romano DOP 60 g",
+        "Aglio 1 spicchio",
+        "Olio extravergine di oliva q.b.",
+        "Sale q.b.",
+        "Pepe q.b."
+      ],
+      "name": "Carbonara di salmone",
+      "notes": "La fonte propone anche salmone affumicato a striscioline saltate pochi secondi e parte del pecorino sostituita da Parmigiano. Per persone vulnerabili evitare pesce affumicato refrigerato non cotto completamente. Consumare subito. Nota di sicurezza distinta dalla ricetta originale: utilizzare uova o tuorli pastorizzati perché la cottura prevista non garantisce un trattamento termico completo. FDA: https://www.fda.gov/food/retail-food-industryregulatory-assistance-training/assuring-safety-eggs-and-menu-and-deli-items-made-raw-shell-eggs . Controllare la cottura al cuore del pesce, 63 °C secondo FoodSafety.gov, temperatura non dichiarata dalla fonte: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Salmon carbonara",
+      "originalYield": "4 persone",
+      "pdfPage": 226,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e08a2e87fd36d54a2dedc3b48ed39f222dae5e8cc6a89cb32f78faa838ef060a",
+        "previousAppSha256": "e08a2e87fd36d54a2dedc3b48ed39f222dae5e8cc6a89cb32f78faa838ef060a",
+        "reviewedDigest": "d7dd5116ba862cc57a088eb8419d45bbe90f334824b1273ba8da855412e04577"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "d7dd5116ba862cc57a088eb8419d45bbe90f334824b1273ba8da855412e04577",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/salmon-carbonara.html",
+      "steps": [
+        "Togliere pelle e lische al salmone e tagliarlo a cubetti di circa 3/4 di pollice, come indicato dalla fonte.",
+        "Scaldare olio e aglio in padella e saltare il salmone a fiamma viva 2–3 minuti; salare, togliere l'aglio e controllare la cottura.",
+        "Lessare gli spaghetti in acqua salata. Sbattere con una forchetta l'uovo e i tuorli pastorizzati, unire il pecorino grattugiato e pepe e amalgamare.",
+        "Trasferire la pasta al dente nella padella con il salmone e un mestolo d'acqua di cottura, saltare a fiamma media. Spegnere e versare subito la crema di uova, mescolando rapidamente; aggiungere altra acqua di cottura se necessario. Pepare e servire subito."
+      ],
+      "temperature": null
     }
   ]
 }
