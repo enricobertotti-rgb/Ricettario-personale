@@ -28175,6 +28175,216 @@
         "Spegnere il forno, lasciar riposare qualche minuto, affettare e servire con gli acini e il fondo di cottura."
       ],
       "temperature": "180 °C"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "40 min",
+      "description": "Frittata al forno con ricotta e spinaci",
+      "id": "GZ-01942",
+      "ingredients": [
+        "Uova medie 5",
+        "Spinaci puliti 500 g",
+        "Ricotta vaccina 250 g",
+        "Emmentaler 100 g",
+        "Porri 150 g",
+        "Grana Padano DOP 30 g",
+        "Olio extravergine d'oliva 3 cucchiai",
+        "Burro q.b.",
+        "Pangrattato q.b.",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Frittata al forno con ricotta e spinaci",
+      "notes": "Conservare in frigorifero in contenitore chiuso per 2–3 giorni al massimo. Si possono usare bietole o coste private dei gambi più duri. La fonte italiana conferma Grana Padano, mentre il metodo inglese cita Parmesan: mantenuta la denominazione dell'elenco ingredienti.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Baked omelette with ricotta and spinach",
+      "originalYield": "4 persone",
+      "pdfPage": 349,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "36d3e5b4ef632c926786adfede7b62b9d5c99c19a49524cb99417bec81fc8ecc",
+        "previousAppSha256": "36d3e5b4ef632c926786adfede7b62b9d5c99c19a49524cb99417bec81fc8ecc",
+        "reviewedDigest": "bde9e136fe8f5188c05a20376d8f2dab0676f1040d09e99250ee69c22070b415"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "bde9e136fe8f5188c05a20376d8f2dab0676f1040d09e99250ee69c22070b415",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/baked-omelette-with-ricotta-and-spinach.html",
+      "steps": [
+        "Lavare gli spinaci, eliminare i gambi più grossi e scolarli. Mondare il porro eliminando le foglie esterne e la parte verde scura, poi affettarlo finemente.",
+        "Scaldare i tre cucchiai d’olio in padella antiaderente e far appassire il porro; aggiungere gli spinaci, coprire e cuocere a fiamma vivace finché morbidi. Scolarli, strizzarli e tritarli.",
+        "Sbattere le uova con sale e pepe, incorporare la ricotta; aggiungere Grana Padano ed Emmentaler grattugiati e mescolare, poi unire gli spinaci.",
+        "Imburrare e cospargere di pangrattato uno stampo rotondo di 23 cm; versare il composto e livellarlo con una spatola.",
+        "Cuocere in forno statico preriscaldato a 180 °C per 30–40 minuti, oppure ventilato a 160 °C per 25 minuti. I bordi devono staccarsi e l'interno non deve essere cremoso. Servire calda o tiepida."
+      ],
+      "temperature": "180 °C statico / 160 °C ventilato"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "30 min",
+      "description": "Frittata di porri",
+      "id": "GZ-01956",
+      "ingredients": [
+        "Uova 6",
+        "Porri 400 g (da pulire)",
+        "Parmigiano Reggiano DOP 50 g",
+        "Pecorino Romano 50 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Olio, un filo (citato nel metodo; tipo e dose non specificati)",
+        "Acqua, poca (citata nel metodo)"
+      ],
+      "name": "Frittata di porri",
+      "notes": "Conservare in frigorifero per un giorno. Facoltativamente arricchire con pezzetti di caciocavallo. Olio e acqua sono indicati solo nella preparazione della fonte: le dosi restano approssimative.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "10 min",
+        "rest": null
+      },
+      "originalTitle": "Tortilla de puerros",
+      "originalYield": "4 persone",
+      "pdfPage": 460,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "57c508fd5f2256e950b8c3f4b875cfae0c794d73e2468be9bc0ac609b910d691",
+        "previousAppSha256": "57c508fd5f2256e950b8c3f4b875cfae0c794d73e2468be9bc0ac609b910d691",
+        "reviewedDigest": "814c8e4dab223932d7c47716643bbb356fd23399703567d68aefb0c41778c829"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "814c8e4dab223932d7c47716643bbb356fd23399703567d68aefb0c41778c829",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.es/recetas/tortilla-de-puerros.html",
+      "steps": [
+        "Pulire i porri eliminando radici, foglie esterne e parte verde; affettarli a rondelle di circa 2 mm.",
+        "Scaldare un filo d'olio in una padella di 28 cm, unire i porri e salare; cuocere a fuoco medio per 6 minuti, aggiungendo poca acqua a metà cottura, finché appassiti e dorati.",
+        "Sbattere le uova con sale e pepe, poi incorporare i due formaggi grattugiati.",
+        "Versare le uova sui porri nella padella calda, distribuire con una spatola, coprire e cuocere a fuoco medio per 15 minuti.",
+        "Girare la frittata aiutandosi con un piatto, abbassare la fiamma e terminare la cottura per 7 minuti. Servire."
+      ],
+      "temperature": null
+    },
+    {
+      "author": "Ezio Rocchi",
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "15 min",
+      "description": "Focaccia col formaggio (di Recco)",
+      "id": "GZ-02348",
+      "ingredients": [
+        "Farina Manitoba W 360–380 800 g",
+        "Acqua a temperatura ambiente 420 g",
+        "Sale fino 16 g",
+        "Olio extravergine d'oliva 40 g (impasto)",
+        "Crescenza 800 g",
+        "Olio extravergine d'oliva circa 20 g (teglie e finitura; la fonte usa quantità indicative)",
+        "Acqua e sale q.b. (eventuale salamoia)"
+      ],
+      "name": "Focaccia col formaggio (di Recco)",
+      "notes": "Impasto senza lievito. La fonte indica panetti di circa 300 e 350 g: sono indicativi e non una suddivisione esatta della massa totale. La versione italiana conferma teglie 30 × 40 cm, mentre la versione inglese riporta una misura discordante nel metodo. L'olio per teglie e finitura è indicativo: non è specificato un totale esatto aggiuntivo. Se l'impasto si ritira prolungare il riposo; se si strappa verificare forza della farina e idratazione. Possibile impastare a mano; preferire farina 0 alla 00 se necessario, adeguando il liquido. Conservare in frigorifero 1–2 giorni, non congelare; riscaldare prima di servire.",
+      "origin": "Italia (Recco, Liguria)",
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "20 min",
+        "rest": "1 h 30 min circa"
+      },
+      "originalTitle": "Focaccia col formaggio (Recco-style cheese focaccia)",
+      "originalYield": "8 persone / 2 teglie",
+      "pdfPage": 164,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f1a7819e5f3833336d44d4b3184e490a7f20c25893025589f1ff3c490dff1be8",
+        "previousAppSha256": "f1a7819e5f3833336d44d4b3184e490a7f20c25893025589f1ff3c490dff1be8",
+        "reviewedDigest": "24f23a4eb28f3680070348f1fcc5bdac8c68b9673aa171f395d942e0893b14c2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1 h 30 min circa",
+      "reviewedRecordSha256": "24f23a4eb28f3680070348f1fcc5bdac8c68b9673aa171f395d942e0893b14c2",
+      "serves": "8 persone / 2 teglie",
+      "source": "https://www.giallozafferano.com/recipes/focaccia-recco-cheese-focaccia.html",
+      "steps": [
+        "Impastare farina, acqua, sale e 40 g d'olio con il gancio a velocità bassa per 4–5 minuti, poi aumentare moderatamente per altri 4–5 minuti fino a ottenere una massa liscia; raccogliere l'impasto dalle pareti se necessario.",
+        "Trasferire sul piano leggermente infarinato, fare pieghe alternando i lati, coprire e lasciare riposare 20 minuti a temperatura ambiente.",
+        "Dividere in quattro panetti, due più grandi per le basi e due più piccoli per le coperture. Formare le palline, sistemarle distanziate con la chiusura sotto, coprire e mettere in frigorifero per circa un'ora; lasciare poi 10 minuti a temperatura ambiente.",
+        "Stendere un panetto grande in una sfoglia uniforme di circa 1 mm, più ampia della teglia da 30 × 40 cm; se si ritira attendere. Ungere la teglia con circa 10 g d'olio e adagiare la sfoglia lasciando i bordi sporgenti.",
+        "Distribuire metà crescenza, circa 400 g, in mucchietti distanziati, alternando file da tre e da due; aggiungere qualche goccia d'olio. Stendere il panetto piccolo in una sfoglia sottilissima, sollevarla sul dorso delle mani, coprire e sigillare.",
+        "Pizzicare la sfoglia superiore per aprire tre fori per fila. Ungere leggermente la superficie oppure usare una salamoia di acqua, un pizzico di sale e poco olio, consigliata nel forno domestico. Passare il mattarello sui bordi per eliminare l'eccesso e sigillare.",
+        "Cuocere subito in forno statico preriscaldato a 250 °C per 7–8 minuti. Ripetere con i due panetti e il formaggio rimanenti."
+      ],
+      "temperature": "250 °C statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min",
+      "description": "Bucatini con fiori di zucca, guanciale e zafferano",
+      "id": "GZ-00086",
+      "ingredients": [
+        "Bucatini 320 g",
+        "Guanciale 220 g",
+        "Fiori di zucca 20",
+        "Parmigiano Reggiano DOP 80 g",
+        "Pecorino 80 g",
+        "Latte intero 40 g",
+        "Zafferano 0,3 g (2 bustine da 0,15 g nella versione italiana; un pizzico nella versione inglese)",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Bucatini con fiori di zucca, guanciale e zafferano",
+      "notes": "Servire subito; in alternativa conservare in frigorifero per un giorno. Moderare il sale perché i formaggi sono sapidi. Resa e dose di zafferano integrate dalla versione italiana; la versione inglese omette il numero di porzioni e indica un pizzico.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "20 min",
+        "rest": null
+      },
+      "originalTitle": "Bucatini with zucchini flowers, guanciale and saffron",
+      "originalYield": "4 persone",
+      "pdfPage": 212,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f5f2879c9eb944f05cfa397d0734de9b6198aacc972cafb17b43f2e3a33cf54f",
+        "previousAppSha256": "f5f2879c9eb944f05cfa397d0734de9b6198aacc972cafb17b43f2e3a33cf54f",
+        "reviewedDigest": "ee8b0aa4263aabef8b8773489c4e477ccf7df6c465588ac8cb5f9b7e6915e0d2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": null,
+      "reviewedRecordSha256": "ee8b0aa4263aabef8b8773489c4e477ccf7df6c465588ac8cb5f9b7e6915e0d2",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Bucatini-with-zucchini-flowers-guanciale-and-saffron.html",
+      "steps": [
+        "Togliere i pistilli ai fiori; dividere quelli grandi in tre parti nel senso della lunghezza e lasciare interi quelli piccoli.",
+        "Grattugiare i formaggi e amalgamarli con latte, poco sale e pepe usando una forchetta.",
+        "Eliminare la cotenna dal guanciale, tagliarlo a fette e poi a listarelle. Rosolarlo senza altro grasso fino a renderlo dorato e croccante; prelevarlo con una schiumarola e farlo scolare su carta, lasciando il grasso in padella.",
+        "Lessare i bucatini in acqua salata per 2–3 minuti; devono essere ancora molto al dente. Sciogliere lo zafferano in acqua di cottura.",
+        "Trasferire la pasta nella padella con il grasso, unire lo zafferano e due mestoli di acqua di cottura; mescolare continuamente e aggiungere altra acqua quando necessaria fino a completare la cottura.",
+        "Spegnere il fuoco, incorporare la crema di formaggi e i fiori crudi, mescolare e servire con il guanciale croccante e pepe."
+      ],
+      "temperature": null
     }
   ]
 }
