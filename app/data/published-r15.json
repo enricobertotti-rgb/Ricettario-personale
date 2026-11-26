@@ -31220,6 +31220,53 @@
         "Completare la superficie con besciamella, zucca, sugo, mozzarella e formaggio grattugiato. Cuocere in forno statico preriscaldato a 180 °C per 40 minuti; sfornare e lasciare intiepidire brevemente prima di servire."
       ],
       "temperature": "Forno statico preriscaldato a 180 °C per 40 minuti; fuoco basso per sugo, medio per besciamella."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "Non prevista",
+      "description": "Gelato al limone preparato senza gelatiera, con panna, latte condensato e succo di limone.",
+      "id": "GZ-02740",
+      "ingredients": [
+        "Panna fresca liquida fredda 500 g",
+        "Latte condensato 400 g",
+        "Succo di limone 80 g",
+        "Scorza di limone q.b. (decorazione)",
+        "Menta q.b. (decorazione)"
+      ],
+      "name": "Gelato al limone senza gelatiera con 3 ingredienti",
+      "notes": "La versione italiana ufficiale della stessa ricetta indica conservazione in congelatore fino a due settimane. La versione inglese riporta una nota di conservazione incongruente con il procedimento; si mantiene il riferimento canonico inglese e si documenta la correzione mediante la versione italiana collegata. La redazione italiana conferma che per montare si può utilizzare una ciotola di plastica o acciaio (18/08/2026).",
+      "origin": null,
+      "originalTimes": {
+        "cook": "Non prevista",
+        "prep": "15 min",
+        "rest": "Una notte in congelatore; prima del servizio 20–30 min a temperatura ambiente oppure circa 1 ora in frigorifero."
+      },
+      "originalTitle": "Three-ingredient no-churn lemon ice cream",
+      "originalYield": "4 persone / circa 1 kg",
+      "pdfPage": 139,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "86a4fccd9b70e604cff0811e4045109dd20acff72e8249e6a7f4636d8ed02546",
+        "previousAppSha256": "86a4fccd9b70e604cff0811e4045109dd20acff72e8249e6a7f4636d8ed02546",
+        "reviewedDigest": "c0df5e27b1e7d26f5f1f669b66f5e97e3826d0d13231b5f39dd1c4e5872182bf"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Una notte in congelatore; prima del servizio 20–30 min a temperatura ambiente oppure circa 1 ora in frigorifero.",
+      "reviewedRecordSha256": "c0df5e27b1e7d26f5f1f669b66f5e97e3826d0d13231b5f39dd1c4e5872182bf",
+      "serves": "4 persone / circa 1 kg",
+      "source": "https://www.giallozafferano.com/recipes/three-ingredient-no-churn-lemon-ice-cream.html",
+      "steps": [
+        "Versare la panna fredda e il latte condensato in una ciotola. Lavorare con le fruste elettriche finché il composto è semimontato.",
+        "Incorporare il succo di limone e proseguire con le fruste fino a ottenere una massa soda e stabile.",
+        "Trasferire il composto in una pirofila, livellare la superficie e lasciare in congelatore per una notte.",
+        "Quando il gelato è congelato, lasciarlo ammorbidire 20–30 minuti a temperatura ambiente oppure circa un'ora in frigorifero; porzionare e completare con scorza di limone e menta."
+      ],
+      "temperature": "Congelamento; temperatura numerica non dichiarata."
     }
   ]
 }
