@@ -30933,6 +30933,231 @@
         "Sgocciolare su carta assorbente; attendere che si raffreddino prima di completare con zucchero a velo setacciato."
       ],
       "temperature": "150–160 °C per la frittura."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Zuppe, minestre e vellutate"
+      ],
+      "category": "Zuppe, minestre e vellutate",
+      "cook": "5 min (guarnizione)",
+      "description": "Zuppa fredda della tradizione andalusa con verdure crude e pane.",
+      "id": "GZ-01000",
+      "ingredients": [
+        "Pane raffermo 70 g (base)",
+        "Pomodori perini 1 kg",
+        "Peperone verde 100 g",
+        "Peperone rosso 100 g",
+        "Cetrioli 100 g",
+        "Aglio 1 spicchio",
+        "Acqua fredda 400 g (150 g + 250 g)",
+        "Olio extravergine di oliva 50 g",
+        "Aceto di vino bianco 30 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Guarnizione: cipolla rossa 50 g",
+        "Guarnizione: cetrioli 40 g",
+        "Guarnizione: pomodori perini 40 g",
+        "Guarnizione: pane 40 g",
+        "Guarnizione: olio extravergine di oliva q.b.",
+        "Guarnizione: pepe nero q.b."
+      ],
+      "name": "Gazpacho andaluso",
+      "notes": "La fonte indica 2 giorni di conservazione in frigorifero in recipiente ermetico. Possibili aceto di riso e crostini tostati a secco o con olio, aglio e peperoncino. Redazione 07/07/2026: possibile pelare i peperoni crudi. Ripartizione acqua 150/250 g esplicitata nella fonte IT; EN 5,3/8,8 oz. Autore individuale non dichiarato.",
+      "origin": "Spagna — Andalusia",
+      "originalTimes": {
+        "cook": "5 min (guarnizione)",
+        "prep": "40 min",
+        "rest": "Almeno 2 ore in frigorifero."
+      },
+      "originalTitle": "Andalusian Gazpacho",
+      "originalYield": "4 persone",
+      "pdfPage": 373,
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "2368e0f21d436587ac6783f6307e8670d834d6337ad67554d17d3bc02543defa",
+        "previousAppSha256": "2368e0f21d436587ac6783f6307e8670d834d6337ad67554d17d3bc02543defa",
+        "reviewedDigest": "ba5ca1ae46e7376d53a3cf76207d407127c6b210700f534b67dc8bff6198d627"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 2 ore in frigorifero.",
+      "reviewedRecordSha256": "ba5ca1ae46e7376d53a3cf76207d407127c6b210700f534b67dc8bff6198d627",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Andalusian-Gazpacho.html",
+      "steps": [
+        "Spezzettare il pane raffermo e ammorbidirlo per qualche minuto in 150 g dell'acqua fredda. Lavare e tagliare i pomodori, affettare il cetriolo senza sbucciarlo e mondare e tagliare i peperoni.",
+        "Trasferire gli ortaggi nel mixer con lo spicchio d'aglio e il pane strizzato. Unire i rimanenti 250 g d'acqua e l'olio; aggiungere da ultimo aceto, sale e pepe, quindi frullare per circa 30 secondi, fino a ottenere un composto uniforme.",
+        "Passare al colino fine aiutandosi con una spatola per ricavare una crema liscia. Coprire e refrigerare per almeno 2 ore.",
+        "Per guarnire, tagliare a piccoli dadini cipolla, cetriolo e pomodoro. Ridurre il pane in cubetti e tostarli in padella.",
+        "Versare la zuppa fredda nelle ciotole e completare con le verdure, i crostini, un filo d'olio e pepe."
+      ],
+      "temperature": "Servire freddo; nessuna temperatura numerica dichiarata."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Zuppe, minestre e vellutate"
+      ],
+      "category": "Zuppe, minestre e vellutate",
+      "cook": "40 min",
+      "description": "Crema di broccoli, patate e porro con crostini e timo.",
+      "id": "GZ-01046",
+      "ingredients": [
+        "Broccoli 450 g",
+        "Porro 1",
+        "Patate 400 g",
+        "Burro 30 g",
+        "Brodo vegetale 700 ml",
+        "Timo 2 rametti",
+        "Sale fino q.b.",
+        "Pepe bianco q.b.",
+        "Pane 2 fette (guarnizione)",
+        "Olio extravergine di oliva q.b. (crostini e servizio)"
+      ],
+      "name": "Vellutata di broccoli",
+      "notes": "La fonte propone anche capesante, gamberi o vongole e, a piacere, due cucchiai di panna a fine cottura. Redazione 26/01/2026: possibile formaggio cremoso. Conservazione non dichiarata; autore individuale e origine geografica non dichiarati.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "15 min",
+        "rest": "Non dichiarato; nessun riposo previsto nel metodo."
+      },
+      "originalTitle": "Vellutata di broccoli",
+      "originalYield": "4 persone",
+      "pdfPage": 276,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c78c3c8a1c8dcf978544fa507e91e1d68a8634d25d2a1199d19f4f74f52d288f",
+        "previousAppSha256": "c78c3c8a1c8dcf978544fa507e91e1d68a8634d25d2a1199d19f4f74f52d288f",
+        "reviewedDigest": "9398fb52739d2866c1078a1bd1dc18aed4bcb0dd647be54c17acfe388315f650"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato; nessun riposo previsto nel metodo.",
+      "reviewedRecordSha256": "9398fb52739d2866c1078a1bd1dc18aed4bcb0dd647be54c17acfe388315f650",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Vellutata-di-broccoli.html",
+      "steps": [
+        "Pulire e affettare sottilmente il porro. Pelare e tagliare a dadini le patate; lavare i broccoli, eliminare i gambi e separare le cimette.",
+        "Sciogliere il burro in una pentola capiente e ammorbidire il porro a fuoco basso per 10–15 minuti, senza farlo colorire.",
+        "Aggiungere patate e broccoli, mescolando per qualche minuto. Versare il brodo caldo, salare e pepare; cuocere dolcemente per circa 30 minuti.",
+        "Riservare qualche cimetta per la decorazione; frullare il resto con un frullatore a immersione. Rimettere sul fuoco, regolare di sale e unire le foglioline di timo.",
+        "Eliminare la crosta del pane, tagliarlo a cubetti e tostarli in padella antiaderente con poco olio. Servire con crostini, cimette e un filo d'olio a crudo."
+      ],
+      "temperature": "Fuoco basso per il porro, cottura dolce nel brodo; nessuna temperatura numerica dichiarata."
+    },
+    {
+      "author": "Cooker Girl",
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "20 min",
+      "description": "Polpette di ceci e spezie della tradizione mediorientale.",
+      "id": "GZ-00033",
+      "ingredients": [
+        "Ceci secchi 500 g",
+        "Cipolla piccola 1",
+        "Aglio 1 spicchio",
+        "Prezzemolo 1 mazzetto",
+        "Cumino in polvere 1 pizzico",
+        "Sale fino 1 pizzico",
+        "Pepe nero 1 pizzico",
+        "Olio di semi di arachide 1 l (frittura)"
+      ],
+      "name": "Felafel (Falafel)",
+      "notes": "La fonte consiglia di consumarli appena fritti; indica conservazione dell'impasto crudo coperto in frigorifero per 4–5 giorni o congelamento per circa un mese. Possibili coriandolo al posto del prezzemolo, curcuma o peperoncino; per attenuare la cipolla la fonte suggerisce ammollo 30 min. Ceci precotti e farina di ceci non equivalgono ai ceci secchi ammollati. Accompagnamenti suggeriti: hummus, yogurt e pita. La versione al forno è distinta.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": "Almeno 12 ore di ammollo; almeno 1 ora in frigorifero."
+      },
+      "originalTitle": "Felafel (Falafel)",
+      "originalYield": "50 pezzi",
+      "pdfPage": 42,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a3f2334a95f9aff1aca2bb3ccbdbb10e4cbfebce3c52af24c8676ee47587f497",
+        "previousAppSha256": "a3f2334a95f9aff1aca2bb3ccbdbb10e4cbfebce3c52af24c8676ee47587f497",
+        "reviewedDigest": "57a2609a0327c799e1215dd9e72927cf780dd11644e672b7bc219838788dcaae"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 12 ore di ammollo; almeno 1 ora in frigorifero.",
+      "reviewedRecordSha256": "57a2609a0327c799e1215dd9e72927cf780dd11644e672b7bc219838788dcaae",
+      "serves": "50 pezzi",
+      "source": "https://ricette.giallozafferano.it/Felafel-Falafel.html",
+      "steps": [
+        "Ammollare i ceci secchi in acqua fredda per almeno 12 ore. Scolarli, risciacquarli e asciugarli accuratamente con un canovaccio; se occorre, completare l'asciugatura per 10 minuti in forno ventilato a 100 °C. Non lessarli.",
+        "Tritare nel mixer i ceci crudi ammollati con la cipolla tagliata grossolanamente, l'aglio schiacciato, sale, pepe e cumino.",
+        "Tritare il prezzemolo a parte per non inumidire troppo il composto; unirlo e lavorare ancora brevemente. Compattare in una pirofila con il dorso di un cucchiaio, coprire a contatto e refrigerare almeno un'ora.",
+        "Formare circa 50 polpette schiacciate e ben pressate, a mano oppure con lo stampo apposito; disporle su carta da forno.",
+        "Portare l'olio a 170 °C e friggere pochi felafel per volta fino a doratura. Prelevarli con una schiumarola, farli sgocciolare su carta assorbente e servirli caldi."
+      ],
+      "temperature": "170 °C per la frittura; 100 °C ventilato per eventuale asciugatura."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "15 min",
+      "description": "Cous cous con verdure saltate, curcuma, zenzero e menta, nella versione mediterranea della fonte inglese.",
+      "id": "GZ-00119",
+      "ingredients": [
+        "Cous cous precotto 160 g",
+        "Acqua calda 320 g",
+        "Olio extravergine di oliva 10 g (cous cous)",
+        "Curcuma 1 cucchiaino",
+        "Sale fino 1 pizzico (cous cous)",
+        "Carote 180 g",
+        "Melanzane 180 g",
+        "Pomodorini 100 g",
+        "Olio extravergine di oliva 20 g (verdure)",
+        "Peperoncino fresco 1",
+        "Cipollotti 100 g",
+        "Aglio 1 spicchio",
+        "Zucchine 180 g",
+        "Taccole 100 g",
+        "Zenzero fresco 10 g",
+        "Sale fino q.b. (verdure)",
+        "Pepe q.b. (nel metodo, dose non dichiarata)",
+        "Menta alcune foglie"
+      ],
+      "name": "Cous cous alle verdure",
+      "notes": "La fonte indica conservazione in frigorifero in recipiente chiuso per 3 giorni e sconsiglia il congelamento. Possibili pinoli o arachidi tostati, verdure stagionali e harissa. La fonte collega la tradizione del cous cous al Nord Africa, senza attribuire un Paese preciso a questa versione. Autore individuale non dichiarato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "25 min",
+        "rest": "Circa 2 min di reidratazione."
+      },
+      "originalTitle": "Vegetable couscous",
+      "originalYield": "4 persone",
+      "pdfPage": 171,
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b2281e0061ba7b10d601b7a13c0e830e2782c7414fef86249bb900cda3d15ded",
+        "previousAppSha256": "b2281e0061ba7b10d601b7a13c0e830e2782c7414fef86249bb900cda3d15ded",
+        "reviewedDigest": "5a922d45a5d88afe8236a8798cb84c095265be234137e391a1b7e7b20529d3a8"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 2 min di reidratazione.",
+      "reviewedRecordSha256": "5a922d45a5d88afe8236a8798cb84c095265be234137e391a1b7e7b20529d3a8",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Vegetable-couscous.html",
+      "steps": [
+        "Privare il peperoncino dei semi e affettarlo. Mondare le verdure e tritare i cipollotti. Ridurre la melanzana a cubetti, carote e zucchine a bastoncini, taccole a pezzi obliqui e pomodorini a metà nel senso della lunghezza.",
+        "In un wok scaldare i 20 g d'olio con peperoncino e aglio intero sbucciato. Saltare la melanzana, poi i cipollotti, senza aggiungere altro olio.",
+        "Aggiungere le carote; dopo qualche minuto unire taccole e zucchine. Salare, pepare e saltare a fiamma vivace ancora qualche minuto. Eliminare l'aglio, aggiungere i pomodorini per 1–2 minuti, spegnere e amalgamare lo zenzero grattugiato.",
+        "Riunire in una ciotola cous cous, pizzico di sale, curcuma e 10 g di olio. Mescolare, versare l'acqua calda e coprire per circa 2 minuti.",
+        "Trasferire il cous cous su un vassoio e sgranarlo con una forchetta. Disporre al centro le verdure e completare con foglie di menta; servire caldo o freddo."
+      ],
+      "temperature": "Cottura delle verdure a fiamma vivace; nessuna temperatura numerica dichiarata."
     }
   ]
 }
