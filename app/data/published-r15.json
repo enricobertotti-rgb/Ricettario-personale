@@ -32336,6 +32336,96 @@
         "Riempire i cilindri fino al bordo, cuocere a 180 °C statico per circa 20 minuti fino a doratura; lasciare intiepidire, sfilare conservando le cartine."
       ],
       "temperature": "180 °C statico, ripiano centrale"
+    },
+    {
+      "author": "Sal De Riso",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "45–50 min (50 min nel riepilogo)",
+      "description": "Torta da credenza con burro montato, fecola e agrumi.",
+      "id": "SRC-ff631588b917f1b6",
+      "ingredients": [
+        "Burro morbido 170 g",
+        "Zucchero a velo 170 g",
+        "Farina 00 100 g",
+        "Fecola di patate 70 g",
+        "Uova intere 100 g",
+        "Tuorli 80 g",
+        "Zucchero semolato 40 g",
+        "Sale fino 2,5 g",
+        "Lievito per dolci 3 g",
+        "Mezzo baccello vaniglia Bourbon",
+        "Scorza di mezzo limone e mezza arancia",
+        "Zucchero a velo q.b. per finitura; burro e farina q.b. per stampo (citati nel metodo)"
+      ],
+      "name": "Torta paradiso di Sal De Riso",
+      "notes": "Lavorare gli ingredienti alla stessa temperatura. Il metodo indica circa 4 tuorli per 80 g e 2 uova per 100 g: pesare, come raccomandato dalla redazione il 17/04/2020, senza usare il conteggio indicativo come conversione fissa. La fonte propone congelamento senza zucchero a velo, un paio di giorni sotto campana e varianti con olio (metà dose burro, emulsionato nei tuorli), farina di riso al posto della 00, o circa 250 g di farcitura: non sono formule autonomamente certificate e non si garantisce la conservazione di eventuali creme.",
+      "origin": "Italia, Lombardia, Pavia (tradizione documentata dalla fonte)",
+      "originalTimes": {
+        "cook": "45–50 min (50 min nel riepilogo)",
+        "prep": "25 min",
+        "rest": "20 min prima di sformare; circa 1 ora di raffreddamento"
+      },
+      "originalTitle": "Torta paradiso",
+      "originalYield": "8 persone; stampo 24 cm",
+      "photo": null,
+      "prep": "25 min",
+      "rest": "20 min prima di sformare; circa 1 ora di raffreddamento",
+      "reviewedRecordSha256": "7d05f271bcadf3abf978e055e0f75138f359b551e744dc679d3895e65e4ea366",
+      "serves": "8 persone; stampo 24 cm",
+      "source": "https://ricette.giallozafferano.it/Torta-paradiso.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Setacciare insieme farina, fecola e lievito. Montare il burro con vaniglia, scorze e zucchero a velo; quando soffice unire i tuorli, poi sale, continuando a montare.",
+        "Montare separatamente uova intere e zucchero semolato fino a massa chiara e spumosa. Incorporare alla montata di burro alternando con le polveri, terminando con queste ultime.",
+        "Versare nello stampo imburrato e infarinato, livellare; cuocere 45–50 min a 170 °C statico. Se scurisce troppo coprire dopo 30 min; controllare con stecchino.",
+        "Attendere 20 min, sformare capovolgendo delicatamente, far raffreddare circa 1 ora e spolverare con zucchero a velo."
+      ],
+      "temperature": "Forno statico 170 °C"
+    },
+    {
+      "author": "Amore di Torta (autore individuale non indicato)",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 15 min",
+      "description": "Biscotti lagunari ad anello, ricchi di tuorli.",
+      "id": "SRC-736161f65946c6ee",
+      "ingredients": [
+        "4 tuorli",
+        "160 g zucchero",
+        "130 g burro",
+        "2 pizzichi di sale",
+        "Scorza di 1 limone bio",
+        "Mezzo baccello di vaniglia",
+        "330 g farina (tipo non specificato)"
+      ],
+      "name": "Bussolai buranelli alla vaniglia e limone",
+      "notes": "La fonte descrive anche la tradizione della forma a S; il procedimento qui verificato è ad anello. Tipo di farina e modalità del forno non specificati. Suggerita la variante con gocce di cioccolato, senza dose dichiarata. Conservazione indicata genericamente in contenitore ermetico per giorni, senza durata precisa.",
+      "origin": "Italia, Veneto, Burano",
+      "originalTimes": {
+        "cook": "Circa 15 min",
+        "prep": "35 min",
+        "rest": "3 ore in frigorifero oppure una notte"
+      },
+      "originalTitle": "Bussolai | Buranelli",
+      "originalYield": "8 persone; pezzi di circa 50 g crudi",
+      "photo": null,
+      "prep": "35 min",
+      "rest": "3 ore in frigorifero oppure una notte",
+      "reviewedRecordSha256": "e1aa16abb82fb69549289d04031e613c9f262389a9afec2e43eff161d5d65268",
+      "serves": "8 persone; pezzi di circa 50 g crudi",
+      "source": "https://www.amoreditorta.it/bussolai/",
+      "sourceLabel": "Amore di Torta",
+      "steps": [
+        "Lavorare i tuorli con lo zucchero; incorporare burro morbido, sale, scorza e semi di vaniglia.",
+        "Unire la farina, compattare il panetto, avvolgerlo e refrigerarlo per 3 ore o fino al giorno seguente.",
+        "Dividere in porzioni di circa 50 g, arrotolarle a cilindro e chiuderle ad anello. Disporre su carta da forno e cuocere a 170 °C circa 15 minuti."
+      ],
+      "temperature": "170 °C; modalità forno non dichiarata"
     }
   ]
 }
