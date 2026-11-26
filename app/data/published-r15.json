@@ -31267,6 +31267,289 @@
         "Quando il gelato è congelato, lasciarlo ammorbidire 20–30 minuti a temperatura ambiente oppure circa un'ora in frigorifero; porzionare e completare con scorza di limone e menta."
       ],
       "temperature": "Congelamento; temperatura numerica non dichiarata."
+    },
+    {
+      "author": "Iginio Massari",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "8 min",
+      "description": "Crema alla vaniglia e limone con amido di riso e raffreddamento rapido.",
+      "id": "SRC-3c8c29f61262ae97",
+      "ingredients": [
+        "500 g latte intero",
+        "130 g zucchero",
+        "125 g tuorli (circa 7)",
+        "40 g amido di riso",
+        "2 baccelli vaniglia",
+        "Scorza di mezzo limone"
+      ],
+      "name": "Crema pasticcera di Iginio Massari all’amido di riso",
+      "notes": "La fonte propone conservazione refrigerata 2–3 giorni, congelamento fino a un mese e amido di mais alla stessa dose per una consistenza più soda. La dose è indicata anche per due strati di farcitura di una torta da 22 cm. Non lasciare tuorli e zucchero a contatto senza mescolarli. I 50 °C riguardano il raffreddamento, non la cottura.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "8 min",
+        "prep": "15 min",
+        "rest": "Raffreddamento rapido fino a 50 °C; refrigerazione se non utilizzata subito"
+      },
+      "originalTitle": "Crema pasticcera",
+      "originalYield": "Circa 750 g",
+      "photo": null,
+      "prep": "15 min",
+      "rest": "Raffreddamento rapido fino a 50 °C; refrigerazione se non utilizzata subito",
+      "reviewedRecordSha256": "dc178ff0d301bba79dd6c4254cb304b29b00e66e2bd885ce173c4b9d578b8b25",
+      "serves": "Circa 750 g",
+      "source": "https://ricette.giallozafferano.it/Crema-pasticcera.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Mettere una ciotola di vetro in congelatore. Incidere i baccelli, separare i semi e tagliare i baccelli a pezzi.",
+        "Scaldare dolcemente il latte con semi, baccelli di vaniglia e parte gialla della scorza di limone, mescolando di tanto in tanto.",
+        "In un altro recipiente amalgamare immediatamente tuorli, zucchero e amido di riso con la frusta fino a eliminare i grumi.",
+        "Appena il latte sta per bollire, filtrarlo e aggiungerlo in tre riprese alla miscela di tuorli, mescolando ogni volta.",
+        "Trasferire sul fuoco basso e lavorare continuamente con la frusta fino ad avere una crema liscia, lucida e addensata.",
+        "Versarla nella ciotola fredda e mescolare energicamente fino a 50 °C. Utilizzare oppure proteggere con pellicola a contatto e raffreddare in frigorifero."
+      ],
+      "temperature": "Latte prossimo all'ebollizione; raffreddamento mescolando fino a 50 °C"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "10–15 min statico oppure 5–10 min ventilato",
+      "description": "Impasto montato al burro, modellabile con sac-à-poche.",
+      "id": "SRC-c666b16e34b7f6e4",
+      "ingredients": [
+        "250 g burro morbido",
+        "375 g farina 00",
+        "150 g zucchero a velo",
+        "2 uova medie a temperatura ambiente",
+        "1 tuorlo a temperatura ambiente",
+        "1 pizzico sale fino",
+        "Scorza di 1 limone non trattato",
+        "Ciliegie candite q.b. (guarnizione)",
+        "Mandorle pelate q.b. (guarnizione)",
+        "Zucchero a velo q.b. (guarnizione)"
+      ],
+      "name": "Pasta frolla montata al limone",
+      "notes": "Resa circa 40 biscotti, secondo chiarimento della redazione del 19/11/2026, variabile con le dimensioni. Varianti di aroma: vaniglia o arancia; per decorare anche noci o nocciole. Conservare i biscotti in scatola per 2–3 giorni. L'impasto crudo può essere congelato per un mese, scongelato in frigorifero e lavorato di nuovo con le fruste; possibile usare una sparabiscotti.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "10–15 min statico oppure 5–10 min ventilato",
+        "prep": "20 min (montatura circa 10 min)",
+        "rest": "Almeno 1 ora in frigorifero; raffreddamento su gratella"
+      },
+      "originalTitle": "Pasta frolla montata",
+      "originalYield": "Circa 40 biscotti secondo risposta redazionale, dipende dalle dimensioni",
+      "photo": null,
+      "prep": "20 min (montatura circa 10 min)",
+      "rest": "Almeno 1 ora in frigorifero; raffreddamento su gratella",
+      "reviewedRecordSha256": "c3681968d3d267435071b28760aeee97c341335fd8659f8847f67cab250e4686",
+      "serves": "Circa 40 biscotti secondo risposta redazionale, dipende dalle dimensioni",
+      "source": "https://ricette.giallozafferano.it/Pasta-frolla-montata.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Montare burro, zucchero a velo setacciato e scorza di limone per circa 10 minuti, fino a una massa aerata.",
+        "Unire singolarmente le due uova e il tuorlo, attendendo ogni volta l'assorbimento; raccogliere l'impasto dai bordi della ciotola.",
+        "Aggiungere sale e farina setacciata, amalgamando con spatola.",
+        "Formare i biscotti con bocchetta a stella su carta forno; decorare a piacere con mandorle o ciliegie.",
+        "Refrigerare almeno un'ora; cuocere secondo modalità e tempi indicati, fermandosi a una leggera doratura.",
+        "Far raffreddare sulla gratella; eventuale zucchero a velo finale."
+      ],
+      "temperature": "180 °C statico / 160 °C ventilato"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Biscotti circa 20 min; crostate 40–60 min; guscio alla cieca 20 + 10 min",
+      "description": "Frolla universale per crostate e biscotti; la fonte propone due lavorazioni alternative con identiche dosi.",
+      "id": "SRC-af44e677834406f6",
+      "ingredients": [
+        "500 g farina 00",
+        "250 g burro",
+        "150 g zucchero a velo",
+        "110 g uova (circa 2 medie)"
+      ],
+      "name": "Pasta frolla classica e sabbiata — due tecniche, stessa formula",
+      "notes": "I due procedimenti sono alternativi e completi, non vanno eseguiti in successione. Metodo classico: ingredienti a temperatura ambiente e mani fredde. Metodo sabbiato: ingredienti freddi di frigorifero. Resa circa 1 kg, crostata da 22 cm, guscio da 24 cm o circa 30 biscotti. Conservazione in frigorifero 3–4 giorni o congelamento fino a un mese.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "Biscotti circa 20 min; crostate 40–60 min; guscio alla cieca 20 + 10 min",
+        "prep": "20 min",
+        "rest": "Almeno 1 ora in frigorifero"
+      },
+      "originalTitle": "Pasta frolla",
+      "originalYield": "Circa 1 kg; crostata 22 cm oppure circa 30 biscotti",
+      "photo": null,
+      "prep": "20 min",
+      "rest": "Almeno 1 ora in frigorifero",
+      "reviewedRecordSha256": "6a31be18f7a076ff21e57c059f97741ac790fb165b8e0074ad121371646f9474",
+      "serves": "Circa 1 kg; crostata 22 cm oppure circa 30 biscotti",
+      "source": "https://ricette.giallozafferano.it/Pasta-frolla.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Metodo classico: ammorbidire il burro fino a consistenza plastica; mescolarlo a cubetti con lo zucchero a velo fino a ottenere una crema.",
+        "Incorporare le uova, quindi tutta la farina; appena assorbita, compattare rapidamente sul piano senza riscaldare la massa.",
+        "Avvolgere o appiattire fra carta forno e refrigerare almeno un'ora.",
+        "Metodo sabbiato alternativo (stesse dosi, non in successione): lavorare farina e burro freddo a cubetti con le dita fino a consistenza granulosa.",
+        "Unire le uova, poi lo zucchero a velo; impastare brevemente fino a formare un panetto.",
+        "Proteggere e refrigerare per almeno un'ora; stendere o ritagliare secondo destinazione."
+      ],
+      "temperature": "Indicazione generale 170 °C; tempo variabile"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Circa 50 min",
+      "description": "Base senza lievito chimico, ottenuta da uova montate e polveri leggere.",
+      "id": "SRC-82f0a699ce7b4083",
+      "ingredients": [
+        "5 uova medie a temperatura ambiente",
+        "150 g zucchero",
+        "75 g farina 00 per dolci",
+        "75 g fecola di patate",
+        "1 baccello vaniglia",
+        "1 pizzico sale fino",
+        "Burro q.b. per stampo",
+        "Farina 00 q.b. per stampo"
+      ],
+      "name": "Pan di Spagna classico a montata unica",
+      "notes": "Nessun lievito chimico. Conservare ben avvolto fino a 2 giorni a temperatura ambiente oppure congelare fino a un mese. La fonte indica anche uno stampo quadrato da 17 × 17 cm; per variazioni della misura dello stampo consultare le indicazioni della fonte.",
+      "origin": "Italia; la fonte riporta la tradizione della pasta genovese attribuita a Giobatta Cabona nel XVIII secolo.",
+      "originalTimes": {
+        "cook": "Circa 50 min",
+        "prep": "Montata 15–20 min",
+        "rest": "Intiepidimento e raffreddamento completo"
+      },
+      "originalTitle": "Pan di Spagna",
+      "originalYield": "Stampo tondo 24 cm",
+      "photo": null,
+      "prep": "Montata 15–20 min",
+      "rest": "Intiepidimento e raffreddamento completo",
+      "reviewedRecordSha256": "7c16ae02b9b49a79cf08a0a7a924545494d3740281c9c88b812be880c25d593e",
+      "serves": "Stampo tondo 24 cm",
+      "source": "https://ricette.giallozafferano.it/Pan-di-Spagna.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Montare le uova con semi di vaniglia e sale a velocità medio-alta, aggiungendo lo zucchero gradualmente.",
+        "Continuare 15–20 minuti finché il composto è chiaro e gonfio; una traccia versata sulla massa deve restare visibile.",
+        "Imburrare e infarinare lo stampo; setacciare farina e fecola sulla montata e incorporare delicatamente dal basso.",
+        "Versare e livellare senza battere lo stampo sul piano.",
+        "Cuocere sul ripiano basso a 160 °C per circa 50 min, senza aprire durante la cottura; controllare con stecchino asciutto.",
+        "Lasciare intiepidire capovolto nello stampo su carta forno, sformare e raffreddare completamente."
+      ],
+      "temperature": "160 °C statico, ripiano basso"
+    },
+    {
+      "author": "Paolo Sacchetti",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "9 min per teglia",
+      "description": "Biscotti leggeri a due montate, adatti anche a tiramisù e dessert.",
+      "id": "SRC-0fdfbbf4fa71a6cf",
+      "ingredients": [
+        "125 g tuorli a temperatura ambiente",
+        "185 g zucchero (100 g per tuorli, restante 85 g per albumi)",
+        "190 g albumi a temperatura ambiente",
+        "150 g farina 00 W inferiore a 200",
+        "65 g fecola di patate",
+        "50 g zucchero a velo per finitura",
+        "5 g amido di mais per finitura"
+      ],
+      "name": "Savoiardi di Paolo Sacchetti",
+      "notes": "Conservare in scatola di latta per 1–2 settimane. La fonte descrive anche la variante al cacao: non è compresa nell'approvazione della formula classica, poiché una dose di zucchero della variante è priva di unità esplicita. Conservare il riferimento. Lo sfiato del forno va effettuato solo secondo le istruzioni e le modalità consentite dal produttore; non forzare lo sportello.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "9 min per teglia",
+        "prep": "30 min",
+        "rest": "Raffreddamento completo"
+      },
+      "originalTitle": "Savoiardi",
+      "originalYield": "Circa 60 pezzi",
+      "photo": null,
+      "prep": "30 min",
+      "rest": "Raffreddamento completo",
+      "reviewedRecordSha256": "25d9be62155f5ed7a4159cea346e7c6ffbdc0c0528a2981d799616625e089ea8",
+      "serves": "Circa 60 pezzi",
+      "source": "https://ricette.giallozafferano.it/Savoiardi.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Montare i tuorli con 100 g di zucchero ad alta velocità fino a circa quattro volte il volume iniziale; la massa non deve colare dalla spatola.",
+        "Montare separatamente gli albumi a bassa velocità; quando quasi triplicati, aggiungere gradualmente lo zucchero residuo, poi accelerare fino a una meringa lucida con punta ricurva.",
+        "Setacciare due volte farina e fecola.",
+        "Incorporare ai tuorli un terzo degli albumi montati e un terzo delle polveri setacciate, ripetendo le aggiunte alternate prima che ciascuna sia completamente assorbita; lavorare con delicatezza per conservare l'aria.",
+        "Con bocchetta liscia da 13 mm dressare bastoncini di 5–6 cm distanziati su carta forno; coprire con zucchero a velo mescolato all'amido di mais. Utilizzare il composto senza attese.",
+        "Cuocere 9 min a 230 °C sul ripiano alto, con lo sfiato previsto dalla fonte; lasciare raffreddare."
+      ],
+      "temperature": "230 °C statico, ripiano alto"
+    },
+    {
+      "author": "Stefano Ferraro",
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "25 min dichiarati; 20 min nel procedimento",
+      "description": "Dodici soffici girelle dolci alla cannella, con impasto lievitato lentamente con licoli e una piccola quantità di lievito di birra, farcitura al burro e zucchero di canna e glassa cremosa.",
+      "id": "SRC-HIST-159b173eab55cbeb",
+      "ingredients": [
+        "Impasto: 233 g farina forte W300",
+        "166 g farina 00",
+        "150 g latte intero a temperatura ambiente",
+        "100 g acqua",
+        "70 g burro morbido",
+        "60 g zucchero demerara",
+        "20 g lievito madre liquido rinfrescato 2–3 ore prima",
+        "1 g lievito di birra fresco",
+        "5 g cannella in polvere",
+        "4 g sale fino",
+        "Farcitura: 225 g burro morbido",
+        "225 g zucchero demerara",
+        "10 g cannella in polvere",
+        "Glassa: 60 g panna fresca liquida",
+        "1/3 della farcitura, tenuto da parte",
+        "Olio di semi q.b. per ungere la ciotola",
+        "Farina q.b. per il piano"
+      ],
+      "name": "Girelle alla cannella con lievito madre liquido",
+      "notes": "L'edizione italiana e il video ufficiale del 2021 documentano le quantità 233/166 g; l'edizione EN e il PDF storico riportano 235/165 g e misure/temperature anglosassoni. Si adotta la formula metrica italiana mantenendo originale e URL canonico. Variante documentata IT: uguale peso di lievito madre solido ed eventualmente un cucchiaino d'acqua. La fonte indica anche congelamento delle girelle raffreddate, preferibilmente non glassate, oppure dopo la lievitazione prima della cottura; in quest'ultimo caso riportarle a temperatura ambiente. La fonte dichiara due giorni a temperatura ambiente, ma per la glassa con panna si applica una precauzione distinta: refrigerare entro 2 ore (1 ora sopra 32 °C) a non oltre 4 °C; non attestata la conservabilità di due giorni a temperatura ambiente della glassa.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "25 min dichiarati; 20 min nel procedimento",
+        "prep": "70 min dichiarati",
+        "rest": "16–17 ore dichiarate; sequenza: 30 min, 1 ora, 10–12 ore in frigorifero, 1 ora in frigorifero, 2 ore a temperatura ambiente"
+      },
+      "originalTitle": "Cinnamon rolls with liquid sourdough starter",
+      "originalYield": "12 girelle",
+      "photo": null,
+      "prep": "70 min dichiarati",
+      "rest": "16–17 ore dichiarate; sequenza: 30 min, 1 ora, 10–12 ore in frigorifero, 1 ora in frigorifero, 2 ore a temperatura ambiente",
+      "reviewedRecordSha256": "d60d03fb9f3b601d39d131e51fdb314580b80786a47e7b9a36e06351d03f02de",
+      "serves": "12 girelle",
+      "source": "https://www.giallozafferano.com/recipes/Cinnamon-rolls-with-liquid-sourdough-starter.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Con il gancio della planetaria mescolare acqua, latte, zucchero e cannella. Unire il licoli e il lievito di birra.",
+        "Incorporare le due farine a velocità media e poi il sale; lavorare fino a ottenere una massa omogenea. Lasciare riposare nella ciotola scoperta per 30 minuti.",
+        "Incorporare il burro morbido in due riprese, a velocità media e poi più sostenuta. Lasciare riposare un'ora a temperatura ambiente.",
+        "Rovesciare sul piano ed eseguire pieghe di rinforzo fino a ottenere un impasto liscio e teso; riporlo in una ciotola unta, coprire e refrigerare 10–12 ore.",
+        "Mescolare burro morbido, demerara e cannella della farcitura. Stendere l'impasto sul piano leggermente infarinato in un rettangolo di 35 × 40 cm.",
+        "Spalmare due terzi della farcitura e arrotolare strettamente dal lato lungo. Avvolgere nella carta forno, porre su una teglia e refrigerare per un'ora.",
+        "Tagliare in 12 fette, disporre su teglia foderata e far lievitare 2 ore a temperatura ambiente.",
+        "Cuocere nel forno ventilato preriscaldato a 200 °C per 20 minuti.",
+        "Portare a bollore mescolando il terzo di farcitura rimasto con la panna. Lasciare raffreddare le girelle e spennellarle con la glassa."
+      ],
+      "temperature": "200 °C ventilato, come da edizione italiana"
     }
   ]
 }
