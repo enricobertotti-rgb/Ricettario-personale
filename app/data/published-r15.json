@@ -30767,6 +30767,59 @@
         "Con la pasta restante formare losanghe usando strisce larghe circa 1,5–2 cm. Cuocere in forno statico preriscaldato a 180 °C per 50 min; la fonte indica anche 160 °C per 40 min. Raffreddare completamente prima di sformare."
       ],
       "temperature": "180 °C forno statico; alternativa 160 °C per 40 min (modalità non esplicitata nella pagina italiana)"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Gelati, sorbetti e granite"
+      ],
+      "category": "Gelati, sorbetti e granite",
+      "cook": "2 min",
+      "description": "Tre gusti di gelato a base di latte di cocco, ottenuti senza gelatiera.",
+      "id": "GZ-02736",
+      "ingredients": [
+        "Gusto cocco: latte di cocco (18% di grassi) 400 g",
+        "Gusto cocco: acqua 100 g",
+        "Gusto cocco: zucchero 100 g",
+        "Gusto pistacchio: latte di cocco (18% di grassi) 400 g",
+        "Gusto pistacchio: acqua 100 g",
+        "Gusto pistacchio: zucchero 100 g",
+        "Gusto pistacchio: pistacchi interi pelati 80 g",
+        "Gusto cioccolato: latte di cocco (18% di grassi) 400 g",
+        "Gusto cioccolato: acqua 100 g",
+        "Gusto cioccolato: zucchero 100 g",
+        "Gusto cioccolato: cioccolato fondente 80 g"
+      ],
+      "name": "Gelato al latte di cocco senza gelatiera",
+      "notes": "La fonte indica una settimana di conservazione in freezer. Possibili accompagnamenti: frutti rossi, scaglie di cioccolato, miele, muesli o torta al cioccolato. Il miele è un'aggiunta facoltativa non vegana. La redazione (21/06/2024) non garantisce il risultato sostituendo lo sciroppo con glucosio. I 550 g riguardano esclusivamente il gusto cocco; non attribuirli agli altri gusti. Autore individuale non indicato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "2 min",
+        "prep": "10 min",
+        "rest": "Circa 10 ore iniziali per ogni gusto; altre 2 ore per il cocco, 2–3 ore per pistacchio o cioccolato."
+      },
+      "originalTitle": "Coconut Milk Ice Cream Without an Ice Cream Maker",
+      "originalYield": "Circa 550 g del gusto cocco (19,5 oz nella fonte inglese); 6 persone nella testata italiana, resa delle due varianti non dichiarata.",
+      "pdfPage": 135,
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "552d9903939c0221f649d77fa4d445660e3054f78eb4ba3d4c62ea273d6b05ae",
+        "previousAppSha256": "552d9903939c0221f649d77fa4d445660e3054f78eb4ba3d4c62ea273d6b05ae",
+        "reviewedDigest": "a034d8e027b0e6b5eb02eb110c0af961fc0cacd35588f2a71e45a0b3189eed95"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 10 ore iniziali per ogni gusto; altre 2 ore per il cocco, 2–3 ore per pistacchio o cioccolato.",
+      "reviewedRecordSha256": "a034d8e027b0e6b5eb02eb110c0af961fc0cacd35588f2a71e45a0b3189eed95",
+      "serves": "Circa 550 g del gusto cocco (19,5 oz nella fonte inglese); 6 persone nella testata italiana, resa delle due varianti non dichiarata.",
+      "source": "https://www.giallozafferano.com/recipes/Coconut-Milk-Ice-Cream-Without-an-Ice-Cream-Maker.html",
+      "steps": [
+        "Cocco: bollire acqua e zucchero per circa 2 minuti. Emulsionare lo sciroppo con il latte di cocco usando un frullatore a immersione. Riempire uno stampo per ghiaccio e congelare per una notte, circa 10 ore.",
+        "Cocco: lavorare i cubetti nel mixer fino a renderli cremosi. Trasferire in una vaschetta, coprire con pellicola e congelare altre 2 ore.",
+        "Pistacchio: con le dosi specifiche del gusto preparare lo sciroppo come sopra e frullarlo con il latte di cocco; congelare negli stampi circa 10 ore. Frullare i cubetti con gli 80 g di pistacchi fino a consistenza cremosa; coprire la ciotola con pellicola e congelare 2–3 ore.",
+        "Cioccolato: ripetere la preparazione dello sciroppo e della miscela con le dosi del gusto; congelare i cubetti circa 10 ore. Fondere il fondente tritato a bagnomaria o nel microonde. Frullarlo con i cubetti fino a consistenza cremosa. Coprire e congelare 2–3 ore."
+      ],
+      "temperature": "Non dichiarata numericamente; congelatore."
     }
   ]
 }
