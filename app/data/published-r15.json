@@ -31158,6 +31158,68 @@
         "Trasferire il cous cous su un vassoio e sgranarlo con una forchetta. Disporre al centro le verdure e completare con foglie di menta; servire caldo o freddo."
       ],
       "temperature": "Cottura delle verdure a fiamma vivace; nessuna temperatura numerica dichiarata."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "1 h 20 min",
+      "description": "Versione storica delle lasagne con zucca Delica, ragù di salsiccia e besciamella fluida, documentata dalle edizioni internazionali ufficiali.",
+      "id": "GZ-00287",
+      "ingredients": [
+        "Lasagne all'uovo 220 g",
+        "Zucca Delica da pulire 580 g",
+        "Mozzarella 120 g",
+        "Grana Padano DOP 120 g, da grattugiare",
+        "Salsiccia 370 g (sugo)",
+        "Pomodori pelati 400 g (sugo)",
+        "Cipolla bianca 1 (sugo)",
+        "Concentrato di pomodoro 60 g (sugo)",
+        "Vino bianco 120 g (sugo)",
+        "Olio extravergine di oliva q.b. (sugo)",
+        "Sale fino q.b. (sugo)",
+        "Pepe nero q.b. (sugo)",
+        "Prezzemolo q.b. (sugo)",
+        "Latte intero 1 l (besciamella)",
+        "Burro 100 g (besciamella)",
+        "Farina 00 100 g (besciamella)",
+        "Noce moscata q.b. (besciamella)",
+        "Sale fino q.b. (besciamella)"
+      ],
+      "name": "Lasagne zucca e salsiccia",
+      "notes": "Conservazione indicata dalla fonte: massimo 2 giorni in frigorifero; congelabile se preparata con ingredienti freschi. Con sfoglia fresca fatta in casa, usare una besciamella più densa perché la pasta assorbe meno liquido. La versione italiana corrente dello stesso articolo presenta una formula diversa; questa revisione mantiene quella storica documentata nelle versioni EN e DE (26/11/2026). Autore individuale della formulazione storica e origine geografica specifica non attestati.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 h 20 min",
+        "prep": "30 min",
+        "rest": "Breve raffreddamento prima del servizio; durata non dichiarata."
+      },
+      "originalTitle": "Lasagne zucca e salsiccia",
+      "originalYield": "6 persone · teglia 30 × 20 cm",
+      "pdfPage": 124,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "e7006f59d7dd1c69acf162d593cc81e0ca458cb0c193d9c623b3e7fc6dae5210",
+        "previousAppSha256": "e7006f59d7dd1c69acf162d593cc81e0ca458cb0c193d9c623b3e7fc6dae5210",
+        "reviewedDigest": "6c0b4eae174f45448e04e5faec171d1da55cd61843c61db9eaaf93de1c185da9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Breve raffreddamento prima del servizio; durata non dichiarata.",
+      "reviewedRecordSha256": "6c0b4eae174f45448e04e5faec171d1da55cd61843c61db9eaaf93de1c185da9",
+      "serves": "6 persone · teglia 30 × 20 cm",
+      "source": "https://ricette.giallozafferano.it/Lasagne-zucca-e-salsiccia.html",
+      "steps": [
+        "Sbucciare e affettare finemente la cipolla, farla appassire con un filo d'olio a fuoco basso per qualche minuto. Dividere la salsiccia in pezzi di circa 4 cm, unirla alla cipolla e rosolarla brevemente.",
+        "Versare il vino bianco; dopo l'evaporazione dell'alcol aggiungere pelati e concentrato. Mescolare, salare e pepare; coprire e cuocere a fuoco basso per circa 20 minuti. Completare con prezzemolo fresco tritato e tenere da parte.",
+        "Intanto sciogliere il burro a fuoco basso, togliere il pentolino dal fuoco e incorporare la farina con la frusta. Aggiungere il latte caldo, rimettere sul fuoco medio e addensare; salare e profumare con noce moscata. La besciamella deve restare abbastanza fluida.",
+        "Sbucciare la zucca e affettarla molto sottilmente: va utilizzata cruda, perché cuocerà fra gli strati.",
+        "Distribuire poca besciamella nella teglia rettangolare da 30 × 20 cm. Disporre le sfoglie, il sugo, la zucca, la mozzarella a cubetti e il Grana grattugiato; coprire con besciamella. Proseguire con sfoglie e farcitura fino a esaurire gli ingredienti.",
+        "Completare la superficie con besciamella, zucca, sugo, mozzarella e formaggio grattugiato. Cuocere in forno statico preriscaldato a 180 °C per 40 minuti; sfornare e lasciare intiepidire brevemente prima di servire."
+      ],
+      "temperature": "Forno statico preriscaldato a 180 °C per 40 minuti; fuoco basso per sugo, medio per besciamella."
     }
   ]
 }
