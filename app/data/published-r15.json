@@ -31682,6 +31682,45 @@
         "Cuocere in ventilato già caldo a 200 °C per 15 minuti, poi a 180 °C per 10 minuti. Lasciare raffreddare nel forno spento con sportello appena aperto."
       ],
       "temperature": "Forno ventilato 200 °C per 15 min, poi 180 °C per 10 min"
+    },
+    {
+      "author": "Alessia",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "2 h 10 min",
+      "description": "Meringa montata a freddo, con zucchero pari al doppio del peso degli albumi.",
+      "id": "SRC-71012078bf1b5051",
+      "ingredients": [
+        "150 g albumi a temperatura ambiente (circa 5 uova medie)",
+        "300 g zucchero extrafine"
+      ],
+      "name": "Meringa francese a due ingredienti — Il lato dolce",
+      "notes": "Fonte del 14 settembre 2026. Non indica una resa numerica, una pezzatura o una durata di conservazione. Non confondere questa base con la meringa italiana preparata con sciroppo. La fonte indica anche carta forno e sbattitore elettrico come alternative. Nessuna immagine acquisita.",
+      "origin": "Tecnica francese; fonte italiana",
+      "originalTimes": {
+        "cook": "2 h 10 min",
+        "prep": "30 min",
+        "rest": "6–8 h o tutta la notte nel forno spento e chiuso"
+      },
+      "originalTitle": "Meringa francese: la ricetta base con soli 2 ingredienti",
+      "originalYield": "Numero di pezzi non dichiarato; la fonte indica due teglie",
+      "photo": null,
+      "prep": "30 min",
+      "rest": "6–8 h o tutta la notte nel forno spento e chiuso",
+      "reviewedRecordSha256": "c144e25ef4e0e3534a7b923159cc4b854bcf5fb72360c2ef7f5f3060feb6f199",
+      "serves": "Numero di pezzi non dichiarato; la fonte indica due teglie",
+      "source": "https://blog.giallozafferano.it/illatodolce/ricetta-meringa-francese/",
+      "sourceLabel": "Il lato dolce",
+      "steps": [
+        "Suddividere lo zucchero in tre parti uguali. Cominciare a montare gli albumi a velocità media con la frusta.",
+        "Appena gli albumi diventano schiumosi, incorporare il primo terzo dello zucchero e aumentare la velocità. Aggiungere il secondo terzo, proseguendo per almeno un minuto.",
+        "Incorporare il terzo rimanente in due riprese e montare per 10 minuti, fino a una massa soda e lucida.",
+        "Scaldare il forno statico a 140 °C. Distribuire la meringa con sac à poche e bocchetta liscia o a stella sulle teglie rivestite di silicone o carta forno.",
+        "Cuocere 10 minuti a 140 °C, ridurre a 100 °C e continuare per due ore. Spegnere il forno e lasciare asciugare le meringhe al suo interno senza aprire lo sportello per 6–8 ore oppure tutta la notte."
+      ],
+      "temperature": "Forno statico 140 °C, poi 100 °C"
     }
   ]
 }
