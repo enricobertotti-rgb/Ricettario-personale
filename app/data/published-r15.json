@@ -31721,6 +31721,90 @@
         "Cuocere 10 minuti a 140 °C, ridurre a 100 °C e continuare per due ore. Spegnere il forno e lasciare asciugare le meringhe al suo interno senza aprire lo sportello per 6–8 ore oppure tutta la notte."
       ],
       "temperature": "Forno statico 140 °C, poi 100 °C"
+    },
+    {
+      "author": "Non indicato dalla fonte",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "15 min",
+      "description": "Crema fluida a base di tuorli, latte, panna e vaniglia, senza amido.",
+      "id": "SRC-5c241da457f878a3",
+      "ingredients": [
+        "330 g latte intero",
+        "170 g panna fresca liquida",
+        "140 g tuorli (circa 8)",
+        "1 baccello di vaniglia",
+        "100 g zucchero"
+      ],
+      "name": "Crema inglese alla vaniglia con latte e panna",
+      "notes": "La fonte indica 1–2 giorni in frigorifero in contenitore chiuso o coperta a contatto; raffreddare rapidamente. Sconsiglia il congelamento per la consistenza. Possibile aromatizzare con scorza di agrumi in infusione, poi da rimuovere. La redazione non attesta la versione con solo latte.",
+      "origin": "Origine non documentata dalla fonte",
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "10 min",
+        "rest": "Raffreddamento completo in frigorifero; durata non dichiarata"
+      },
+      "originalTitle": "Crema inglese",
+      "originalYield": "700 g (resa dichiarata)",
+      "photo": null,
+      "prep": "10 min",
+      "rest": "Raffreddamento completo in frigorifero; durata non dichiarata",
+      "reviewedRecordSha256": "d361b7eb447578641524ca67bcf3fecc32664be4716fde0148acb9f5f3ce3a97",
+      "serves": "700 g (resa dichiarata)",
+      "source": "https://ricette.giallozafferano.it/Crema-inglese.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Incidere la vaniglia, prelevare i semi e mettere semi e baccello nel latte con la panna. Scaldare a fuoco basso fino a sfiorare il bollore.",
+        "Separare i tuorli, aggiungere subito lo zucchero e amalgamare delicatamente con una spatola senza incorporare aria.",
+        "Rimuovere il baccello, versare il liquido caldo sui tuorli mescolando, quindi trasferire nuovamente il composto nel pentolino.",
+        "Cuocere a fiamma bassa mescolando continuamente con la spatola fino a circa 82 °C, senza superare 85 °C. In assenza di termometro, controllare che la crema veli il cucchiaio.",
+        "Trasferire subito in una ciotola pulita, eventualmente posta su ghiaccio per accelerare il raffreddamento. Quando non è più bollente coprire a contatto e lasciare raffreddare completamente in frigorifero."
+      ],
+      "temperature": "Circa 82 °C, non oltre 85 °C"
+    },
+    {
+      "author": "Non indicato dalla fonte",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 15 min in pentola + 40–45 min in forno; riepilogo fonte 45 min",
+      "description": "Biscotti di albumi montati e nocciole, con una prima cottura in pentola e una seconda in forno.",
+      "id": "SRC-d43b7fa5f53a5d3d",
+      "ingredients": [
+        "300 g nocciole intere spellate",
+        "200 g zucchero",
+        "150 g albumi a temperatura ambiente",
+        "1 baccello di vaniglia (semi)"
+      ],
+      "name": "Brutti ma buoni alle nocciole a doppia cottura",
+      "notes": "Il riepilogo indica 45 minuti di cottura ma il procedimento distingue le due fasi: seguire i tempi espliciti del metodo. La fonte indica 7–8 giorni in scatola di latta. Suggerisce un pizzico di cannella al posto della vaniglia e una prova con pochi biscotti per adattarsi al forno; nelle risposte ammette mandorle finemente tritate o noci, con risultato diverso. Conservare la formula alle nocciole come variante autonoma.",
+      "origin": "Italia settentrionale, indicata dalla fonte",
+      "originalTimes": {
+        "cook": "Circa 15 min in pentola + 40–45 min in forno; riepilogo fonte 45 min",
+        "prep": "30 min",
+        "rest": "Raffreddamento completo; durata non dichiarata"
+      },
+      "originalTitle": "Brutti ma buoni",
+      "originalYield": "Circa 20 biscotti",
+      "photo": null,
+      "prep": "30 min",
+      "rest": "Raffreddamento completo; durata non dichiarata",
+      "reviewedRecordSha256": "8def3a16c031eb4f5b6c3c5cd5559bf89e148ec6777c3bace9cb7db1038b02d2",
+      "serves": "Circa 20 biscotti",
+      "source": "https://ricette.giallozafferano.it/Brutti-ma-buoni.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tritare le nocciole senza ridurle troppo finemente. Montare gli albumi e aggiungere i semi di vaniglia.",
+        "Quando gli albumi diventano spumosi, aggiungere lo zucchero poco alla volta; continuare a velocità media per altri 5 minuti, fino a ottenere una montata ferma che forma un becco.",
+        "Incorporare le nocciole con una spatola, con movimenti dal basso verso l’alto.",
+        "Trasferire in una pentola di acciaio e cuocere a fuoco medio o medio-alto per circa 15 minuti, mescolando continuamente con una spatola morbida fino a compattamento.",
+        "Con due cucchiai formare mucchietti distanziati su una teglia rivestita di carta forno.",
+        "Cuocere in forno statico già caldo a 130 °C per 40–45 minuti, verificando che siano asciutti anche internamente senza bruciarli. Lasciare raffreddare del tutto per consolidare la consistenza."
+      ],
+      "temperature": "Forno statico preriscaldato a 130 °C"
     }
   ]
 }
