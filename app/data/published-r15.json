@@ -30820,6 +30820,119 @@
         "Cioccolato: ripetere la preparazione dello sciroppo e della miscela con le dosi del gusto; congelare i cubetti circa 10 ore. Fondere il fondente tritato a bagnomaria o nel microonde. Frullarlo con i cubetti fino a consistenza cremosa. Coprire e congelare 2–3 ore."
       ],
       "temperature": "Non dichiarata numericamente; congelatore."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Zuppe, minestre e vellutate"
+      ],
+      "category": "Zuppe, minestre e vellutate",
+      "cook": "1 min (testata; nel metodo tostatura mandorle per qualche minuto)",
+      "description": "Antipasto freddo all'anguria ispirato al gazpacho iberico, con guarnizione di caprino e mandorle.",
+      "id": "GZ-00999",
+      "ingredients": [
+        "Anguria 1,2 kg (prelevare 450 g di polpa)",
+        "Pomodori a grappolo 300 g",
+        "Peperone rosso 100 g",
+        "Cipolla bianca 120 g",
+        "Aceto di vino rosso 15 g",
+        "Olio extravergine di oliva 25 g",
+        "Farina di mandorle 60 g",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Guarnizione: caprino fresco 150 g",
+        "Guarnizione: panna fresca liquida 25 g",
+        "Guarnizione: mandorle a lamelle 25 g",
+        "Guarnizione: fiori eduli q.b.",
+        "Guarnizione: menta q.b."
+      ],
+      "name": "Gazpacho all’anguria",
+      "notes": "La fonte sconsiglia la conservazione dopo la preparazione. Farina di mandorle aggiunta a crudo: conferma della redazione 05/09/2025. Possibili alternative: farina di nocciole (cambia il colore), Tabasco, aceto di mele (redazione 26/08/2020); accompagnamento con tarallini o pane. Origine del gazpacho tradizionale documentata come iberica, non luogo d'invenzione di questa variante. Autore individuale non indicato.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "1 min (testata; nel metodo tostatura mandorle per qualche minuto)",
+        "prep": "30 min",
+        "rest": "Circa 1 ora in frigorifero."
+      },
+      "originalTitle": "Watermelon Gazpacho",
+      "originalYield": "4 persone",
+      "pdfPage": 372,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b3164c4ce3d6cc16ba0e6ae80568d0037c634459141b15c64fca3bff55bd9c7b",
+        "previousAppSha256": "b3164c4ce3d6cc16ba0e6ae80568d0037c634459141b15c64fca3bff55bd9c7b",
+        "reviewedDigest": "65e341b972f922e015078ec7fded56d75ef2e0f7550c1d565071c78ba912afa8"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 1 ora in frigorifero.",
+      "reviewedRecordSha256": "65e341b972f922e015078ec7fded56d75ef2e0f7550c1d565071c78ba912afa8",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/watermelon-gazpacho.html",
+      "steps": [
+        "Mondare l'anguria, prelevare 450 g di polpa e tagliarla. Staccare i pomodori dai rametti, lavarli, asciugarli e rimuovere il picciolo prima di tagliarli.",
+        "Pulire e ridurre il peperone in pezzi grossi; pelare e sminuzzare grossolanamente la cipolla. Riunire nel frullatore anguria e tutti gli ortaggi.",
+        "Ridurre a purea, passarla al colino ed eliminare i residui di bucce e semi. Unire aceto, olio, sale, pepe e farina di mandorle cruda; amalgamare con la frusta e raffreddare in frigorifero per circa un'ora.",
+        "Tostare per qualche minuto in padella le mandorle a lamelle e tenerle da parte. Mescolare panna e caprino fino ad avere una crema da trasferire in una tasca da pasticciere.",
+        "Distribuire la zuppa nei piatti fondi; guarnire con ciuffi di crema, mandorle tostate, fiori eduli e menta. Servire fredda subito."
+      ],
+      "temperature": "Servire freddo; nessuna temperatura numerica dichiarata."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min",
+      "description": "Sfoglie dolci fritte italiane, tipiche del Carnevale.",
+      "id": "GZ-02620",
+      "ingredients": [
+        "Farina 00 500 g",
+        "Zucchero 70 g",
+        "Burro a temperatura ambiente 50 g",
+        "Grappa 30 g",
+        "Uova medie 3",
+        "Lievito in polvere per dolci 6 g",
+        "Baccello di vaniglia 1",
+        "Tuorlo 1",
+        "Sale fino 1 pizzico",
+        "Acqua facoltativa 5–10 g (fonte IT; EN 1–2 cucchiaini)",
+        "Olio di semi di arachide q.b. (frittura)",
+        "Zucchero a velo q.b. (finitura)"
+      ],
+      "name": "Chiacchiere",
+      "notes": "Preferibili appena fatte; la fonte consente 2–3 giorni in un sacchetto di carta. Temperatura di lavoro 150–160 °C; il consiglio EN indica di non oltrepassare 170–180 °C. La grappa può essere sostituita da pari dose di succo d'arancia (IT), oppure da altri liquori (EN); possibile aroma di scorza di limone o arancia. La redazione sconsiglia di congelare l'impasto e ammette lavorazione a mano. L'origine romana delle frictilia è indicata come ipotesi, non certezza. Autore individuale non indicato.",
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "60 min",
+        "rest": "Almeno 30 min a temperatura ambiente, poi qualche minuto per le sfoglie."
+      },
+      "originalTitle": "Chiacchiere (Sweet fried dough)",
+      "originalYield": "Circa 40 pezzi",
+      "pdfPage": 90,
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f4bb3b6fb68842b86a978aab6d354d42ae6d94911a8d2783f020b727aafa5d55",
+        "previousAppSha256": "f4bb3b6fb68842b86a978aab6d354d42ae6d94911a8d2783f020b727aafa5d55",
+        "reviewedDigest": "13cdd03d85304c2352dfabafd2dd082a1dbd0d1b206599437ac4dbc0755ade6f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 30 min a temperatura ambiente, poi qualche minuto per le sfoglie.",
+      "reviewedRecordSha256": "13cdd03d85304c2352dfabafd2dd082a1dbd0d1b206599437ac4dbc0755ade6f",
+      "serves": "Circa 40 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/chiacchiere-sweet-fried-dough.html",
+      "steps": [
+        "Passare farina e lievito al setaccio. Con la foglia della planetaria amalgamare le polveri, lo zucchero, il sale, le uova già battute, il tuorlo e la grappa.",
+        "Montare il gancio e incorporare burro morbido e semi di vaniglia. Lavorare per 15 minuti: la massa deve essere uniforme, soda ma lavorabile. Aggiungere l’acqua facoltativa soltanto se occorre; arrotondare rapidamente l'impasto sul piano.",
+        "Proteggere il panetto con pellicola e lasciarlo a temperatura ambiente per almeno mezz'ora. Dividerlo in pezzi di circa 150 g; appiattirli, infarinarli e passarli uno alla volta nella macchina per la pasta a partire dall'apertura maggiore.",
+        "Piegare le estremità corte al centro e ripassare la sfoglia riducendo gradualmente lo spessore fino a 2 mm. Procedere con tutte le porzioni e far riposare le sfoglie qualche minuto. Scaldare l'olio a 150–160 °C.",
+        "Con la rotella dentellata ricavare rettangoli di circa 5 × 10 cm, incidendoli al centro con due tagli paralleli al lato lungo. Friggere 2–3 pezzi insieme, voltandoli finché dorati su entrambi i lati.",
+        "Sgocciolare su carta assorbente; attendere che si raffreddino prima di completare con zucchero a velo setacciato."
+      ],
+      "temperature": "150–160 °C per la frittura."
     }
   ]
 }
