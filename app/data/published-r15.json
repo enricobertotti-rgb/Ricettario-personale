@@ -31805,6 +31805,144 @@
         "Cuocere in forno statico già caldo a 130 °C per 40–45 minuti, verificando che siano asciutti anche internamente senza bruciarli. Lasciare raffreddare del tutto per consolidare la consistenza."
       ],
       "temperature": "Forno statico preriscaldato a 130 °C"
+    },
+    {
+      "author": "Franco Aliberti",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Dipende dalla preparazione finale",
+      "description": "Sfoglia neutra con pastello e panetto separati, laminati con successione 3–4–3–4.",
+      "id": "SRC-cfdbd64eb5854bb2",
+      "ingredients": [
+        "Pastello: 175 g farina 00",
+        "Pastello: 100 g acqua a temperatura ambiente",
+        "Pastello: 5 g sale fino",
+        "Panetto: 250 g burro plastico",
+        "Panetto: 150 g farina 00",
+        "Poca farina per spolverare"
+      ],
+      "name": "Pasta sfoglia di Franco Aliberti — quattro pieghe",
+      "notes": "Farina debole W 90–180, circa 9% proteine; burro morbido ma plastico. I riposi non vanno abbreviati. Possibile lavorazione manuale senza scaldare gli impasti; margarina alternativa dichiarata, olio non equivalente. Se la sfoglia si ritira, farla riposare ulteriormente prima della formatura. La fonte dichiara 4–5 giorni al massimo in frigorifero per il panetto, oppure congelamento e scongelamento refrigerato; una volta cotta, massimo 2 giorni in contenitore ermetico per preservare la fragranza. Non consumare l'impasto crudo.",
+      "origin": "Diffusione francese dal Settecento documentata dalla fonte; origine precisa non attestata",
+      "originalTimes": {
+        "cook": "Dipende dalla preparazione finale",
+        "prep": "1 h 20 min",
+        "rest": "Panetto: 5 min a temperatura ambiente oppure 10 min in frigo; tre riposi di 30 min e almeno 60 min finale; pastello durante preparazione panetto"
+      },
+      "originalTitle": "Pasta Sfoglia",
+      "originalYield": "Dosi per un impasto; numero di porzioni non indicato",
+      "photo": null,
+      "prep": "1 h 20 min",
+      "rest": "Panetto: 5 min a temperatura ambiente oppure 10 min in frigo; tre riposi di 30 min e almeno 60 min finale; pastello durante preparazione panetto",
+      "reviewedRecordSha256": "52a1acb95f1515e0fc1810750001c57a1a60437d27b9fcd08756ef1dfe05cfd3",
+      "serves": "Dosi per un impasto; numero di porzioni non indicato",
+      "source": "https://ricette.giallozafferano.it/Pasta-Sfoglia.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Sciogliere il sale nell'acqua e aggiungere alla farina del pastello in planetaria con gancio. Lavorare brevemente fino a impasto liscio, non appiccicoso e senza eccessiva elasticità; appiattire in recipiente basso, coprire a contatto e tenere a temperatura ambiente mentre si prepara il panetto.",
+        "Lavorare la farina del panetto con il burro a cubetti, senza riscaldarlo, fino a composto uniforme e compatto. Formare rapidamente un quadrato su piano leggermente infarinato; coprire e attendere 5 minuti a temperatura ambiente oppure 10 minuti in frigorifero se troppo morbido.",
+        "Stendere il panetto a quadrato di 20 cm e il pastello a quadrato di 28 cm. Porre il panetto di traverso sul pastello e racchiuderlo con i lembi, evitando sovrapposizioni eccessive.",
+        "Senza altro riposo stendere in lunghezza a rettangolo, squadrare gli angoli, ruotare di 90 gradi e appiattire leggermente. Ripiegare un'estremità oltre il centro e sovrapporre l'altra per ottenere tre strati. Appiattire appena con pieghe rivolte verso di sé, segnare un giro, sigillare con pellicola e refrigerare 30 minuti.",
+        "Tenere il lato lungo chiuso verso di sé e stendere in lunghezza a circa 5 mm. Portare i due lembi verso il centro facendoli combaciare; richiudere a libro in quattro strati. Appiattire leggermente, segnare due giri, avvolgere e refrigerare 30 minuti.",
+        "Con il lato lungo chiuso verso di sé, stendere ancora a 5 mm e ripetere la piega a tre. Appiattire, segnare tre giri, avvolgere e refrigerare altri 30 minuti.",
+        "Ripetere la stesura a 5 mm con lato lungo chiuso davanti e fare l'ultima piega a quattro. Appiattire in lunghezza, segnare quattro giri, avvolgere e riposare almeno 60 minuti in frigorifero prima dell'uso."
+      ],
+      "temperature": "Cottura dipendente dall'impiego"
+    },
+    {
+      "author": "Redazione",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "12–13 min",
+      "description": "Biscotti veneziani di mais a losanga, con uvetta, pinoli e grappa.",
+      "id": "SRC-4f9b5562cc3a1394",
+      "ingredients": [
+        "150 g farina 00",
+        "150 g farina di mais precotta",
+        "150 g burro",
+        "100 g uvetta",
+        "100 g zucchero semolato",
+        "40 g pinoli",
+        "3 tuorli",
+        "Semi di mezzo baccello di vaniglia",
+        "Un pizzico di scorza di limone grattugiata",
+        "Una punta di cucchiaino di lievito per dolci",
+        "Grappa a piacere",
+        "Zucchero a velo q.b.",
+        "Un pizzico di sale",
+        "Acqua tiepida per ammollare l'uvetta, quantità non dichiarata",
+        "Farina per il piano q.b."
+      ],
+      "name": "Zaleti veneziani con uvetta e pinoli",
+      "notes": "La fonte indica 40 porzioni, non un numero certo di pezzi. Conservazione indicata in luogo asciutto per qualche settimana; durata effettiva dipende dalle condizioni di conservazione. Origine veneziana documentata dalla fonte del 27 marzo 2025; citazione di Goldoni nel 1749 riportata dalla redazione. L'ammollo e la grappa non hanno dosi o tempi numerici.",
+      "origin": "Italia, Veneto (tradizione veneziana)",
+      "originalTimes": {
+        "cook": "12–13 min",
+        "prep": "40 min complessivi indicati dalla fonte",
+        "rest": "Ammollo dell'uvetta e raffreddamento, durata non dichiarata"
+      },
+      "originalTitle": "Gli zaleti, rustici biscottini veneziani",
+      "originalYield": "40 porzioni (fonte)",
+      "photo": null,
+      "prep": "40 min complessivi indicati dalla fonte",
+      "rest": "Ammollo dell'uvetta e raffreddamento, durata non dichiarata",
+      "reviewedRecordSha256": "70b3aaa3e5667dc33bdfe54dd6c1f2664f3ecb90c35adfa7206a2e94c1ef7175",
+      "serves": "40 porzioni (fonte)",
+      "source": "https://www.lacucinaitaliana.it/ricetta/dolci-e-dessert/gli-zaleti-rustici-biscottini-veneziani/",
+      "sourceLabel": "La Cucina Italiana",
+      "steps": [
+        "Ammorbidire l'uvetta in acqua tiepida con poca grappa, secondo il gusto.",
+        "Sbattere tuorli e zucchero con una frusta fino a sciogliere i granelli.",
+        "Mescolare separatamente farine, sale, lievito, semi di vaniglia e scorza; aggiungere il burro appena fuso, ancora caldo, amalgamando con un cucchiaio.",
+        "Unire il composto di tuorli alle farine, poi l'uvetta ammollata e i pinoli.",
+        "Stendere l'impasto morbido sul piano infarinato; ritagliare losanghe e trasferirle su una teglia con carta forno.",
+        "Cuocere a 180 °C per 12–13 minuti. Lasciare raffreddare e spolverizzare generosamente di zucchero a velo."
+      ],
+      "temperature": "180 °C; modalità non dichiarata"
+    },
+    {
+      "author": "Non indicato dalla fonte",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "5 min",
+      "description": "Montata stabilizzata da sciroppo caldo, con nota di sicurezza per impiego senza cottura.",
+      "id": "SRC-95f857505cf9ce2a",
+      "ingredients": [
+        "125 g albumi (circa 4 medi; per consumo senza ulteriore cottura utilizzare albumi pastorizzati idonei alla montata e dichiarati dal produttore adatti a tale uso)",
+        "250 g zucchero",
+        "50 g acqua"
+      ],
+      "name": "Meringa all’italiana con sciroppo a 121 °C",
+      "notes": "Formula originale invariata (125/250/50 g). Nota editoriale SPEC26: la temperatura dello sciroppo non prova la pastorizzazione della massa; usare ovoprodotti pastorizzati esplicitamente adatti al consumo senza ulteriore cottura, non prodotti che richiedono cottura. Refrigerare prontamente a non oltre 4 °C, in contenitore pulito coperto, e usare tempestivamente. I 2–3 giorni in frigorifero sono una durata dichiarata dalla fonte, non validata per la sicurezza del prodotto finito; non costituiscono indicazione operativa di durata garantita. Per persone vulnerabili preferire preparazioni completamente cotte. Possibili aromi naturali in piccole dosi secondo fonte. Riferimenti sicurezza: https://www.fda.gov/food/people-risk-foodborne-illness/dairy-and-eggs-food-safety-moms-be ; https://www.epicentro.iss.it/salmonella/ .",
+      "origin": "Origine storica non documentata dalla fonte",
+      "originalTimes": {
+        "cook": "5 min",
+        "prep": "30 min",
+        "rest": "Montare fino a raffreddamento; durata non indicata"
+      },
+      "originalTitle": "Meringa all'italiana",
+      "originalYield": "Per decorare 2 crostate da 22 cm",
+      "photo": null,
+      "prep": "30 min",
+      "rest": "Montare fino a raffreddamento; durata non indicata",
+      "reviewedRecordSha256": "8c365fd72865ed63a22c7695f8b19e4dad93e1c6cd3607bcd1839ff2ba54c055",
+      "serves": "Per decorare 2 crostate da 22 cm",
+      "source": "https://ricette.giallozafferano.it/Meringa-all-italiana.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Usare ciotola e fruste pulite, albumi senza tracce di tuorlo; avviare a velocità bassa. Per consumo diretto verificare prima l'idoneità degli albumi pastorizzati all'uso senza ulteriore cottura.",
+        "Scaldare acqua e zucchero in un pentolino a fondo spesso e controllare lo sciroppo con termometro.",
+        "Quando lo sciroppo raggiunge 121 °C versarlo a filo lungo il bordo della ciotola evitando le fruste.",
+        "Aumentare la velocità e montare fino a raffreddamento e consistenza sostenuta, con punta che mantiene la forma.",
+        "Trasferire in tasca con bocchetta liscia e impiegare per decorare. L'eventuale doratura con cannello è estetica, non un trattamento termico validato dell'intera massa."
+      ],
+      "temperature": "Sciroppo a 121 °C; temperatura finale albumi non dichiarata"
     }
   ]
 }
