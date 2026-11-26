@@ -31639,6 +31639,49 @@
         "Cuocere nel forno preriscaldato a 200 °C per 5 minuti; abbassare a 180 °C e proseguire per 12–15 minuti secondo le dimensioni. Far raffreddare; il risultato descritto è scuro all'esterno e compatto all'interno."
       ],
       "temperature": "200 °C iniziali, poi 180 °C"
+    },
+    {
+      "author": "Apparecchiate la tavola",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "25 min",
+      "description": "Base di pasticceria cotta prima sul fornello e poi in forno, con due formature.",
+      "id": "SRC-a738bc686e40a8a5",
+      "ingredients": [
+        "250 g acqua",
+        "150 g farina 00",
+        "75 g burro",
+        "20 g zucchero",
+        "4 uova medie, eventualmente una quinta secondo consistenza",
+        "1 pizzico sale"
+      ],
+      "name": "Pasta choux per bignè e zeppole al forno — Apparecchiate la tavola",
+      "notes": "Per la versione al forno, conservare i gusci non farciti in un sacchetto alimentare per una settimana secondo la fonte. La frittura è descritta dalla stessa fonte ma non è inclusa nella formula al forno acquisita e approvata; nessuna temperatura o quantità dell'olio inventata. Testo autonomamente riformulato dai dati fattuali, nessuna immagine o testo letterale riprodotto.",
+      "origin": "Francia (tecnica), impiego nella pasticceria italiana",
+      "originalTimes": {
+        "cook": "25 min",
+        "prep": "20 min dichiarati",
+        "rest": "Intiepidimento prima delle uova e raffreddamento finale in forno spento; durate non dichiarate"
+      },
+      "originalTitle": "Pasta choux (o pasta bignè)",
+      "originalYield": "Circa 30 bignè oppure 12 zeppole",
+      "photo": null,
+      "prep": "20 min dichiarati",
+      "rest": "Intiepidimento prima delle uova e raffreddamento finale in forno spento; durate non dichiarate",
+      "reviewedRecordSha256": "e8047141ac1a95f835aca87be1e1025b688343986a7983ded3f4bed06bbfb962",
+      "serves": "Circa 30 bignè oppure 12 zeppole",
+      "source": "https://blog.giallozafferano.it/apparecchiatelatavola/pasta-choux-o-pasta-bigne/",
+      "sourceLabel": "Blog GialloZafferano — Apparecchiate la tavola",
+      "steps": [
+        "Far bollire acqua, burro a pezzi, zucchero e sale.",
+        "Fuori dal fuoco aggiungere tutta la farina setacciata e mescolare; rimettere a fiamma bassa finché la massa si stacca dai bordi, senza prolungare la cottura.",
+        "Togliere dal fuoco e lasciare raffreddare prima di incorporare le uova, secondo le raccomandazioni introduttive. Unire un uovo alla volta aspettando che sia assorbito; la fonte indica circa 4 minuti di lavorazione tra le aggiunte. Valutare la consistenza, né troppo soda né troppo fluida, ed eventualmente aggiungere un quinto uovo.",
+        "Per i bignè, dressare con bocchetta liscia piccoli mucchi grandi come noci, ben distanziati sulla carta forno; abbassare le punte con un cucchiaio umido. Per le zeppole, usare bocchetta a stella e sovrapporre al primo anello un secondo più interno, mantenendo il foro centrale; diametro circa 6–7 cm.",
+        "Cuocere in ventilato già caldo a 200 °C per 15 minuti, poi a 180 °C per 10 minuti. Lasciare raffreddare nel forno spento con sportello appena aperto."
+      ],
+      "temperature": "Forno ventilato 200 °C per 15 min, poi 180 °C per 10 min"
     }
   ]
 }
