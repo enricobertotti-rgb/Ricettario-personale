@@ -30706,6 +30706,67 @@
         "Versare il brodo attraverso un colino; cuocere circa 5 minuti affinché la salsa si addensi. Verificare la cottura sicura del pollo (nota), completare con erba cipollina tritata e servire caldo."
       ],
       "temperature": "Non dichiarata dalla fonte; nota di sicurezza: pollo 74 °C al cuore"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "50 min; variante a 160 °C 40 min",
+      "description": "Variante pasquale della pastiera napoletana con frolla alle nocciole e cacao e ripieno di grano, ricotta, agrumi canditi e cioccolato.",
+      "id": "SRC-HIST-dbd187982b4e5177",
+      "ingredients": [
+        "Frolla: farina 00 230 g",
+        "Farina di nocciole 70 g",
+        "Zucchero a velo 140 g",
+        "Burro freddo 115 g",
+        "Pasta di nocciole 30 g",
+        "Cacao amaro 10 g",
+        "Uovo 1",
+        "Baccello di vaniglia 1",
+        "Sale fino 1 pizzico",
+        "Crema: ricotta vaccina 250 g",
+        "Grano cotto per pastiera 250 g",
+        "Zucchero 350 g",
+        "Burro 30 g",
+        "Gocce di cioccolato fondente 50 g",
+        "Cedro candito 50 g",
+        "Scorza d'arancia candita 50 g (risposta ufficiale redazione 21/12/2023)",
+        "Latte intero 200 ml",
+        "Acqua di fiori d'arancio 25 ml",
+        "Uova 3",
+        "Baccello di vaniglia 1",
+        "Scorza di limone non trattato 1",
+        "Scorza d'arancia non trattata 1 (elencata, fase non specificata; vedi nota)",
+        "Burro q.b. per la tortiera"
+      ],
+      "name": "Pastiera alle nocciole e cacao",
+      "notes": "La redazione GialloZafferano, risposta del 21/12/2023 sulla pagina italiana ufficiale, chiarisce 50 g di scorza d'arancia candita, assente dall'elenco principale. La scorza fresca d'arancia compare separatamente nell'elenco ma non ha fase esplicita nel metodo: preservata senza assegnazione arbitraria. Per la conservazione la fonte indica frigorifero 2–3 giorni; possibile congelare cruda e scongelare in frigo prima della cottura. Variante documentata: farina di mandorle al posto di quella di nocciole; albume facoltativo per lucidare. Nessun autore individuale indicato.",
+      "origin": "Italia, Campania: variante della pastiera napoletana descritta dalla fonte",
+      "originalTimes": {
+        "cook": "50 min; variante a 160 °C 40 min",
+        "prep": "30 min",
+        "rest": "Frolla in frigorifero almeno 1 ora; raffreddamento completo dopo cottura"
+      },
+      "originalTitle": "Hazelnut and Cocoa Pastiera",
+      "originalYield": "10 persone; tortiera diametro 28 cm",
+      "photo": null,
+      "prep": "30 min",
+      "rest": "Frolla in frigorifero almeno 1 ora; raffreddamento completo dopo cottura",
+      "reviewedRecordSha256": "06aae9bd5a4e37e6bbb48c3bba115cc8afef4da7caece1c5b9543c2b829a4717",
+      "serves": "10 persone; tortiera diametro 28 cm",
+      "source": "https://www.giallozafferano.com/recipes/hazelnut-and-cocoa-pastiera.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Ridurre a composto sabbioso nel mixer la farina setacciata, lo zucchero a velo e il burro freddo a pezzi; incorporare la farina di nocciole. Sul piano aggiungere uovo, semi di vaniglia, sale e pasta di nocciole; lavorare fino a ottenere una pasta compatta e liscia.",
+        "Distribuire sulla pasta il cacao setacciato e lavorarla nuovamente fino a incorporarlo. Avvolgere e far rassodare in frigorifero almeno un'ora. Intanto raffreddare le gocce di cioccolato in congelatore per limitarne la discesa nel ripieno.",
+        "Su fuoco dolce sciogliere il burro del ripieno nel latte, aggiungere una parte della scorza di limone e il grano cotto. Mescolare con una spatola finché la crema risulta spessa; trasferire in una ciotola e lasciar intiepidire.",
+        "Frullare la ricotta setacciata con la scorza di limone rimanente, le uova, lo zucchero, i semi dell'altra vaniglia, l'acqua di fiori d'arancio, il cedro e l'arancia canditi. Unire per ultima la crema di grano tiepida, frullare fino a consistenza omogenea e tenere coperto.",
+        "Stendere la frolla a circa 5 mm. Rivestire con la pasta una tortiera da 28 cm imburrata e foderata con carta forno; far aderire a fondo e pareti e rifilare. Versare la crema e sistemare il bordo all'altezza del ripieno. Distribuire sopra le gocce fredde (facoltativamente appena infarinate).",
+        "Con la pasta restante formare losanghe usando strisce larghe circa 1,5–2 cm. Cuocere in forno statico preriscaldato a 180 °C per 50 min; la fonte indica anche 160 °C per 40 min. Raffreddare completamente prima di sformare."
+      ],
+      "temperature": "180 °C forno statico; alternativa 160 °C per 40 min (modalità non esplicitata nella pagina italiana)"
     }
   ]
 }
