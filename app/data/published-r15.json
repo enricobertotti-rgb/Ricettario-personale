@@ -31943,6 +31943,399 @@
         "Trasferire in tasca con bocchetta liscia e impiegare per decorare. L'eventuale doratura con cannello è estetica, non un trattamento termico validato dell'intera massa."
       ],
       "temperature": "Sciroppo a 121 °C; temperatura finale albumi non dichiarata"
+    },
+    {
+      "author": "Il Chicco di Mais",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "25–30 min",
+      "description": "Biscotti secchi rivestiti di sesamo; adattamento al burro della formula con strutto, dichiarato dall'autrice.",
+      "id": "SRC-b8cd512f3afaf085",
+      "ingredients": [
+        "500 g farina 00",
+        "160 g zucchero",
+        "160 g burro morbido (strutto nella variante indicata dalla fonte)",
+        "110 g uova sgusciate",
+        "1 ml aroma di arancia",
+        "1 pizzico vanillina",
+        "2 g ammoniaca alimentare per dolci",
+        "60 g latte freddo",
+        "1 pizzico sale",
+        "Semi di sesamo q.b. (circa 150 g)",
+        "Acqua q.b. per rivestire"
+      ],
+      "name": "Reginelle palermitane al sesamo — versione al burro",
+      "notes": "Versione al burro documentata dall'autrice; la fonte prevede come alternativa 160 g strutto. Alternativa all'ammoniaca: 2 g lievito per dolci aggiunto direttamente alla farina, latte aggiunto separatamente. Alternative all'aroma: 2 cucchiaini marmellata d'arancia o scorza di mezza arancia. Variante senza glutine della fonte: 320 g farina di riso e 180 g farina di mais finissime, con controllo etichette; non certificata come scheda separata. Bagnare ogni biscotto su tutti i lati e usare pochi semi per volta; almeno due infornate. Durata settimanale indicata dalla fonte non validata.",
+      "origin": "Palermo, Sicilia, Italia",
+      "originalTimes": {
+        "cook": "25–30 min",
+        "prep": "20 min",
+        "rest": "Almeno 30 min in frigorifero; raffreddamento"
+      },
+      "originalTitle": "Reginelle: biscotti al sesamo siciliani",
+      "originalYield": "Circa 40 pezzi",
+      "photo": null,
+      "prep": "20 min",
+      "rest": "Almeno 30 min in frigorifero; raffreddamento",
+      "reviewedRecordSha256": "ae6384e84d8f7b8571f1580f2da7d63a6ae9e009f75309ae6dde81b6f6ab4072",
+      "serves": "Circa 40 pezzi",
+      "source": "https://blog.giallozafferano.it/ilchiccodimais/reginelle-biscotti-al-sesamo-siciliani/",
+      "sourceLabel": "Il Chicco di Mais / GialloZafferano",
+      "steps": [
+        "Sabbiare farina, vanillina, sale e burro morbido con le dita.",
+        "Incorporare zucchero e 110 g di uova sbattute; sciogliere l'ammoniaca nel latte freddo e aggiungere con l'aroma di arancia.",
+        "Impastare fino a panetto omogeneo, avvolgere e refrigerare almeno 30 minuti.",
+        "Dividere in otto, formare rotoli spessi circa 2 cm e tagliare cilindri lunghi 5 cm.",
+        "Bagnare con acqua e rivestire di sesamo; distanziare su teglie foderate. Bagnare tutti i lati, usando pochi semi per volta; prevedere almeno due infornate.",
+        "Cuocere in statico preriscaldato a 180 °C per 25–30 minuti fino a doratura; raffreddare."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": "Cookaround",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "12 min biscotti; 11 min per le uova dal bollore",
+      "description": "Biscotti di frolla friabile ai tuorli sodi, farciti prima della cottura.",
+      "id": "SRC-ae07188ee3017cc1",
+      "ingredients": [
+        "100 g farina 00",
+        "50 g fecola di patate",
+        "50 g zucchero a velo",
+        "3 tuorli sodi di uova medie",
+        "120 g burro ammorbidito",
+        "Scorza di limone non trattato q.b.",
+        "Marmellata di arance q.b.",
+        "Zucchero a velo q.b. per finitura"
+      ],
+      "name": "Ovis mollis piemontesi con tuorli sodi e marmellata di arance",
+      "notes": "Passare i tuorli sodi al setaccio fine, non soltanto sbriciolarli; formare rapidamente perché la frolla si ammorbidisce. La farcitura può variare secondo la fonte; questa versione conserva marmellata di arance. Gli albumi sodi avanzati sono riutilizzabili in altre preparazioni.",
+      "origin": "Piemonte, Italia, come indicato dalla fonte",
+      "originalTimes": {
+        "cook": "12 min biscotti; 11 min per le uova dal bollore",
+        "prep": "25 min",
+        "rest": "30 min in frigorifero; raffreddamento finale"
+      },
+      "originalTitle": "Ovis Mollis",
+      "originalYield": "12 pezzi",
+      "photo": null,
+      "prep": "25 min",
+      "rest": "30 min in frigorifero; raffreddamento finale",
+      "reviewedRecordSha256": "22ac4715afcab9b6285e6bc7a403f2fea426f7a7dd49f779ab1850a5a0883d82",
+      "serves": "12 pezzi",
+      "source": "https://www.cookaround.com/ricetta/Ovis-Mollis.html",
+      "sourceLabel": "Cookaround",
+      "steps": [
+        "Cuocere le uova 11 minuti dal bollore, raffreddare, sgusciare e separare i tuorli.",
+        "Mescolare farina, fecola e zucchero a velo; unire scorza di limone, burro morbido e tuorli passati al setaccio fine.",
+        "Impastare fino a panetto morbido e compatto, avvolgere e refrigerare 30 minuti.",
+        "Ricavare palline grandi circa una noce, disporle su carta forno; praticare un incavo con un tappo e riempirlo di marmellata. Formare rapidamente prima che l'impasto si scaldi.",
+        "Cuocere a 180 °C ventilato per 12 minuti mantenendo i biscotti chiari; raffreddare e spolverare con zucchero a velo."
+      ],
+      "temperature": "180 °C ventilato"
+    },
+    {
+      "author": "Redazione GialloZafferano (autore individuale non indicato)",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "15–20 min",
+      "description": "Frollini di mais e burro formati con bocchetta a stella.",
+      "id": "SRC-962711455a635a89",
+      "ingredients": [
+        "125 g farina di mais fioretto",
+        "250 g farina 00",
+        "125 g zucchero",
+        "1 uovo",
+        "1 tuorlo",
+        "250 g burro",
+        "Scorza di 1 limone",
+        "1 pizzico sale fino",
+        "1 baccello vaniglia (metodo: semi di mezzo baccello)"
+      ],
+      "name": "Paste di meliga piemontesi al mais fioretto — GialloZafferano",
+      "notes": "Lista originale: un baccello di vaniglia. Dose effettivamente prescritta dal procedimento: semi di mezzo baccello; il resto non ha destinazione dichiarata. Non si attribuisce una correzione alla redazione. Conservazione 4–5 giorni in latta o sotto campana dichiarata dalla fonte, non validata come garanzia. Formula distinta da CriseMax.",
+      "origin": "Piemonte, Cuneo e Mondovì secondo la fonte",
+      "originalTimes": {
+        "cook": "15–20 min",
+        "prep": "30 min",
+        "rest": "Raffreddamento dopo cottura; durata non dichiarata"
+      },
+      "originalTitle": "Paste di meliga",
+      "originalYield": "Circa 50 biscotti",
+      "photo": null,
+      "prep": "30 min",
+      "rest": "Raffreddamento dopo cottura; durata non dichiarata",
+      "reviewedRecordSha256": "959cee53e38a865c5c3bbc65d2e88ce7e90a05f01e095247ec7ce747777766a3",
+      "serves": "Circa 50 biscotti",
+      "source": "https://ricette.giallozafferano.it/Paste-di-meliga.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Mescolare farina di mais, farina 00 setacciata, sale, zucchero e semi di mezzo baccello di vaniglia come indicato nel procedimento.",
+        "Incorporare il burro morbido a pezzi e la scorza di limone.",
+        "Aggiungere uovo e tuorlo; amalgamare fino a ottenere una massa morbida e cremosa.",
+        "Trasferire in una tasca da pasticcere con bocchetta a stella. Formare anelli su una teglia imburrata e rivestita di carta forno.",
+        "Cuocere in forno statico a 180 °C per 15–20 minuti, fino a doratura."
+      ],
+      "temperature": "180 °C forno statico"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 12 min",
+      "description": "Pasticcini alle mandorle formati a mano e rivestiti di zucchero a velo; distinti dalla formula dressata con ciliegie.",
+      "id": "SRC-22f11e9f87145253",
+      "ingredients": [
+        "250 g mandorle intere pelate",
+        "250 g zucchero",
+        "70 g albumi",
+        "½ cucchiaino aroma di mandorla",
+        "Scorza di 1 limone",
+        "Zucchero a velo q.b. per rivestimento"
+      ],
+      "name": "Pizzicotti siciliani di pasta di mandorle al limone",
+      "notes": "Resa dichiarata 18 pezzi di circa 30 g: indicazioni approssimative della fonte, non un peso esatto né un bilancio di massa misurato. Formula distinta dalle paste dressate con 60 g di albumi. Non adottare il consiglio di sostituire l'aroma con armelline: usare soltanto aroma alimentare idoneo secondo etichetta. Conservazione settimanale della fonte non validata.",
+      "origin": "Sicilia, Italia",
+      "originalTimes": {
+        "cook": "Circa 12 min",
+        "prep": "20 min",
+        "rest": "Almeno 5 ore in frigorifero, oppure una notte; raffreddamento finale"
+      },
+      "originalTitle": "Pizzicotti di pasta di mandorle",
+      "originalYield": "18 pezzi da circa 30 g secondo fonte",
+      "photo": null,
+      "prep": "20 min",
+      "rest": "Almeno 5 ore in frigorifero, oppure una notte; raffreddamento finale",
+      "reviewedRecordSha256": "ae2b6f9559ba83735b01fd5776535fd8c6392713cc967fe192bb7b7e647c9551",
+      "serves": "18 pezzi da circa 30 g secondo fonte",
+      "source": "https://ricette.giallozafferano.it/Pizzicotti-di-pasta-di-mandorle.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Ridurre in polvere mandorle e zucchero con il mixer.",
+        "Aggiungere albumi, scorza grattugiata e aroma; frullare fino a massa compatta ma morbida.",
+        "Con mani appena umide formare palline di circa 30 g; rivestirle di zucchero a velo.",
+        "Disporle su carta forno e stringere la sommità con tre dita per ottenere la forma tipica; refrigerare almeno 5 ore o tutta la notte.",
+        "Cuocere sul ripiano medio a 180 °C ventilato per circa 12 minuti, fino a leggera doratura; raffreddare."
+      ],
+      "temperature": "180 °C ventilato, ripiano medio"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Dipende dal formato; non applicabile alla sola preparazione della sfoglia",
+      "description": "Impasto fondamentale di farina e uova, da stendere e tagliare secondo il formato.",
+      "id": "SRC-d8c369cfee5e4e38",
+      "ingredients": [
+        "400 g farina 00",
+        "4 uova da almeno 70 g ciascuna secondo fonte",
+        "Sale fino q.b."
+      ],
+      "name": "Pasta fresca all'uovo — sfoglia e formati",
+      "notes": "Usare uova intere, 4 da almeno 70 g ciascuna come indicate dalla fonte. Tenere coperto l'impasto e infarinare il piano. Per sfoglie da tagliare in nastri, la fonte consiglia un breve asciugamento su entrambi i lati con semola prima di ripiegare. La tradizione emiliana senza sale è indicata nel decalogo; rapporto per pasta ripiena diverso, non sostituisce questa formula. La redazione consiglia di non conservare il panetto crudo oltre 2–3 ore in frigorifero per ragioni di qualità; per congelare, disporre i formati separati su vassoio per circa due ore, poi trasferire in sacchetti e cuocere direttamente da congelati. Nessuna shelf life garantita.",
+      "origin": "Italia; tradizione della pasta fresca",
+      "originalTimes": {
+        "cook": "Dipende dal formato; non applicabile alla sola preparazione della sfoglia",
+        "prep": "15 min in scheda; lavorazione almeno 10 min, introduzione 15–20 min e stesura circa 15 min",
+        "rest": "30 min in frigorifero"
+      },
+      "originalTitle": "Pasta fresca all'uovo (sfoglia e formati)",
+      "originalYield": "4 persone",
+      "photo": null,
+      "prep": "15 min in scheda; lavorazione almeno 10 min, introduzione 15–20 min e stesura circa 15 min",
+      "rest": "30 min in frigorifero",
+      "reviewedRecordSha256": "e71c2ecd4947f0ea6c7d661db58c5838f008e9169b0ea9685241987dc36f8482",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Pasta-fresca-all-uovo.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Disporre la farina a fontana; sbattere le uova e versarle al centro con un pizzico di sale.",
+        "Incorporare la farina prima con la forchetta, poi con il tarocco; lavorare a mano senza lacerare l'impasto. Se screpolato, inumidire le mani. Formare un panetto omogeneo. Lavorare almeno 10 minuti, secondo il decalogo della fonte.",
+        "Avvolgere e refrigerare per 30 minuti; prelevare una porzione e mantenere coperto il resto.",
+        "Appiattire con il mattarello, ripiegare i lati e passare nella sfogliatrice al massimo spessore 3–4 volte, ripiegando ogni volta.",
+        "Ridurre progressivamente lo spessore e ritagliare nel formato scelto; mantenere coperte le porzioni non lavorate. Per sfoglie da tagliare in nastri, lasciare asciugare brevemente su entrambi i lati con poca semola."
+      ],
+      "temperature": "Riposo refrigerato; cottura dipendente dal formato, non indicata"
+    },
+    {
+      "author": "crisemaxincucina",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 20 min",
+      "description": "Variante documentata con farina 0, due uova intere e lievito chimico.",
+      "id": "SRC-07ccbe14c5217423",
+      "ingredients": [
+        "250 g farina 0",
+        "150 g farina di mais fioretto",
+        "250 g burro",
+        "130 g zucchero semolato",
+        "2 uova grandi a temperatura ambiente",
+        "Scorza di mezzo limone",
+        "1 pizzico sale fino",
+        "1 cucchiaino raso lievito per dolci"
+      ],
+      "name": "Paste di meliga con farina 0 e due uova — metodo manuale",
+      "notes": "Approvazione delimitata al metodo manuale autonomo, completo e documentato; il metodo Bimby è conservato nell'original_source immutato ma resta non verificato perché l'aggiunta del lievito non è dichiarata. Non si deduce il passaggio e non lo si presenta come eseguibile. Variante differente dalla ricetta GZ con uovo e tuorlo.",
+      "origin": "Piemonte",
+      "originalTimes": {
+        "cook": "Circa 20 min",
+        "prep": "10 min",
+        "rest": "Raffreddare prima di maneggiare"
+      },
+      "originalTitle": "Paste di meliga, ricetta piemontese con e senza Bimby",
+      "originalYield": "Circa 35 biscotti",
+      "photo": null,
+      "prep": "10 min",
+      "rest": "Raffreddare prima di maneggiare",
+      "reviewedRecordSha256": "5f7c5c723f010444f82f95e05d4009b032c92fd068fd54ffd2ee1d4e6f4d89ca",
+      "serves": "Circa 35 biscotti",
+      "source": "https://blog.giallozafferano.it/crisemaxincucina/paste-di-meliga/",
+      "sourceLabel": "CriseMax in cucina / GialloZafferano",
+      "steps": [
+        "Amalgamare il burro morbido con lo zucchero, quindi incorporare le uova.",
+        "Aggiungere le due farine, il lievito, il sale e la scorza di limone; lavorare fino a uniformità.",
+        "Formare coroncine con una tasca munita di bocchetta a stella direttamente su carta forno.",
+        "Cuocere a 170 °C per circa 20 minuti, fino a doratura. Far raffreddare prima di maneggiare, perché i biscotti sono friabili."
+      ],
+      "temperature": "Forno preriscaldato a 170 °C; modalità non dichiarata"
+    },
+    {
+      "author": "Valeria Ciccotti",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "10 min dichiarati nella scheda; scaldare fino alle prime bollicine",
+      "description": "Emulsione di panna calda e cioccolato fondente, adatta a farciture e coperture.",
+      "id": "SRC-a816b1801e787721",
+      "ingredients": [
+        "200 g cioccolato fondente (fonte: almeno 60/80%)",
+        "100 g panna fresca liquida"
+      ],
+      "name": "Ganache al cioccolato fondente e panna — rapporto 2:1",
+      "notes": "Formula originale invariata, rapporto 2:1. Indicazioni di sicurezza separate dalla ricetta: usare panna pastorizzata secondo etichetta, raffreddare prontamente in recipiente pulito coperto, conservare a 4 °C o meno e consumare tempestivamente. Come indicazione generale per deperibili FDA, non superare complessivamente due ore fuori frigorifero o un'ora sopra 32 °C; non è validazione della formula. Montare a freddo con utensili puliti. Le durate di un giorno a temperatura ambiente e tre giorni in frigorifero riportate dalla fonte non sono validate e non vengono prescritte. Non trasferire automaticamente durata o rapporto ad altri cioccolati o dolci farciti.",
+      "origin": "Tecnica di pasticceria, origine non specificata nella fonte",
+      "originalTimes": {
+        "cook": "10 min dichiarati nella scheda; scaldare fino alle prime bollicine",
+        "prep": "10 min",
+        "rest": "Raffreddamento in frigorifero per uso freddo; durata non dichiarata"
+      },
+      "originalTitle": "Ganache al cioccolato fondente",
+      "originalYield": "4 persone secondo la fonte; formula da 200 g cioccolato e 100 g panna",
+      "photo": null,
+      "prep": "10 min",
+      "rest": "Raffreddamento in frigorifero per uso freddo; durata non dichiarata",
+      "reviewedRecordSha256": "17dfb25c0c4bd8cc5617483999c8cf8a56c5cc2242161090c62bbd745079e2b9",
+      "serves": "4 persone secondo la fonte; formula da 200 g cioccolato e 100 g panna",
+      "source": "https://blog.giallozafferano.it/valeriaciccotti/ganache-al-cioccolato-fondente/",
+      "sourceLabel": "Valeria Ciccotti / GialloZafferano",
+      "steps": [
+        "Spezzettare o tritare il cioccolato e metterlo in un recipiente.",
+        "Scaldare la panna in un pentolino; quando iniziano a comparire bollicine, togliere dal fuoco senza farla bollire.",
+        "Versare la panna calda sul cioccolato e mescolare delicatamente con la spatola fino a ottenere una crema liscia e senza pezzi solidi.",
+        "Per l'uso a freddo raffreddare prontamente in frigorifero, in recipiente pulito coperto; per la variante montata lavorare a freddo con utensili puliti. Vedi nota di sicurezza separata."
+      ],
+      "temperature": "Scaldare senza raggiungere ebollizione; temperatura numerica non dichiarata"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 15 min nel metodo (10 min nel riepilogo)",
+      "description": "Pasticcini di mandorle, zucchero e albume, decorati con frutta candita o mandorle.",
+      "id": "SRC-ca9300790dc22f1c",
+      "ingredients": [
+        "250 g mandorle intere pelate",
+        "250 g zucchero",
+        "60 g albumi",
+        "½ cucchiaino aroma di mandorla",
+        "Ciliegie candite q.b.",
+        "Mandorle intere q.b."
+      ],
+      "name": "Paste di mandorla siciliane con ciliegie candite",
+      "notes": "Cottura secondo il metodo dettagliato, controllando colore chiaro e interno morbido. La fonte riporta 10 minuti nel riepilogo e circa 15 nel metodo: mantenute entrambe le indicazioni, senza ricavare un tempo medio. L'aroma può essere sostituito con vaniglia; scorza di limone o acqua di fiori d'arancio e altra frutta secca sono suggerimenti della fonte, non nuove formule approvate. Durata settimanale dichiarata dalla fonte non validata; non garantita.",
+      "origin": "Sicilia e altre regioni meridionali, secondo la fonte",
+      "originalTimes": {
+        "cook": "Circa 15 min nel metodo (10 min nel riepilogo)",
+        "prep": "30 min",
+        "rest": "Almeno 7 ore in frigorifero, preferibilmente una notte; raffreddamento finale"
+      },
+      "originalTitle": "Paste di mandorla",
+      "originalYield": "20 pezzi",
+      "photo": null,
+      "prep": "30 min",
+      "rest": "Almeno 7 ore in frigorifero, preferibilmente una notte; raffreddamento finale",
+      "reviewedRecordSha256": "e2cae2c262a16342675acb3f57fc68274100f0e6ef481f9772668887d548dc95",
+      "serves": "20 pezzi",
+      "source": "https://ricette.giallozafferano.it/Paste-di-mandorla.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Macinare mandorle e zucchero brevemente, evitando che il calore liberi l'olio.",
+        "Frullare con albumi e aroma fino a consistenza compatta e morbida.",
+        "Con bocchetta rigata da 10 mm formare pezzi di circa 3 cm di diametro e 2 cm di altezza su carta forno; decorare con mezze ciliegie o mandorle.",
+        "Coprire e refrigerare almeno 7 ore, preferibilmente una notte.",
+        "Cuocere sul ripiano medio in ventilato a 180 °C per circa 15 minuti; mantenerli chiari e morbidi internamente. Raffreddare prima di servire."
+      ],
+      "temperature": "180 °C ventilato, ripiano medio"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 20 min",
+      "description": "Piccola pasticceria da forno con crema di mandorle e impasto montato in cilindri di carta e metallo.",
+      "id": "SRC-b6d703df4e4133c5",
+      "ingredients": [
+        "20 g mandorle pelate",
+        "20 g zucchero a velo",
+        "10 g acqua",
+        "85 g zucchero",
+        "85 g burro a temperatura ambiente",
+        "52 g uovo intero",
+        "115 g farina 00",
+        "0,5 g essenza alimentare di mandorla amara"
+      ],
+      "name": "Cartucce napoletane alle mandorle",
+      "notes": "Montare il burro per qualche minuto; usare tasca senza bocchetta e cilindri metallici con cartine alimentari. Solo essenza alimentare di mandorla amara idonea secondo etichetta, non mandorle amare crude. La fonte ammette farina di mandorle nella stessa quantità e carta velina per alimenti in alternativa alle cartine; conservazione settimanale dichiarata non validata.",
+      "origin": "Napoli, Campania, Italia",
+      "originalTimes": {
+        "cook": "Circa 20 min",
+        "prep": "10 min",
+        "rest": "Intiepidimento prima di sfilare dagli stampi; durata non dichiarata"
+      },
+      "originalTitle": "Cartucce napoletane",
+      "originalYield": "Circa 16 pezzi",
+      "photo": null,
+      "prep": "10 min",
+      "rest": "Intiepidimento prima di sfilare dagli stampi; durata non dichiarata",
+      "reviewedRecordSha256": "ea31f90565c1e993f1735432f96c0abc72f94eda235a039aafb20f9884cfef89",
+      "serves": "Circa 16 pezzi",
+      "source": "https://ricette.giallozafferano.it/Cartucce-napoletane.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Frullare zucchero a velo, mandorle e acqua per ottenere una crema.",
+        "Montare il burro con lo zucchero e l'essenza; incorporare la crema di mandorle e poi l'uovo, facendolo assorbire. Montare il burro con le fruste per qualche minuto.",
+        "Versare tutta la farina e lavorare prima piano, poi a velocità leggermente superiore, fino a impasto liscio.",
+        "Trasferire in sac-à-poche; rivestire con cartine alimentari cilindri di diametro 2,5 cm e lunghezza 4,5 cm posti su placca con carta forno.",
+        "Riempire i cilindri fino al bordo, cuocere a 180 °C statico per circa 20 minuti fino a doratura; lasciare intiepidire, sfilare conservando le cartine."
+      ],
+      "temperature": "180 °C statico, ripiano centrale"
     }
   ]
 }
