@@ -31550,6 +31550,95 @@
         "Portare a bollore mescolando il terzo di farcitura rimasto con la panna. Lasciare raffreddare le girelle e spennellarle con la glassa."
       ],
       "temperature": "200 °C ventilato, come da edizione italiana"
+    },
+    {
+      "author": "La Cucina Italiana (versione redazionale; articolo di Valentina Vercelli)",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "15–16 min",
+      "description": "Variante redazionale dei biscotti piemontesi con farina di mais e frumento.",
+      "id": "SRC-1af204036dcd2653",
+      "ingredients": [
+        "175 g farina di mais finissima",
+        "150 g burro morbido",
+        "75 g zucchero a velo",
+        "75 g farina 00",
+        "40 g tuorli",
+        "½ baccello vaniglia",
+        "1 pizzico sale"
+      ],
+      "name": "Krumiri con farina di mais — versione La Cucina Italiana",
+      "notes": "La fonte distingue questa propria interpretazione dalla ricetta originale della famiglia produttrice. Non attribuire la formulazione a Domenico Rossi; non unificarla con la versione al solo frumento. Conservazione non dichiarata per questa formulazione.",
+      "origin": "Italia — Casale Monferrato, Piemonte",
+      "originalTimes": {
+        "cook": "15–16 min",
+        "prep": "Non dichiarata",
+        "rest": "Almeno 30 min per l'impasto e circa 10 min per i biscotti formati; raffreddamento finale"
+      },
+      "originalTitle": "Krumiri, la nostra versione",
+      "originalYield": "50 biscotti",
+      "photo": null,
+      "prep": "Non dichiarata",
+      "rest": "Almeno 30 min per l'impasto e circa 10 min per i biscotti formati; raffreddamento finale",
+      "reviewedRecordSha256": "7cf9c2a3caf2be230b4e491eb53b162486dab971af37322950c41a877718d891",
+      "serves": "50 biscotti",
+      "source": "https://www.lacucinaitaliana.it/storie/piatti-tipici/krumiri-ricetta-storia-biscotti/",
+      "sourceLabel": "La Cucina Italiana",
+      "steps": [
+        "Lavorare il burro morbido con zucchero a velo e tuorli.",
+        "Unire le farine, il sale e i semi del baccello; amalgamare fino a una massa abbastanza soda.",
+        "Riporre in frigorifero per almeno mezz'ora.",
+        "Usare una trafila da biscotti oppure una tasca da pasticciere con bocchetta dentata di diametro 1–1,5 cm. Formare sulla placca foderata con carta forno cordoncini rigati lunghi almeno 6–7 cm, piegandoli ad arco.",
+        "Raffreddare la placca per circa 10 minuti in frigorifero.",
+        "Infornare a 160 °C per 15–16 minuti e lasciar raffreddare dopo aver sfornato."
+      ],
+      "temperature": "160 °C"
+    },
+    {
+      "author": "Ricetta.it (autore individuale non indicato)",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "5 + 12–15 min",
+      "description": "Biscotti piemontesi rigati e arcuati, in una formulazione domestica al frumento.",
+      "id": "SRC-9f77a8af32047cc5",
+      "ingredients": [
+        "350 g farina 0 (la fonte ammette farina di grano tenero)",
+        "150 g burro",
+        "140 g zucchero",
+        "1 uovo",
+        "2 tuorli",
+        "1 bustina vanillina oppure ½ baccello vaniglia fresca"
+      ],
+      "name": "Krumiri piemontesi alla farina di grano tenero",
+      "notes": "Il totale di 80 min esposto nella testata è incompatibile con il riposo esplicito di circa 2 ore: non usarlo come durata complessiva. Preparazione e riposo sono riportati distintamente senza inventare un totale. Conservare al riparo dall'aria fino a una settimana. La fonte cita anche un'aromatizzazione al limone, senza dose precisa; non fa parte della formula approvata. Non attestata come formula brevettata originale.",
+      "origin": "Italia — Casale Monferrato, Piemonte",
+      "originalTimes": {
+        "cook": "5 + 12–15 min",
+        "prep": "Non distinta nella fonte",
+        "rest": "Circa 2 ore in frigorifero; la fonte cita anche il riposo tradizionale di un giorno; raffreddamento dopo cottura"
+      },
+      "originalTitle": "Krumiri",
+      "originalYield": "Circa 25 biscotti (4 porzioni secondo la testata)",
+      "photo": null,
+      "prep": "Non distinta nella fonte",
+      "rest": "Circa 2 ore in frigorifero; la fonte cita anche il riposo tradizionale di un giorno; raffreddamento dopo cottura",
+      "reviewedRecordSha256": "17a04c0be5a53963135cc3a4794825191796534d301f4b83f3defeb6626dd06f",
+      "serves": "Circa 25 biscotti (4 porzioni secondo la testata)",
+      "source": "https://ricetta.it/krumiri",
+      "sourceLabel": "Ricetta.it",
+      "steps": [
+        "Ammorbidire il burro fuori dal frigorifero e lavorarlo a mano con lo zucchero fino a renderlo cremoso e uniforme.",
+        "Unire l'uovo e i tuorli, quindi montare con lo sbattitore.",
+        "Aggiungere poco per volta la farina setacciata, poi la vaniglia scelta, mescolando fino a ottenere un impasto sodo e compatto.",
+        "Lasciare riposare in frigorifero per circa due ore. La fonte riferisce anche il riposo di un giorno nella preparazione tradizionale.",
+        "Formare bastoncini con trafila per biscotti e robot da cucina oppure lavorarli a mano, incurvandoli e incidendo righe con una forchetta. Disporli su una teglia rivestita di carta forno.",
+        "Cuocere nel forno preriscaldato a 200 °C per 5 minuti; abbassare a 180 °C e proseguire per 12–15 minuti secondo le dimensioni. Far raffreddare; il risultato descritto è scuro all'esterno e compatto all'interno."
+      ],
+      "temperature": "200 °C iniziali, poi 180 °C"
     }
   ]
 }
