@@ -32426,6 +32426,339 @@
         "Dividere in porzioni di circa 50 g, arrotolarle a cilindro e chiuderle ad anello. Disporre su carta da forno e cuocere a 170 °C circa 15 minuti."
       ],
       "temperature": "170 °C; modalità forno non dichiarata"
+    },
+    {
+      "author": "Redazione GialloZafferano (autore individuale non indicato)",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 20 min statico o 10–15 min ventilato, più tostatura di alcuni minuti",
+      "description": "Biscotti croccanti alle mandorle, variante documentata senza armelline.",
+      "id": "SRC-fe7d5b1af4e02719",
+      "ingredients": [
+        "Mandorle dolci pelate 215 g (200 g + 15 g sostitutivi delle armelline secondo consiglio della fonte)",
+        "Zucchero semolato 140 g",
+        "Zucchero a velo 125 g",
+        "Albumi 50 g",
+        "Ammoniaca per dolci 3 g"
+      ],
+      "name": "Amaretti croccanti con sole mandorle dolci",
+      "notes": "Variante senza armelline espressamente prevista dalla fonte: sostituire i 15 g con pari peso di mandorle pelate, omettere l'aroma amaro facoltativo. Non usare mandorle amare o armelline. La fonte ammette bicarbonato in pari dose al posto dell'ammoniaca alimentare; conservazione dichiarata 2–3 giorni in contenitore chiuso; non congelare la massa cruda, ma si possono congelare i biscotti crudi già formati. Pesare gli albumi; nessuna conversione fissa in numero di uova.",
+      "origin": "Italia (diffusi in diverse regioni)",
+      "originalTimes": {
+        "cook": "Circa 20 min statico o 10–15 min ventilato, più tostatura di alcuni minuti",
+        "prep": "Non dichiarata nel riscontro",
+        "rest": "Una notte in frigorifero; raffreddamento"
+      },
+      "originalTitle": "Amaretti (variante con mandorle pelate indicata nel consiglio)",
+      "originalYield": "Circa 50 pezzi",
+      "photo": null,
+      "prep": "Non dichiarata nel riscontro",
+      "publisher": "GialloZafferano",
+      "rest": "Una notte in frigorifero; raffreddamento",
+      "reviewedRecordSha256": "4243c5b260ad16ccc80cbc8f737028af3c0aaa681732949db2523d9e8ad40eb7",
+      "serves": "Circa 50 pezzi",
+      "source": "https://ricette.giallozafferano.it/Amaretti.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tostare i 200 g di mandorle dolci a 200 °C statico per alcuni minuti. Frullare con i 15 g sostitutivi e i due zuccheri; setacciare, macinare di nuovo e setacciare ancora.",
+        "Incorporare ammoniaca alimentare e albumi fino a impasto uniforme. Coprire e refrigerare una notte.",
+        "Formare circa 50 palline, disporle distanziate su carta forno e schiacciarle un poco al centro. Cuocere eventualmente in due teglie da 25.",
+        "Cuocere a 170 °C statico circa 20 minuti oppure 150 °C ventilato per 10–15 minuti. Lasciare raffreddare su griglia."
+      ],
+      "temperature": "Tostatura 200 °C statico; cottura 170 °C statico oppure 150 °C ventilato"
+    },
+    {
+      "author": "Salvatore De Riso",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "Circa 45 min",
+      "description": "Torta al cioccolato senza farina di frumento, con frutta secca e due montate.",
+      "id": "SRC-248aec557dac7f72",
+      "ingredients": [
+        "Cioccolato fondente 50% 170 g, grattugiato",
+        "Mandorle pelate 85 g",
+        "Nocciole spellate di Giffoni 85 g",
+        "Zucchero a velo 170 g",
+        "Burro morbido 170 g",
+        "Fecola 25 g",
+        "Cacao amaro 14 g",
+        "Albumi 148 g",
+        "Tuorli 85 g",
+        "Lievito per dolci 4 g",
+        "Mezzo baccello vaniglia Bourbon",
+        "Sale fino 1 pizzico",
+        "Zucchero a velo q.b. per finitura; burro e fecola q.b. per stampo (citati nel metodo)"
+      ],
+      "name": "Torta caprese di Sal De Riso con mandorle e nocciole",
+      "notes": "Nota editoriale prudenziale distinta: la fonte prevede 12 ore delle uova fuori frigo e 3–4 giorni sotto campana; tali condizioni non sono validate. Conservare le uova e gli ovoprodotti refrigerati fino alla preparazione, evitare esposizione notturna; verificare la cottura effettiva, non assaggiare l'impasto crudo. Consumare fresca; la fonte ammette congelamento dopo raffreddamento. Eventuale diversa gestione termica non collaudata sensorialmente. Riferimenti: IZSVe https://www.izsvenezie.it/uova-in-frigo-video/; FDA https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety; EFSA https://doi.org/10.2903/j.efsa.2020.6306. Variante al pistacchio già presente, formula distinta.",
+      "origin": "Italia, Campania, Capri",
+      "originalTimes": {
+        "cook": "Circa 45 min",
+        "prep": "30 min",
+        "rest": "Raffreddamento completo"
+      },
+      "originalTitle": "Torta caprese",
+      "originalYield": "10 persone; stampo 22 cm",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento completo",
+      "reviewedRecordSha256": "59322f304e3821f5b0cb7628f9bc27bdbb2a8701c769281ba9b2033a160e6077",
+      "serves": "10 persone; stampo 22 cm",
+      "source": "https://ricette.giallozafferano.it/Torta-caprese.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tenere refrigerate uova e ovoprodotti fino alla preparazione; non lasciare le uova fuori frigorifero durante la notte.",
+        "Montare burro morbido, metà dello zucchero a velo e vaniglia per 6–7 minuti; aggiungere sale e tuorli, montare fino a consistenza soffice.",
+        "Mescolare cioccolato grattugiato, mandorle e nocciole ridotte in polvere, fecola, cacao e lievito setacciati.",
+        "Montare albumi con lo zucchero rimanente fino a punte morbide e lucide. Incorporare al composto di burro alternando un terzo di albumi e un terzo delle polveri fino a esaurimento.",
+        "Versare nello stampo imburrato e spolverato di fecola, livellare e cuocere a 170 °C ventilato circa 45 minuti. Intiepidire nello stampo, sformare, raffreddare completamente e spolverare."
+      ],
+      "temperature": "Forno ventilato 170 °C"
+    },
+    {
+      "author": "Stefano Avellano e Massimiliano Rosati",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "70 min complessivi dichiarati; forno 50–55 min",
+      "description": "Torta pasquale di frolla con grano, ricotta di pecora e canditi.",
+      "id": "SRC-cb8b78862c03cd81",
+      "ingredients": [
+        "FROLLA: farina 00 250 g, strutto 50 g, burro 50 g, zucchero 80 g, miele millefiori 20 g, uova 60 g, latte intero 40 g, scorza di mezzo limone e mezza arancia, sale 1 pizzico",
+        "CREMA DI GRANO: grano cotto 200 g, latte intero 80 g, burro 25 g, scorze di limone e arancia q.b., sale 1 pizzico",
+        "RIPIENO: ricotta di pecora 200 g, zucchero 180 g, cedro candito 50 g, miele millefiori 20 g, 2 uova, 1 tuorlo, acqua di fiori d'arancio q.b., latte intero 20 g, scorze di limone e arancia q.b.",
+        "FINITURA: zucchero a velo q.b."
+      ],
+      "name": "Pastiera napoletana del Gran Caffè Gambrinus",
+      "notes": "Nota prudenziale separata dalla fonte: mantenere refrigerati i semilavorati deperibili; raffreddare rapidamente la crema di grano in recipiente basso e refrigerare. Verificare la cottura del ripieno; refrigerare tempestivamente il dolce, in generale entro due ore, prima in ambiente molto caldo; riposo aromatico di 24 ore in frigorifero anziché sotto campana a temperatura ambiente. Non convalidati i sette giorni in frigorifero o 3–4 fuori frigo indicati dalla fonte; nessuna nuova durata assegnata. Congelamento del prodotto cotto e raffreddato ammesso dalla fonte. Effetto sensoriale del riposo refrigerato non collaudato. Riferimenti FDA https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety; FoodSafety.gov https://www.foodsafety.gov/food-safety-charts/cold-food-storage-charts; EFSA https://doi.org/10.2903/j.efsa.2020.6306.",
+      "origin": "Italia, Campania, Napoli",
+      "originalTimes": {
+        "cook": "70 min complessivi dichiarati; forno 50–55 min",
+        "prep": "55 min",
+        "rest": "Frolla e ricotta 1 ora ciascuna; raffreddamento grano; riposo aromatico finale 24 ore in frigo (nota prudenziale)"
+      },
+      "originalTitle": "Pastiera napoletana",
+      "originalYield": "8 persone; ruoto svasato 20 cm",
+      "photo": null,
+      "prep": "55 min",
+      "publisher": "GialloZafferano",
+      "rest": "Frolla e ricotta 1 ora ciascuna; raffreddamento grano; riposo aromatico finale 24 ore in frigo (nota prudenziale)",
+      "reviewedRecordSha256": "b75d0e5151650be65919fb309349c007bdf1f25741c259b92a278d34fa87a55e",
+      "serves": "8 persone; ruoto svasato 20 cm",
+      "source": "https://ricette.giallozafferano.it/Pastiera-napoletana.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Disporre farina setacciata e sale a fontana; impastare al centro i grassi con lo zucchero, poi miele, uovo, latte e scorze. Incorporare la farina gradualmente, rendere liscio il panetto e refrigerare coperto per 1 ora.",
+        "Scaldare grano, sale, latte, burro e scorze; schiacciare il grano mescolando fino a sfiorare l'ebollizione. Raffreddare in recipiente basso. Raffreddare rapidamente e refrigerare.",
+        "Passare la ricotta al setaccio, amalgamarla allo zucchero e refrigerare 1 ora. Togliere le scorze dal grano freddo, aggiungere il cedro; eventuale breve frullatura.",
+        "Unire miele alla ricotta, quindi il grano. A parte mescolare uova, tuorlo, acqua di fiori d'arancio, latte e scorze; aggiungere in due o tre riprese.",
+        "Stendere la porzione maggiore di frolla a 3 mm, rivestire il ruoto non unto, rifilare e bucherellare. Versare il ripieno e battere leggermente lo stampo.",
+        "Ricavare sette strisce larghe 1–2 cm, quattro in un senso e tre nell'altro. Rifilare; cuocere sul ripiano inferiore in forno statico a 180 °C per 50–55 minuti, verificando la cottura del ripieno. Raffreddare e refrigerare tempestivamente; sformare quando raffreddata, lasciare riposare 24 ore in frigorifero e guarnire al servizio."
+      ],
+      "temperature": "Forno statico 180 °C, 50–55 min sul ripiano inferiore"
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "2 h 10 min complessivi dichiarati; essiccazione circa 2 h",
+      "description": "Meringa a caldo utilizzabile morbida oppure essiccata.",
+      "id": "SRC-fd9e327ee1302818",
+      "ingredients": [
+        "Albumi 100 g (pastorizzati, dichiarati idonei dal produttore alla montata e al consumo senza ulteriore cottura)",
+        "Zucchero 200 g"
+      ],
+      "name": "Meringa svizzera a bagnomaria",
+      "notes": "Nota prudenziale distinta: il bagnomaria a 60–65 °C senza tempo di mantenimento non certifica la pastorizzazione; usare un ovoprodotto idoneo per consumo senza ulteriore cottura e montata, rispettare etichetta e catena del freddo. La finitura al cannello non tratta tutta la massa. Per la versione morbida utilizzare subito per il servizio, conservando refrigerata fino al consumo. Non convalidati 24 ore o un mese dichiarati dalla fonte; non introdotta altra durata. Nessun prodotto specifico qualificato come pronto al consumo. Riferimenti FDA https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety; EFSA https://doi.org/10.2903/j.efsa.2020.6306; esempi di etichette nel dossier SPEC26.",
+      "origin": "Denominazione svizzera della tecnica; origine storica non attestata",
+      "originalTimes": {
+        "cook": "2 h 10 min complessivi dichiarati; essiccazione circa 2 h",
+        "prep": "20 min",
+        "rest": "Montare fino a raffreddamento"
+      },
+      "originalTitle": "Meringa svizzera",
+      "originalYield": "30 pezzi se cotta",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "GialloZafferano",
+      "rest": "Montare fino a raffreddamento",
+      "reviewedRecordSha256": "76dbf49660af9821429dd17b19395ee170a8ddd03da0b84d7c7a68cd9b88110c",
+      "serves": "30 pezzi se cotta",
+      "source": "https://ricette.giallozafferano.it/Meringa-svizzera.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Scaldare albumi e zucchero in una ciotola sopra acqua calda senza contatto con l'acqua, mescolando continuamente fino a 60–65 °C.",
+        "Togliere dal calore e montare fino a raffreddamento e formazione di punte lucide e stabili.",
+        "Per i biscotti, formare circa 30 ciuffi con sac-à-poche su carta forno; essiccare a 90 °C per circa 2 ore, finché asciutti e leggeri. Per la decorazione morbida usare il composto montato, con eventuale finitura al cannello.",
+        "Per il servizio morbido, usare subito e mantenere refrigerato fino al consumo; il cannello è soltanto una finitura."
+      ],
+      "temperature": "Bagnomaria 60–65 °C; forno statico 90 °C"
+    },
+    {
+      "author": "Redazione GialloZafferano (autore individuale non indicato)",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "50 min complessivi dichiarati; forno 40 min",
+      "description": "Crostata chiusa con frolla al limone, crema pasticcera e pinoli.",
+      "id": "SRC-fc72300d382bbd84",
+      "ingredients": [
+        "FROLLA: farina 00 500 g",
+        "Burro morbido 250 g",
+        "Zucchero a velo 150 g",
+        "Uova 110 g (2 medie)",
+        "Scorza di mezzo limone non trattato",
+        "Sale 1 pizzico",
+        "Lievito per dolci 4 g",
+        "CREMA: latte intero 500 g",
+        "Zucchero 100 g",
+        "Tuorli 85 g (circa 5)",
+        "Scorza di mezzo limone non trattato",
+        "Amido di mais 25 g",
+        "Amido di riso 20 g",
+        "FINITURA: pinoli 40 g",
+        "Zucchero a velo q.b.",
+        "Acqua e farina q.b. per finitura e stesura (nel metodo)"
+      ],
+      "name": "Torta della nonna coperta con crema e pinoli",
+      "notes": "Versione coperta: la fonte descrive anche la variante aperta, non fusa con questa. Raffreddare e conservare in frigorifero; la fonte indica un paio di giorni. Crema preparata in anticipo: refrigerare coperta a contatto; frolla congelabile. Tempi complessivi e cottura del forno distinti; regione d'origine non dichiarata.",
+      "origin": "Italia (regione non dichiarata nella fonte consultata)",
+      "originalTimes": {
+        "cook": "50 min complessivi dichiarati; forno 40 min",
+        "prep": "50 min",
+        "rest": "2 ore in frigo per la frolla; raffreddamento"
+      },
+      "originalTitle": "Torta della nonna",
+      "originalYield": "10 persone; stampo 24 cm",
+      "photo": null,
+      "prep": "50 min",
+      "publisher": "GialloZafferano",
+      "rest": "2 ore in frigo per la frolla; raffreddamento",
+      "reviewedRecordSha256": "b4c570dd0300598324479ae01f50e2e25eb70e873fbd033d1bc89624d7c6ee2d",
+      "serves": "10 persone; stampo 24 cm",
+      "source": "https://ricette.giallozafferano.it/Torta-della-nonna.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Lavorare burro plastico, zucchero a velo, scorza e sale; aggiungere le uova, poi farina e lievito insieme. Impastare brevemente, appiattire tra carta forno e refrigerare 2 ore.",
+        "Scaldare il latte con scorza; mescolare tuorli, zucchero e amidi. Togliere la scorza quando il latte sfiora il bollore, versarlo sulle uova mescolando e riportare sul fuoco basso fino ad addensamento. Coprire a contatto.",
+        "Stendere due terzi della frolla a 7–8 mm, foderare lo stampo, rifilare e forare la base. Mescolare la crema ancora calda ma non bollente, riempire e livellare.",
+        "Stendere la frolla restante a circa 5 mm, coprire e sigillare. Forare, spennellare con acqua, distribuire i pinoli e cuocere nel ripiano basso a 180 °C statico per 40 minuti. Raffreddare e spolverare."
+      ],
+      "temperature": "Forno statico 180 °C, ripiano basso"
+    },
+    {
+      "author": "Iginio Massari",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "45 min",
+      "description": "Versione del maestro con farina di mais e mandorle, impasto raffreddato e sgranato.",
+      "id": "SRC-66b9ea68ea9bf311",
+      "ingredients": [
+        "Farina 00 200 g",
+        "Farina di mais fioretto 100 g",
+        "Farina di mandorle non pelate 200 g",
+        "Burro morbido e plastico 200 g",
+        "Zucchero 200 g",
+        "Uova 100 g (circa 2 medie)",
+        "Mandorle grezze 40 g",
+        "Maraschino 30 g",
+        "Lievito per dolci 10 g",
+        "Vaniglia mezzo baccello",
+        "Sale 2 g"
+      ],
+      "name": "Torta sbrisolona di Iginio Massari",
+      "notes": "Formula d'autore con lievito, distinta da altre formulazioni mantovane; alternativa alla griglia: colino a maglie ampie. Servire a pezzi grossolani, anche con moscato. La fonte indica 1–2 settimane sotto campana e congelamento fino a due mesi (anche impasto crudo); durata riportata come indicazione della fonte, non validazione di shelf life. Porzioni numeriche non dichiarate.",
+      "origin": "Italia, Lombardia, Mantova",
+      "originalTimes": {
+        "cook": "45 min",
+        "prep": "20 min",
+        "rest": "Almeno 4 ore in freezer; raffreddamento"
+      },
+      "originalTitle": "Torta sbrisolona",
+      "originalYield": "Uno stampo svasato 32 cm in alto, 28 cm alla base; numero porzioni non indicato nel testo consultato",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 4 ore in freezer; raffreddamento",
+      "reviewedRecordSha256": "e0a8397a5bde588d3fec9ae69de4ecd7717b66e18e760a2a9ad7aa7c797ce9c4",
+      "serves": "Uno stampo svasato 32 cm in alto, 28 cm alla base; numero porzioni non indicato nel testo consultato",
+      "source": "https://ricette.giallozafferano.it/Torta-sbrisolona.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Disporre a fontana farine e lievito; lavorare al centro burro, sale, uova e zucchero. Incorporare maraschino, mandorle tritate grossolanamente e semi di vaniglia.",
+        "Portare gradualmente le polveri verso il centro fino a ottenere una massa uniforme. Appiattire su teglia con carta forno e congelare almeno 4 ore.",
+        "Spezzare il blocco rigido e passarlo attraverso una griglia con aperture di 1 cm, ottenendo briciole grosse. Distribuirle senza comprimere nello stampo foderato sul fondo.",
+        "Cuocere in forno statico a 170 °C per 45 minuti, fino a doratura. Lasciare raffreddare prima di sformare."
+      ],
+      "temperature": "Forno statico 170 °C"
+    },
+    {
+      "author": "Autore individuale non indicato nel riscontro disponibile",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "20 min",
+      "description": "Brownies alle nocciole tagliati a forma di alberello e decorati.",
+      "id": "GZ-02529",
+      "ingredients": [
+        "Base: cioccolato fondente 200 g",
+        "Burro 175 g",
+        "Cacao amaro 2 cucchiai",
+        "Lievito per dolci 1 cucchiaino",
+        "Nocciole pelate 60 g",
+        "Sale 1 pizzico",
+        "Uova medie 2",
+        "Zucchero 200 g",
+        "Farina 00 100 g",
+        "Decorazione alternativa prevista dalla fonte: cioccolato bianco da fondere, quantità non dichiarata",
+        "Colorante alimentare facoltativo, confettini e zucchero a velo q.b.; stecchi per la presentazione",
+        "Variante ghiaccia: albume 30 g, zucchero a velo 150 g, alcune gocce di limone, colorante q.b. (per questa variante solo albume pastorizzato dichiarato idoneo al consumo senza cottura)"
+      ],
+      "name": "Alberi di Natale brownies",
+      "notes": "La ricetta storica e la formula della ghiaccia restano conservate. Il cioccolato bianco è un'alternativa esplicita della fonte, che non ne indica la dose. Nota editoriale prudenziale distinta: non si convalidano cinque giorni in scatola per il prodotto decorato, né la stabilità della ghiaccia senza prova specifica; non raccomandare conservazione prolungata. Per la ghiaccia usare esclusivamente albume pastorizzato idoneo secondo etichetta al consumo senza cottura. Dossier SPEC26, 26/11/2026; University of Tennessee Extension W1367, pp. 3–4, https://utia.tennessee.edu/publications/wp-content/uploads/sites/269/2026/01/W1367.pdf.",
+      "origin": "Origine storica non documentata",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": "10 min prima di sformare, poi raffreddamento completo"
+      },
+      "originalTitle": "Christmas tree brownies",
+      "originalYield": "10 pezzi",
+      "pdfPage": 325,
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8f202e621a2664bdadfe640c37697a9471e73c7c81ad9d1c6bdf494d0a47314b",
+        "previousAppSha256": "8f202e621a2664bdadfe640c37697a9471e73c7c81ad9d1c6bdf494d0a47314b",
+        "reviewedDigest": "bd1f86ac70bff7682d7851ef1884a33d539277dac2a182fada4cd4e4d63518f9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "10 min prima di sformare, poi raffreddamento completo",
+      "reviewedRecordSha256": "bd1f86ac70bff7682d7851ef1884a33d539277dac2a182fada4cd4e4d63518f9",
+      "serves": "10 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/christmas-tree-brownies.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Fondere a bagnomaria burro, fondente tritato e cacao. Lasciare intiepidire.",
+        "Montare uova e zucchero; incorporare il composto al cioccolato. Aggiungere gradualmente farina, lievito e sale setacciati; unire le nocciole tritate grossolanamente.",
+        "Stendere in teglia rettangolare foderata (8 × 11 pollici secondo la fonte); cuocere in forno statico a 180 °C circa 20 minuti. Attendere 10 minuti prima di sformare, poi fare raffreddare completamente.",
+        "Dividere il rettangolo in due fasce e ricavare dieci alberelli con uno stampino, oppure tagliare triangoli (base 3 pollici, lati 3,5 pollici secondo la fonte).",
+        "Per la decorazione alternativa già indicata dalla fonte, fondere il cioccolato bianco a bagnomaria; dividerlo e colorarne una parte se desiderato. Decorare le sagome con confettini e zucchero a velo e completare con gli stecchi.",
+        "Variante ghiaccia: montare l'albume idoneo al consumo senza cottura, incorporare lo zucchero a velo e il limone, dividere e colorare una parte, decorare con i due colori e confettini. Preparare per il servizio; non usare albume crudo non pastorizzato."
+      ],
+      "temperature": "Forno statico 180 °C (fonte inglese 350 °F)"
     }
   ]
 }
