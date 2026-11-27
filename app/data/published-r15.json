@@ -33495,6 +33495,136 @@
         "Avvolgere e lasciare in frigorifero almeno mezz'ora prima della formatura."
       ],
       "temperature": "Cottura non applicabile alla base cruda; frigorifero per riposo"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "8–10 min circa (riepilogo: 10 min)",
+      "description": "Pasta biscotto alla vaniglia per rotoli",
+      "id": "SRC-9717eff3f8452b05",
+      "ingredients": [
+        "Uova 245 g (circa 5 medie; preferibilmente a temperatura ambiente)",
+        "Zucchero 115 g",
+        "Farina 00 80 g",
+        "Estratto di vaniglia 1 cucchiaino",
+        "Burro per ungere la teglia (quantità non indicata nella fonte)"
+      ],
+      "name": "Pasta biscotto alla vaniglia per rotoli",
+      "notes": "La fonte raccomanda di farcire appena fredda; indica al massimo un giorno avvolta in pellicola, oppure congelamento dopo raffreddamento. Si può usare come strato sottile di circa 2 cm. Non occorre lievito. Suggerimenti distinti dalla formula base: scorza di agrumi o cannella, miele 10 g per aroma e doratura; la fonte propone inoltre una variante al cacao con 35 g di farina e 25 g di cacao, da non confondere con la formula alla vaniglia. Il burro della teglia è citato soltanto nel metodo.",
+      "origin": "Origine specifica non dichiarata",
+      "originalTimes": {
+        "cook": "8–10 min circa (riepilogo: 10 min)",
+        "prep": "20 min",
+        "rest": "fino a completo raffreddamento"
+      },
+      "originalTitle": "Pasta biscotto",
+      "originalYield": "6 persone; una teglia 30 × 40 cm",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "GialloZafferano",
+      "rest": "fino a completo raffreddamento",
+      "reviewedRecordSha256": "c4dd2dcd0ceba299f2a5b6db33c553e3a32e6ecde8367663ecfd310868ce09cc",
+      "serves": "6 persone; una teglia 30 × 40 cm",
+      "source": "https://ricette.giallozafferano.it/Pasta-biscotto.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Montare in planetaria le uova con la vaniglia, aggiungendo lo zucchero poco per volta. Dopo circa 10 minuti la massa deve essere chiara, aerata e voluminosa.",
+        "Unire la farina passandola al setaccio; incorporarla con una spatola con movimenti delicati dal fondo verso la superficie.",
+        "Ungere con burro una teglia 30 × 40 cm, foderarla con carta forno e distribuirvi uniformemente il composto.",
+        "Infornare a 220 °C in statico già caldo per circa 8–10 minuti. Cercare una doratura uniforme e controllare la cottura con uno stecchino; adattare tempo o temperatura al proprio forno.",
+        "Preparare un foglio pulito di carta forno sul piano e rovesciarvi la base appena sfornata.",
+        "Quando è tiepida, staccare con cura la carta di cottura, quindi riappoggiarla sopra la base. Attendere il raffreddamento completo prima di farcire e arrotolare."
+      ],
+      "temperature": "Forno statico preriscaldato 220 °C"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "10 min",
+      "description": "Crema al latte con miele e panna montata",
+      "id": "SRC-a8c70ef4bc74b7ca",
+      "ingredients": [
+        "Latte intero 400 g (300 g + 100 g)",
+        "Zucchero 80 g",
+        "Miele 1 cucchiaino",
+        "Vaniglia 1 baccello (semi)",
+        "Amido di mais 40 g",
+        "Panna fresca liquida 150 g"
+      ],
+      "name": "Crema al latte con miele e panna montata",
+      "notes": "Per farcire bignè, rotoli e torte. La vaniglia si può sostituire con scorza di limone o arancia. La fonte indica fino a 2 giorni in frigorifero, coperta, e sconsiglia congelare: durata non validata sperimentalmente. Precauzione separata dalla fonte: porzionare in contenitori bassi, refrigerare rapidamente a non oltre 4 °C, senza lasciare a temperatura ambiente oltre 2 ore (1 ora sopra 32 °C); consumare quanto prima. Riferimenti consultati 27/11/2026: https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely ; https://www.cdc.gov/food-safety/prevention/index.html.",
+      "origin": "Origine specifica non dichiarata",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "20 min",
+        "rest": "almeno 30 min in frigorifero; raffreddamento completo"
+      },
+      "originalTitle": "Crema al latte",
+      "originalYield": "4 persone",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "GialloZafferano",
+      "rest": "almeno 30 min in frigorifero; raffreddamento completo",
+      "reviewedRecordSha256": "06f332dc71851aa1b41e2dceb69e7bc17556e3c3288df1cd1693c7a481647b48",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Crema-al-latte.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "In una casseruola scaldare 300 g di latte con lo zucchero. Aprire la vaniglia, raschiare i semi e aggiungerli; mescolare a calore minimo finché lo zucchero si scioglie.",
+        "Setacciare l'amido separatamente e stemperarlo con i 100 g di latte rimasti, lavorando con la frusta.",
+        "Versare il latte con amido nella casseruola e aggiungere il miele. Mescolare continuamente a fuoco molto basso finché il composto si addensa e appare uniforme.",
+        "Trasferire la crema in un recipiente pulito, coprendo la superficie con pellicola idonea al contatto. Raffreddare rapidamente e passare in frigorifero (la fonte descrive una fase a temperatura ambiente di durata non indicata). Riposo refrigerato almeno 30 minuti, fino a crema fredda.",
+        "Se compaiono grumi passare la crema a un colino fine, quindi ammorbidirla con lo sbattitore. Montare a parte la panna fredda.",
+        "Unire la panna montata alla crema fredda usando una spatola con movimenti delicati verso l'alto, ottenendo una consistenza uniforme."
+      ],
+      "temperature": "Fuoco molto basso; temperatura numerica di cottura non indicata"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "non applicabile",
+      "description": "Crema al mascarpone senza uova all'arancia",
+      "id": "SRC-ddeedddaa840bdb8",
+      "ingredients": [
+        "Mascarpone 250 g",
+        "Panna fresca liquida 125 g",
+        "Zucchero a velo 70 g",
+        "Grand Marnier 10 g",
+        "Scorza di 1 arancia"
+      ],
+      "name": "Crema al mascarpone senza uova all'arancia",
+      "notes": "Distinta dalla crema con tuorli. La resa è quella riportata dalla fonte, non una pesata. Varianti dichiarate: sostituire i 10 g di liquore con altrettanto succo d'arancia; la fonte suggerisce anche la sostituzione della panna con pari dose di succo (variante separata, consistenza non verificata); semi di vaniglia in alternativa alla scorza. La redazione raccomanda panna fresca refrigerata. Conservazione della fonte: 2–3 giorni al massimo in recipiente ermetico; durata non validata. Precauzione separata: usare latticini pastorizzati, rispettare le etichette, refrigerare a non oltre 4 °C, consumare presto; non lasciare fuori dal frigo più di 2 ore (1 ora sopra 32 °C). Fonte di sicurezza consultata 27/11/2026: https://www.fda.gov/consumers/consumer-updates/are-you-storing-food-safely.",
+      "origin": "Origine specifica non dichiarata",
+      "originalTimes": {
+        "cook": "non applicabile",
+        "prep": "10 min",
+        "rest": "non dichiarato"
+      },
+      "originalTitle": "Crema al mascarpone senza uova",
+      "originalYield": "450 g di crema (resa dichiarata); 8 persone",
+      "photo": null,
+      "prep": "10 min",
+      "publisher": "GialloZafferano",
+      "rest": "non dichiarato",
+      "reviewedRecordSha256": "8f35884cec58da29e19c823d53ffb667e8d0a97fcfb8b047e744509380281a49",
+      "serves": "450 g di crema (resa dichiarata); 8 persone",
+      "source": "https://ricette.giallozafferano.it/Crema-al-mascarpone-senza-uova.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Riunire in una ciotola mascarpone, panna, zucchero a velo e liquore.",
+        "Aggiungere la scorza grattugiata e montare con lo sbattitore a velocità media, fermandosi quando la crema è omogenea e sostenuta.",
+        "Servire subito o utilizzare come farcitura, mantenendo la preparazione refrigerata fino all'uso."
+      ],
+      "temperature": "Preparazione a freddo; temperatura numerica non indicata"
     }
   ]
 }
