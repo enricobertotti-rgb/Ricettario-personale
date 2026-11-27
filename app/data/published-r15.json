@@ -34159,6 +34159,191 @@
         "Farcire con un poco di crema usando una sac à poche, spennellare con uovo battuto, distribuire il crumble e cuocere a 180 °C per 18 minuti. Lasciar raffreddare e finire con zucchero a velo. In alternativa, come previsto dalla fonte, farcire le brioche dopo averle cotte e raffreddate."
       ],
       "temperature": "28 °C lievitazione; 170 °C crumble; 180 °C brioche (modalità forno non indicata)"
+    },
+    {
+      "author": "Cucchiaio d'Argento (autore individuale non indicato)",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "20 min",
+      "description": "Crema da farcitura o al cucchiaio, aromatizzata con scorza di limone.",
+      "id": "SRC-7fe1be8341efab33",
+      "ingredients": [
+        "500 ml latte intero",
+        "Scorza di 2 limoni non trattati",
+        "6 tuorli a temperatura ambiente",
+        "130 g zucchero semolato",
+        "50 g farina 00"
+      ],
+      "name": "Crema al limone con latte, tuorli e farina",
+      "notes": "La fonte indica filtrazione del latte caldo e 3–4 bolle come segnale finale; non è lemon curd (contiene latte, non succo né burro). Precauzione aggiuntiva, non dato della ricetta: raffreddare rapidamente in recipiente basso pulito, coperto, poi refrigerare a 0–5 °C entro 1–2 ore se non utilizzata subito. Fonte generale FSA: https://www.food.gov.uk/research/behaviour-and-perception/storing-chilled-foods-at-incorrect-temperatures . Nessuna durata specifica di conservazione attestata.",
+      "origin": "Paese specifico non dichiarato dalla fonte per questa formulazione",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "10 min",
+        "rest": "Raffreddamento: durata non dichiarata"
+      },
+      "originalTitle": "Crema al limone",
+      "originalYield": "Circa 600 g",
+      "photo": null,
+      "prep": "10 min",
+      "publisher": "Cucchiaio d'Argento",
+      "rest": "Raffreddamento: durata non dichiarata",
+      "reviewedRecordSha256": "fe265b8ed4eb54189cce50f173a5e0a5bcb1734226947a3627d76f1b63c64e5f",
+      "serves": "Circa 600 g",
+      "source": "https://www.cucchiaio.it/ricetta/crema-al-limone/",
+      "sourceLabel": "Cucchiaio d'Argento",
+      "steps": [
+        "Prelevare la parte gialla delle scorze con un pelapatate e portarla a ebollizione insieme al latte. A parte sbattere i tuorli e lo zucchero con una frusta.",
+        "Incorporare la farina setacciata; aggiungere gradualmente il latte caldo filtrato, continuando a mescolare. Passare su fuoco basso.",
+        "Mescolare finché la crema si addensa e compaiono 3–4 bolle. Trasferire in una ciotola, coprire con pellicola a contatto e lasciar raffreddare."
+      ],
+      "temperature": "Ebollizione del latte; poi fuoco basso; temperatura numerica non dichiarata"
+    },
+    {
+      "author": "Giorgio Loda",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "Circa 50 min",
+      "description": "Pandolce basso friabile con canditi, uvetta e pinoli.",
+      "id": "SRC-dd83caedce4bdf96",
+      "ingredients": [
+        "150 g uvetta sultanina",
+        "50 g cedro candito",
+        "50 g arancia candita",
+        "50 g pinoli",
+        "450 g farina 00 (un cucchiaio prelevato per la frutta)",
+        "150 g zucchero",
+        "130 g burro morbido",
+        "1 uovo a temperatura ambiente",
+        "60 ml latte intero",
+        "40 ml Marsala",
+        "20 ml acqua di fiori d'arancio",
+        "5 g semi di finocchio",
+        "12 g lievito per dolci",
+        "Scorza grattugiata di 1 limone non trattato",
+        "1 pizzico sale fino",
+        "Acqua tiepida per ammollo (quantità non dichiarata)",
+        "1 rametto di alloro facoltativo"
+      ],
+      "name": "Pandolce genovese basso con Marsala e finocchio — Giorgio Loda",
+      "notes": "Versione bassa con lievito chimico. Varianti della fonte: zucca candita o 100 g di canditi misti; 1 cucchiaino anice al posto del finocchio; Marsala sostituibile con pari latte; 100 g di tipo 1 al posto di pari 00. In mancanza di acqua di fiori d'arancio, pari latte e scorza di arancia. La fonte suggerisce anche 5 g di ammoniaca per dolci al posto di metà del lievito: non modificare la formula principale. Conservazione dichiarata: fino a 10 giorni ben chiuso, lontano dal calore, oppure congelato fino a 2 mesi; non validata sperimentalmente. La pezzatura 22 × 5 cm è quella indicata, non verificata in pratica.",
+      "origin": "Italia — Liguria, Genova",
+      "originalTimes": {
+        "cook": "Circa 50 min",
+        "prep": "30 min dichiarati",
+        "rest": "Ammollo 15 min; raffreddamento almeno 1 ora"
+      },
+      "originalTitle": "Pandolce Genovese Basso",
+      "originalYield": "10 persone; una cupola circa 22 cm di diametro e 5 cm di altezza secondo fonte",
+      "photo": null,
+      "prep": "30 min dichiarati",
+      "publisher": "Il Club delle Ricette",
+      "rest": "Ammollo 15 min; raffreddamento almeno 1 ora",
+      "reviewedRecordSha256": "b2a9c51479b6212c141b1894461af597ea55736a38be6244540aeb3511008682",
+      "serves": "10 persone; una cupola circa 22 cm di diametro e 5 cm di altezza secondo fonte",
+      "source": "https://www.ilclubdellericette.it/ricetta/pandolce-genovese-basso",
+      "sourceLabel": "Il Club delle Ricette",
+      "steps": [
+        "Ammollare l'uvetta 15 minuti in acqua tiepida, scolare, strizzare e asciugare. Ridurre i canditi a cubetti di circa 5 mm; unirli a pinoli e uvetta con un cucchiaio della farina pesata.",
+        "Mescolare burro e zucchero senza montarli; incorporare uovo, sale e scorza di limone. Versare gradualmente latte, Marsala e acqua di fiori d'arancio.",
+        "Unire farina rimanente setacciata con lievito e semi di finocchio. Lavorare brevemente fino a massa omogenea, appiattire a circa 2 cm, distribuire la frutta e richiudere piegando poche volte.",
+        "Formare una cupola bassa su carta forno (circa 22 × 5 cm, come dichiarato); incidere un triangolo con tre tagli profondi 1 cm.",
+        "Infornare statico a 180 °C per circa 50 min; se scurisce troppo, proteggere con alluminio negli ultimi 15 min. Controllare doratura, crepe e stecchino asciutto.",
+        "Far raffreddare completamente su gratella almeno un'ora; servire a fette con alloro facoltativo."
+      ],
+      "temperature": "Forno statico preriscaldato a 180 °C"
+    },
+    {
+      "author": "Irene Cirillo",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Fino a bollore e addensamento; durata non dichiarata",
+      "description": "Crema mousseline alla vaniglia con burro in due fasi",
+      "id": "SRC-f500629016694c0d",
+      "ingredients": [
+        "500 ml latte intero",
+        "4 tuorli",
+        "1 baccello di vaniglia",
+        "150 g zucchero",
+        "50 g amido di mais",
+        "250 g burro (125 g + 125 g)"
+      ],
+      "name": "Crema mousseline alla vaniglia con burro in due fasi",
+      "notes": "Il dossier SPEC26 conferma il metodo in due fasi. Il riferimento 20–25 °C riguarda una diversa formula CAP e la sola lavorazione immediata, non lo stoccaggio. Precauzione FSA: ridurre il tempo a temperatura ambiente, raffreddare rapidamente in strato basso e refrigerare entro 1–2 ore a 0–5 °C se non si completa subito; refrigerare anche i dolci farciti. Nessuna shelf life specifica attestata. Fonte generale: https://www.food.gov.uk/research/behaviour-and-perception/storing-chilled-foods-at-incorrect-temperatures .",
+      "origin": "Francia",
+      "originalTimes": {
+        "cook": "Fino a bollore e addensamento; durata non dichiarata",
+        "prep": "30 min",
+        "rest": "60 min dichiarati; infusione almeno 15 min; attesa 5 min prima del primo burro; raffreddamento rapido"
+      },
+      "originalTitle": "Crema mousseline alla vaniglia con burro in due fasi",
+      "originalYield": "6 persone",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "Agrodolce",
+      "rest": "60 min dichiarati; infusione almeno 15 min; attesa 5 min prima del primo burro; raffreddamento rapido",
+      "reviewedRecordSha256": "3ff3160c4c573cbdadaddb2cd4a13120742f16819c18471cec60f9c8dafc3a7f",
+      "serves": "6 persone",
+      "source": "https://www.agrodolce.it/ricette/crema-mousseline",
+      "sourceLabel": "Agrodolce",
+      "steps": [
+        "Scaldare il latte con semi e baccello della vaniglia fino a sobbollire. Spegnere, coprire e lasciare in infusione almeno 15 minuti; eliminare il baccello.",
+        "Montare i tuorli con lo zucchero fino a schiarirli, incorporare l'amido e stemperare con un terzo del latte caldo. Versare nel latte rimasto.",
+        "Cuocere mescolando con la frusta fino al bollore e all'addensamento. Fuori dal fuoco attendere 5 minuti, quindi incorporare 125 g di burro morbido.",
+        "Trasferire in un recipiente basso pulito, coprire a contatto e raffreddare rapidamente. Per lavorare immediatamente, portare la crema a consistenza e temperatura simili a quelle del burro morbido; in caso di interruzione refrigerare.",
+        "Aggiungere i restanti 125 g di burro morbido con le fruste elettriche, fino a ottenere un'emulsione omogenea. Usare subito o refrigerare tempestivamente."
+      ],
+      "temperature": "Latte a sobbollire; crema a bollore; burro a temperatura ambiente"
+    },
+    {
+      "author": "Maria Bonaccorso",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 15 min",
+      "description": "Krumiri sabbiati a prevalenza di frumento.",
+      "id": "SRC-fd47db2d8f96ad6d",
+      "ingredients": [
+        "175 g farina 00",
+        "75 g farina di mais",
+        "75 g zucchero a velo",
+        "150 g burro",
+        "3 tuorli",
+        "1 pizzico di sale",
+        "Semi di vaniglia (quantità non dichiarata)"
+      ],
+      "name": "Krumiri con farina 00 e mais, impasto sabbiato — Maria Bonaccorso",
+      "notes": "La fonte discute l'uso controverso del mais: questa è la versione di Maria Bonaccorso, non la formula ufficiale. Distinta da SRC-1af204036dcd2653 (175 g mais e 75 g frumento, contro 75 g mais e 175 g frumento in questa; diverso metodo). La fonte indica conservazione per diverse settimane in latta, durata non certificata; riporre solo da freddi.",
+      "origin": "Italia — Piemonte",
+      "originalTimes": {
+        "cook": "Circa 15 min",
+        "prep": "30 min dichiarati",
+        "rest": "Circa 30 min fuori frigo; il totale 45 min dichiarato non chiarisce se includa il riposo"
+      },
+      "originalTitle": "Krumiri",
+      "originalYield": "Circa 25 biscotti",
+      "photo": null,
+      "prep": "30 min dichiarati",
+      "publisher": "Il Cuore in Pentola",
+      "rest": "Circa 30 min fuori frigo; il totale 45 min dichiarato non chiarisce se includa il riposo",
+      "reviewedRecordSha256": "a38d38ce921b4201ae2af4f0a9dbf2ba93d6f7a6c9b7a7a848e43facfadc0028",
+      "serves": "Circa 25 biscotti",
+      "source": "https://www.ilcuoreinpentola.it/ricette/ricette-delle-feste/krumiri/",
+      "sourceLabel": "Il Cuore in Pentola",
+      "steps": [
+        "Setacciare le farine e lo zucchero a velo; lavorarli nel robot con sale, burro a pezzi e vaniglia fino a sbriciolare il burro. Aggiungere i tuorli, ottenendo una massa a briciole grosse.",
+        "Impastare a mano sul piano finché uniforme e liscia; avvolgere in pellicola e lasciare riposare circa 30 minuti a temperatura ambiente.",
+        "Estrudere con bocchetta stellata grande; dividere la striscia in segmenti di 10 cm e incurvarli. Se troppo soda, la fonte suggerisce di premere piccole porzioni direttamente nella bocchetta.",
+        "Disporre su teglia con carta forno; cuocere a 180 °C per circa 15 min, fino a doratura. Raffreddare su griglia con canovaccio."
+      ],
+      "temperature": "Forno 180 °C; modalità non dichiarata"
     }
   ]
 }
