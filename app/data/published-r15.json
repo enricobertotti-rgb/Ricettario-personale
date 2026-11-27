@@ -35208,6 +35208,205 @@
         "Cuocere in forno già caldo a 180 °C per 15–18 minuti, fino a lieve doratura. Raffreddare prima di spostare dalla teglia."
       ],
       "temperature": "180 °C"
+    },
+    {
+      "author": "Patissland (autore individuale non dichiarato)",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "18–20 min",
+      "description": "Dacquoise alle mandorle con doppia spolverata",
+      "id": "SRC-2b26104ed18c8912",
+      "ingredients": [
+        "4 albumi (120 g)",
+        "50 g zucchero semolato",
+        "100 g polvere di mandorle",
+        "90 g zucchero a velo",
+        "20 g farina",
+        "Finitura: zucchero a velo (dose non dichiarata)",
+        "Finitura: mandorle a lamelle facoltative (dose non dichiarata)"
+      ],
+      "name": "Dacquoise alle mandorle con doppia spolverata",
+      "notes": "Croccante fuori e tenera al centro; base per entremets. La fonte indica 2 giorni coperta a temperatura ambiente o 1 mese congelata; indicazione da valutare dal Curatore. Durate di conservazione riportate dalla fonte, non validate dal Curatore.",
+      "origin": "Francia; base della pasticceria francese secondo la fonte.",
+      "originalTimes": "Preparazione 20 min; doppia spolverata a 5 min di distanza; cottura 18–20 min; raffreddamento",
+      "originalTitle": "Ricetta della dacquoise alle mandorle",
+      "originalYield": "6 persone; due dischi da 18 cm",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "Patissland",
+      "rest": "Doppia spolverata a 5 min di distanza; raffreddamento",
+      "reviewedRecordSha256": "9a3eb9a2842dd69ae5552f8adde2e69085ff4c6482caff70dd7155dbe1330933",
+      "serves": "6 persone; due dischi da 18 cm",
+      "source": "https://patissland.fr/it/blogs/blog-de-recettes-patissland/ricetta-della-dacquoise-alle-mandorle",
+      "sourceLabel": "Patissland",
+      "steps": [
+        "Scaldare il forno a 180 °C; disegnare due cerchi da 18 cm sulla carta forno e disporla capovolta sulla placca.",
+        "Setacciare insieme mandorle in polvere, zucchero a velo e farina.",
+        "Montare gli albumi incorporando lo zucchero semolato in tre riprese, fino a una meringa soda e brillante.",
+        "Incorporare le polveri in due aggiunte con una spatola, senza perdere volume.",
+        "Con sac à poche e bocchetta liscia da 10 mm formare i due dischi a spirale dal centro.",
+        "Cospargere con zucchero a velo due volte a distanza di cinque minuti; aggiungere se desiderate le mandorle a lamelle.",
+        "Cuocere 18–20 minuti: la superficie deve dorare, mantenendo una consistenza tenera. Lasciare raffreddare prima di separare dalla carta."
+      ],
+      "temperature": "180 °C"
+    },
+    {
+      "author": "Pasticceria Tagliafico",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Massimo 10 min",
+      "description": "Biscuit Joconde alle mandorle della Pasticceria Tagliafico",
+      "id": "SRC-ab1e1ca2829e19d9",
+      "ingredients": [
+        "3 uova intere",
+        "2 albumi",
+        "100 g mandorle in polvere",
+        "100 g zucchero a velo",
+        "15 g zucchero semolato",
+        "15 g farina"
+      ],
+      "name": "Biscuit Joconde alle mandorle della Pasticceria Tagliafico",
+      "notes": "Per piccola pasticceria, tronchetti e torte a strati. La fonte ammette sostituzioni in pari quantità delle mandorle. Resa e raffreddamento non dichiarati.",
+      "origin": "Francia; origine della preparazione esplicita nella fonte.",
+      "originalTimes": "Uova fuori frigo almeno 30 min; seconda montata 5 min; cottura massimo 10 min",
+      "originalTitle": "La ricetta del Biscuit Joconde della Pasticceria Tagliafico",
+      "originalYield": "Non dichiarata; spessore circa 1 cm",
+      "photo": null,
+      "prep": "Seconda montata 5 min",
+      "publisher": "Pasticceria Tagliafico",
+      "rest": "Uova fuori frigo almeno 30 min",
+      "reviewedRecordSha256": "1225866b19c2b10e8a75c6568711fbb8728b9825089dbe083f8a80d1f22090e6",
+      "serves": "Non dichiarata; spessore circa 1 cm",
+      "source": "https://www.pasticceriatagliafico.it/it/approfondimenti/la-ricetta-del-biscuit-joconde-della-pasticceria-tagliafico",
+      "sourceLabel": "Pasticceria Tagliafico",
+      "steps": [
+        "Portare le uova a temperatura ambiente lasciandole fuori dal frigorifero almeno mezz'ora.",
+        "Montare due uova insieme alle mandorle e allo zucchero a velo fino al raddoppio del volume. Incorporare il terzo uovo e proseguire con la frusta per altri cinque minuti.",
+        "Montare separatamente gli albumi; incorporare lo zucchero semolato progressivamente continuando a montare fino a una meringa che formi una punta sulla frusta.",
+        "Incorporare alla prima massa un terzo della meringa e la farina setacciata con una spatola, poi unire la meringa restante senza smontare il composto.",
+        "Stendere su una teglia rivestita di carta forno in uno strato di circa 1 cm. Preriscaldare a 250–260 °C e ridurre a 220–230 °C all'inserimento.",
+        "Cuocere non oltre dieci minuti, mantenendo soffice il biscuit."
+      ],
+      "temperature": "Preriscaldamento 250–260 °C; cottura 220–230 °C"
+    },
+    {
+      "author": "Anna",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "8–10 min (riepilogo 10 min)",
+      "description": "Biscuit Joconde al limone con montata di uova intere",
+      "id": "SRC-c470571f15105555",
+      "ingredients": [
+        "100 g farina di mandorle",
+        "15 g farina 00",
+        "100 g zucchero a velo",
+        "15 g zucchero semolato",
+        "2 albumi",
+        "3 uova intere",
+        "scorza di limone q.b."
+      ],
+      "name": "Biscuit Joconde al limone con montata di uova intere",
+      "notes": "Variante aromatizzata al limone e montata differente da Tagliafico; assenza di burro confermata dall'editore nel commento di correzione. Conservazione delle torte farcite dipendente dalla farcia.",
+      "origin": "Francia; origine esplicita.",
+      "originalTimes": "Preparazione 30 min; cottura 8–10 min (riepilogo 10 min); raffreddamento completo",
+      "originalTitle": "Pasta Biscuit Joconde, la Ricetta Originale",
+      "originalYield": "8 persone; spessore massimo 1–1,5 cm",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "Il Club delle Ricette",
+      "rest": "Raffreddamento completo",
+      "reviewedRecordSha256": "52e63793ac1fbacf5bfe15b9bd6afdb61d4da5f925da8edbe0fda7846afb799c",
+      "serves": "8 persone; spessore massimo 1–1,5 cm",
+      "source": "https://www.ilclubdellericette.it/ricetta/pasta-biscuit-joconde-la-ricetta-originale",
+      "sourceLabel": "Il Club delle Ricette",
+      "steps": [
+        "Tenere le uova a temperatura ambiente prima di lavorarle, togliendole dal frigo almeno 30 minuti prima.",
+        "Montare tutte e tre le uova intere con lo zucchero a velo. Quando la massa è spumosa incorporare la farina di mandorle setacciata e continuare a montare per cinque minuti.",
+        "Montare gli albumi a parte, aggiungendo in due riprese lo zucchero semolato fino a ottenere una meringa sostenuta.",
+        "Unire un terzo della meringa e la farina 00 setacciata alla massa di uova, mescolando delicatamente dal basso verso l'alto. Incorporare il resto della meringa e la scorza di limone.",
+        "Livellare su carta da forno senza superare 1–1,5 cm di spessore; cuocere in forno preriscaldato a 200 °C per circa 8–10 minuti, sorvegliando soprattutto i bordi.",
+        "Capovolgere il biscuit ancora caldo, togliere la carta di cottura e sostituirla con un foglio pulito. Girarlo di nuovo, coprirlo con pellicola e attendere il raffreddamento completo."
+      ],
+      "temperature": "200 °C"
+    },
+    {
+      "author": "Cucina preDiletta (nome individuale non verificato)",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "3 min",
+      "description": "Bagna alcolica per torte con liquore aggiunto a tiepido",
+      "id": "SRC-5517f89a235b9641",
+      "ingredients": [
+        "200 ml acqua",
+        "100 g zucchero",
+        "1 bicchierino di liquore (rum o altro a scelta)"
+      ],
+      "name": "Bagna alcolica per torte con liquore aggiunto a tiepido",
+      "notes": "La quantità del bicchierino non è definita in ml e non va convertita. La fonte indica conservazione in frigorifero per un paio di giorni in recipiente chiuso. Contiene alcol. La variante analcolica della stessa URL rimane da recuperare tecnicamente. Resa e tempi recuperati nel confronto della fonte del 27/11/2026. Conservazione dichiarata dalla fonte, non validata.",
+      "origin": "Non dichiarata come origine storica; la pagina classifica la ricetta in cucina italiana.",
+      "originalTimes": "Preparazione 1 min; cottura 3 min; raffreddamento a tiepido",
+      "originalTitle": "Bagna per torte — versione alcolica",
+      "originalYield": "Circa 250 ml",
+      "photo": null,
+      "prep": "1 min",
+      "publisher": "Cucina preDiletta – GialloZafferano",
+      "rest": "Raffreddamento a tiepido",
+      "reviewedRecordSha256": "d6e8c6fb30e6149a59bf945b741525b7fa7ccf8ba90bb3e67fdfe45ad7eb79a4",
+      "serves": "Circa 250 ml",
+      "source": "https://blog.giallozafferano.it/cucinaprediletta/bagna-per-torte/",
+      "sourceLabel": "Cucina preDiletta – GialloZafferano",
+      "steps": [
+        "Riunire acqua e zucchero in un pentolino e scaldare a fiamma moderata, mescolando fino allo scioglimento dello zucchero.",
+        "Allontanare dal calore, aspettare che lo sciroppo diventi tiepido, quindi incorporare il liquore e mescolare.",
+        "Distribuire sul pan di Spagna con pennello oppure flacone dosatore."
+      ],
+      "temperature": "Fuoco moderato; temperatura numerica non dichiarata"
+    },
+    {
+      "author": "Dolce salato e bricolage (autore individuale non dichiarato)",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Non dichiarata",
+      "description": "Glassa a specchio al cacao e panna con dosi approssimative",
+      "id": "SRC-519c8926df29cfde",
+      "ingredients": [
+        "Circa 85 ml acqua",
+        "Circa 75 ml panna",
+        "Circa 110 g zucchero",
+        "Circa 35 g cacao amaro in polvere",
+        "Circa 4 g gelatina ammollata in acqua (acqua di ammollo non quantificata)"
+      ],
+      "name": "Glassa a specchio al cacao e panna con dosi approssimative",
+      "notes": "La fonte qualifica esplicitamente tutte le dosi come approssimative; non trattarle come formula professionale validata. Variante senza latte né cioccolato in pezzi, distinta dalla precedente. Forza della gelatina non dichiarata; resa e tempi numerici non dichiarati.",
+      "origin": "Non dichiarata dalla fonte.",
+      "originalTimes": "Tempi numerici non dichiarati; raffreddamento fino a temperatura d'uso",
+      "originalTitle": "Glassa al cioccolato a specchio",
+      "originalYield": "Non dichiarata dalla fonte",
+      "photo": null,
+      "prep": "Non dichiarata",
+      "publisher": "Dolce salato e bricolage – GialloZafferano",
+      "rest": "Raffreddamento fino a temperatura d’uso",
+      "reviewedRecordSha256": "9deec7649b65fb2900441f4a83f221e1e8eccee06401a774ea3a74b27d5241a7",
+      "serves": "Non dichiarata dalla fonte",
+      "source": "https://blog.giallozafferano.it/delizioso/glassa-al-cioccolato-a-specchio-ricetta-dolci/",
+      "sourceLabel": "Dolce salato e bricolage – GialloZafferano",
+      "steps": [
+        "Miscelare cacao e zucchero in un pentolino; incorporare progressivamente acqua e panna, mescolando per disperdere le polveri.",
+        "Scaldare a fiamma bassa continuando a mescolare fino a raggiungere il bollore.",
+        "Togliere dal fuoco e sciogliere la gelatina già ammollata e strizzata.",
+        "Lasciar scendere la temperatura a 35–40 °C prima dell'utilizzo."
+      ],
+      "temperature": "Bollore; utilizzo a 35–40 °C"
     }
   ]
 }
