@@ -33268,6 +33268,233 @@
         "Cuocere 10 min in forno statico già a 220 °C. Intiepidire soltanto pochi minuti, sformare prima che indurisca, rimuovere la carta e spolverare ancora."
       ],
       "temperature": "220 °C statico"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "riso 1 h; forno 60 min; bagna 3 min dopo aggiunta del liquore",
+      "description": "Torta degli addobbi bolognese",
+      "id": "SRC-4efccdb0134df309",
+      "ingredients": [
+        "Latte intero 1 l",
+        "Riso Carnaroli 160 g",
+        "Zucchero 300 g",
+        "Mandorle tritate 100 g",
+        "Amaretti sbriciolati 100 g",
+        "Cedro candito 100 g",
+        "Panna fresca liquida 100 g",
+        "Uova intere 385 g (circa 7)",
+        "Tuorli 45 g (circa 3)",
+        "Vaniglia 1 baccello",
+        "Scorza di limone 1",
+        "Burro per lo stampo, quantità non dichiarata",
+        "BAGNA: zucchero 100 g",
+        "BAGNA: acqua 100 g",
+        "BAGNA: liquore amaretto 50 g"
+      ],
+      "name": "Torta degli addobbi bolognese",
+      "notes": "Versione GZ distinta dalla ricetta depositata. La fonte indica due giorni a temperatura ambiente, durata non convalidata: non raccomandata. Precauzione redazionale documentata dallo Specialista: raffreddare il riso rapidamente e refrigerare entro un'ora a ≤5 °C; completare il riposo di 12 h, entro 24 h prima della lavorazione. Dopo la cottura servire o raffreddare rapidamente e refrigerare, senza indicare una nuova shelf life. Il riferimento generale per piatti con uova è 71 °C al cuore, non prova sperimentale per questa ricetta. Varianti dichiarate: arancia candita al posto del cedro, succo d'arancia o aroma mandorle al posto del liquore, quantità non dichiarate. Fonti precauzioni: https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker ; https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+      "origin": "Italia — Emilia-Romagna, Bologna",
+      "originalTimes": {
+        "cook": "riso 1 h; forno 60 min; bagna 3 min dopo aggiunta del liquore",
+        "prep": "30 min",
+        "rest": "12 h in frigorifero; circa 13 h complessive dichiarate"
+      },
+      "originalTitle": "Torta degli addobbi",
+      "originalYield": "10 persone; stampo 35 × 28 × 3 cm",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "GialloZafferano",
+      "rest": "12 h in frigorifero; circa 13 h complessive dichiarate",
+      "reviewedRecordSha256": "e9b31d3aef03d3f050ea0ac39fe9ff2c4c4ac528d2a323eb351bde5cb35ef72a",
+      "serves": "10 persone; stampo 35 × 28 × 3 cm",
+      "source": "https://ricette.giallozafferano.it/Torta-degli-addobbi.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Cuocere latte, riso, zucchero, semi e baccello di vaniglia e scorza di limone per un'ora a fuoco medio; mescolare a intervalli fino alla riduzione del latte.",
+        "Togliere il baccello, trasferire in un recipiente largo e basso e coprire a contatto. La fonte indica raffreddamento a temperatura ambiente seguito da 12 h in frigorifero; come precauzione redazionale raffreddare attivamente e trasferire in frigorifero entro un'ora dalla cottura a ≤5 °C, senza prolungare il riposo oltre 24 h prima della successiva lavorazione.",
+        "Incorporare panna e uova intere con frusta, poi i tuorli. Unire mandorle tritate, cedro a cubetti e amaretti sbriciolati. Amalgamare e versare nello stampo imburrato da 35 × 28 × 3 cm.",
+        "Cuocere sul ripiano basso a 175 °C statico preriscaldato per 60 min, verificando la cottura effettiva del cuore. Per la bagna portare a bollore acqua e zucchero, aggiungere l'amaretto e sobbollire 3 min.",
+        "Distribuire la bagna ancora calda sulla torta appena sfornata, lasciare assorbire e tagliare. Per conservare, raffreddare rapidamente e refrigerare."
+      ],
+      "temperature": "175 °C statico, ripiano basso"
+    },
+    {
+      "author": "Forno e fornelli",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "non applicabile alla base cruda",
+      "description": "Pasta frolla al cacao con burro morbido e lievito",
+      "id": "SRC-3d489d825bf0b322",
+      "ingredients": [
+        "Farina 00 350 g",
+        "Cacao amaro 50 g",
+        "Sale 1 pizzico",
+        "Burro morbido 170 g",
+        "Zucchero semolato 125 g",
+        "Uovo intero 1",
+        "Tuorlo 1",
+        "Lievito per dolci 1 cucchiaino"
+      ],
+      "name": "Pasta frolla al cacao con burro morbido e lievito",
+      "notes": "La fonte consente il congelamento senza dichiararne la durata; scongelare in frigorifero come precauzione redazionale. Non consumare cruda. Formula distinta dalla sabbiata: burro morbido, zucchero semolato, uovo intero e tuorlo, lievito. La fonte riferisce una ricetta trovata su YouTube senza identificare l'autore originario.",
+      "origin": "Origine specifica non dichiarata",
+      "originalTimes": {
+        "cook": "non applicabile alla base cruda",
+        "prep": "durata dell'impasto non dichiarata; burro da ammorbidire almeno 1 h",
+        "rest": "1 h in frigorifero"
+      },
+      "originalTitle": "Pasta frolla al cacao",
+      "originalYield": "Resa non dichiarata",
+      "photo": null,
+      "prep": "durata dell'impasto non dichiarata; burro da ammorbidire almeno 1 h",
+      "publisher": "Forno e fornelli",
+      "rest": "1 h in frigorifero",
+      "reviewedRecordSha256": "60ddff21e653620b3d2d0137d8b5711db5750a3ac5e93fdf513e9c0c13499de1",
+      "serves": "Resa non dichiarata",
+      "source": "https://blog.giallozafferano.it/fornoefornelli/pasta-frolla-al-cacao/",
+      "sourceLabel": "Forno e fornelli",
+      "steps": [
+        "Lasciare ammorbidire il burro per almeno un'ora e pesare gli ingredienti.",
+        "Setacciare nell'ordine cacao, farina insieme a lievito e sale, quindi zucchero.",
+        "Incorporare burro morbido, uovo intero e tuorlo; impastare rapidamente fino a omogeneità.",
+        "Formare un panetto allungato, avvolgerlo e refrigerare per un'ora prima dell'uso."
+      ],
+      "temperature": "Cottura non applicabile alla base cruda"
+    },
+    {
+      "author": "Cooker Girl",
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "50–60 min + eventuali 10 min (metodo); 40 min in testata, discordante",
+      "description": "Bonet piemontese di Cooker Girl",
+      "id": "SRC-c1e7ae99daba7211",
+      "ingredients": [
+        "Amaretti secchi 200 g",
+        "Cacao amaro 35 g",
+        "Tuorlo medio 1",
+        "Latte intero 500 g",
+        "Zucchero 150 g",
+        "Uova medie 4",
+        "Sale 1 pizzico",
+        "Liquore amaretto 2 cucchiai",
+        "CARAMELLO: zucchero 150 g",
+        "CARAMELLO: acqua 50 g",
+        "Amaretti q.b. per decorare"
+      ],
+      "name": "Bonet piemontese di Cooker Girl",
+      "notes": "Prevale il tempo riportato nel metodo, non la testata. La fonte prevede raffreddamento ambiente e breve fiamma alla base: precauzione redazionale, raffreddare rapidamente, refrigerare entro due ore a ≤5 °C e sformare da freddo senza fiamma diretta, con tecnica compatibile con lo stampo; l'alternativa senza fiamma non è stata collaudata per questa formula. 71 °C al cuore è riferimento generale per piatti a base d'uova, non validazione sperimentale del bonet. La fonte indica 2–3 giorni in frigorifero, durata non convalidata qui; mantenere refrigerato e consumare tempestivamente. Variante rum invece dell'amaretto. Fonti precauzioni: https://www.food.gov.uk/research/behaviour-and-perception/storing-chilled-foods-at-incorrect-temperatures ; https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures",
+      "origin": "Italia — Piemonte",
+      "originalTimes": {
+        "cook": "50–60 min + eventuali 10 min (metodo); 40 min in testata, discordante",
+        "prep": "30 min",
+        "rest": "raffreddamento e refrigerazione; durata non dichiarata"
+      },
+      "originalTitle": "Bonet",
+      "originalYield": "6 persone; stampo 22 × 8 cm",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "GialloZafferano",
+      "rest": "raffreddamento e refrigerazione; durata non dichiarata",
+      "reviewedRecordSha256": "404040739a0fd6ebcae94c51eb78531d559666dcc5057b448c7d6ba150a691fd",
+      "serves": "6 persone; stampo 22 × 8 cm",
+      "source": "https://ricette.giallozafferano.it/Bonet.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Scaldare acqua e zucchero del caramello senza rimestare fino al colore ambrato; versare con cautela nello stampo 22 × 8 cm.",
+        "Amalgamare con frusta uova, tuorlo e zucchero, poi cacao setacciato, sale e amaretti sbriciolati. Unire liquore e latte gradualmente.",
+        "Riempire lo stampo. Preriscaldare il forno statico a 150 °C con pirofila e acqua bollente; livello dell'acqua indicato dalla fonte 2–3 cm dalla base dello stampo. Cuocere a bagnomaria 50–60 min, aggiungendo 10 min se la massa oscilla eccessivamente. Verificare la cottura effettiva.",
+        "Estrarre con cautela dal bagnomaria. La fonte fa raffreddare a temperatura ambiente e scalda brevemente la base prima dell'inversione; per sicurezza raffreddare rapidamente e refrigerare entro due ore, poi sformare da freddo evitando fiamma diretta. Invertire e decorare con amaretti."
+      ],
+      "temperature": "150 °C statico a bagnomaria"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "non applicabile",
+      "description": "Crema Chantilly francese alla vaniglia",
+      "id": "SRC-d2c896a6fe2bf158",
+      "ingredients": [
+        "Panna fresca liquida fredda 500 g",
+        "Zucchero a velo 50 g",
+        "Semi di 1 baccello di vaniglia"
+      ],
+      "name": "Crema Chantilly francese alla vaniglia",
+      "notes": "Preparare al momento; la fonte indica al massimo un'ora in frigorifero per la stabilità della montata e suggerisce eventualmente di rimontarla. Per profumare la panna, riutilizzare i baccelli privati dei semi lasciandoli una notte in frigorifero e filtrare prima dell'uso. Distinta dalla diplomatica. L'attribuzione a François Vatel è quella della fonte, non verificata storicamente.",
+      "origin": "Francia",
+      "originalTimes": {
+        "cook": "non applicabile",
+        "prep": "10 min",
+        "rest": "ciotola facoltativamente 20 min in congelatore; variante infusione notturna in frigorifero"
+      },
+      "originalTitle": "Crema Chantilly",
+      "originalYield": "4 persone",
+      "photo": null,
+      "prep": "10 min",
+      "publisher": "GialloZafferano",
+      "rest": "ciotola facoltativamente 20 min in congelatore; variante infusione notturna in frigorifero",
+      "reviewedRecordSha256": "84c2cff4b719e4c927fe26d4cb4b8dcf4a2de7bf7b20133f0a879639eb9a87eb",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Crema-Chantilly.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Raffreddare bene la panna e, se possibile, anche la ciotola per 20 minuti nel congelatore.",
+        "Incidere il baccello, ricavarne i semi e unirli alla panna fredda insieme allo zucchero a velo.",
+        "Montare con fruste pulite a velocità medio-alta; per limitare gli schizzi utilizzare un recipiente alto e stretto oppure proteggere la ciotola. Quando il composto si addensa, aumentare leggermente la velocità e fermarsi quando è liscio, soffice e stabile."
+      ],
+      "temperature": "Nessuna cottura; panna fredda"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "non applicabile alla base cruda",
+      "description": "Pasta frolla sabbiata al cacao e tuorli",
+      "id": "SRC-041a186ff49122e6",
+      "ingredients": [
+        "Farina 00 300 g",
+        "Cacao amaro 30 g",
+        "Burro 150 g",
+        "Zucchero a velo 130 g",
+        "Tuorli 60 g (3)"
+      ],
+      "name": "Pasta frolla sabbiata al cacao e tuorli",
+      "notes": "Burro freddo indispensabile per la sabbiatura. Solo se la massa è troppo asciutta, la fonte suggerisce un cucchiaio di albume, acqua o latte. Conservazione dichiarata dalla fonte: 3–4 giorni in frigorifero, fino a un mese congelata; scongelare in frigorifero. Durate non validate qui. Non consumare cruda. Uso per biscotti e crostate, anche decorati o farciti; cottura secondo la preparazione finale.",
+      "origin": "Origine specifica non dichiarata",
+      "originalTimes": {
+        "cook": "non applicabile alla base cruda",
+        "prep": "10 min",
+        "rest": "almeno 30 min in frigorifero"
+      },
+      "originalTitle": "Pasta frolla al cacao",
+      "originalYield": "6 persone",
+      "photo": null,
+      "prep": "10 min",
+      "publisher": "GialloZafferano",
+      "rest": "almeno 30 min in frigorifero",
+      "reviewedRecordSha256": "994bf082efcb9f5ada67c3b00e88a6640b766e6f825270e237744cfb33a088d6",
+      "serves": "6 persone",
+      "source": "https://ricette.giallozafferano.it/Pasta-frolla-al-cacao.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Passare nel mixer la farina setacciata con il burro freddo a cubetti, fino a ridurli a briciole fini.",
+        "Sul piano infarinato disporre le briciole a fontana e aggiungere al centro cacao setacciato, zucchero e tuorli.",
+        "Iniziare a mescolare con una forchetta, poi lavorare a mano fino a un panetto morbido e uniforme.",
+        "Avvolgere e lasciare in frigorifero almeno mezz'ora prima della formatura."
+      ],
+      "temperature": "Cottura non applicabile alla base cruda; frigorifero per riposo"
     }
   ]
 }
