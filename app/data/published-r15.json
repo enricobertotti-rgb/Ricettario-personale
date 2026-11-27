@@ -33125,6 +33125,149 @@
         "Tagliare biscotti larghi circa 3,5 cm e cuocerli al centro del forno statico preriscaldato a 175 °C per 20–25 minuti; lasciar raffreddare."
       ],
       "temperature": "Forno statico 180 °C per il pan di Spagna; 175 °C per i biscotti"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "30 min dichiarati; circa 18 min per infornata",
+      "description": "Biscotti natalizi napoletani a rombo, speziati e rivestiti di fondente.",
+      "id": "SRC-b1196dc3721d07b4",
+      "ingredients": [
+        "Farina 00 500 g",
+        "Zucchero 300 g",
+        "Acqua 250 g (da dosare secondo assorbimento)",
+        "Granella di mandorle 150 g",
+        "Cacao amaro 30 g",
+        "Scorza di arancia 1",
+        "Pisto 5 g",
+        "Ammoniaca per dolci 3 g",
+        "Cioccolato fondente 500 g per copertura"
+      ],
+      "name": "Mostaccioli napoletani al cioccolato",
+      "notes": "La fonte indica circa 10 giorni in luogo fresco, durata non validata qui; sconsiglia il congelamento e riposi eccessivi in frigorifero. Cottura 13–15 min per più morbidi, 20–22 min per più croccanti. Varianti non quantificate: confettura di albicocche, canditi, farina di mandorle in luogo della granella o in miscela, copertura bianca. Pisto facoltativamente autoprodotto: pepe bianco 15 g, noce moscata 5 g, cannella 13 g, chiodi di garofano 2 g, semi di anice stellato 5 g; pestare finemente, tostare brevemente senza bruciare e usare 5 g del mix. Nella copertura mescolare il cioccolato durante la fusione.",
+      "origin": "Italia — Campania, Napoli",
+      "originalTimes": {
+        "cook": "30 min dichiarati; circa 18 min per infornata",
+        "prep": "2 h",
+        "rest": "almeno 1 h in frigorifero; raffreddamento completo e rassodamento non quantificati"
+      },
+      "originalTitle": "Mostaccioli napoletani",
+      "originalYield": "circa 20 pezzi",
+      "photo": null,
+      "prep": "2 h",
+      "publisher": "GialloZafferano",
+      "rest": "almeno 1 h in frigorifero; raffreddamento completo e rassodamento non quantificati",
+      "reviewedRecordSha256": "fed5a2027d84dec60cfb3bbd2dbfd0dede930fd3c813b33ba574da0df5920cca",
+      "serves": "circa 20 pezzi",
+      "source": "https://ricette.giallozafferano.it/Mostaccioli-napoletani.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Mescolare farina, mandorle, zucchero, cacao setacciato, pisto, ammoniaca e scorza. Incorporare l'acqua a temperatura ambiente gradualmente, lavorando fino a impasto uniforme.",
+        "Avvolgere in carta forno e refrigerare almeno un'ora. Stendere fra due fogli di carta forno a 7–8 mm; ritagliare circa 20 rombi con lato di 7 cm. Lavorare a mano sulla spianatoia fino ad amalgamare prima del riposo.",
+        "Disporre distanziati, 8 per teglia; infornare a 180 °C già raggiunti per circa 18 min. Raffreddare su gratella. Raffreddare completamente prima della glassatura.",
+        "Fondere il cioccolato tritato a bagnomaria. Immergere i biscotti oppure ricoprire un lato, far rapprendere al fresco sulla gratella con carta sottostante, quindi girare, rifondere il cioccolato e rivestire il lato opposto. Lasciare solidificare."
+      ],
+      "temperature": "180 °C"
+    },
+    {
+      "author": "Laura Pacciani",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "30 min statico o 20–25 min ventilato",
+      "description": "Torta pratese al burro con mandorle in superficie.",
+      "id": "SRC-65f9dd82b562a8b4",
+      "ingredients": [
+        "Farina 00 175 g",
+        "Burro morbido 175 g",
+        "Zucchero 175 g",
+        "Tuorli 4",
+        "Uovo intero 1",
+        "Mandorle pelate 50 g",
+        "Lievito per dolci 5 g",
+        "Burro q.b. per imburrare",
+        "Zucchero a velo o semolato q.b., facoltativo in finitura"
+      ],
+      "name": "Torta mantovana di Prato",
+      "notes": "La fonte indica 3–4 giorni sotto campana, durata non validata qui; non prolungare la cottura oltre il necessario. Burro per lo stampo in elenco, carta forno nel metodo. L'attribuzione del nome a Isabella d'Este è presentata come tradizione, non certezza.",
+      "origin": "Italia — Toscana, Prato",
+      "originalTimes": {
+        "cook": "30 min statico o 20–25 min ventilato",
+        "prep": "20 min",
+        "rest": "raffreddamento non quantificato"
+      },
+      "originalTitle": "Torta mantovana",
+      "originalYield": "8 persone; stampo 26 cm",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "GialloZafferano",
+      "rest": "raffreddamento non quantificato",
+      "reviewedRecordSha256": "a287a02b9820735b3e2e605551ec4caf773f79c465c8987944478dfceb17b8f2",
+      "serves": "8 persone; stampo 26 cm",
+      "source": "https://ricette.giallozafferano.it/Torta-mantovana.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Montare burro morbido e zucchero con le fruste; amalgamare prima l'uovo intero, poi ciascun tuorlo separatamente, lasciandolo assorbire. Usare uova a temperatura ambiente. Proseguire la montatura fino a una massa spumosa.",
+        "Setacciare farina e lievito insieme, incorporarli in una volta e lavorare fino a massa uniforme e aerata; l'eventuale separazione precedente si corregge con le polveri.",
+        "Rivestire lo stampo di carta forno, tritare grossolanamente le mandorle e livellare l'impasto nella tortiera. Distribuire i pezzi di mandorla sopra.",
+        "Cuocere nel forno preriscaldato: statico 180 °C per 30 min oppure ventilato 160 °C per 20–25 min. Controllare con uno stecchino; se occorre proseguire, proteggere con alluminio. Raffreddare; finitura zuccherata facoltativa."
+      ],
+      "temperature": "180 °C statico; 160 °C ventilato"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "circa 10 min",
+      "description": "Dolce senese natalizio di mandorle, canditi, miele e spezie.",
+      "id": "SRC-83faf1612017bbc0",
+      "ingredients": [
+        "Mandorle non pelate 260 g",
+        "Cedro candito a cubetti 160 g",
+        "Arancia candita a cubetti 160 g",
+        "Zucchero 300 g",
+        "Miele 150 g",
+        "Farina 00 160 g",
+        "Noce moscata 0,4 g",
+        "Chiodi di garofano macinati 0,4 g",
+        "Coriandolo in polvere 0,4 g",
+        "Cannella 2 g",
+        "Zucchero a velo 10 g",
+        "Ostia 1 foglio",
+        "Zucchero a velo q.b. per finitura",
+        "Burro per stampo e acqua per cucchiaio, quantità non dichiarate"
+      ],
+      "name": "Panforte senese bianco",
+      "notes": "Variante bianca distinta dal panpepato. La fonte indica massimo 4 giorni sotto campana a temperatura ambiente, durata non validata qui. Possibile sostituire parte delle mandorle con nocciole o cambiare canditi: alternative non quantificate.",
+      "origin": "Italia — Toscana, Siena",
+      "originalTimes": {
+        "cook": "circa 10 min",
+        "prep": "10 min",
+        "rest": "pochi minuti di intiepidimento"
+      },
+      "originalTitle": "Panforte",
+      "originalYield": "8 persone; stampo 20 cm",
+      "photo": null,
+      "prep": "10 min",
+      "publisher": "GialloZafferano",
+      "rest": "pochi minuti di intiepidimento",
+      "reviewedRecordSha256": "0b7ab5b7be956d2f9223b8aa87130b1ba2acab4232d2c40a580679a2b090b19d",
+      "serves": "8 persone; stampo 20 cm",
+      "source": "https://ricette.giallozafferano.it/Panforte.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Scaldare miele e zucchero mescolando fino a scioglimento; trasferire in recipiente resistente al calore. Unire i canditi e le mandorle, poi la farina, quindi le quattro spezie.",
+        "Lavorare energicamente la massa, che deve essere molto tenace. Imburrare lo stampo a cerniera, adagiare l'ostia sul fondo e rivestire i bordi di carta forno. Il bordo di carta deve rivestire l'intera circonferenza.",
+        "Pressare la massa nello stampo e uniformarla usando il dorso del cucchiaio bagnato. Distribuire i 10 g di zucchero a velo su tutta la superficie.",
+        "Cuocere 10 min in forno statico già a 220 °C. Intiepidire soltanto pochi minuti, sformare prima che indurisca, rimuovere la carta e spolverare ancora."
+      ],
+      "temperature": "220 °C statico"
     }
   ]
 }
