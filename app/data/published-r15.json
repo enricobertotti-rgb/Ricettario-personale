@@ -34344,6 +34344,365 @@
         "Disporre su teglia con carta forno; cuocere a 180 °C per circa 15 min, fino a doratura. Raffreddare su griglia con canovaccio."
       ],
       "temperature": "Forno 180 °C; modalità non dichiarata"
+    },
+    {
+      "author": "Cucchiaio d'Argento",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "12–15 min per teglia",
+      "description": "Variante alla farina di riso, con miele e latte di riso.",
+      "id": "SRC-a5ba669b50e64d4e",
+      "ingredients": [
+        "150 g burro morbido",
+        "170 g zucchero a velo",
+        "15 g miele scuro",
+        "20 g uova",
+        "15 g tuorli",
+        "100 g latte di riso",
+        "440 g farina di riso",
+        "1 cucchiaino raso lievito per dolci",
+        "½ bacca di vaniglia",
+        "1 pizzico sale"
+      ],
+      "name": "Krumiri di riso con miele e latte di riso",
+      "notes": "Variante alla farina di riso, non formula originale brevettata. La fonte racconta la tradizione di Domenico Rossi a partire dal 1878. Per celiachia verificare ingredienti e assenza di contaminazioni. Conservare dopo raffreddamento in latta; durata non dichiarata.",
+      "origin": "Italia — variante dei krumiri di Casale Monferrato (Piemonte)",
+      "originalTimes": {
+        "cook": "12–15 min per teglia",
+        "prep": "30 min",
+        "rest": "Raffreddamento su gratella; durata non dichiarata"
+      },
+      "originalTitle": "Krumiri di riso",
+      "originalYield": "Circa 60 biscotti",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "Cucchiaio d'Argento",
+      "rest": "Raffreddamento su gratella; durata non dichiarata",
+      "reviewedRecordSha256": "712e6364330a51c0727ac63fa2817f50ff5e6246388d70fbe7e15215379860dd",
+      "serves": "Circa 60 biscotti",
+      "source": "https://www.cucchiaio.it/ricetta/krumiri-di-riso/",
+      "sourceLabel": "Cucchiaio d'Argento",
+      "steps": [
+        "Montare burro morbido, zucchero a velo, vaniglia e miele con fruste o foglia fino a massa spumosa.",
+        "Sbattere uova e tuorli nel latte di riso, aggiungere a filo con macchina in funzione.",
+        "Incorporare farina di riso, lievito e sale, lavorando solo fino a omogeneità.",
+        "Con tasca e bocchetta a stella da 15 mm formare i biscotti distanziati sulle teglie rivestite. Cuocere una teglia per volta a 180 °C per 12–15 minuti fino a leggera doratura; raffreddare su gratella e riporre in scatola di latta."
+      ],
+      "temperature": "Forno preriscaldato 180 °C"
+    },
+    {
+      "author": "Cucchiaio d'Argento",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 30 min",
+      "description": "Biscotti secchi di nocciole e meringa, senza precottura in pentola.",
+      "id": "SRC-77a731b809d6ed7b",
+      "ingredients": [
+        "200 g granella di nocciole",
+        "140 g zucchero a velo",
+        "100 g albumi a temperatura ambiente",
+        "60 g zucchero semolato",
+        "½ bacca di vaniglia",
+        "1 pizzico sale"
+      ],
+      "name": "Brutti ma buoni piemontesi alle nocciole a cottura unica",
+      "notes": "La fonte ammette mandorle al posto delle nocciole, anche in miscela nella stessa quantità totale; non confondere con la variante a doppia cottura. Conservazione dichiarata: 6–7 giorni in latta o recipiente ermetico, non verificata sperimentalmente.",
+      "origin": "Italia — Borgomanero, Piemonte",
+      "originalTimes": {
+        "cook": "Circa 30 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento su gratella; durata non dichiarata"
+      },
+      "originalTitle": "Brutti ma buoni",
+      "originalYield": "Circa 20 biscotti",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "Cucchiaio d'Argento",
+      "rest": "Raffreddamento su gratella; durata non dichiarata",
+      "reviewedRecordSha256": "6d0dabe12aaeb27779e869de1d49368fac314fecd2d27935311ed21d470d192d",
+      "serves": "Circa 20 biscotti",
+      "source": "https://www.cucchiaio.it/ricetta/brutti-ma-buoni/",
+      "sourceLabel": "Cucchiaio d'Argento",
+      "steps": [
+        "Ridurre in polvere 100 g della granella con impulsi del mixer; unire gli altri 100 g, lo zucchero a velo setacciato e i semi di vaniglia.",
+        "Montare albumi e sale. Quando schiumosi, versare gradualmente lo zucchero semolato e proseguire fino a meringa lucida.",
+        "Incorporare la meringa alle nocciole in più aggiunte, con movimenti delicati dal basso verso l'alto. Disporre porzioni distanziate su carta forno, aiutandosi con due cucchiai.",
+        "Cuocere a 150 °C per circa 30 minuti, poi raffreddare su gratella."
+      ],
+      "temperature": "Forno preriscaldato 150 °C"
+    },
+    {
+      "author": "Cucchiaio d'Argento",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 15 min",
+      "description": "Frollini ad anello con mais fioretto e burro freddo.",
+      "id": "SRC-f11e8cf9a22d752f",
+      "ingredients": [
+        "250 g burro freddo",
+        "250 g farina 00",
+        "130 g farina fioretto di mais",
+        "110 g zucchero semolato",
+        "1 uovo",
+        "1 tuorlo",
+        "½ bacca di vaniglia",
+        "Scorza grattugiata di 1 limone",
+        "1 pizzico sale"
+      ],
+      "name": "Paste di meliga piemontesi con burro freddo e farina fioretto",
+      "notes": "Distinta dalle versioni con burro morbido e con farina 0. La fonte attribuisce la tradizione all'area cuneese; nessuna durata di conservazione specificata.",
+      "origin": "Italia — area di Cuneo, Piemonte",
+      "originalTimes": {
+        "cook": "Circa 15 min",
+        "prep": "30 min",
+        "rest": "Raffreddamento completo; durata non dichiarata"
+      },
+      "originalTitle": "Paste di meliga",
+      "originalYield": "Circa 40 biscotti",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "Cucchiaio d'Argento",
+      "rest": "Raffreddamento completo; durata non dichiarata",
+      "reviewedRecordSha256": "003ad515320e0e3e261fa838b4a972ba97d9a607df6e23158a646f095daef8cb",
+      "serves": "Circa 40 biscotti",
+      "source": "https://www.cucchiaio.it/ricetta/paste-di-meliga/",
+      "sourceLabel": "Cucchiaio d'Argento",
+      "steps": [
+        "Miscelare farina 00, farina fioretto, zucchero e semi della vaniglia.",
+        "Unire burro freddo a cubetti e scorza di limone; lavorare a bassa velocità con foglia, se si usa la planetaria, fino a massa granulosa.",
+        "Incorporare uovo, tuorlo e sale fino a impasto morbido ma non cedevole: non troppo molle da perdere forma in forno, né troppo duro da impedire l'uso della tasca.",
+        "Con bocchetta a stella da 15 mm formare anelli di 5–6 cm su due teglie con carta forno, lasciando spazio tra loro.",
+        "Cuocere a 180 °C per circa 15 minuti, fino a lieve doratura; raffreddare completamente."
+      ],
+      "temperature": "Forno 180 °C"
+    },
+    {
+      "author": "King Arthur Test Kitchen",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Circa 4–8 min secondo potenza",
+      "description": "Variante al microonde con burro fuso e temperatura finale documentata.",
+      "id": "SRC-c18a858454469b49",
+      "ingredients": [
+        "¾ cup (170 g) succo di limone appena spremuto",
+        "1 cup (198 g) zucchero semolato",
+        "8 cucchiai (113 g) burro non salato fuso",
+        "2 uova grandi",
+        "2 tuorli grandi",
+        "Scorza di 1 limone"
+      ],
+      "name": "Lemon curd al microonde — King Arthur",
+      "notes": "La fonte indica circa tre limoni grandi per ricavare 170 g di succo; ammette purea o concentrato di frutto della passione al posto del succo, senza creare un'altra formula autonoma. Tre settimane refrigerate dichiarate dalla fonte non sono una durata convalidata; non riproporle come garanzia. Precauzione: raffreddare rapidamente in recipiente pulito e refrigerare tempestivamente, mantenendo il prodotto freddo; consumare tempestivamente. Non è una conserva da dispensa.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": {
+        "cook": "Circa 4–8 min secondo potenza",
+        "prep": "10 min di lavorazione",
+        "rest": "Circa 3 ore in frigorifero; totale dichiarato 3 ore 10 min"
+      },
+      "originalTitle": "Easy Microwave Lemon Curd",
+      "originalYield": "2 cups, 16 porzioni",
+      "photo": null,
+      "prep": "10 min di lavorazione",
+      "publisher": "King Arthur Baking",
+      "rest": "Circa 3 ore in frigorifero; totale dichiarato 3 ore 10 min",
+      "reviewedRecordSha256": "c77c6eac2276f9debdfe86864f81741bf9831261c61f5ed17a5e20a7f48b0a43",
+      "serves": "2 cups, 16 porzioni",
+      "source": "https://www.kingarthurbaking.com/recipes/easy-microwave-lemon-curd-recipe",
+      "sourceLabel": "King Arthur Baking",
+      "steps": [
+        "Mescolare energicamente tutti gli ingredienti con una frusta in un recipiente per microonde; riempirlo al massimo per un quarto (la fonte suggerisce capacità 8 cups).",
+        "Cuocere a intervalli di un minuto, mescolando fra gli intervalli; quando la massa addensa, ridurre gli intervalli a 30 secondi. Terminare quando la crema vela il cucchiaio e forma un leggero rilievo durante la mescolatura, con almeno 185 °F; circa 4–8 minuti secondo il microonde.",
+        "Mescolare ancora e filtrare a maglia fine in una ciotola pulita per eliminare scorze e frammenti di uovo coagulato.",
+        "Lasciar intiepidire brevemente, frustare ancora, coprire a contatto con pellicola o carta forno. Quando appena tiepida trasferire in frigorifero per circa 3 ore."
+      ],
+      "temperature": "Almeno 185 °F al termine della cottura; potenza microonde non dichiarata"
+    },
+    {
+      "author": "Iginio Massari",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "5 min dichiarati; fino ad addensamento",
+      "description": "Crema pasticcera alleggerita con panna semimontata e stabilizzata con gelatina.",
+      "id": "SRC-8fc980709a717301",
+      "ingredients": [
+        "300 g panna fresca liquida",
+        "200 g latte intero",
+        "40 g tuorli (circa 3)",
+        "40 g zucchero",
+        "15 g amido di mais",
+        "7 g gelatina in fogli",
+        "½ baccello di vaniglia Bourbon del Madagascar"
+      ],
+      "name": "Crema diplomatica di Iginio Massari con gelatina",
+      "notes": "La fonte riporta cinque giorni refrigerati e circa un mese congelata; tali durate non sono validate per questa crema. Precauzioni separate: usare latte e panna pastorizzati, tuorli pastorizzati idonei alla preparazione, cuocere completamente la base, raffreddare rapidamente in recipiente pulito e basso, mantenere fredda la panna e refrigerare tempestivamente a non oltre 4 °C. Consumare tempestivamente; nessuna durata specifica garantita. Dossier SPEC26: https://www.epicentro.iss.it/salmonella/ .",
+      "origin": "Origine specifica non dichiarata",
+      "originalTimes": {
+        "cook": "5 min dichiarati; fino ad addensamento",
+        "prep": "15 min",
+        "rest": "Raffreddamento e refrigerazione fino all'impiego"
+      },
+      "originalTitle": "Crema diplomatica",
+      "originalYield": "Circa 600 g; due strati per torta da 22 cm",
+      "photo": null,
+      "prep": "15 min",
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento e refrigerazione fino all'impiego",
+      "reviewedRecordSha256": "177a3e30ce895bb48966726acb564aa569c1dddf060f6fc1b5e0f0f01c85a9e5",
+      "serves": "Circa 600 g; due strati per torta da 22 cm",
+      "source": "https://ricette.giallozafferano.it/Crema-diplomatica.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Raffreddare una ciotola in freezer; mettere la gelatina in acqua fredda per ammorbidirla.",
+        "Scaldare a bollore il latte con i semi della vaniglia. In un altro tegame amalgamare tuorli, zucchero e amido.",
+        "Stemperare la miscela con un terzo del latte, quindi incorporare gli altri due terzi in due riprese.",
+        "Cuocere mescolando finché la crema si addensa; fuori dal fuoco lavorarla energicamente con la frusta.",
+        "Trasferire nella ciotola fredda, unire la gelatina scolata e mescolare subito; raffreddare rapidamente e trasferire in frigorifero appena non più calda.",
+        "Semimontare la panna, mantenendola morbida. Incorporarne un terzo alla crema fredda con la frusta; aggiungere la restante in due riprese delicate.",
+        "Coprire a contatto e refrigerare fino all'utilizzo."
+      ],
+      "temperature": "Latte a bollore; temperatura finale della base non dichiarata dalla fonte"
+    },
+    {
+      "author": "Cucchiaio d'Argento",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "12–14 min",
+      "description": "Frollini senza uova con impasto riposato e ritagliato.",
+      "id": "SRC-87743fbf7bc3a010",
+      "ingredients": [
+        "200 g burro a temperatura ambiente",
+        "100 g zucchero semolato",
+        "300 g farina 00",
+        "½ bacca di vaniglia",
+        "1 pizzico sale",
+        "Latte se necessario (il metodo ammette anche acqua fredda q.b.)"
+      ],
+      "name": "Biscotti al burro senza uova con frolla alla vaniglia",
+      "notes": "La fonte suggerisce 5–7 giorni in latta per biscotti completamente raffreddati; durata non convalidata sperimentalmente. Possibili aromi diversi dalla vaniglia. Non garantire idoneità allergica in presenza di contaminazioni.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": {
+        "cook": "12–14 min",
+        "prep": "30 min",
+        "rest": "Almeno 30 min in frigorifero; raffreddamento completo"
+      },
+      "originalTitle": "Biscotti senza uova",
+      "originalYield": "Circa 30 biscotti",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "Cucchiaio d'Argento",
+      "rest": "Almeno 30 min in frigorifero; raffreddamento completo",
+      "reviewedRecordSha256": "3e1387de89bbbe37dbfb1dcdac6e704cd4cd23231eb0b066e03766d94b991f19",
+      "serves": "Circa 30 biscotti",
+      "source": "https://www.cucchiaio.it/ricetta/biscotti-senza-uova/",
+      "sourceLabel": "Cucchiaio d'Argento",
+      "steps": [
+        "Montare il burro con zucchero e sale fino a ottenere un composto chiaro e cremoso; unire i semi di vaniglia.",
+        "Aggiungere la farina in due o tre riprese, mescolando delicatamente fino a impasto sabbioso. Se non si lega aggiungere poco latte o acqua fredda; evitare di lavorare a lungo.",
+        "Formare un panetto, avvolgere e refrigerare almeno 30 minuti. Stendere a circa 5 mm su piano leggermente infarinato, ritagliare e distanziare su carta forno.",
+        "Cuocere a 170 °C in forno statico per 12–14 minuti, fino a lieve doratura dei bordi. Raffreddare completamente su gratella prima di maneggiarli."
+      ],
+      "temperature": "Forno statico preriscaldato 170 °C"
+    },
+    {
+      "author": "King Arthur Test Kitchen",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Non applicabile",
+      "description": "Frosting senza uova, con grasso vegetale e burro.",
+      "id": "SRC-6bcdbe437a24415b",
+      "ingredients": [
+        "6 cucchiai (85 g) burro non salato a temperatura ambiente",
+        "⅓ cup (60 g) grasso vegetale solido per pasticceria (shortening)",
+        "⅛ cucchiaino sale da tavola",
+        "4–5 cups (454–567 g) zucchero a velo setacciato",
+        "2 cucchiaini estratto di vaniglia",
+        "¼–⅓ cup (57–78 g) latte oppure panna a temperatura ambiente"
+      ],
+      "name": "Crema al burro americana alla vaniglia con grasso vegetale",
+      "notes": "Frosting senza albumi, distinto dalle creme al burro su meringa. Range e unità della fonte conservati; nessuna durata di conservazione indicata. Precauzione: usare latte o panna pastorizzati, refrigerare tempestivamente le preparazioni con latticini e non lasciare a lungo a temperatura ambiente.",
+      "origin": "Stile americano secondo la fonte",
+      "originalTimes": {
+        "cook": "Non applicabile",
+        "prep": "15 min di lavorazione; totale dichiarato 20 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Easy Vanilla Buttercream Frosting",
+      "originalYield": "Circa 2¾ cups, per torta 9×13 pollici o 18 cupcake",
+      "photo": null,
+      "prep": "15 min di lavorazione; totale dichiarato 20 min",
+      "publisher": "King Arthur Baking",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "757fbef4cdf4ce54c9b002ca3170e5c4b2806341bd1252830ad1147140b7d071",
+      "serves": "Circa 2¾ cups, per torta 9×13 pollici o 18 cupcake",
+      "source": "https://www.kingarthurbaking.com/recipes/easy-vanilla-buttercream-frosting-recipe",
+      "sourceLabel": "King Arthur Baking",
+      "steps": [
+        "Montare burro, shortening e sale fino a massa ariosa.",
+        "Aggiungere circa metà dello zucchero e lavorare lentamente finché incorporato.",
+        "Versare la vaniglia e metà del latte o della panna, montando fino a consistenza leggera.",
+        "Alternare lo zucchero e il liquido rimanenti fino a incorporarli completamente; montare fino a crema soffice."
+      ],
+      "temperature": "Ingredienti a temperatura ambiente; nessuna cottura"
+    },
+    {
+      "author": "Sarah Jampel",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "6–8 min",
+      "description": "Crema al limone con emulsione finale del burro.",
+      "id": "SRC-c38e4f9124763e1e",
+      "ingredients": [
+        "1¼ cups (248 g) zucchero semolato",
+        "Scorza di 2 limoni",
+        "1 cup (227 g) succo di limone fresco, da circa 4 limoni succosi",
+        "4 uova grandi",
+        "2 tuorli grandi",
+        "8 cucchiai (113 g) burro non salato freddo a cubetti",
+        "½ cucchiaino estratto di vaniglia",
+        "⅛ cucchiaino sale da tavola"
+      ],
+      "name": "Lemon curd con tuorli aggiunti e burro a freddo — Sarah Jampel",
+      "notes": "Formula aggiornata nel luglio 2026, versione del 17 agosto; la fonte permette di omettere la scorza per gusto più delicato, oppure sostituire 28 g di burro con 28 g di panna. La durata di una settimana refrigerata riportata dalla fonte non è convalidata qui. Refrigerare tempestivamente, conservare al freddo e consumare tempestivamente; non trattare come conserva da dispensa.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": {
+        "cook": "6–8 min",
+        "prep": "20 min di lavorazione",
+        "rest": "Circa 4 ore in frigorifero; totale dichiarato 4 ore 20 min"
+      },
+      "originalTitle": "Lemon Curd",
+      "originalYield": "2½ cups, circa 730 g",
+      "photo": null,
+      "prep": "20 min di lavorazione",
+      "publisher": "King Arthur Baking",
+      "rest": "Circa 4 ore in frigorifero; totale dichiarato 4 ore 20 min",
+      "reviewedRecordSha256": "b84178cb77eed229d03ebd8eeb97f5389145e8dfeff8ee05a28a675f6a1ab965",
+      "serves": "2½ cups, circa 730 g",
+      "source": "https://www.kingarthurbaking.com/recipes/lemon-curd-recipe",
+      "sourceLabel": "King Arthur Baking",
+      "steps": [
+        "Sfregare la scorza nello zucchero per circa 30 secondi, finché umido e aromatico. Scaldare il succo a fuoco basso senza bollire.",
+        "Sbattere uova e tuorli; unire lo zucchero aromatizzato in tre riprese. Predisporre un colino fine sulla ciotola dello zucchero.",
+        "Versare gradualmente il succo caldo nella massa di uova mescolando, riportare nella casseruola a fuoco medio e frustare anche lungo i bordi per 6–8 minuti fino a 170 °F e consistenza nappante.",
+        "Filtrare immediatamente; incorporare burro freddo, vaniglia e sale con la frusta fino a emulsione lucida.",
+        "Coprire a contatto e refrigerare per circa 4 ore fino a rassodamento."
+      ],
+      "temperature": "Succo caldo non bollente; crema 170 °F"
     }
   ]
 }
