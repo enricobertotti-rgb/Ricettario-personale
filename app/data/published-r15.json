@@ -32985,6 +32985,146 @@
         "Scolare la pasta nella ciotola, mantecare con acqua di cottura quanto necessario e gran parte del guanciale. Terminare a bagnomaria, completare con guanciale rimanente e Pecorino di servizio; servire subito."
       ],
       "temperature": "Crema circa 65 °C come obiettivo di consistenza; non prova di pastorizzazione"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "25 min; tostatura delle mandorle 5 min",
+      "description": "Biscotti natalizi napoletani a forma di anello, speziati con pisto.",
+      "id": "SRC-958c8ff764309062",
+      "ingredients": [
+        "Mandorle con la pelle 100 g (50 g da tritare, 50 g intere)",
+        "Farina 00 250 g",
+        "Zucchero 250 g",
+        "Cedro candito 100 g",
+        "Pisto 2 g",
+        "Scorza di arancia q.b. (circa 1/4 di arancia nel procedimento)",
+        "Acqua a temperatura ambiente 87 g",
+        "Bicarbonato 1 pizzico",
+        "Uovo 1 per spennellare",
+        "Mandorle 30 g per decorare (facoltative)"
+      ],
+      "name": "Roccocò napoletani alle mandorle e pisto",
+      "notes": "La fonte indica porzioni di circa 75 g: è un valore approssimativo, non un peso esatto coerente con ogni porzione. Conservare le dosi originali e dividere in 11 pezzi. Per una consistenza più dura prolungare la cottura di 5–10 minuti (provare su un paio di pezzi). La fonte ammette ammoniaca per dolci al posto del bicarbonato nella stessa dose, omissione del cedro e pisto sostituito da cannella, chiodi di garofano, noce moscata e pepe nero senza proporzioni dichiarate. Conservazione indicata dalla fonte: 10 giorni in latta; durata non validata qui; congelamento sconsigliato dalla fonte.",
+      "origin": "Napoli, Campania, Italia",
+      "originalTimes": {
+        "cook": "25 min; tostatura delle mandorle 5 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento non quantificato"
+      },
+      "originalTitle": "Roccocò",
+      "originalYield": "11 pezzi",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento non quantificato",
+      "reviewedRecordSha256": "c398d91adf599c0739ef69f4b8a92524e5e23fd12b1d7b69e5846e96b1537ac2",
+      "serves": "11 pezzi",
+      "source": "https://ricette.giallozafferano.it/Roccoco.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tostare 100 g di mandorle in forno a 180 °C per 5 minuti, lasciarle raffreddare e tritarne 50 g fino a consistenza sabbiosa. Tagliare il cedro a cubetti.",
+        "Mescolare farina, zucchero, bicarbonato, pisto, mandorle tritate e scorza d’arancia. Versare l’acqua gradualmente fino a ottenere un impasto sodo e asciutto.",
+        "Incorporare il cedro e i 50 g di mandorle intere rimanenti; lavorare fino a distribuzione uniforme.",
+        "Dividere in 11 porzioni, formando cordoncini di circa 20 cm; chiudere ciascuno ad anello pizzicando le estremità. Disporre su carta da forno, spennellare con l’uovo sbattuto e aggiungere, se desiderate, le mandorle decorative.",
+        "Cuocere in forno preriscaldato a 180 °C per 25 minuti fino a leggera doratura e raffreddare su griglia."
+      ],
+      "temperature": "180 °C; modalità del forno non dichiarata"
+    },
+    {
+      "author": "Leyla – Dulcisss in forno",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "10–12 min secondo il procedimento (10 min in scheda)",
+      "description": "Frollini accoppiati con finestra centrale e crema di nocciole.",
+      "id": "SRC-5175cdeaefefec7b",
+      "ingredients": [
+        "Farina 00 250 g",
+        "Burro 140 g",
+        "Zucchero a velo 125 g",
+        "Uovo medio 1",
+        "Vaniglia 1/2 baccello",
+        "Lievito per dolci 1 cucchiaino raso",
+        "Sale 1 pizzico",
+        "Nutella 150 g",
+        "Zucchero a velo per finire q.b."
+      ],
+      "name": "Biscotti occhio di bue alla Nutella",
+      "notes": "Alternativa con planetaria: sabbiare con la foglia farina, burro e zucchero, quindi unire il resto e procedere al riposo. La fonte ammette crema di nocciole o confettura; le dosi della variante con confettura non sono specificate. La conservazione fino a un mese citata dalla fonte in scatola di latta a temperatura ambiente, con strati separati da carta, non è una durata qui validata.",
+      "origin": "Cucina italiana; regione non dichiarata",
+      "originalTimes": {
+        "cook": "10–12 min secondo il procedimento (10 min in scheda)",
+        "prep": "50 min",
+        "rest": "Burro fuori dal frigorifero 30 min; frolla in frigorifero 30 min; raffreddamento completo"
+      },
+      "originalTitle": "Biscotti occhio di bue",
+      "originalYield": "34 biscotti accoppiati",
+      "photo": null,
+      "prep": "50 min",
+      "publisher": "Dulcisss in forno – GialloZafferano",
+      "rest": "Burro fuori dal frigorifero 30 min; frolla in frigorifero 30 min; raffreddamento completo",
+      "reviewedRecordSha256": "d6cb37ce0992b23aea43a4b3bb401bc566790f86894e845a1d184139a9239fb7",
+      "serves": "34 biscotti accoppiati",
+      "source": "https://blog.giallozafferano.it/dulcisinforno/biscotti-occhio-di-bue/",
+      "sourceLabel": "Dulcisss in forno – GialloZafferano",
+      "steps": [
+        "Lasciare il burro fuori dal frigorifero 30 minuti. Mescolare farina, zucchero a velo, lievito, semi di vaniglia e sale; lavorare con il burro a pezzetti fino a consistenza sabbiosa.",
+        "Unire l’uovo, inizialmente con una forchetta e poi a mano, fino a impasto liscio. Avvolgere e refrigerare 30 minuti.",
+        "Stendere metà impasto a 3 mm e ritagliare dischi da 6 cm; forarne metà con un tagliapasta da 3 cm. Ripetere con la restante pasta, recuperando i ritagli e mantenendo lo stesso numero di dischi pieni e forati.",
+        "Disporre su carta da forno e cuocere in forno statico preriscaldato a 170 °C per 10–12 minuti, finché i bordi risultano appena dorati. Lasciare assestare sulla teglia e raffreddare completamente.",
+        "Distribuire circa un cucchiaino di Nutella su ogni disco pieno, spolverare i dischi forati con zucchero a velo e accoppiare."
+      ],
+      "temperature": "Forno statico 170 °C"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "45 min indicativi; pan di Spagna 25 min, biscotti 20–25 min",
+      "description": "Biscotti di frolla ripieni di pan di Spagna, cacao e amarene, decorati con glassa.",
+      "id": "SRC-022ebf709ac2e1b2",
+      "ingredients": [
+        "PAN DI SPAGNA: uova 155 g (circa 3); farina 00 50 g; amido di mais 25 g; zucchero 70 g",
+        "FROLLA: farina 00 400 g; burro 150 g; zucchero 150 g; tuorli 50 g (circa 3); albumi 35 g (circa 1); sale 1 pizzico",
+        "RIPIENO: confettura di amarene 300 g; pan di Spagna 200 g; cacao amaro 30 g; tuorlo 14 g (circa 1)",
+        "GLASSA: zucchero a velo 150 g; albumi 35 g; succo di limone 1 cucchiaino",
+        "DECORAZIONE: confettura di amarene 15 g",
+        "Burro e farina per lo stampo e farina per la spianatoia: quantità non dichiarate"
+      ],
+      "name": "Biscotti napoletani all’amarena con glassa",
+      "notes": "Pan di Spagna e frolla si possono preparare il giorno prima; la fonte suggerisce anche il recupero di altri dolci o biscotti e una confettura alternativa. Sono varianti non quantificate, non sostituzioni della formula qui riportata. La frolla in eccesso può essere congelata. La conservazione di cinque giorni in contenitore ermetico è un’indicazione della fonte, non una durata qui validata.",
+      "origin": "Napoli, Campania, Italia",
+      "originalTimes": {
+        "cook": "45 min indicativi; pan di Spagna 25 min, biscotti 20–25 min",
+        "prep": "90 min",
+        "rest": "Almeno 1 h + 30 min + almeno 10 min; raffreddamento non quantificato"
+      },
+      "originalTitle": "Biscotti all'amarena",
+      "originalYield": "9 persone",
+      "photo": null,
+      "prep": "90 min",
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 1 h + 30 min + almeno 10 min; raffreddamento non quantificato",
+      "reviewedRecordSha256": "67f5dd48d602603558e327bf6d26e7f723b46245a2d799f02347f366cc124ac1",
+      "serves": "9 persone",
+      "source": "https://ricette.giallozafferano.it/Biscotti-all-amarena.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Montare uova e zucchero per circa 15 minuti fino a ottenere una massa spumosa; setacciare farina e amido e incorporarli delicatamente. Imburrare e infarinare uno stampo da 22 cm, versarvi la massa e cuocere al centro del forno statico preriscaldato a 180 °C per 25 minuti. Controllare con uno stecchino, sformare con cura e raffreddare su griglia.",
+        "Lavorare burro e zucchero con la foglia fino a consistenza cremosa, unire gli albumi e lasciarli assorbire, poi i tuorli e lavorare fino ad assorbimento (circa 2 minuti). Aggiungere farina e sale a velocità moderata fino a impasto uniforme. Avvolgere e refrigerare almeno un’ora.",
+        "Sbriciolare 200 g di pan di Spagna freddo; unire tuorlo, cacao e 300 g di confettura. Amalgamare in una massa morbida omogenea; formare su carta da forno un rettangolo di circa 32 × 7 cm e refrigerare 30 minuti.",
+        "Stendere la frolla a 5 mm, lunga circa 34 cm. Avvolgere il ripieno senza sovrapporre la pasta, rifilare l’eccesso, sigillare pizzicando la giunzione e capovolgere su carta da forno. Refrigerare almeno 10 minuti.",
+        "Montare gli albumi della glassa con il limone, aggiungendo gradualmente lo zucchero a velo fino a consistenza densa. Rifilare le estremità del rotolo, ricoprirlo di glassa, tracciare due solchi a circa 1 cm dai bordi, setacciare la confettura della decorazione e distribuirla nei solchi.",
+        "Tagliare biscotti larghi circa 3,5 cm e cuocerli al centro del forno statico preriscaldato a 175 °C per 20–25 minuti; lasciar raffreddare."
+      ],
+      "temperature": "Forno statico 180 °C per il pan di Spagna; 175 °C per i biscotti"
     }
   ]
 }
