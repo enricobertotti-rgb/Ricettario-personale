@@ -33625,6 +33625,49 @@
         "Servire subito o utilizzare come farcitura, mantenendo la preparazione refrigerata fino all'uso."
       ],
       "temperature": "Preparazione a freddo; temperatura numerica non indicata"
+    },
+    {
+      "author": "Redazione GialloZafferano",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "10 min (sciroppo)",
+      "description": "Crema al mascarpone con pâte à bombe",
+      "id": "SRC-14164f49d5c627da",
+      "ingredients": [
+        "Mascarpone 500 g a temperatura ambiente",
+        "Zucchero 125 g",
+        "Tuorli 4 (a temperatura ambiente secondo la fonte; per questa preparazione senza ulteriore cottura utilizzare tuorli pastorizzati idonei a tale consumo e alla montata, seguendo l'etichetta)",
+        "Acqua 50 g",
+        "Cacao amaro q.b. per finitura"
+      ],
+      "name": "Crema al mascarpone con pâte à bombe",
+      "notes": "La fonte indica 3–4 giorni in frigorifero, coperta, e sconsiglia il congelamento. La durata indicata non è stata validata per questa preparazione. Precauzioni editoriali: la temperatura di 121 °C si riferisce allo sciroppo, non alla massa dei tuorli; non dimostra una pastorizzazione effettiva. Usare esclusivamente tuorli pastorizzati dichiarati idonei al consumo senza ulteriore cottura e alla montata; per eventuali equivalenze di peso seguire l'etichetta, senza conversioni presunte. Ridurre il tempo fuori frigorifero, refrigerare prontamente a non più di 4 °C e consumare in tempi brevi nel rispetto delle indicazioni dei prodotti. Riferimento sicurezza: https://www.fda.gov/food/buy-store-serve-safe-food/what-you-need-know-about-egg-safety (consultato nel dossier SPEC26 del 27/11/2026). Variante senza uova distinta, non sostitutiva.",
+      "origin": "Italia (crema classica secondo fonte)",
+      "originalTimes": {
+        "cook": "10 min (sciroppo)",
+        "prep": "15 min",
+        "rest": "facoltativo circa 1 ora in frigorifero"
+      },
+      "originalTitle": "Crema al mascarpone",
+      "originalYield": "4 persone",
+      "photo": null,
+      "prep": "15 min",
+      "publisher": "GialloZafferano",
+      "rest": "facoltativo circa 1 ora in frigorifero",
+      "reviewedRecordSha256": "eb620d9c47a76c552f1c24bb43fa8ccadd773e187ba8ccf0c76cf3e17e486c1b",
+      "serves": "4 persone",
+      "source": "https://ricette.giallozafferano.it/Crema-al-mascarpone.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Versare acqua e zucchero in un pentolino e scaldare controllando la temperatura con un termometro.",
+        "Quando lo sciroppo raggiunge circa 115 °C iniziare a montare i tuorli pastorizzati. A 121 °C versare lo sciroppo a filo sui tuorli, riducendo la velocità senza fermare le fruste.",
+        "Continuare a montare fino al completo raffreddamento della pâte à bombe.",
+        "Ammorbidire il mascarpone separatamente con una spatola e incorporare gradualmente la montata fredda con le fruste.",
+        "Servire con cacao setacciato a piacere; per una crema più soda la fonte suggerisce circa un'ora in frigorifero."
+      ],
+      "temperature": "Sciroppo a 115 °C all'inizio della montata dei tuorli, 121 °C al versamento; temperatura della massa non dichiarata"
     }
   ]
 }
