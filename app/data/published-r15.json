@@ -35689,6 +35689,116 @@
         "Trasferire nello stampo da 20 cm imburrato e infarinato. Cuocere 40 minuti a 190 °C statico; raffreddare, sformare su gratella e spolverare di zucchero a velo."
       ],
       "temperature": "190 °C statico preriscaldato"
+    },
+    {
+      "author": "Giovanni Castaldi",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "5 min nel riepilogo",
+      "description": "Bagna analcolica all'arancia con infusione a freddo",
+      "id": "SRC-8538729fb50f472b",
+      "ingredients": [
+        "300 g acqua",
+        "140 g zucchero",
+        "Scorza di 1 arancia"
+      ],
+      "name": "Bagna analcolica all'arancia con infusione a freddo",
+      "notes": "La temperatura non è indicata dall'autore. La refrigerazione è una precauzione redazionale, non un dato originale o una validazione microbiologica della formula; preparare vicino al momento dell'uso, senza durata di conservazione inventata e senza considerarla una conserva. La fonte cita limone, arancia e cannella, limone e vaniglia come aromi alternativi, senza dosi separate. Le bagne al rum e al latte sono formule distinte, non fuse. Il video non è risultato accessibile allo Specialista.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": "Preparazione 10 min e cottura 5 min nel riepilogo; infusione almeno 1 ora, anche una notte; raffreddamento non quantificato",
+      "originalTitle": "Come fare la bagna per torte — versione analcolica",
+      "originalYield": "Per tre dischi di pan di Spagna da 24 cm; volume finale non dichiarato",
+      "photo": null,
+      "prep": "10 min",
+      "publisher": "Peccato di Gola – GialloZafferano",
+      "rest": "Infusione almeno 1 ora o una notte; raffreddamento non quantificato",
+      "reviewedRecordSha256": "b68174ced924791e8d0ee73b63cb342c5fc300b35946ec850860516f8fa42a5e",
+      "serves": "Per tre dischi di pan di Spagna da 24 cm; volume finale non dichiarato",
+      "source": "https://blog.giallozafferano.it/peccatodigola/come-fare-la-bagna-per-torte/",
+      "sourceLabel": "Peccato di Gola – GialloZafferano",
+      "steps": [
+        "Lavare e asciugare l'arancia e ricavare la scorza. Immergere la scorza nell'acqua per almeno un'ora; l'autore propone anche un'intera notte. Precauzione redazionale: scegliere scorza idonea al consumo alimentare e tenere il recipiente pulito e coperto in frigorifero per tutta l'infusione.",
+        "Versare acqua e scorza in un pentolino, aggiungere lo zucchero e scaldare mescolando fino a scioglierlo completamente; la fonte non richiede il bollore.",
+        "Spegnere, filtrare e lasciare raffreddare prima dell'impiego. Nota redazionale: raffreddare rapidamente e refrigerare in contenitore pulito chiuso se non utilizzata subito."
+      ],
+      "temperature": "Temperatura dell'infusione e del riscaldamento non dichiarata dall'autore; nota redazionale: infusione refrigerata, preferibilmente non oltre 4 °C"
+    },
+    {
+      "author": "Cucchiaio d'Argento",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Circa 10 min a bagnomaria senza bollire",
+      "description": "Lemon curd inglese al bagnomaria",
+      "id": "SRC-883649c22daf3a8e",
+      "ingredients": [
+        "200 g zucchero semolato",
+        "90 g burro freddo",
+        "3 uova",
+        "Succo e scorza grattugiata di 2 limoni bio"
+      ],
+      "name": "Lemon curd inglese al bagnomaria",
+      "notes": "Le indicazioni di sicurezza sono redazionali, non valori originali né prove pratiche di compatibilità o shelf life. Se la temperatura prudenziale non è raggiunta, non considerare la crema pronta al consumo; per soggetti vulnerabili preferire uova pastorizzate idonee alla preparazione e cottura controllata. La fonte dichiara 4–5 giorni refrigerati, non validati: consumo tempestivo entro 48 ore secondo riferimento generale FSA, non come durata convalidata per questa ricetta. Non è una conserva da dispensa. Formula autonoma rispetto a King Arthur al microonde e a quella con burro aggiunto a freddo.",
+      "origin": "Inghilterra, secondo la fonte",
+      "originalTimes": "Preparazione 10 min, cottura indicativa 10 min, totale dichiarato 20 min, raffreddamento non quantificato",
+      "originalTitle": "Lemon curd",
+      "originalYield": "Non dichiarata dalla fonte",
+      "photo": null,
+      "prep": "10 min",
+      "publisher": "Cucchiaio d'Argento",
+      "rest": "Raffreddamento non quantificato",
+      "reviewedRecordSha256": "ff148e576205192283e525b78486c02764b55e3c36ae492e6ff9f9ae0203d961",
+      "serves": "Non dichiarata dalla fonte",
+      "source": "https://www.cucchiaio.it/ricetta/ricetta-lemon-curd/",
+      "sourceLabel": "Cucchiaio d'Argento",
+      "steps": [
+        "Lavare i limoni, grattugiare la scorza e filtrare il succo. Riunire con zucchero, burro freddo a cubetti e uova in una ciotola adatta al bagnomaria e amalgamare con la frusta.",
+        "Cuocere a bagnomaria a calore moderato, mescolando senza interruzione per circa 10 minuti secondo la fonte, fino a quando la crema riveste il dorso del cucchiaio, senza farla bollire. Precauzione redazionale: verificare almeno 71,1 °C nella massa mescolata con un termometro pulito; il solo tempo o la consistenza non attestano la sicurezza.",
+        "Trasferire in contenitori puliti idonei agli alimenti; la fonte indica un vasetto sterilizzato. Raffreddare rapidamente in piccoli contenitori, proteggere da contaminazioni e refrigerare entro 1–2 ore (entro un'ora in ambiente oltre 32,2 °C), secondo le precauzioni generali, poi mantenere al freddo."
+      ],
+      "temperature": "Bagnomaria a calore moderato senza bollire; temperatura numerica non dichiarata dall'autore. Nota prudenziale distinta: almeno 71,1 °C nella massa secondo guida generale FDA per piatti con uova."
+    },
+    {
+      "author": "Susan Reid",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Bagnomaria 5–10 min a 161 °F",
+      "description": "Crema al burro su meringa svizzera — Susan Reid",
+      "id": "SRC-54ba72903c66bf61",
+      "ingredients": [
+        "1¼ cups (248 g) zucchero semolato oppure 1⅓ cups (253 g) zucchero Baker’s Special",
+        "3 albumi grandi (105 g) a temperatura ambiente al momento della lavorazione",
+        "⅛ cucchiaino sale da tavola",
+        "32 cucchiai (454 g) burro non salato ammorbidito",
+        "Vaniglia facoltativa: da 1 cucchiaino a 1 cucchiaio"
+      ],
+      "name": "Crema al burro su meringa svizzera — Susan Reid",
+      "notes": "Varianti dichiarate: cocco, ½ cucchiaino aroma e ½ cup latte di cocco in polvere; cioccolato, riservare 170 g del burro totale e unirli a 170 g di fondente fuso e raffreddato prima di incorporarli; lampone, 2 cucchiai di purea o ½ pint di lamponi freschi; limone, 1 cucchiaio scorza e 2 cucchiaini succo. L'opzione con 9 g di succo in polvere e aquafaba è incongrua per questa formula con albumi e compare nella distinta formula vegana di Dawn Konofaos; non applicarla. La fonte indica una settimana in frigo o sei mesi congelata, non convalidati. Nota prudenziale generale: 0–5 °C, consumo domestico tempestivo, entro 48 ore secondo guida generale FSA, non shelf life specifica; nessuna attestazione di pastorizzazione commerciale o conservabilità.",
+      "origin": "Tecnica di meringa svizzera; origine specifica della formula non dichiarata",
+      "originalTimes": "Totale dichiarato 30 min (stima non garantita); bagnomaria 5–10 min; montata 15–20 min; circa 1 min fra aggiunte di burro; finale 1–2 min; eventuale frigo 15 min",
+      "originalTitle": "Swiss Meringue Buttercream",
+      "originalYield": "Circa 4 cups, per torta a tre strati o 30 cupcake",
+      "photo": null,
+      "prep": "Montata 15–20 min; aggiunta burro circa 1 min per porzione; finale 1–2 min",
+      "publisher": "King Arthur Baking",
+      "rest": "Eventuale frigo 15 min",
+      "reviewedRecordSha256": "dd5268542a556b71f892e1113bed53a920f601f1ba8f2a5f9057b3ef20a85702",
+      "serves": "Circa 4 cups, per torta a tre strati o 30 cupcake",
+      "source": "https://www.kingarthurbaking.com/recipes/swiss-meringue-buttercream-recipe",
+      "sourceLabel": "King Arthur Baking",
+      "steps": [
+        "Riunire albumi, zucchero e sale in una ciotola resistente al calore. Porla su acqua appena sobbollente e lavorare continuamente con la frusta fino a 161 °F nella massa, circa 5–10 minuti, controllando con termometro.",
+        "Togliere dal calore e montare a velocità medio-alta per circa 15–20 minuti, finché la meringa forma punte ferme e la ciotola non è più calda.",
+        "Ridurre a velocità media; incorporare il burro pochi cucchiai per volta, attendendo circa un minuto fra aggiunte e l'assorbimento. A metà raschiare fondo e pareti; se la crema appare separata continuare a lavorare.",
+        "Dopo l'ultima aggiunta montare ad alta velocità 1–2 minuti; aromatizzare e, se troppo morbida, refrigerare per 15 minuti come indicato dalla fonte.",
+        "Usare subito oppure refrigerare prontamente in contenitore pulito chiuso. Per riutilizzare, temperare solo per il tempo necessario a rimontare; scongelare in frigorifero se congelata. Queste ultime sono precauzioni redazionali."
+      ],
+      "temperature": "Meringa 161 °F; burro almeno 65 °F al momento della lavorazione"
     }
   ]
 }
