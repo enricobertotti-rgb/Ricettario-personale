@@ -32759,6 +32759,232 @@
         "Variante ghiaccia: montare l'albume idoneo al consumo senza cottura, incorporare lo zucchero a velo e il limone, dividere e colorare una parte, decorare con i due colori e confettini. Preparare per il servizio; non usare albume crudo non pastorizzato."
       ],
       "temperature": "Forno statico 180 °C (fonte inglese 350 °F)"
+    },
+    {
+      "author": "Redazione GialloZafferano (autore individuale non indicato)",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "15 min",
+      "description": "Frollini friabili alla vaniglia, ritagliati da una frolla compatta.",
+      "id": "SRC-ce5676e249777137",
+      "ingredients": [
+        "Farina 00 300 g",
+        "Burro freddo 200 g",
+        "Zucchero 150 g",
+        "Tuorlo 1",
+        "Semi di 1 baccello di vaniglia",
+        "Sale 1 pizzico",
+        "Farina per stendere q.b. (nel procedimento)"
+      ],
+      "name": "Biscotti al burro e vaniglia di frolla compatta",
+      "notes": "Alternativa manuale con lo stesso ordine di aggiunta e lavorazione rapida; aromi alternativi: scorza di agrumi o cannella. La fonte consiglia una settimana in latta a temperatura ambiente e congelamento della frolla cruda per circa un mese: indicazioni attribuite alla fonte, non validate sperimentalmente. Eventuali decorazioni richiedono condizioni di conservazione proprie.",
+      "origin": "Origine storica specifica non documentata dalla fonte consultata",
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "30 min",
+        "rest": "30 min in frigorifero; ulteriori 30 min per gli scarti reimpastati"
+      },
+      "originalTitle": "Biscotti al burro",
+      "originalYield": "Circa 40 biscotti, diametro 4 cm",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "GialloZafferano",
+      "rest": "30 min in frigorifero; ulteriori 30 min per gli scarti reimpastati",
+      "reviewedRecordSha256": "bc3678e68c318ff7f54abb3eada3a13df5abb2e282cb5c1c69ea1bfb6ca7a908",
+      "serves": "Circa 40 biscotti, diametro 4 cm",
+      "source": "https://ricette.giallozafferano.it/Biscotti-al-burro.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Con la foglia della planetaria lavorare per pochi secondi burro freddo, zucchero, sale e vaniglia. Quando il burro cede, unire il tuorlo e lavorare circa un minuto.",
+        "Aggiungere la farina; appena assorbita, compattare brevemente il panetto sul banco per limitare il glutine. Avvolgere e refrigerare 30 minuti.",
+        "Stendere a 8 mm su banco leggermente infarinato; se troppo duro, ammorbidire con piccoli colpi di mattarello. Tagliare dischi da 4 cm. Compattare i ritagli e refrigerarli altri 30 minuti prima di ristenderli.",
+        "Disporre i dischi distanziati su carta forno e cuocere a 170 °C statico per circa 15 minuti; fare raffreddare."
+      ],
+      "temperature": "Forno statico 170 °C"
+    },
+    {
+      "author": "Redazione GialloZafferano (autore individuale non indicato)",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "15 min",
+      "description": "Pasticcini di frolla montata a forma di S, parzialmente ricoperti di fondente.",
+      "id": "SRC-ebc2f98f2da71810",
+      "ingredients": [
+        "Burro morbido 100 g",
+        "Zucchero 110 g",
+        "Farina 00 260 g",
+        "Uova 85 g (circa 2 piccole)",
+        "Scorza di 1 limone",
+        "Semi di mezzo baccello di vaniglia",
+        "Sale fino ½ cucchiaino",
+        "Copertura: cioccolato fondente 300 g (260 g + 40 g)"
+      ],
+      "name": "Biscotti esse di frolla montata e cioccolato fondente",
+      "notes": "Variante cacao della fonte: sostituire 30 g di farina con 20 g di cacao. Finitura facoltativa con nocciole tritate o cocco rapè (quantità non dichiarate). Copertura non temperata: possibile, meno lucida. La fonte sconsiglia il congelamento dell'impasto e indica conservazione 4–5 giorni in contenitore ermetico; durata attribuita alla fonte, non validata sperimentalmente.",
+      "origin": "Origine storica specifica non documentata dalla fonte consultata",
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "30 min",
+        "rest": "5 min in frigorifero; raffreddamento completo; asciugatura copertura circa 1–2 ore"
+      },
+      "originalTitle": "Biscotti esse",
+      "originalYield": "14 biscotti",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "GialloZafferano",
+      "rest": "5 min in frigorifero; raffreddamento completo; asciugatura copertura circa 1–2 ore",
+      "reviewedRecordSha256": "5bcea0aba010248e0d3f767d645ac7887f2f67f76cea084a803021682eadc028",
+      "serves": "14 biscotti",
+      "source": "https://ricette.giallozafferano.it/Biscotti-esse.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Montare con le fruste burro morbido, zucchero, sale, vaniglia e scorza di limone; usare ingredienti a temperatura ambiente senza sosta prolungata delle uova.",
+        "Unire metà delle uova e montare alcuni minuti; dopo l'assorbimento aggiungere metà della farina. Incorporare le uova restanti e poi la farina rimanente fino a massa consistente e montata.",
+        "Con bocchetta a stella da 12 mm formare le S su carta forno. Refrigerare 5 minuti; cuocere a 175 °C ventilato per 15 minuti, fino a lieve doratura. Raffreddare completamente.",
+        "Tritare il cioccolato e separare 260 g da 40 g. Fondere 260 g a 45 °C a bagnomaria o microonde; aggiungere 40 g, mescolando fino a 30 °C.",
+        "Immergere metà di ogni biscotto, rimuovere il surplus sul bordo della ciotola e posare su gratella sopra carta forno. Lasciare solidificare completamente."
+      ],
+      "temperature": "Forno ventilato 175 °C; cioccolato 45 °C, poi 30 °C"
+    },
+    {
+      "author": "Iginio Massari",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "8 min per teglia",
+      "description": "Biscotti sottili e allungati, preparati senza montare la massa.",
+      "id": "SRC-5e44671d5218e004",
+      "ingredients": [
+        "Burro a pomata 50 g",
+        "Zucchero a velo 60 g",
+        "Albumi 50 g",
+        "Farina 0 50 g"
+      ],
+      "name": "Lingue di gatto di Iginio Massari (massa a sigaretta)",
+      "notes": "La fonte suggerisce di stabilizzare la carta forno con carta inumidita sotto la placca. Indica due settimane in contenitore ermetico e congelamento del prodotto cotto per un mese; durate riportate come indicazioni della fonte, non validate sperimentalmente. Conservare asciutti dopo completo raffreddamento.",
+      "origin": "Origine storica specifica non documentata dalla fonte consultata",
+      "originalTimes": {
+        "cook": "8 min per teglia",
+        "prep": "15 min",
+        "rest": "Raffreddamento non quantificato"
+      },
+      "originalTitle": "Lingue di gatto",
+      "originalYield": "Circa 34 pezzi",
+      "photo": null,
+      "prep": "15 min",
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento non quantificato",
+      "reviewedRecordSha256": "6efeed7c736085d78646a7d72efc794b7edfa3bf59c45e7102e3276ff2064f5e",
+      "serves": "Circa 34 pezzi",
+      "source": "https://ricette.giallozafferano.it/Lingue-di-gatto.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Mescolare il burro morbido e lo zucchero a velo con una spatola senza montare. Aggiungere gli albumi e amalgamare fino a consistenza cremosa.",
+        "Incorporare la farina fino a ottenere una massa morbida. Trasferire in una tasca con punta liscia da 10 mm.",
+        "Formare strisce di circa 10 cm su una teglia rivestita, circa 15 per teglia. Cuocere a 190 °C ventilato per circa 8 minuti.",
+        "Lasciare raffreddare in teglia per biscotti piatti; per incurvarli, adagiarli ancora caldi su un mattarello."
+      ],
+      "temperature": "Forno ventilato preriscaldato 190 °C"
+    },
+    {
+      "author": "Redazione GialloZafferano (autore individuale non indicato)",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "35 min",
+      "description": "Biscotti a spirale ottenuti con frolla neutra e frolla al cacao.",
+      "id": "SRC-e0d82ce4287f95d7",
+      "ingredients": [
+        "Base: burro freddo 200 g",
+        "Base: farina 00 250 g",
+        "Base: zucchero a velo 100 g",
+        "Base: uovo 55 g (1 intero)",
+        "Impasto cacao: cacao amaro 20 g",
+        "Impasto chiaro: farina 00 40 g",
+        "Acqua a temperatura ambiente q.b. per spennellare"
+      ],
+      "name": "Biscotti girandola di frolla sabbiata bicolore",
+      "notes": "Non refrigerare i rettangoli già stesi prima dell'arrotolamento: possono spezzarsi. Per forno ventilato la fonte suggerisce una piccola infornata di prova senza fissare temperatura alternativa. La fonte indica conservazione in latta al riparo dall'umidità fino a sette giorni e congelamento del rotolo crudo avvolto per circa un mese; non è una validazione sperimentale.",
+      "origin": "Origine storica specifica non documentata dalla fonte consultata",
+      "originalTimes": {
+        "cook": "35 min",
+        "prep": "15 min",
+        "rest": "Circa 2 ore + 30 min in frigorifero"
+      },
+      "originalTitle": "Biscotti girandola",
+      "originalYield": "Circa 16 biscotti",
+      "photo": null,
+      "prep": "15 min",
+      "publisher": "GialloZafferano",
+      "rest": "Circa 2 ore + 30 min in frigorifero",
+      "reviewedRecordSha256": "0245f248d17fdf897222020c2b3749591557856f92d42c992499f05d2db18a3f",
+      "serves": "Circa 16 biscotti",
+      "source": "https://ricette.giallozafferano.it/Biscotti-girandola.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Nel mixer sabbiare a impulsi il burro freddo a cubetti con 250 g di farina, evitando di riscaldarlo. Trasferire in ciotola, aggiungere zucchero a velo e uovo; compattare rapidamente.",
+        "Pesare e dividere la massa in due parti uguali. Incorporare 40 g di farina alla parte chiara e 20 g di cacao all'altra. Appiattire, avvolgere separatamente e refrigerare circa due ore, finché compatte.",
+        "Stendere ciascuna frolla a 4 mm in rettangoli 22 × 26 cm, eventualmente tra fogli di carta forno. Spennellare d'acqua la frolla chiara, sovrapporre quella scura allineando i bordi e pressare leggermente col mattarello.",
+        "Inumidire tutta la superficie al cacao, avvolgere le due sfoglie insieme e refrigerare il rotolo avvolto per 30 minuti.",
+        "Affettare a circa 7 mm, disporre su carta forno e cuocere a 160 °C statico per circa 35 minuti. Raffreddare."
+      ],
+      "temperature": "Forno statico preriscaldato 160 °C"
+    },
+    {
+      "author": "Luciano Monosilio",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min",
+      "description": "Carbonara della versione GialloZafferano attribuita a Luciano Monosilio, con mantecatura a bagnomaria.",
+      "id": "GZ-00099",
+      "ingredients": [
+        "Spaghettoni 320 g",
+        "Guanciale 200 g",
+        "Tuorli medi 4 (per il metodo senza cottura completa: equivalente in tuorli pastorizzati idonei al consumo senza ulteriore cottura, secondo etichetta)",
+        "Grana Padano DOP 30 g",
+        "Pecorino Romano DOP 20 g",
+        "Pepe nero macinato 20 g (quantità della fonte)",
+        "Pecorino Romano per servire 20 g"
+      ],
+      "name": "Carbonara alla romana cremosa di Luciano Monosilio",
+      "notes": "Nota prudenziale distinta: usare tuorli pastorizzati dichiarati idonei dal produttore al consumo senza ulteriore cottura; rispettare etichetta e catena del freddo. Non convertire i tuorli in grammi senza dati. Il metodo a 65 °C senza mantenimento documentato non costituisce trattamento microbiologico validato. Non convalidare la conservazione del grasso a temperatura ambiente. La formula dell'intervista La Cucina Italiana del 6 aprile 2026 (280 g di pasta, 2 g di pepe) è diversa: non sostituisce quella GZ. Dossier SPEC26-20261127-0140-GZ-00099-v1; FDA https://www.fda.gov/food/retail-food-industryregulatory-assistance-training/assuring-safety-eggs-and-menu-and-deli-items-made-raw-shell-eggs.",
+      "origin": "Origine storica specifica non documentata dalla fonte consultata",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "20 min",
+        "rest": "Non applicabile; servire subito"
+      },
+      "originalTitle": "Traditional carbonara",
+      "originalYield": "4 persone",
+      "pdfPage": 222,
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b2de2e149c81f9a756a2e4f14f8f31d414c4f926f1d6b9aac6b407d78e658f63",
+        "previousAppSha256": "b2de2e149c81f9a756a2e4f14f8f31d414c4f926f1d6b9aac6b407d78e658f63",
+        "reviewedDigest": "0a751126128ead2f92dd3bb79d4d5fc1ea10ea39cbc3a25ce876bd1f1789ead0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non applicabile; servire subito",
+      "reviewedRecordSha256": "0a751126128ead2f92dd3bb79d4d5fc1ea10ea39cbc3a25ce876bd1f1789ead0",
+      "serves": "4 persone",
+      "source": "https://www.giallozafferano.com/recipes/Traditional-carbonara.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Eliminare cotenna ed eventuale pepe superficiale dal guanciale, tagliarlo a cubetti di circa 5 mm e rosolarlo senza altro grasso. Separare i cubetti dal grasso reso.",
+        "Lessare la pasta al dente. In una ciotola d'acciaio amalgamare i tuorli idonei con Grana, Pecorino e pepe; aggiungere poca acqua di cottura.",
+        "Lavorare la crema a bagnomaria incorporando grasso del guanciale fino a consistenza setosa, circa 65 °C come parametro gastronomico.",
+        "Scolare la pasta nella ciotola, mantecare con acqua di cottura quanto necessario e gran parte del guanciale. Terminare a bagnomaria, completare con guanciale rimanente e Pecorino di servizio; servire subito."
+      ],
+      "temperature": "Crema circa 65 °C come obiettivo di consistenza; non prova di pastorizzazione"
     }
   ]
 }
