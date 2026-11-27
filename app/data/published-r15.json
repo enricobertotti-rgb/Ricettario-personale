@@ -34703,6 +34703,270 @@
         "Coprire a contatto e refrigerare per circa 4 ore fino a rassodamento."
       ],
       "temperature": "Succo caldo non bollente; crema 170 °F"
+    },
+    {
+      "author": "Cucchiaio d'Argento",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "12–13 min (riepilogo: 15 min)",
+      "description": "Sablé di mandorle in sfoglia sottile, con uvetta e scorze candite.",
+      "id": "SRC-2939d4bb41cebf42",
+      "ingredients": [
+        "250 g farina 00",
+        "150 g burro morbido",
+        "60 g zucchero semolato",
+        "50 g uvetta",
+        "50 g scorze di cedro e arancia candite",
+        "40 g farina di mandorle",
+        "2 uova + 1 tuorlo a temperatura ambiente (1 uovo e 1 tuorlo per impasto; 1 uovo per finitura)",
+        "1 cucchiaino lievito vanigliato in polvere",
+        "1 pizzico sale",
+        "Acqua tiepida q.b. per ammollo",
+        "1 cucchiaio acqua fredda per spennellatura"
+      ],
+      "name": "Biscotti sablé alle mandorle, uvetta e canditi",
+      "notes": "Riepilogo: cottura 15 min, totale 1 h 55 min; il metodo indica 12–13 min a 180 °C e doratura. Rispettare il riposo e la lavorazione breve. La pasta è una variante della sablée francese.",
+      "origin": "Variante della pasta sablée francese, come dichiarato dalla fonte; origine del biscotto specifico non dichiarata",
+      "originalTimes": {
+        "cook": "12–13 min (riepilogo: 15 min)",
+        "prep": "20 min",
+        "rest": "Ammollo 20 min; frigorifero almeno 1 h; 10 min prima di separare, poi raffreddamento completo"
+      },
+      "originalTitle": "Biscotti sablé alle mandorle con uvetta e canditi",
+      "originalYield": "8 persone",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "Cucchiaio d'Argento",
+      "rest": "Ammollo 20 min; frigorifero almeno 1 h; 10 min prima di separare, poi raffreddamento completo",
+      "reviewedRecordSha256": "4de921b706818814c08c60eff354132823992099779df5bd5d6f36e094508c04",
+      "serves": "8 persone",
+      "source": "https://www.cucchiaio.it/ricetta/ricetta-biscotti-sable-mandorle-uvetta-canditi/",
+      "sourceLabel": "Cucchiaio d'Argento",
+      "steps": [
+        "Ammollare l’uvetta in acqua tiepida per circa 20 minuti. Lavorare burro, zucchero e sale fino a crema.",
+        "Unire un uovo, il tuorlo e la farina di mandorle. Aggiungere farina 00 setacciata con lievito, canditi tritati e uvetta sgocciolata e asciugata. Impastare brevemente, evitando di scaldare la massa.",
+        "Raccogliere a palla, avvolgere in pellicola e lasciare in frigorifero almeno un’ora. Preparare due teglie con carta forno e stendere l’impasto direttamente su di esse in sfoglie di circa 3 mm.",
+        "Sbattere l’uovo restante con un cucchiaio di acqua fredda e spennellare entrambe le sfoglie. Dividerle in quadrati con rotella dentata. Cuocere a 180 °C in forno già caldo, 12–13 minuti o fino a doratura.",
+        "Dopo 10 minuti fuori dal forno separare con delicatezza i biscotti; completare il raffreddamento."
+      ],
+      "temperature": "180 °C"
+    },
+    {
+      "author": "École Valrhona",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Non dichiarato",
+      "description": "Ganache fondente emulsionata per aggiunte successive con controllo della temperatura.",
+      "id": "SRC-67a2b1d3d59b4822",
+      "ingredients": [
+        "400 g panna da montare",
+        "100 g zucchero (invertito, glucosio o altro secondo fonte)",
+        "450 g cioccolato fondente tipo Guanaja",
+        "50 g burro facoltativo"
+      ],
+      "name": "Ganache classica fondente con zucchero invertito — metodo École Valrhona",
+      "notes": "Burro facoltativo. La fonte descrive anche una ganache montata autonoma senza burro, con panna fredda 35% pari al peso della miscela emulsionata; non è la formula classica qui riportata. La leggenda dell’apprendista non è un fatto storico verificato. Impieghi liquidi e solidi secondo consistenza; per una ganache troppo liquida raffreddare prima, poi eventualmente scaldare a bagnomaria e aggiungere poco cioccolato, come indicato dalla fonte. Nessuna durata di conservazione dichiarata.",
+      "origin": "Tecnica francese documentata da Barralis; origine specifica della formula non dichiarata",
+      "originalTimes": {
+        "cook": "Non dichiarato",
+        "prep": "Non dichiarato",
+        "rest": "Cristallizzazione secondo l’impiego; durata non dichiarata"
+      },
+      "originalTitle": "Ganache al cioccolato — Preparare correttamente una ganache classica",
+      "originalYield": "Resa non dichiarata",
+      "photo": null,
+      "prep": "Non dichiarato",
+      "publisher": "Valrhona",
+      "rest": "Cristallizzazione secondo l’impiego; durata non dichiarata",
+      "reviewedRecordSha256": "f947d13c5fbf55f5598610bb3678d54a0c191d95f8690a2a56a590c54629db58",
+      "serves": "Resa non dichiarata",
+      "source": "https://www.valrhona.com/it/home/l-ecole-valrhona/scopra-l-ecole-valrhona/il-glossario-del-cioccolato/ganache-al-cioccolato",
+      "sourceLabel": "Valrhona",
+      "steps": [
+        "Scaldare panna e zucchero insieme fino all’ebollizione; nel frattempo fondere parzialmente il cioccolato.",
+        "Incorporare un quarto della panna calda al cioccolato e lavorare per iniziare l’emulsione. Controllare che il composto superi 35 °C; se necessario scaldarlo per fondere il burro di cacao.",
+        "Incorporare separatamente il secondo e il terzo quarto della miscela di panna e zucchero. Versare anche il quarto restante; omogeneizzare eventualmente con il mixer.",
+        "Se si usa il burro, controllare che la ganache sia fra 35 e 40 °C, aggiungere il burro tagliato e mixare. Il burro è facoltativo e rende la struttura più fondente.",
+        "Utilizzare la ganache o lasciarla cristallizzare in funzione della destinazione. Non sono indicati durata e temperatura di cristallizzazione; trattandosi di una preparazione con panna, mantenerla refrigerata quando non in lavorazione."
+      ],
+      "temperature": "Panna a ebollizione; emulsione sopra 35 °C; prima del burro 35–40 °C"
+    },
+    {
+      "author": "Cucchiaio d'Argento",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "40–45 min",
+      "description": "Torta a massa montata al burro, arricchita da amaretti e pinoli.",
+      "id": "SRC-7ba141981cd8ac24",
+      "ingredients": [
+        "125 g burro morbido",
+        "125 g zucchero semolato",
+        "125 g uova",
+        "125 g farina di mandorle",
+        "100 g farina 00",
+        "80 g amaretti",
+        "Scorza grattugiata di 1 arancia non trattata",
+        "1 manciata di pinoli",
+        "2 g lievito",
+        "Zucchero a velo q.b."
+      ],
+      "name": "Torta con farina di mandorle, amaretti e pinoli",
+      "notes": "La montata del burro molto morbido è determinante per la struttura. La fonte non precisa eventuale preparazione dello stampo. Origine specifica non dichiarata.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": {
+        "cook": "40–45 min",
+        "prep": "20 min",
+        "rest": "Intiepidire prima di sformare"
+      },
+      "originalTitle": "Torta con farina di mandorle",
+      "originalYield": "6–8 porzioni; stampo Ø 18–20 cm",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "Cucchiaio d'Argento",
+      "rest": "Intiepidire prima di sformare",
+      "reviewedRecordSha256": "11a86dea75b0569fcaf34b673cc0858fbccc1e952a5efd85428a6003101752e3",
+      "serves": "6–8 porzioni; stampo Ø 18–20 cm",
+      "source": "https://www.cucchiaio.it/ricetta/torta-con-farina-di-mandorle/",
+      "sourceLabel": "Cucchiaio d'Argento",
+      "steps": [
+        "Montare burro molto morbido, zucchero e scorza d’arancia in planetaria fino a ottenere una crema aerata e lucente. Incorporare gradualmente le uova.",
+        "Amalgamare farina 00, farina di mandorle e lievito fino a uniformità; spezzettare grossolanamente gli amaretti e distribuirli nell’impasto con la spatola.",
+        "Versare in uno stampo da 18–20 cm, distribuire sopra i pinoli. Cuocere 40–45 minuti in forno ventilato preriscaldato a 180 °C.",
+        "Lasciare intiepidire prima di estrarre dallo stampo; spolverizzare di zucchero a velo al servizio."
+      ],
+      "temperature": "Forno ventilato 180 °C"
+    },
+    {
+      "author": "Valerio Barralis",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Panna a ebollizione; durata non dichiarata",
+      "description": "Ganache al latte in parti uguali, stabilizzata in frigorifero prima dell’uso.",
+      "id": "SRC-8b3772bba244ea7d",
+      "ingredients": [
+        "100 g panna liquida",
+        "100 g cioccolato al latte"
+      ],
+      "name": "Ganache al cioccolato al latte 1:1 — Valerio Barralis",
+      "notes": "Da usare come ripieno o copertura, direttamente oppure montata dopo stabilizzazione. La pagina contiene anche due formule distinte: fondente (100 g panna e 80 g cioccolato) e bianca (100 g panna e 120 g cioccolato); il gianduia è citato ma non quantificato. Nessuna durata di conservazione dopo il riposo dichiarata.",
+      "origin": "Francia — origine della ganache esplicitata dalla fonte; formulazione di Valerio Barralis",
+      "originalTimes": {
+        "cook": "Panna a ebollizione; durata non dichiarata",
+        "prep": "Non dichiarato",
+        "rest": "12 ore in frigorifero"
+      },
+      "originalTitle": "Ganache (ricetta base) — al cioccolato al latte",
+      "originalYield": "Resa non dichiarata",
+      "photo": null,
+      "prep": "Non dichiarato",
+      "publisher": "Valerio Barralis Pâtisserie",
+      "rest": "12 ore in frigorifero",
+      "reviewedRecordSha256": "7cc9f225ee559a9a8ab2a9f4f4de8ceeb8086715523c99d42e53d1f873000e8d",
+      "serves": "Resa non dichiarata",
+      "source": "https://valeriobarralis.com/ricetta/ganache/",
+      "sourceLabel": "Valerio Barralis Pâtisserie",
+      "steps": [
+        "Spezzettare grossolanamente il cioccolato.",
+        "Far bollire la panna e versarla sul cioccolato; creare l’emulsione usando un mixer a immersione.",
+        "Coprire con pellicola alimentare e trasferire in frigorifero per 12 ore di stabilizzazione. Trascorso il riposo, usare direttamente o montare."
+      ],
+      "temperature": "Panna portata a ebollizione; temperatura numerica non dichiarata"
+    },
+    {
+      "author": "Cucchiaio d'Argento",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Tostatura 10 min; biscotti 15–20 min (riepilogo: 30 min complessivi)",
+      "description": "Biscotti di mandorle tostate con cannella, strutto e arancia.",
+      "id": "SRC-2c1c509c32775262",
+      "ingredients": [
+        "250 g mandorle non pelate",
+        "200 g zucchero semolato",
+        "1 cucchiaino cannella in polvere",
+        "2 uova",
+        "60 ml latte",
+        "260 g farina 00",
+        "30 g strutto",
+        "50 g marmellata di arance",
+        "5 g ammoniaca per dolci",
+        "Zucchero semolato q.b. per rivestire",
+        "28–30 mandorle non pelate per decorare"
+      ],
+      "name": "Biscotti alle mandorle di ispirazione siciliana con marmellata d’arance",
+      "notes": "Scorza di limone facoltativa, senza dose specificata. La fonte parla di ispirazione siciliana, non di attribuzione tradizionale certificata.",
+      "origin": "Italia — ispirazione siciliana dichiarata dalla fonte; non attribuita come formula tradizionale certificata",
+      "originalTimes": {
+        "cook": "Tostatura 10 min; biscotti 15–20 min (riepilogo: 30 min complessivi)",
+        "prep": "25 min",
+        "rest": "Raffreddare le mandorle; frigorifero almeno 30 min; raffreddamento completo dei biscotti"
+      },
+      "originalTitle": "Biscotti alle mandorle",
+      "originalYield": "Circa 28–30 biscotti",
+      "photo": null,
+      "prep": "25 min",
+      "publisher": "Cucchiaio d'Argento",
+      "rest": "Raffreddare le mandorle; frigorifero almeno 30 min; raffreddamento completo dei biscotti",
+      "reviewedRecordSha256": "0d0cb3c8153813d1f3e3657dddc25ed96cbe893081a47e44784712a5c5972711",
+      "serves": "Circa 28–30 biscotti",
+      "source": "https://www.cucchiaio.it/ricetta/ricetta-nzuddi-biscotti-mandorle/",
+      "sourceLabel": "Cucchiaio d'Argento",
+      "steps": [
+        "Tostare i 250 g di mandorle in unico strato su carta forno a 180 °C per 10 minuti. Farle raffreddare del tutto e ridurle in farina con un mixer a più riprese.",
+        "Mettere la farina di mandorle in planetaria con uova, cannella e 200 g di zucchero; aggiungere farina 00, ammoniaca, latte, strutto e marmellata. Lavorare lentamente con la foglia fino a uniformità (possibile anche a mano o nel mixer). Coprire e refrigerare almeno mezz’ora.",
+        "Porzionare con un cucchiaio e arrotondare in palline di circa 3 cm. Rotolarle nello zucchero di copertura, appiattirle leggermente e regolarne i bordi. Disporle distanziate su 2–3 teglie con carta forno e inserire una mandorla al centro di ciascuna.",
+        "Infornare a 180 °C già raggiunti per 15–20 minuti, fino a doratura. Lasciar raffreddare completamente."
+      ],
+      "temperature": "180 °C per tostatura e biscotti"
+    },
+    {
+      "author": "IRCA Group — scheda con Marco De Grada",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "Panna (1) a ebollizione",
+      "description": "Ganache bianca montata con due aggiunte separate di panna, una calda e una fredda.",
+      "id": "SRC-78a642776123380c",
+      "ingredients": [
+        "80 g panna 35% m.g. (fase 1, bollente)",
+        "130 g Sinfonia cioccolato bianco",
+        "200 g panna 35% m.g. (fase 2, fredda)"
+      ],
+      "name": "Ganache montata al cioccolato bianco — IRCA, panna in due fasi",
+      "notes": "Alternative nella stessa formulazione: Reno Concerto Bianco 31,50% oppure Sinfonia Nocciolato Bianco. Indicata per farcire e decorare torte, monoporzioni, mignon, macaron e cupcake. Conservare i dolci preparati in frigorifero, come specificato da IRCA; durata non dichiarata. Le altre formulazioni al latte, fondenti e gianduia sono distinte.",
+      "origin": "Tecnica di ganache di origine francese (documentata nella fonte Barralis); formula professionale IRCA, origine specifica non dichiarata",
+      "originalTimes": {
+        "cook": "Panna (1) a ebollizione",
+        "prep": "Non dichiarato",
+        "rest": "Frigorifero almeno 3 ore, idealmente una notte"
+      },
+      "originalTitle": "GANACHE MONTATA AL CIOCCOLATO (ricette di base) — GANACHE CON CIOCCOLATO BIANCO o NOCCIOLATO BIANCO",
+      "originalYield": "Resa non dichiarata dalla fonte",
+      "photo": null,
+      "prep": "Non dichiarato",
+      "publisher": "IRCA Group",
+      "rest": "Frigorifero almeno 3 ore, idealmente una notte",
+      "reviewedRecordSha256": "0786312290ea778dd8f4bf21d88d532f65401c8c36a7e968ae0b83b0098cf23a",
+      "serves": "Resa non dichiarata dalla fonte",
+      "source": "https://www.ircagroup.com/it/ricette/ganache-montata-al-cioccolato-ricette-di-base",
+      "sourceLabel": "IRCA Group",
+      "steps": [
+        "Portare a ebollizione gli 80 g di panna della prima fase. Versarli sulle gocce di cioccolato e ottenere un’emulsione con frusta o mixer a immersione.",
+        "Continuando a emulsionare, aggiungere gradualmente a filo i 200 g di panna fredda della seconda fase.",
+        "Far maturare in frigorifero almeno tre ore; la fonte consiglia una notte.",
+        "Montare a velocità medio-bassa fino a consistenza cremosa e soffice. Conservare in frigorifero i dolci farciti o decorati con questa preparazione."
+      ],
+      "temperature": "Panna (1) a ebollizione; panna (2) fredda; gradi non dichiarati"
     }
   ]
 }
