@@ -34967,6 +34967,247 @@
         "Montare a velocità medio-bassa fino a consistenza cremosa e soffice. Conservare in frigorifero i dolci farciti o decorati con questa preparazione."
       ],
       "temperature": "Panna (1) a ebollizione; panna (2) fredda; gradi non dichiarati"
+    },
+    {
+      "author": "Non dichiarato",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "25 min complessivi",
+      "description": "Cantucci toscani al miele, arancia e burro",
+      "id": "SRC-344cda6246cb5a4f",
+      "ingredients": [
+        "2 uova",
+        "170 g zucchero semolato",
+        "280 g farina 00",
+        "½ cucchiaino bicarbonato",
+        "40 g burro morbido",
+        "70 g mandorle sgusciate non pelate",
+        "scorza di 1 arancia non trattata",
+        "1 cucchiaio miele",
+        "1 tuorlo per spennellare",
+        "farina per le mani, q.b."
+      ],
+      "name": "Cantucci toscani al miele, arancia e burro",
+      "notes": "La fonte suggerisce il Vin Santo e rimanda a versioni diverse con cioccolato e pistacchi o miele e caffè: non equivalenti a questa formulazione. Nessuna fusione.",
+      "origin": "Italia, Toscana (tradizione dichiarata dalla fonte)",
+      "originalTimes": {
+        "cook": "25 min complessivi",
+        "prep": "15 min",
+        "rest": "Qualche minuto tra le due cotture; raffreddamento completo, durata non indicata"
+      },
+      "originalTitle": "Cantucci",
+      "originalYield": "Circa 30 cantucci",
+      "photo": null,
+      "prep": "15 min",
+      "publisher": "Il Cucchiaio d'Argento",
+      "rest": "Qualche minuto tra le due cotture; raffreddamento completo, durata non indicata",
+      "reviewedRecordSha256": "b797ad49a87a6b69e735a0f39316841bf819756ac2313d78757a5b9b024f060f",
+      "serves": "Circa 30 cantucci",
+      "source": "https://www.cucchiaio.it/ricetta/cantucci/",
+      "sourceLabel": "Il Cucchiaio d'Argento",
+      "steps": [
+        "Lavorare brevemente le uova intere con lo zucchero usando le fruste. Incorporare farina e bicarbonato fino a un composto granuloso.",
+        "Aggiungere burro, mandorle intere, scorza d'arancia e miele; impastare rapidamente e raccogliere in un panetto.",
+        "Dividere a metà e con le mani infarinate formare due filoncini; sistemarli su carta forno e spennellare con il tuorlo.",
+        "Cuocere a 190 °C in forno preriscaldato per 20 minuti. Lasciar riposare qualche minuto, affettare diagonalmente a circa 1 cm e rimettere in forno a 200 °C per 5 minuti, fino a doratura.",
+        "Lasciare raffreddare completamente prima di servire."
+      ],
+      "temperature": "190 °C; 200 °C"
+    },
+    {
+      "author": "Non dichiarato",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "12–15 min",
+      "description": "Biscotti morbidi al limone con doppia copertura di zucchero",
+      "id": "SRC-ab996a6e248964c2",
+      "ingredients": [
+        "280 g farina 00",
+        "20 g fecola di patate",
+        "120 g zucchero semolato",
+        "100 g burro morbido",
+        "1 uovo",
+        "scorza e succo di 1 limone biologico",
+        "½ bustina lievito per dolci (8 g)",
+        "1 pizzico sale",
+        "zucchero semolato per copertura, q.b.",
+        "zucchero a velo per copertura, q.b."
+      ],
+      "name": "Biscotti morbidi al limone con doppia copertura di zucchero",
+      "notes": "La fonte suggerisce limoni biologici e conservazione per qualche giorno senza durata precisa; nessuna shelf life validata. Due riposi e doppia copertura distinti.",
+      "origin": "Origine non dichiarata",
+      "originalTimes": {
+        "cook": "12–15 min",
+        "prep": "30 min",
+        "rest": "1 ora in frigorifero per l'impasto e almeno 30 min dopo formatura"
+      },
+      "originalTitle": "Biscotti morbidi al limone",
+      "originalYield": "Circa 30 biscotti, 8 persone",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "Il Cucchiaio d'Argento",
+      "rest": "1 ora in frigorifero per l'impasto e almeno 30 min dopo formatura",
+      "reviewedRecordSha256": "3b4346e8ea34030ed60b7aeb3982a1fc6c0711d351208bacff3d89dffee68297",
+      "serves": "Circa 30 biscotti, 8 persone",
+      "source": "https://www.cucchiaio.it/ricetta/biscotti-morbidi-al-limone/",
+      "sourceLabel": "Il Cucchiaio d'Argento",
+      "steps": [
+        "Montare burro morbido e zucchero fino a consistenza spumosa; unire uovo e sale e continuare a montare.",
+        "Unire la scorza (solo la parte gialla) e il succo filtrato, poi farina, fecola e lievito setacciati. Amalgamare, avvolgere e refrigerare un'ora.",
+        "Formare palline grandi come una noce e passarle prima nello zucchero semolato poi nello zucchero a velo, coprendole completamente.",
+        "Distribuire su due teglie con carta forno, a distanza di 3–4 cm. Refrigerare almeno altri 30 minuti.",
+        "Infornare una teglia alla volta nel forno già caldo a 180 °C per 12–15 minuti, fino a lieve doratura e comparsa delle crepe. Raffreddare su gratella."
+      ],
+      "temperature": "180 °C"
+    },
+    {
+      "author": "Non dichiarato",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "Circa 25 min; tostatura facoltativa pochi minuti",
+      "description": "Amaretti farciti con crema al caffè",
+      "id": "SRC-8706ab7d65ff512e",
+      "ingredients": [
+        "Impasto: 300 g farina di mandorle",
+        "Impasto: 120 g zucchero semolato",
+        "Impasto: 40 g zucchero a velo + altro per copertura q.b.",
+        "Impasto: 2 albumi",
+        "Crema: 60 g burro morbido",
+        "Crema: 90 g zucchero a velo",
+        "Crema: 5 cucchiai caffè freddo",
+        "Mandorle a lamelle per decorare, q.b."
+      ],
+      "name": "Amaretti farciti con crema al caffè",
+      "notes": "Fonte originale disponibile in versione AMP dello stesso editore; URL canonico invariato. Durata di conservazione non dichiarata; non attribuirne una. Farcitura da tenere refrigerata come precauzione editoriale.",
+      "origin": "Origine non dichiarata",
+      "originalTimes": {
+        "cook": "Circa 25 min; tostatura facoltativa pochi minuti",
+        "prep": "20 min",
+        "rest": "Impasto almeno 1 ora in frigo o circa 30 min in freezer; crema almeno 30 min in frigo"
+      },
+      "originalTitle": "Amaretti con crema al caffè",
+      "originalYield": "10–12 persone",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "Il Cucchiaio d'Argento",
+      "rest": "Impasto almeno 1 ora in frigo o circa 30 min in freezer; crema almeno 30 min in frigo",
+      "reviewedRecordSha256": "57394545d386463feec53bd08dbf817cc4aaa56bbc8ce3525b3ec2b015ce77c0",
+      "serves": "10–12 persone",
+      "source": "https://www.cucchiaio.it/ricetta/amaretti-con-crema-al-caffe/",
+      "sourceLabel": "Il Cucchiaio d'Argento",
+      "steps": [
+        "Frullare farina di mandorle e i due zuccheri, incorporare gli albumi separatamente fino a massa morbida e uniforme. Avvolgere e refrigerare almeno un'ora oppure congelare per circa 30 minuti.",
+        "Formare rapidamente pezzi da circa 20 g; rivestirli di zucchero a velo e disporli distanziati su carta forno. Schiacciarli leggermente e praticare un incavo al centro.",
+        "Cuocere in forno già caldo a 160 °C per circa 25 minuti fino a doratura; raffreddare su griglia.",
+        "Lavorare il burro ammorbidito fino a crema, incorporare lo zucchero a velo setacciato, poi il caffè freddo con una spatola. Se necessario regolare la consistenza con altro zucchero a velo o caffè, quantità non dichiarate.",
+        "Refrigerare la crema almeno 30 minuti e farcire gli amaretti freddi con sac à poche. Facoltativamente decorare con lamelle di mandorle tostate pochi minuti."
+      ],
+      "temperature": "160 °C"
+    },
+    {
+      "author": "Ricettando con Dany",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "15 min",
+      "description": "Cavallucci di Siena con farina tipo 1 e sciroppo non bollito",
+      "id": "SRC-ab8733c7be9a1767",
+      "ingredients": [
+        "250 g farina tipo 1",
+        "100 g zucchero bianco",
+        "50 g zucchero di canna chiaro",
+        "75 g acqua",
+        "8 g lievito per dolci",
+        "75 g gherigli di noci",
+        "40 g arancia candita",
+        "8 g semi di anice",
+        "1 pizzico sale",
+        "1 pizzico cannella in polvere",
+        "noce moscata, una grattugiata",
+        "1 pizzico coriandolo in polvere",
+        "farina per spolverare, q.b."
+      ],
+      "name": "Cavallucci di Siena con farina tipo 1 e sciroppo non bollito",
+      "notes": "La fonte suggerisce il Vin Santo e la conservazione in scatola chiusa per un tempo non quantificato. Variante distinta da quella al miele e ammoniaca, con sciroppo bollito.",
+      "origin": "Italia, Siena, Toscana; tradizione natalizia documentata",
+      "originalTimes": {
+        "cook": "15 min",
+        "prep": "20 min",
+        "rest": "Raffreddamento su griglia, durata non dichiarata"
+      },
+      "originalTitle": "Cavallucci di Siena",
+      "originalYield": "Circa 15 pezzi da 40 g",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "GialloZafferano Blog",
+      "rest": "Raffreddamento su griglia, durata non dichiarata",
+      "reviewedRecordSha256": "fa51d600c881eb2c546b17c380b4176a51bff7777f7c94f17b7ad462054437a6",
+      "serves": "Circa 15 pezzi da 40 g",
+      "source": "https://blog.giallozafferano.it/ricettandocondany/ricetta-cavallucci-di-siena/",
+      "sourceLabel": "GialloZafferano Blog",
+      "steps": [
+        "Mescolare farina, sale, lievito, noci tritate grossolanamente, arancia candita a cubetti, anice pestato e spezie.",
+        "Scaldare acqua e i due zuccheri in un pentolino finché si sciolgono, evitando ebollizione e caramellizzazione.",
+        "Versare lo sciroppo sui secchi; amalgamare prima con cucchiaio, poi a mano, fino a massa uniforme e appiccicosa.",
+        "Con le mani infarinate ricavare circa 15 palline da 40 g, schiacciarle lievemente e sistemarle su una teglia con carta forno.",
+        "Cuocere in forno preriscaldato statico a 180 °C per 15 minuti oppure ventilato a 165 °C per lo stesso tempo. Raffreddare su griglia."
+      ],
+      "temperature": "180 °C statico oppure 165 °C ventilato"
+    },
+    {
+      "author": "Non dichiarato",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "15–18 min",
+      "description": "Biscotti di carote e mandorle con formaggio fresco",
+      "id": "SRC-2867bb56e63a79f6",
+      "ingredients": [
+        "100 g farina 00",
+        "70 g farina di mandorle",
+        "50 g carote al netto degli scarti",
+        "80 g zucchero semolato",
+        "40 g burro morbido",
+        "20 g Philadelphia",
+        "qualche goccia estratto di mandorle",
+        "1 pizzico cannella in polvere",
+        "1 uovo",
+        "zucchero a velo per coprire, q.b."
+      ],
+      "name": "Biscotti di carote e mandorle con formaggio fresco",
+      "notes": "Fonte: il riepilogo e l'introduzione indicano 1 ora di riposo, il passo 3 ne indica 2. Si conserva la durata del metodo esplicito e si segnala la discordanza, senza attribuire alla fonte una correzione non documentata.",
+      "origin": "Origine non dichiarata",
+      "originalTimes": {
+        "cook": "15–18 min",
+        "prep": "20 min",
+        "rest": "2 ore in frigorifero secondo il procedimento; riepilogo e introduzione indicano 1 ora"
+      },
+      "originalTitle": "Biscotti di carote e mandorle",
+      "originalYield": "Circa 30 biscotti",
+      "photo": null,
+      "prep": "20 min",
+      "publisher": "Il Cucchiaio d'Argento",
+      "rest": "2 ore in frigorifero secondo il procedimento; riepilogo e introduzione indicano 1 ora",
+      "reviewedRecordSha256": "f03e7dde00ecde4b14b0ebd4555bd22f7f34be8ecad7cca9a4517b8aaf4d4a21",
+      "serves": "Circa 30 biscotti",
+      "source": "https://www.cucchiaio.it/ricetta/biscotti-di-carote-e-mandorle/",
+      "sourceLabel": "Il Cucchiaio d'Argento",
+      "steps": [
+        "Mondare e grattugiare le carote. In un'altra ciotola lavorare a crema burro e formaggio fresco con le fruste.",
+        "Montare con zucchero ed estratto di mandorle; incorporare l'uovo continuando a lavorare.",
+        "Aggiungere carote, cannella, farina 00 setacciata e farina di mandorle. Rendere uniforme l'impasto e refrigerarlo coperto per 2 ore, come indicato nel procedimento.",
+        "Formare palline da circa 15 g, anche se l'impasto risulta appiccicoso; rivestirle completamente di zucchero a velo e distanziarle su una teglia con carta forno.",
+        "Cuocere in forno già caldo a 180 °C per 15–18 minuti, fino a lieve doratura. Raffreddare prima di spostare dalla teglia."
+      ],
+      "temperature": "180 °C"
     }
   ]
 }
