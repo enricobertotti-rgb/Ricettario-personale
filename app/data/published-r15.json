@@ -35854,6 +35854,278 @@
         "Servire subito, completando con una guarnizione di olive, capperi e prezzemolo come indicato dalla fonte."
       ],
       "temperature": "Fuoco basso per sciogliere le acciughe; brodo caldo; temperature numeriche non dichiarate"
+    },
+    {
+      "author": "Lulù Gargari",
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "1 h 20 min",
+      "description": "Gnocchi di patate e fecola al pomodoro e fiordilatte, gratinati.",
+      "id": "GZ-00223",
+      "ingredients": [
+        "GNOCCHI SENZA GLUTINE: patate rosse 1 kg",
+        "fecola di patate 200 g",
+        "sale fino q.b.",
+        "noce moscata q.b.",
+        "CONDIMENTO: passata di pomodoro 1 kg",
+        "mozzarella fiordilatte 400 g",
+        "aglio 1 spicchio",
+        "basilico q.b.",
+        "olio EVO 40 g",
+        "sale fino q.b.",
+        "Formaggio grattugiato (presente nel metodo; tipo e dose non dichiarati)",
+        "Filo d’olio per la superficie (dose finale non distinta dalla fonte)"
+      ],
+      "name": "Gnocchi senza glutine alla sorrentina",
+      "notes": "Nota del Curatore (OPT-20261127-v1): la fonte omette tipo e quantità del formaggio grattugiato nella lista ma lo usa in due momenti. La quantità può essere regolata a gusto come condimento, non è una dose attestata; nessun Parmigiano attribuito all’autrice. La formula comparativa del 17/11/2015 è distinta e non trasferisce dosi. Contiene latte; non presumere idoneità vegetariana del caglio. Per evitare contaminazione da glutine: prodotti idonei, mani, piano e utensili puliti, acqua di cottura nuova (AIC https://www.celiachia.it/dieta-senza-glutine/gestire-dieta-senza-glutine/preparare-pasti-in-casa/; dossier del 27/11/2026). La fonte indica frigo 1–2 giorni e congelamento crudo o cotto; refrigerare prontamente, durata di congelamento non dichiarata. Varianti della fonte: pelati anziché passata, provola affumicata anziché fiordilatte. Nessuna prova pratica.",
+      "origin": "Variante senza glutine della preparazione alla sorrentina; attribuzione geografica campana documentata nel dossier SPEC26.",
+      "originalTimes": "Preparazione 45 min; cottura 80 min dichiarati; riposo impasto 30 min; attesa dopo gratinatura di qualche minuto.",
+      "originalTitle": "Gluten-free Sorrentina Gnocchi",
+      "originalYield": "4 porzioni",
+      "pdfPage": 254,
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c7654e7afe984abe304dca401931f9bc2b04eb3794d0371f94361669bfad893f",
+        "previousAppSha256": "c7654e7afe984abe304dca401931f9bc2b04eb3794d0371f94361669bfad893f",
+        "reviewedDigest": "7623be2e52a20bb5ab5b9508298146657ea9cd6adf1bc4ea72c1594f455e4562"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "riposo impasto 30 min",
+      "reviewedRecordSha256": "7623be2e52a20bb5ab5b9508298146657ea9cd6adf1bc4ea72c1594f455e4562",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/gluten-free-sorrentina-gnocchi.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Lessare le patate da acqua fredda, circa 40 minuti dal bollore, fino a tenerezza; schiacciarle calde. Unire fecola, sale e noce moscata, lavorare fino a omogeneità, avvolgere e riposare 30 minuti.",
+        "Insaporire l’olio con l’aglio; aggiungere passata, sale e basilico. Cuocere a fuoco dolce 20–30 minuti.",
+        "Formare cordoni di circa 2 cm, ricavare pezzi di 2–3 cm e rigarli. Lessarli in acqua salata nuova, scolarli quando vengono a galla e unirli al sugo.",
+        "A fuoco spento incorporare parte del formaggio grattugiato; trasferire in una pirofila di 26 cm, disporre il fiordilatte a fette, il formaggio restante e un filo d’olio.",
+        "Passare sotto il grill a 200 °C per 10 minuti. Attendere qualche minuto e guarnire con basilico."
+      ],
+      "temperature": "Grill 200 °C per 10 min; lessatura e cottura dolce del sugo."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "60 minuti statico o 50 ventilato",
+      "description": "Torta soffice brasiliana a base di farina di mais, farina di grano, miele e burro, adatta alla colazione e alla merenda.",
+      "id": "SRC-0fd6c2ade8481a55",
+      "ingredients": [
+        "200 g farina di mais fioretto (alternativa bramata secondo fonte)",
+        "200 g farina 00",
+        "250 ml latte intero",
+        "3 uova a temperatura ambiente",
+        "150 g burro morbido",
+        "200 g zucchero",
+        "80 g miele millefiori",
+        "16 g lievito in polvere per dolci",
+        "Zucchero a velo q.b. per finire"
+      ],
+      "name": "Bolo de fubá brasiliano al mais",
+      "notes": "Nella fonte la resa compare come «Persons» senza numero: non è stata dedotta dal diametro dello stampo. Il prodotto usa farina di mais e farina 00 in parti uguali. La fonte suggerisce farina fioretto fine, oppure bramata; conservazione sotto campana 2–3 giorni, congelamento se ingredienti freschi non decongelati. Nel testo sono menzionate varianti con cocco o formaggio, senza dosi: non aggiungerle alla formula base.",
+      "origin": "Preparazione casalinga brasiliana; fonte ne descrive la presenza nella cucina familiare.",
+      "originalTimes": "Preparazione 15 minuti; cottura 60 minuti statico o 50 ventilato; burro e uova a temperatura ambiente per circa 2 ore; raffreddamento non quantificato.",
+      "originalTitle": "Corn cake (Bolo de fubà)",
+      "originalYield": "Uno stampo da 9 pollici (circa 23 cm, conversione già presente); porzioni non dichiarate.",
+      "photo": null,
+      "prep": "15 minuti",
+      "publicationUpdate": {
+        "baseAppSha256": "98ca3e57335082766b24960b5a3bca5cbea404d2afaf94e0ee4b6bae691f3e00",
+        "previousAppSha256": "98ca3e57335082766b24960b5a3bca5cbea404d2afaf94e0ee4b6bae691f3e00",
+        "reviewedDigest": "bf17fe0a7cfd24c935f3cd93481f5a701aa00a7b9921c08dd40cc7b81f3ab74f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "burro e uova a temperatura ambiente per circa 2 ore; raffreddamento non quantificato.",
+      "reviewedRecordSha256": "bf17fe0a7cfd24c935f3cd93481f5a701aa00a7b9921c08dd40cc7b81f3ab74f",
+      "serves": "Uno stampo da 9 pollici (circa 23 cm, conversione già presente); porzioni non dichiarate.",
+      "source": "https://www.giallozafferano.com/recipes/corn-cake-bolo-de-fuba.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Estrarre dal frigorifero uova e burro circa 2 ore prima. Unire nella planetaria farina di mais e zucchero; aggiungere burro morbido e uova.",
+        "Versare latte e miele, mescolare fino a distribuire gli ingredienti.",
+        "Setacciare insieme farina bianca e lievito; unirli all’impasto e lavorare ancora per circa cinque minuti, finché risulta gonfio e omogeneo.",
+        "Imburrare e foderare uno stampo rotondo da circa 23 cm. Versarvi il composto e livellarlo.",
+        "Cuocere in forno già caldo a 356 °F statico per 60 minuti, oppure 320 °F ventilato per circa 50 minuti. Trascorsi i primi 20 minuti, proteggere la superficie con alluminio per evitare scurimenti eccessivi.",
+        "Lasciare raffreddare, sformare e spolverare con zucchero a velo a piacere."
+      ],
+      "temperature": "Statico 356 °F (180 °C) per 60 min; ventilato 320 °F (160 °C) per 50 min."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "dichiarata 40 minuti",
+      "description": "Crocchette brasiliane di pollo dalla forma di piccole cosce, con farcitura saporita, involucro cotto di farina e brodo, impanatura e frittura.",
+      "id": "SRC-c6ecef389b39af6a",
+      "ingredients": [
+        "Farcitura: 300 g petto di pollo",
+        "1 carota",
+        "1 costa sedano",
+        "1 cipolla",
+        "2 cucchiaiate passata di pomodoro",
+        "2 spicchi aglio",
+        "2 cucchiaiate prezzemolo tritato",
+        "2 foglie alloro",
+        "Olio extravergine d’oliva q.b.",
+        "Sale fino q.b.; pepe nero q.b.",
+        "Impasto: 400 ml brodo di pollo (conservato dalla lessatura)",
+        "250 g farina 00",
+        "125 ml latte intero",
+        "50 g burro",
+        "1 tuorlo",
+        "Pastella: 50 g farina 00",
+        "75 ml latte intero",
+        "Pangrattato q.b. per impanare",
+        "Olio per friggere (menzionato nel procedimento: quantità non indicata)"
+      ],
+      "name": "Coxinha brasiliane di pollo",
+      "notes": "La fonte segnala 6 porzioni ma 14 singoli pezzi. Non assegna quantità all’olio di frittura né una temperatura precisa. Le dosi sono conservate senza aggiustamenti. La fonte non esplicita con certezza la suddivisione della cipolla nella lessatura; riservare mezza cipolla al soffritto come da metodo. Si possono preparare in anticipo e riscaldare in forno; congelamento sconsigliato dalla fonte, nessuna durata dichiarata. Precauzione del Curatore: cuocere completamente il pollo, raffreddare rapidamente ripieno e pezzi da conservare, refrigerare e riscaldare bene. Varianti narrative con piselli, funghi o formaggio cremoso, oppure soia, senza dosi. Suggerimento di servizio: stecchino e carta d’alluminio sulla punta.",
+      "origin": "Street food brasiliano; la fonte riporta come tradizione non accertata una leggenda sulle cucine della famiglia imperiale nel XIX secolo.",
+      "originalTimes": "Preparazione 45 minuti; cottura dichiarata 40 minuti; raffreddamento dell’impasto e ripieno non quantificato.",
+      "originalTitle": "Coxinha (Brazilian arancini)",
+      "originalYield": "14 coxinha; porzioni dichiarate 6.",
+      "photo": null,
+      "prep": "45 minuti",
+      "publicationUpdate": {
+        "baseAppSha256": "3813ec91cebd190df579b74b38630a32c7c7cfbc36f15faacc59c6e35f3564de",
+        "previousAppSha256": "3813ec91cebd190df579b74b38630a32c7c7cfbc36f15faacc59c6e35f3564de",
+        "reviewedDigest": "ad896dd509297876e9e2471468a9d76743327c1a1cf9bbbb285b08631ca137a7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "raffreddamento dell’impasto e ripieno non quantificato.",
+      "reviewedRecordSha256": "ad896dd509297876e9e2471468a9d76743327c1a1cf9bbbb285b08631ca137a7",
+      "serves": "14 coxinha; porzioni dichiarate 6.",
+      "source": "https://www.giallozafferano.com/recipes/coxinha-brazilian-arancini.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tagliare il pollo a bocconi, dividere la cipolla, preparare carota e sedano. Lessare pollo, verdure, due foglie di alloro e uno spicchio di aglio in acqua salata fino a carne bianca e tenera; scolare, tenere 400 ml di brodo e tritare il pollo.",
+        "Insaporire il secondo spicchio d’aglio in due cucchiai d’olio (quantità indicata nel metodo), aggiungere mezza cipolla tritata e appassire almeno 10 minuti; unire la passata, cuocere qualche minuto, aggiungere pollo, sale, pepe e prezzemolo. Raffreddare.",
+        "Sciogliere burro, unire brodo e latte a temperatura ambiente; portare a ebollizione, incorporare farina setacciata e mescolare rapidamente con frusta a fuoco basso finché la massa si compatta e si stacca. Intiepidire e unire il tuorlo.",
+        "Dividere l’impasto in circa 14 porzioni da 50 g; scavare ciascuna con un dito, farcire con circa 10 g di pollo e richiudere dando la forma a goccia o coscetta.",
+        "Mescolare 50 g di farina con 75 ml di latte; passare ogni pezzo prima nella pastella e poi nel pangrattato.",
+        "Scaldare l’olio: secondo la fonte la punta di uno stecchino deve sfrigolare, senza temperatura numerica. Friggere un pezzo alla volta qualche minuto fino a panatura dorata; scolare su carta e servire caldi."
+      ],
+      "temperature": "Brodo in ebollizione; frittura in olio caldo: temperatura numerica non indicata."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "dichiarata 1 h 10 min (comprende la crema)",
+      "description": "Biscotti sudamericani morbidi di farina e fecola, uniti a coppie con dulce de leche.",
+      "id": "SRC-36ec63083ffd7284",
+      "ingredients": [
+        "Biscotti: 150 g fecola di patate",
+        "150 g farina 00",
+        "75 g zucchero",
+        "125 g burro morbido",
+        "1 pizzico bicarbonato",
+        "Scorza di 1 limone",
+        "1 uovo intero",
+        "1 tuorlo",
+        "Dulce de leche: 100 g zucchero",
+        "1/2 bacca vaniglia",
+        "330 ml latte",
+        "1 pizzico bicarbonato"
+      ],
+      "name": "Alfajores con dulce de leche",
+      "notes": "La ricetta usa fecola di patate; la fonte ammette anche amido di mais. I tempi di riposo non sono inclusi nella preparazione dichiarata. La lista indica mezza bacca; il metodo cita una bacca aperta o metà per aroma più lieve: mantenere mezza bacca come quantità della lista. Conservare la crema in frigorifero, ammorbidendola a fuoco basso se necessario. La fonte indica biscotti sotto campana/barattolo 2–3 giorni e impasto congelabile, ma il curatore raccomanda refrigerazione per quelli farciti con crema di latte; il riferimento a barattoli sterilizzati non dimostra conservabilità a temperatura ambiente. Varianti con confettura, cocco o zucchero a velo menzionate dalla fonte, senza dosi.",
+      "origin": "Diffuse in Argentina e Uruguay; la fonte cita una possibile origine araba come ipotesi, non come fatto accertato.",
+      "originalTimes": "Preparazione 20 min; cottura dichiarata 1 h 10 min (comprende la crema); riposo impasto minimo 2 h; raffreddamento non quantificato.",
+      "originalTitle": "Alfajores",
+      "originalYield": "Circa 25 alfajores farciti.",
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6172dd5374182fd9941de9a367b816fe3601a6653f317a781e9fab232a2ecd50",
+        "previousAppSha256": "6172dd5374182fd9941de9a367b816fe3601a6653f317a781e9fab232a2ecd50",
+        "reviewedDigest": "fc193dddeabae8050803d72f1070a575c0b2b4399a4e0589c744d20d2ae843ec"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "riposo impasto minimo 2 h; raffreddamento non quantificato.",
+      "reviewedRecordSha256": "fc193dddeabae8050803d72f1070a575c0b2b4399a4e0589c744d20d2ae843ec",
+      "serves": "Circa 25 alfajores farciti.",
+      "source": "https://www.giallozafferano.com/recipes/alfajores.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Montare brevemente il burro ammorbidito con lo zucchero; incorporare prima il tuorlo e poi l’uovo intero.",
+        "Setacciare farina e fecola (oppure amido di mais), aggiungere scorza di limone. Incorporare al composto con spatola, poi lavorare brevemente con foglia fino a impasto morbido e omogeneo. Il pizzico di bicarbonato previsto nella lista si può unire ai secchi (indicazione redazionale; la fonte non esplicita il momento).",
+        "Avvolgere il panetto e refrigerare per almeno due ore.",
+        "Scaldare latte, vaniglia, zucchero e bicarbonato a fuoco basso, mescolando; dopo il bollore e lo scurimento togliere la bacca e continuare a fuoco medio fino a consistenza vischiosa simile al caramello, circa un’ora. Una cottura più lunga indurisce la crema; raffreddare in ciotola.",
+        "Stendere l’impasto a circa 5 mm, ritagliare dischi di 4 cm e refrigerarli ancora per 10 minuti sulla teglia.",
+        "Cuocere i dischi in forno statico preriscaldato 180 °C circa 10 min oppure ventilato 160 °C circa 5 min. Provare 1–2 dischi per calibrare il forno. Raffreddare su griglia; quando biscotti e crema sono freddi farcire metà dei dischi e chiudere con i restanti."
+      ],
+      "temperature": "Biscotti in forno statico 180 °C circa 10 min; ventilato 160 °C circa 5 min secondo fonte."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "dichiarata 35 min",
+      "description": "Fette di brioche ricca, dorate al forno con burro, miele e zucchero muscovado.",
+      "id": "SRC-4d3fd91b055cc453",
+      "ingredients": [
+        "Impasto: 300 g farina Manitoba fredda",
+        "110 g burro morbido ma plastico",
+        "70 g latte intero freddo",
+        "60 g zucchero freddo",
+        "20 g miele di acacia",
+        "2 uova fredde",
+        "9 g lievito di birra fresco",
+        "1 cucchiaino estratto di vaniglia",
+        "1 pizzico sale fino",
+        "Stampi: burro q.b.",
+        "Farina 00 q.b.",
+        "Spennellatura: 2 tuorli",
+        "2 cucchiaiate latte intero",
+        "Burro al miele: 160 g burro",
+        "70 g miele di acacia",
+        "50 g zucchero muscovado",
+        "1 pizzico sale fino",
+        "Per servire: gelato fiordilatte q.b.",
+        "Miele di acacia q.b."
+      ],
+      "name": "Honey butter toast su brioche al miele",
+      "notes": "La fonte propone due stampi piccoli da circa 16×9 cm, alti circa 7 cm. Le temperature dell’impasto devono rimanere basse durante la lavorazione. Nota della fonte: possibile prima fermentazione di circa 2 h seguita da 8–10 h in frigorifero; alternativa shokupan pronto. Agrumi o gocce di cioccolato nell’impasto, cannella/cardamomo/vaniglia nel burro; stampo unico più grande cambia il tempo. Il toast senza gelato si conserva 2 giorni a temperatura ambiente secondo fonte; brioche congelabile. Usare ingredienti freddi come indicato, burro plastico. Servire il gelato al momento.",
+      "origin": "La fonte colloca la diffusione dell’honey toast nei caffè del Giappone, in particolare nell’area di Shibuya, poi in altre cucine asiatiche.",
+      "originalTimes": "Preparazione 1 h 10 min; cottura 35 min dichiarati; impasto 5–10 min più circa 15 min per il burro; prima lievitazione circa 4 h, seconda 2–3 h; alternativa maturazione 8–10 h in frigo dopo 2 h a temperatura ambiente; raffreddamento non quantificato.",
+      "originalTitle": "Honey Butter Toast",
+      "originalYield": "Circa 12 fette ricavate da due piccoli pani.",
+      "photo": null,
+      "prep": "1 h 10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ebf23452c55fdb9ae73f62f5fe83e69d9ef5fdd0f8badadf4fc8a182dc467cc8",
+        "previousAppSha256": "ebf23452c55fdb9ae73f62f5fe83e69d9ef5fdd0f8badadf4fc8a182dc467cc8",
+        "reviewedDigest": "d552e34fe97f5dd986de69947ec694abf3ed4258d7facb328962b98a2aee9c5a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Prima lievitazione circa 4 h; seconda 2–3 h; alternativa refrigerata 8–10 h dopo 2 h a temperatura ambiente; raffreddamento non quantificato.",
+      "reviewedRecordSha256": "d552e34fe97f5dd986de69947ec694abf3ed4258d7facb328962b98a2aee9c5a",
+      "serves": "Circa 12 fette ricavate da due piccoli pani.",
+      "source": "https://www.giallozafferano.com/recipes/honey-butter-toast.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "In planetaria con gancio unire farina, zucchero, lievito sbriciolato, uova leggermente battute, miele e vaniglia; avviare lentamente e versare il latte freddo a filo.",
+        "Lavorare 5–10 minuti fino a sviluppo elastico, staccando e ripiegando l’impasto se necessario. Incorporare sale, poi burro a pezzi, circa 15 minuti, aspettando l’assorbimento di ogni aggiunta.",
+        "Sul piano leggermente imburrato fare pieghe di rinforzo; pirlare e coprire nella ciotola imburrata, a temperatura ambiente circa 4 ore fino al raddoppio.",
+        "Formare un cilindro, dividerlo in sei pezzi da circa 100 g; stendere ciascuno a rettangolo, arrotolare, ruotare di 90° e ripetere; dare forma ovale. In due stampi imburrati e infarinati disporne tre distanziati circa 1 cm. Coprire e lasciare 2–3 ore fino a triplicazione.",
+        "A circa 30 minuti dalla fine della lievitazione spennellare con tuorli e latte; ripetere a superficie asciutta dopo mezz’ora. Cuocere in ventilato preriscaldato 338 °F (170 °C) per 15–18 minuti fino a doratura, raffreddare prima nello stampo poi su griglia.",
+        "Mescolare i 160 g di burro con sale, muscovado e miele. Affettare il pane freddo a circa 5/8 di pollice, togliere le croste e ricoprire ogni lato.",
+        "Disporre su teglia, tostare in statico 392 °F (200 °C) per 15–18 minuti fino a doratura. Servire tiepide con gelato e miele."
+      ],
+      "temperature": "Prima cottura: ventilato 170 °C per 15–18 min. Seconda cottura: statico 200 °C per 15–18 min."
     }
   ]
 }
