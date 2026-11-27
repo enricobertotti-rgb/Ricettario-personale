@@ -33668,6 +33668,328 @@
         "Servire con cacao setacciato a piacere; per una crema più soda la fonte suggerisce circa un'ora in frigorifero."
       ],
       "temperature": "Sciroppo a 115 °C all'inizio della montata dei tuorli, 121 °C al versamento; temperatura della massa non dichiarata"
+    },
+    {
+      "author": "Ana Amalia (AnnaTorte)",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "12–13 min (riepilogo 15 min)",
+      "description": "Canestrelli liguri con burro montato e zucchero semolato",
+      "id": "SRC-ac8a3a3362730103",
+      "ingredients": [
+        "100 g farina 00",
+        "100 g amido di mais (oppure fecola di patate)",
+        "2 tuorli sodi",
+        "130 g burro",
+        "60 g zucchero semolato",
+        "1 cucchiaio scorza di limone grattugiata",
+        "1 cucchiaio estratto di vaniglia",
+        "1 pizzico sale",
+        "Zucchero a velo q.b. per finitura"
+      ],
+      "name": "Canestrelli liguri con burro montato e zucchero semolato",
+      "notes": "Variante distinta dal SRC-9de4dc4a6592337b: rapporto farina/amido, burro montato, zucchero semolato, spessore e temperatura differenti. Non acquisita altra formula Cucinatranquilla perché sostanzialmente sovrapponibile alla base già presente. Durata rassodamento non dichiarata; riepilogo e cottura nel metodo differiscono, da verificare editorialmente. Variante distinta dalla formula SRC-9de4dc4a6592337b con burro freddo e dosi differenti.",
+      "origin": "Liguria, indicata dalla fonte",
+      "originalTimes": {
+        "cook": "12–13 min (riepilogo 15 min)",
+        "prep": "non dichiarato",
+        "rest": "1 ora + 20 min in frigorifero"
+      },
+      "originalTitle": "Canestrelli liguri con burro montato e zucchero semolato",
+      "originalYield": "25 pezzi",
+      "photo": null,
+      "prep": "non dichiarato",
+      "publisher": "AnnaTorte",
+      "rest": "1 ora + 20 min in frigorifero",
+      "reviewedRecordSha256": "ad4b3549b3213f38e145b27b25572ace3348f7809c6d59786075692ba923bdd4",
+      "serves": "25 pezzi",
+      "source": "https://blog.giallozafferano.it/annatorte/ricetta-canestrelli-i-biscotti-originali-liguri/",
+      "sourceLabel": "AnnaTorte",
+      "steps": [
+        "Rassodare e raffreddare le uova, separando i tuorli dagli albumi.",
+        "Montare burro, zucchero, scorza, sale e vaniglia con le fruste elettriche fino a ottenere una massa chiara e soffice. Incorporare i tuorli sodi continuando a lavorare finché la massa è liscia.",
+        "Unire farina e amido per ultimi; compattare a mano, avvolgere e refrigerare almeno un'ora.",
+        "Stendere a 6 mm, con poca farina sul piano oppure carta forno. Ritagliare fiori e aprire un foro al centro.",
+        "Trasferire con la paletta su placca foderata, distanziare e rimettere al freddo per almeno 20 minuti. Preriscaldare a 180 °C statico.",
+        "Cuocere sul ripiano centrale 12–13 minuti, mantenendo chiara la superficie. Raffreddare completamente in teglia, poi spolverare con zucchero a velo."
+      ],
+      "temperature": "Forno statico 180 °C"
+    },
+    {
+      "author": "Giuliana Manca",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "8–9 min",
+      "description": "Biscotti di Novara con semola e amido di mais",
+      "id": "SRC-07d3af446b7d38da",
+      "ingredients": [
+        "125 g semola rimacinata",
+        "60 g farina 00",
+        "40 g amido di mais",
+        "180 g zucchero semolato",
+        "145 g uova",
+        "16 g tuorli",
+        "1 pizzico sale",
+        "15 g semola rimacinata per finitura",
+        "15 g zucchero semolato per finitura"
+      ],
+      "name": "Biscotti di Novara con semola e amido di mais",
+      "notes": "Adattamento domestico distinto dal PAT. La fonte indica conservazione in scatola per almeno una settimana, non validata indipendentemente.",
+      "origin": "Italia, Piemonte, Novara",
+      "originalTimes": {
+        "cook": "8–9 min",
+        "prep": "montata 20 min",
+        "rest": "raffreddamento su gratella"
+      },
+      "originalTitle": "Biscotti di Novara con semola e amido di mais",
+      "originalYield": "60 biscotti",
+      "photo": null,
+      "prep": "montata 20 min",
+      "publisher": "La Cucina Imperfetta",
+      "rest": "raffreddamento su gratella",
+      "reviewedRecordSha256": "6493f567f569480002d7bb15a1ccd890ba56fd960cc16de99a37986dda9ffd50",
+      "serves": "60 biscotti",
+      "source": "https://www.lacucinaimperfetta.com/biscotti-di-novara/",
+      "sourceLabel": "La Cucina Imperfetta",
+      "steps": [
+        "Montare uova e tuorli a temperatura ambiente con 180 g di zucchero e sale per circa 20 minuti, fino a ottenere un composto chiaro e spumoso.",
+        "Setacciare semola, farina e amido e incorporare con spatola o foglia.",
+        "Con sac à poche formare biscotti allungati o tondi su teglia di alluminio rivestita di carta forno.",
+        "Mescolare semola e zucchero di finitura, distribuire sui biscotti, cuocere 8–9 minuti e raffreddare su gratella."
+      ],
+      "temperature": "190 °C preriscaldato, modalità non dichiarata"
+    },
+    {
+      "author": "Cristian Sampetru (Tra sentieri e fornelli)",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20–25 min circa (riepilogo 20 min)",
+      "description": "Ciambelline al vino bianco e semi di anice",
+      "id": "SRC-4096b740d25dab31",
+      "ingredients": [
+        "Vino bianco 130 g",
+        "Olio di semi di girasole 120 g",
+        "Farina 00 450 g",
+        "Zucchero a velo 130 g",
+        "Lievito istantaneo per dolci 8 g",
+        "Semi di anice 1 cucchiaio",
+        "Sale 1 pizzico",
+        "Zucchero semolato q.b. per decorare"
+      ],
+      "name": "Ciambelline al vino bianco e semi di anice",
+      "notes": "Fonte: oltre una settimana in scatola di latta o sacchetto alimentare chiuso; nessuna prova di durata. Si può utilizzare vino rosso nella stessa quantità secondo l'autore. Nessuna riproduzione di foto o testo originale; sito dichiara diritti riservati.",
+      "origin": "Italia (fonte)",
+      "originalTimes": {
+        "cook": "20–25 min circa (riepilogo 20 min)",
+        "prep": "30 min",
+        "rest": "raffreddamento completo"
+      },
+      "originalTitle": "Ciambelline al vino",
+      "originalYield": "30–40 biscotti nel riepilogo; circa 30 nel titolo ingredienti",
+      "photo": null,
+      "prep": "30 min",
+      "publisher": "Tra sentieri e fornelli",
+      "rest": "raffreddamento completo",
+      "reviewedRecordSha256": "a9bf259ed8aef903486403c912afa6c40ce520669fa1fdc69ecc992864892d26",
+      "serves": "30–40 biscotti nel riepilogo; circa 30 nel titolo ingredienti",
+      "source": "https://blog.giallozafferano.it/trasentieriefornelli/ciambelline-al-vino/",
+      "sourceLabel": "Tra sentieri e fornelli",
+      "steps": [
+        "Mescolare farina, lievito e zucchero a velo in una ciotola.",
+        "Incorporare olio, vino, sale e anice; amalgamare con forchetta, poi compattare sul piano leggermente infarinato.",
+        "Dividere in porzioni grandi come noci, allungarle in cordoncini di 15–20 cm e unire le estremità.",
+        "Passare solo la parte superiore nello zucchero semolato per evitare che bruci a contatto con la placca.",
+        "Sistemare su carta da forno, cuocere a 180 °C circa 20–25 minuti fino a cottura senza eccessiva colorazione e lasciar raffreddare completamente."
+      ],
+      "temperature": "Forno 180 °C, modalità non dichiarata"
+    },
+    {
+      "author": "Marilena Bergamaschi",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "5 min + 10 min essiccazione",
+      "description": "Biscottini di Novara alla vaniglia con doppia cottura",
+      "id": "SRC-086b5346c535b896",
+      "ingredients": [
+        "240 g farina 00",
+        "200 g zucchero",
+        "4 uova",
+        "1 cucchiaino estratto di vaniglia",
+        "1 pizzico bicarbonato",
+        "1 pizzico sale"
+      ],
+      "name": "Biscottini di Novara alla vaniglia con doppia cottura",
+      "notes": "Doppia cottura distinta dalla variante con semola. Origine regionale corroborata da https://www.piemonteagri.it/qualita/it/prodotti/paste-e-dolci/278-biscottini-di-novara ; non trasferite proporzioni del PAT. Foto Freepik non acquisita.",
+      "origin": "Italia, Piemonte, Novara",
+      "originalTimes": {
+        "cook": "5 min + 10 min essiccazione",
+        "prep": "montata 15 min",
+        "rest": "15 min prima della cottura; raffreddamento intermedio"
+      },
+      "originalTitle": "Biscottini di Novara alla vaniglia con doppia cottura",
+      "originalYield": "Circa 30 biscotti",
+      "photo": null,
+      "prep": "montata 15 min",
+      "publisher": "Parliamo di Cucina",
+      "rest": "15 min prima della cottura; raffreddamento intermedio",
+      "reviewedRecordSha256": "24a8c480275d1b9ed7d282bca858484f61117f1a671d5bca69f438acab978a9a",
+      "serves": "Circa 30 biscotti",
+      "source": "https://www.parliamodicucina.com/biscottini-di-novara/",
+      "sourceLabel": "Parliamo di Cucina",
+      "steps": [
+        "Montare uova, zucchero, vaniglia e sale per almeno 15 minuti, fino a ottenere una massa chiara e spumosa.",
+        "Setacciare farina e bicarbonato e incorporarli gradualmente evitando grumi.",
+        "Con sac à poche e bocchetta di circa 2 cm formare strisce lunghe circa 7 cm, distanziate sulla carta forno.",
+        "Lasciare riposare 15 minuti; cuocere 5 minuti a 220 °C, girare delicatamente e lasciare raffreddare.",
+        "Essiccare 10 minuti a 80 °C. Conservare in scatola di latta a temperatura ambiente secondo la fonte."
+      ],
+      "temperature": "220 °C, poi essiccazione a 80 °C"
+    },
+    {
+      "author": "Lorena Bassanese",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "12–15 min",
+      "description": "Pasta biscotto al cacao con montate separate",
+      "id": "SRC-c9d96458f3489a2e",
+      "ingredients": [
+        "3 tuorli",
+        "55 g zucchero per tuorli",
+        "40 g farina bianca",
+        "20 g fecola di patate",
+        "15 g cacao amaro",
+        "20 g zucchero per albumi",
+        "3 albumi",
+        "1 pizzico sale",
+        "olio o burro fuso per spennellare"
+      ],
+      "name": "Pasta biscotto al cacao con montate separate",
+      "notes": "Variante con montate separate; durata raffreddamento non dichiarata.",
+      "origin": "Non dichiarata",
+      "originalTimes": {
+        "cook": "12–15 min",
+        "prep": "non dichiarato",
+        "rest": "2 min prima di staccare carta; raffreddamento arrotolato"
+      },
+      "originalTitle": "Pasta biscotto al cacao con montate separate",
+      "originalYield": "1 rotolo, teglia 25 × 35 cm",
+      "photo": null,
+      "prep": "non dichiarato",
+      "publisher": "Nonsolodolce di Lorena",
+      "rest": "2 min prima di staccare carta; raffreddamento arrotolato",
+      "reviewedRecordSha256": "49ff6db5efbd9f33cfdc6c412b0a4a860077976f8c1fac33e3580b03033a2044",
+      "serves": "1 rotolo, teglia 25 × 35 cm",
+      "source": "https://blog.giallozafferano.it/nonsolodolcedilorena/pasta-biscotto-al-cacao/",
+      "sourceLabel": "Nonsolodolce di Lorena",
+      "steps": [
+        "Separare le uova a temperatura ambiente. Montare i tuorli con 55 g di zucchero fino a renderli chiari e spumosi.",
+        "Con fruste pulite montare gli albumi con sale e 20 g di zucchero, quindi incorporarli gradualmente alla montata di tuorli.",
+        "Setacciare farina, fecola e cacao e incorporarli delicatamente. Distribuire sulla carta forno leggermente unta nella teglia.",
+        "Cuocere 12–15 minuti. Capovolgere su un canovaccio pulito inumidito e dopo 2 minuti rimuovere la carta.",
+        "Coprire anche la superficie con un canovaccio umido, attendere qualche minuto, arrotolare e lasciare raffreddare in forma; srotolare e farcire."
+      ],
+      "temperature": "180 °C statico"
+    },
+    {
+      "author": "Valrhona (ricetta professionale)",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "riscaldamento latte, durata non dichiarata",
+      "description": "Namelaka Ivoire al limone — componente del Dessert Kisselo",
+      "id": "SRC-b9ba424b825da57c",
+      "ingredients": [
+        "3 g gelatina",
+        "130 g latte intero",
+        "3 g scorza di limone giallo",
+        "10 g glucosio",
+        "235 g cioccolato bianco Ivoire 35%",
+        "270 g panna da montare 35%"
+      ],
+      "name": "Namelaka Ivoire al limone — componente del Dessert Kisselo",
+      "notes": "Scheda della sola componente tecnica completa Step 01; non rappresenta la ricetta integrale del dessert. Tipo di gelatina e acqua d'idratazione non dichiarati. La fonte non indica la durata di conservazione; non dedurla. Tipo, Bloom e acqua di idratazione della gelatina non dichiarati: seguire le indicazioni del prodotto senza attribuire dosi alla fonte. Refrigerare prontamente e mantenere al freddo; durata non validata.",
+      "origin": "Non dichiarata per la specifica formulazione; fonte professionale Valrhona",
+      "originalTimes": {
+        "cook": "riscaldamento latte, durata non dichiarata",
+        "prep": "infusione 3–4 min",
+        "rest": "una notte in frigorifero"
+      },
+      "originalTitle": "Namelaka Ivoire al limone — componente del Dessert Kisselo",
+      "originalYield": "Formula componente per dessert da 24 porzioni; servizio circa 25 g di namelaka a porzione; resa effettiva della crema non dichiarata",
+      "photo": null,
+      "prep": "infusione 3–4 min",
+      "publisher": "Valrhona",
+      "rest": "una notte in frigorifero",
+      "reviewedRecordSha256": "24d8723fdb7a11d97c4ff6abd97780cbd6dae30588ee7fa6ffb7072d2b57d667",
+      "serves": "Formula componente per dessert da 24 porzioni; servizio circa 25 g di namelaka a porzione; resa effettiva della crema non dichiarata",
+      "source": "https://www.valrhona.com/it/ispirazione/ricette/tutte-le-ricette/dessert-kisselo-bistro",
+      "sourceLabel": "Valrhona",
+      "steps": [
+        "Scaldare il latte e lasciare le scorze in infusione per 3–4 minuti; filtrare.",
+        "Unire al latte il glucosio e la gelatina precedentemente idratata.",
+        "Fondere il cioccolato e versarvi il latte caldo poco per volta, lavorando per formare e completare l'emulsione.",
+        "Incorporare la panna liquida fredda; lasciare cristallizzare al freddo, preferibilmente tutta la notte.",
+        "Per l'impiego nel dessert dosare circa 25 g con sac à poche e bocchetta scanalata."
+      ],
+      "temperature": "Latte caldo; panna fredda; temperature numeriche non dichiarate"
+    },
+    {
+      "author": "Leyla Farella",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "8 min",
+      "description": "Pasta biscotto al cacao con miele e fecola",
+      "id": "SRC-cb1b4fb7ffabf575",
+      "ingredients": [
+        "90 g zucchero",
+        "70 g farina 00",
+        "45 g fecola di patate",
+        "20 g cacao amaro",
+        "5 uova medie (250 g)",
+        "15 g miele",
+        "1 bustina vanillina",
+        "burro per fissare la carta, quantità non dichiarata",
+        "zucchero semolato per spolvero, quantità non dichiarata"
+      ],
+      "name": "Pasta biscotto al cacao con miele e fecola",
+      "notes": "Amido di mais al posto della fecola; mezza bacca di vaniglia oppure un cucchiaino di estratto al posto della vanillina. Conservazione dopo farcitura dipendente dalla farcia; nessuna durata validata.",
+      "origin": "Italia",
+      "originalTimes": {
+        "cook": "8 min",
+        "prep": "montata 10 min",
+        "rest": "raffreddamento circa 15 min"
+      },
+      "originalTitle": "Pasta biscotto al cacao con miele e fecola",
+      "originalYield": "8 persone; teglia interna 30 × 40 cm",
+      "photo": null,
+      "prep": "montata 10 min",
+      "publisher": "Dulcisss in forno",
+      "rest": "raffreddamento circa 15 min",
+      "reviewedRecordSha256": "b945c66f3dc5e56f2935f9ec799384031d2a040d3400d6c35b1772e233e50bcf",
+      "serves": "8 persone; teglia interna 30 × 40 cm",
+      "source": "https://blog.giallozafferano.it/dulcisinforno/rotolo-di-pan-di-spagna-al-cioccolato-ricetta-base/",
+      "sourceLabel": "Dulcisss in forno",
+      "steps": [
+        "Preriscaldare il forno. Sbattere brevemente le uova intere, quindi unire zucchero, vanillina e miele; montare alla massima velocità per 10 minuti fino a ottenere una massa aerata.",
+        "Setacciare insieme farina, fecola e cacao e incorporarli gradualmente con movimenti dal basso verso l'alto.",
+        "Fissare con poco burro gli angoli della carta forno nella teglia, distribuire e livellare il composto.",
+        "Cuocere per 8 minuti sul ripiano centrale. Controllare che la superficie ritorni in posizione premendola leggermente.",
+        "Estrarre subito la base con la carta, spolverare con zucchero semolato, capovolgere su un foglio pulito, staccare la carta di cottura e arrotolare senza stringere dal lato corto. Avvolgere in pellicola e lasciare raffreddare completamente a temperatura ambiente, circa 15 minuti, prima di farcire."
+      ],
+      "temperature": "200 °C statico, ripiano centrale"
     }
   ]
 }
