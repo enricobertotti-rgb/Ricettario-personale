@@ -35799,6 +35799,61 @@
         "Usare subito oppure refrigerare prontamente in contenitore pulito chiuso. Per riutilizzare, temperare solo per il tempo necessario a rimontare; scongelare in frigorifero se congelata. Queste ultime sono precauzioni redazionali."
       ],
       "temperature": "Meringa 161 °F; burro almeno 65 °F al momento della lavorazione"
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "40 min dichiarati; salsa 20 min",
+      "description": "Risotto con salsa di pomodoro, acciughe, olive e capperi, mantecato fuori fuoco con burro e Parmigiano.",
+      "id": "GZ-00760",
+      "ingredients": [
+        "360 g riso Carnaroli",
+        "80 g olive di Gaeta",
+        "10 g capperi",
+        "4 filetti di acciughe sott'olio",
+        "400 g pomodori pelati",
+        "2 l brodo vegetale",
+        "2 peperoncini",
+        "1 spicchio d'aglio",
+        "120 g burro",
+        "140 g Parmigiano Reggiano DOP",
+        "Prezzemolo q.b.",
+        "Olio a filo (nel metodo; quantità non dichiarata)",
+        "Sale e pepe per regolare (nel metodo; quantità non dichiarate)",
+        "Vino bianco per sfumare (nel metodo; quantità non dichiarata dalla fonte originale)"
+      ],
+      "name": "Risotto alla puttanesca",
+      "notes": "Nota del Curatore — vino: la fonte originale ES e le edizioni ufficiali IT/EN/BR consultate indicano la sfumatura senza dose. La fonte comparativa Vita Milanese (https://vitamilanese.com/recipe/puttanesca-risotto-3, consultata il 27/11/2026) coincide nelle quantità principali e nell'ordine essenziale delle lavorazioni e indica 1/4 cup di vino bianco secco. È un riferimento comparativo non attribuibile a Sebastian Fitarau, non una quantità verificata della fonte originale; nessuna conversione metrica perché la cup non è definita. La sfumatura è una fase accessoria rispetto alle quantità strutturali del risotto: conservare la lacuna dichiarata senza imporre la dose comparativa né crearne una variante. La versione social-bites dello stesso autore usa proporzioni differenti e non fornisce la dose: non trasferirne le quantità. La fonte indica conservazione in frigo 2 giorni; precauzione editoriale separata per il riso cotto: raffreddare rapidamente, refrigerare e consumare o congelare entro un giorno, secondo FSA (https://www.food.gov.uk/news-alerts/news/reduce-food-waste-and-stay-safe-this-christmas, evidenza SPEC26 27/11/2026). Nessuna prova pratica o microbiologica, nessuna garanzia di eliminazione totale dell'alcol. Contiene acciughe; non vegetariano.",
+      "origin": "Origine geografica specifica non documentata nella fonte consultata",
+      "originalTimes": "Preparazione 10 min; cottura 40 min dichiarati; salsa coperta 20 min",
+      "originalTitle": "Risotto alla puttanesca",
+      "originalYield": "4 porzioni",
+      "pdfPage": 219,
+      "photo": null,
+      "prep": "10 min dichiarati",
+      "publicationUpdate": {
+        "baseAppSha256": "4aa23566781c05a0db64c17c02f7a0bf3001cd5a1052401d6423c40d54c08d5c",
+        "previousAppSha256": "4aa23566781c05a0db64c17c02f7a0bf3001cd5a1052401d6423c40d54c08d5c",
+        "reviewedDigest": "1d88323ab747ef8c9a3d98df0ebdddc3d0e97e3ee322d3d2c660cf18be4c0706"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "1d88323ab747ef8c9a3d98df0ebdddc3d0e97e3ee322d3d2c660cf18be4c0706",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.es/recetas/risotto-alla-puttanesca.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Schiacciare lo spicchio d'aglio con la buccia e dividere i peperoncini. Scaldare con un filo d'olio e i filetti di acciuga a fuoco basso, finché le acciughe si sciolgono.",
+        "Aggiungere i pelati, regolare di sale e pepe e cuocere con coperchio per 20 minuti. Rimuovere aglio e peperoncini, quindi frullare la salsa.",
+        "Tostare il riso a secco fino a renderlo traslucido. Sfumare con il vino bianco e lasciare ridurre prima di aggiungere il brodo; la fonte non specifica la dose del vino.",
+        "Aggiungere progressivamente il brodo caldo. A metà cottura incorporare la salsa di pomodoro e proseguire fino al dente.",
+        "Tritare olive, capperi e prezzemolo. A fuoco spento incorporarli al risotto, mantecare con burro e Parmigiano Reggiano.",
+        "Servire subito, completando con una guarnizione di olive, capperi e prezzemolo come indicato dalla fonte."
+      ],
+      "temperature": "Fuoco basso per sciogliere le acciughe; brodo caldo; temperature numeriche non dichiarate"
     }
   ]
 }
