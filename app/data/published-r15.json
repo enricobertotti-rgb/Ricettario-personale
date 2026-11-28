@@ -38302,6 +38302,112 @@
         "Cuocere in forno ventilato preriscaldato a 390 °F per 35–40 minuti, fino a doratura; raffreddare sulla griglia."
       ],
       "temperature": "Forno ventilato 390 °F; maturazione in frigorifero o a temperatura ambiente secondo la fonte."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "20 min complessivi dichiarati",
+      "description": "Dolci lievitati fritti, soffici e farciti con crema pasticcera.",
+      "id": "GZ-03334",
+      "ingredients": [
+        "250 g farina 00",
+        "250 g farina Manitoba",
+        "140 g acqua",
+        "120 g uova (2 medie), sbattute",
+        "40 g zucchero",
+        "40 g burro morbido",
+        "15 g lievito di birra fresco",
+        "6 g sale fino",
+        "1 l olio di semi per friggere",
+        "500 g crema pasticcera per farcire",
+        "Zucchero a velo q.b."
+      ],
+      "name": "Bomboloni fritti con crema pasticcera",
+      "notes": "Nota del Curatore: la fonte inglese indica 1/32 di pollice per la stesura finale, mentre la corrispondente pagina italiana, collegata dalla fonte, riporta circa 8 mm; le dosi e la sequenza coincidono. Si adotta il valore italiano senza modificare l’URL canonico. La fonte consiglia il consumo immediato; se necessario, indica fino a un paio di giorni senza farcitura in un sacchetto di carta o coperti, oppure in frigorifero se farciti. Per la crema rispettare anche le condizioni più restrittive dei suoi ingredienti e non lasciarla a temperatura ambiente oltre il necessario. La fonte sconsiglia il congelamento dell’impasto crudo. Gli scarti possono lievitare ancora brevemente, essere fritti e passati nello zucchero. Farciture alternative secondo preferenza, senza dosi dichiarate. Fonte comparativa: https://ricette.giallozafferano.it/Bomboloni.html, consultata il 28/11/2026.",
+      "origin": "Non documentata per questa formulazione.",
+      "originalTimes": {
+        "cook": "20 min complessivi dichiarati",
+        "prep": "60 min",
+        "rest": "5 ore e 30 min dichiarate tra lievitazioni e riposi"
+      },
+      "originalTitle": "Bomboloni",
+      "originalYield": "10 pezzi",
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "932a2e5de9b50137bfb640671615850043c0176c2071fed3f6c027b3e6f2254a",
+        "previousAppSha256": "932a2e5de9b50137bfb640671615850043c0176c2071fed3f6c027b3e6f2254a",
+        "reviewedDigest": "ce405d44ec328dfc43b17131c21ebfa4b596c8ae71035b474c2a4adf8fb3f2d9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "5 ore e 30 min dichiarate tra lievitazioni e riposi",
+      "reviewedRecordSha256": "ce405d44ec328dfc43b17131c21ebfa4b596c8ae71035b474c2a4adf8fb3f2d9",
+      "serves": "10 pezzi",
+      "source": "https://www.giallozafferano.com/recipes/bomboloni.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Nella planetaria con gancio unire le due farine, zucchero e lievito sbriciolato. Azionare e aggiungere l’acqua gradualmente, poi le uova sbattute in più riprese. Quando l’impasto si forma, inserire il sale; lavorare a velocità media per 3–4 minuti.",
+        "Quando la massa si stacca dalla ciotola incorporare il burro morbido un pezzetto alla volta, aspettando che venga assorbito. Lavorare ancora circa 10 minuti fino a ottenere una massa omogenea e compatta. Sul piano ripiegarla un paio di volte e arrotondarla.",
+        "Coprire nella ciotola con pellicola e lasciare crescere a 26–28 °C per circa 3 ore e mezza, fino a triplicare il volume.",
+        "Sul piano leggermente infarinato formare un rettangolo di circa 2 cm. Portare il lato corto sinistro verso il centro e ripiegare l’altro a filo del primo. Coprire con pellicola e telo per 10 minuti.",
+        "Ruotare, stendere nuovamente a rettangolo e ripetere le pieghe partendo dal lato destro; riposare coperto 10 minuti. Ripetere ancora una volta: tre serie complessive di pieghe e riposi.",
+        "Stendere a circa 8 mm (fonte italiana comparativa), coprire con pellicola e aspettare 10 minuti prima di ritagliare dischi con coppapasta da 10 cm o bicchiere.",
+        "Allineare i dischi su carta da forno, coprire e far lievitare in luogo asciutto per 90 minuti. Nel frattempo predisporre la crema pasticcera; non sono fornite le dosi della sua preparazione. Ritagliare la carta attorno a ciascun disco lievitato.",
+        "Scaldare l’olio a 160 °C e far scivolare dalla carta uno o due dischi per volta. Bagnare la superficie con l’olio caldo usando un cucchiaio; friggere circa 4 minuti, rigirando delicatamente a metà cottura. Scolare quando dorati e appoggiare su carta assorbente.",
+        "Lasciare intiepidire, farcire con la crema usando una tasca con bocchetta stretta e liscia, quindi spolverizzare di zucchero a velo."
+      ],
+      "temperature": "Prima lievitazione 26–28 °C; olio per frittura 160 °C, secondo la versione italiana ufficiale."
+    },
+    {
+      "author": "Andrea Tortora",
+      "categories": [
+        "Creme, impasti e preparazioni di base"
+      ],
+      "category": "Creme, impasti e preparazioni di base",
+      "cook": "10 min",
+      "description": "Crema da farcitura di pistacchi, cioccolato bianco e olio di vinacciolo, con maturazione controllata.",
+      "id": "GZ-03648",
+      "ingredients": [
+        "80 g pistacchi verdi, spellati, non salati e non tostati",
+        "130 g cioccolato bianco",
+        "50 g olio di semi di vinacciolo",
+        "1 g sale fino"
+      ],
+      "name": "Crema spalmabile al pistacchio e cioccolato bianco",
+      "notes": "La fonte propone come alternativa un olio dal sapore neutro, anche di oliva delicato ma non extravergine. Per spellare i pistacchi cita una brevissima sbollentatura; prima di tostare e lavorare usare ingredienti ben asciutti. Nota del Curatore: la pagina italiana indica 20 °C per la conservazione, mentre la versione inglese affianca erroneamente 20 °F a 68 °F. I sei mesi dichiarati e il consiglio di non refrigerare non sono convalidati per una produzione domestica e non costituiscono indicazioni operative di sicurezza. Preparare per consumo prossimo, con ingredienti idonei al consumo diretto e strumenti puliti e asciutti; per eventuali avanzi rispettare le indicazioni più restrittive degli ingredienti. Non considerare questa formula una conserva da dispensa; nessuna durata sicura è stata accertata. Contiene pistacchi e, normalmente, latte nel cioccolato bianco: verificare le etichette. Fonte comparativa: https://ricette.giallozafferano.it/Crema-spalmabile-al-pistacchio.html, consultata il 28/11/2026.",
+      "origin": "Non documentata per questa formulazione.",
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "20 min",
+        "rest": "12–14 ore"
+      },
+      "originalTitle": "Pistachio spread",
+      "originalYield": "4 porzioni dichiarate; peso finale non indicato.",
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c6a6d10c2c0c4a8529a8448322c6055da23274d85fe23b52daef828f13535bef",
+        "previousAppSha256": "c6a6d10c2c0c4a8529a8448322c6055da23274d85fe23b52daef828f13535bef",
+        "reviewedDigest": "9edd664174dd03f99c22af651639c35d760b6d1cf84e5acad4767ddcbe194c79"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "12–14 ore",
+      "reviewedRecordSha256": "9edd664174dd03f99c22af651639c35d760b6d1cf84e5acad4767ddcbe194c79",
+      "serves": "4 porzioni dichiarate; peso finale non indicato.",
+      "source": "https://www.giallozafferano.com/recipes/Pistachio-spread.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Distribuire i pistacchi in una teglia e tostarli nel forno statico preriscaldato a 185 °C per 10 minuti. Lasciarli raffreddare.",
+        "Tritare grossolanamente il cioccolato bianco e fonderlo a bagnomaria oppure al microonde.",
+        "Mettere i pistacchi freddi nel mixer con il sale. Frullare a intervalli fino a ridurli in farina; aggiungere una piccola parte dell’olio e continuare fino a ottenere una purea. Raschiare le pareti quando necessario. La lavorazione dura circa 5–6 minuti; fermarsi spesso perché la pasta non superi 45 °C. Se occorre, raffreddarla qualche minuto in frigorifero e riprendere.",
+        "Trasferire la pasta in una ciotola, incorporare il cioccolato bianco fuso e mescolare energicamente. Unire il resto dell’olio e amalgamare fino a omogeneità.",
+        "Versare in una ciotola precedentemente raffreddata nel congelatore, asciugando la condensa. Mescolare controllando la temperatura fino a 22 °C, quando il composto si addensa.",
+        "Far stabilizzare la crema per 12–14 ore a 22–24 °C secondo il procedimento della fonte."
+      ],
+      "temperature": "Forno statico 185 °C; pasta di pistacchio non oltre 45 °C; raffreddamento mescolando fino a 22 °C; maturazione a 22–24 °C."
     }
   ]
 }
