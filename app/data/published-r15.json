@@ -38595,6 +38595,377 @@
         "Scaldare l'olio a circa 340 °F, controllandolo con un termometro. Friggere pochi pezzi alla volta fino a doratura; scolare su carta e spolverare con farina di pistacchio. Servire caldi."
       ],
       "temperature": "Frittura circa 340 °F, secondo la fonte."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "30 min",
+      "description": "Pane dolce lievitato dalla forma a fisarmonica: porzioni sovrapposte, morbide e profumate di cannella, vaniglia, burro e zucchero di canna, che si separano con le mani.",
+      "id": "gz-en-cinnamon-pull-apart-bread",
+      "ingredients": [
+        "Impasto: 380 g farina 00",
+        "35 g zucchero di canna",
+        "Sale fino, un pizzico",
+        "12 g lievito di birra fresco",
+        "60 g burro morbido",
+        "55 g uovo",
+        "140 g acqua a temperatura ambiente",
+        "1 cucchiaino estratto di vaniglia",
+        "2 g cannella in polvere",
+        "Farcitura: 100 g zucchero di canna",
+        "45 g burro fuso",
+        "5 g cannella in polvere",
+        "Burro per lo stampo q.b. (metodo)"
+      ],
+      "name": "Pane dolce sfogliato alla cannella, da staccare a fette",
+      "notes": "La fonte suggerisce due giorni sotto campana oppure congelamento del pane cotto; varianti con semi di vaniglia, frutta secca o farciture dolci/salate, non formule complete.",
+      "origin": "Area anglosassone secondo la presentazione editoriale; nessun paese preciso documentato.",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "90 min a circa 75 °F + 30 min"
+      },
+      "originalTitle": "Cinnamon pull apart bread",
+      "originalYield": "6 porzioni",
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7fadd7d3e7ed4458f0231ade64e82d64b0678ad3c61cbab604d5bc3fad092318",
+        "previousAppSha256": "7fadd7d3e7ed4458f0231ade64e82d64b0678ad3c61cbab604d5bc3fad092318",
+        "reviewedDigest": "658391b3cb85a5fc34ebd2b30fed898d98a72f396354ccd655983bfeccd3c51f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "90 min a circa 75 °F + 30 min",
+      "reviewedRecordSha256": "658391b3cb85a5fc34ebd2b30fed898d98a72f396354ccd655983bfeccd3c51f",
+      "serves": "6 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/cinnamon-pull-apart-bread.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Sciogliere il lievito nell'acqua; lavorare con il gancio farina, acqua con lievito, zucchero, cannella e vaniglia fino a composto granuloso.",
+        "Incorporare l'uovo e dopo l'assorbimento il burro morbido poco per volta; unire infine il sale e lavorare fino a massa omogenea. Formare una palla, coprire e lasciare lievitare circa 90 minuti a 75 °F.",
+        "Mescolare zucchero e cannella della farcitura con il burro fuso intiepidito e refrigerare brevemente.",
+        "Stendere in un rettangolo di circa 16 × 14 pollici; distribuire la farcitura lasciando libero circa mezzo pollice lungo i bordi.",
+        "Tagliare in quattro strisce di circa 4 pollici, sovrapporle e tagliare quadrati di circa 3 pollici. Sistemarli verticalmente uno accanto all'altro in uno stampo imburrato di circa 9 × 5 pollici.",
+        "Coprire e lasciare lievitare altri 30 minuti al riparo da correnti. Cuocere sul ripiano centrale in forno statico preriscaldato a 340 °F per circa 30 minuti; intiepidire prima di sformare."
+      ],
+      "temperature": "340 °F statico, ripiano centrale"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "20 min (dichiarati)",
+      "description": "",
+      "id": "GZ-00612",
+      "ingredients": [
+        "Penne rigate 320 g",
+        "Passata di pomodoro 250 g",
+        "Pancetta affumicata 200 g",
+        "Panna fresca liquida 150 g",
+        "Vodka 120 g",
+        "Cipolla bianca 1",
+        "Prezzemolo q.b.",
+        "Olio extravergine d'oliva 2 cucchiai",
+        "Sale q.b."
+      ],
+      "name": "Penne alla vodka",
+      "notes": "La vodka è indicata in grammi, senza conversione. I tempi delle singole fasi del metodo possono superare la durata complessiva dichiarata. La fonte suggerisce conservazione un giorno in frigo, in contenitore chiuso, e un poco di latte o panna per riscaldare; variante gamberi saltati al posto della pancetta, aggiunti con il prezzemolo, oppure peperoncino con la cipolla. La sfumatura non garantisce eliminazione totale dell'alcol.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min (dichiarati)",
+        "prep": "5 min",
+        "rest": "Non previsto"
+      },
+      "originalTitle": "Penne alla vodka",
+      "originalYield": "4 porzioni",
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a4868b8f30c47825530e46345981792620ebb42fc603ed7e77384a4293e27ea0",
+        "previousAppSha256": "a4868b8f30c47825530e46345981792620ebb42fc603ed7e77384a4293e27ea0",
+        "reviewedDigest": "9a2ac78e4ff3bc9cd089cb042b1c3c3fbfefa1797dc93c257492ec1b7e26f4d8"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "9a2ac78e4ff3bc9cd089cb042b1c3c3fbfefa1797dc93c257492ec1b7e26f4d8",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/penne-alla-vodka.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tritare finemente la cipolla e tagliare la pancetta a cubetti.",
+        "Appassire la cipolla nell'olio per circa 5 minuti; aggiungere la pancetta e rosolare per altri 5 minuti.",
+        "Versare la vodka e far evaporare l'alcol; aggiungere la passata e cuocere dolcemente per circa 10 minuti.",
+        "Lessare le penne in acqua salata; incorporare la panna al sugo e far restringere per altri 5-7 minuti.",
+        "Scolare al dente, insaporire in padella con la salsa e servire con prezzemolo."
+      ],
+      "temperature": "Non dichiarata numericamente"
+    },
+    {
+      "author": "Frau Knam",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min",
+      "description": "Piccoli biscotti friabili con farina di pistacchio, uniti a coppie da una ganache al pistacchio e cioccolato bianco, con nota sapida di sale Maldon. Adatti a tè e piccola pasticceria.",
+      "id": "gz-en-baci-di-frau-with-double-pistachio-and-maldon-salt",
+      "ingredients": [
+        "Biscotti: 200 g burro morbido",
+        "200 g zucchero",
+        "10 g sale Maldon",
+        "20 g tuorlo",
+        "200 g farina di pistacchio",
+        "200 g farina 00",
+        "Ganache: 150 g cioccolato bianco",
+        "100 g crema al pistacchio",
+        "30 g burro",
+        "2 g sale Maldon"
+      ],
+      "name": "Baci di Frau al doppio pistacchio e sale Maldon",
+      "notes": "Ispirati ai baci di dama secondo la fonte. L'editore indica una settimana in scatola di latta per i biscotti non farciti, congelamento dei farciti fino a un mese e delle palline crude fino a due mesi; durate specifiche non validate. Alternativa della fonte: 9 oz cioccolato fondente 70% fuso a 95 °F con 1 cucchiaino di sale Maldon.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "30 min",
+        "rest": "2 ore in frigorifero; raffreddamento prima di farcire"
+      },
+      "originalTitle": "Baci di Frau with double pistachio and Maldon salt",
+      "originalYield": "25 baci farciti",
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6f56aacae01fdb5b163e9c47321309b16ea532b1dad93b10fe322e417fc7c48a",
+        "previousAppSha256": "6f56aacae01fdb5b163e9c47321309b16ea532b1dad93b10fe322e417fc7c48a",
+        "reviewedDigest": "4d5e45b13686e0e5ce71307f38c8de35f76fe0aea17381cdeff30d3a584331f3"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "2 ore in frigorifero; raffreddamento prima di farcire",
+      "reviewedRecordSha256": "4d5e45b13686e0e5ce71307f38c8de35f76fe0aea17381cdeff30d3a584331f3",
+      "serves": "25 baci farciti",
+      "source": "https://www.giallozafferano.com/recipes/baci-di-frau-with-double-pistachio-and-maldon-salt.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Lavorare burro morbido con zucchero e sale Maldon fino a composto uniforme; incorporare il tuorlo e la farina di pistacchio, poi la farina 00. Formare un panetto omogeneo.",
+        "Avvolgere e refrigerare 2 ore. Formare cilindri, tagliare piccoli pezzi di circa 3/4 di pollice, arrotondare e disporre distanziati su carta forno.",
+        "Cuocere in forno statico preriscaldato a 330 °F per circa 20 minuti; lasciare raffreddare.",
+        "Sciogliere il cioccolato bianco; ancora caldo, aggiungere burro e sale mescolando fino a scioglimento, incorporare la crema di pistacchio e amalgamare.",
+        "Trasferire la ganache in sac à poche, distribuire su metà dei biscotti freddi e accoppiarli con gli altri."
+      ],
+      "temperature": "330 °F statico"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "10 min",
+      "description": "Penne con ortaggi crudi, olive, pinoli tostati e basilico.",
+      "id": "GZ-00610",
+      "ingredients": [
+        "Penne rigate 320 g",
+        "Olive nere denocciolate 50 g",
+        "Zucchine piccole 150 g",
+        "Funghi champignon 150 g",
+        "Pomodorini 300 g",
+        "Pinoli 40 g",
+        "Aglio 1 spicchio",
+        "Basilico 40 foglie",
+        "Olio extravergine d'oliva 50 ml",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Penne alla crudaiola",
+      "notes": "La fonte suggerisce formaggio grattugiato facoltativo: Parmigiano, Grana, pecorino o ricotta affumicata stagionata; alternative aromatiche origano, menta o timo. Conservazione dichiarata al massimo un giorno in frigorifero in contenitore chiuso. Lavare accuratamente gli ortaggi consumati crudi.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "10 min",
+        "prep": "20 min",
+        "rest": "Insaporimento, durata non dichiarata."
+      },
+      "originalTitle": "Penne alla crudaiola",
+      "originalYield": "4 porzioni",
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7a188d72cbcfc99e0c9d44bc25b20b0fa4c73ce98f1390ca2c31838322f1fbe2",
+        "previousAppSha256": "7a188d72cbcfc99e0c9d44bc25b20b0fa4c73ce98f1390ca2c31838322f1fbe2",
+        "reviewedDigest": "ca0895a6b9a365903f148de6cb60ea13b11be6cd6b8ccd700643e23b1607da3a"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Insaporimento, durata non dichiarata.",
+      "reviewedRecordSha256": "ca0895a6b9a365903f148de6cb60ea13b11be6cd6b8ccd700643e23b1607da3a",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/penne-alla-crudaiola.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Lavare e tagliare in quarti i pomodorini; spuntare le zucchine e affettarle sottilmente, così come le olive.",
+        "Pulire i funghi eliminando la terra alla base del gambo; spellare le cappelle lasciandole attaccate ai gambi e affettare per il lungo. Riunire ortaggi e olive in una ciotola.",
+        "Tostare i pinoli a fuoco basso finché dorati. Unirli agli ortaggi con aglio tritato, foglie di basilico spezzettate, olio, sale e pepe. Mescolare e lasciare insaporire.",
+        "Cuocere le penne al dente, scolare e amalgamare al condimento crudo. Servire subito."
+      ],
+      "temperature": "Non dichiarata numericamente"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "20 min",
+      "description": "Girelle soffici di pan brioche con farcitura di crema alle nocciole e formaggio spalmabile, pensate per colazione e merenda.",
+      "id": "gz:en:brioche-swirls",
+      "ingredients": [
+        "farina 00: 280 g",
+        "burro morbido: 75 g",
+        "zucchero: 25 g",
+        "latte intero: 20 g",
+        "uova: 115 g",
+        "lievito di birra fresco: 7 g",
+        "sale fino: 5 g",
+        "crema di nocciole Nutella: 120 g",
+        "formaggio fresco spalmabile: 100 g"
+      ],
+      "name": "Girelle di pan brioche con crema di nocciole e formaggio fresco",
+      "notes": "Il burro per lo stampo è indicato nel metodo senza quantità. La fonte propone conservazione sotto campana per un paio di giorni, impasto crudo in frigo fino a 24 ore, congelamento delle girelle crude e scongelamento prima della cottura, granella di nocciole come variante. Nota prudenziale per farcitura con formaggio fresco: mantenere refrigerato quando non servito e rispettare le istruzioni di conservazione del formaggio; durata specifica non validata.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "45 min",
+        "rest": "Almeno 1 ora, fino al raddoppio"
+      },
+      "originalTitle": "Brioche Swirls",
+      "originalYield": "8 girelle",
+      "photo": null,
+      "prep": "45 min",
+      "publicationUpdate": {
+        "baseAppSha256": "026b7b2fb583bb7b6ae2d8fd47000de54fed6c41df07b3b1ccede7409088648d",
+        "previousAppSha256": "026b7b2fb583bb7b6ae2d8fd47000de54fed6c41df07b3b1ccede7409088648d",
+        "reviewedDigest": "2c7a98485e11506697f3f507e9ee26859dd312420572a6f2e275191c4d3f260f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Almeno 1 ora, fino al raddoppio",
+      "reviewedRecordSha256": "2c7a98485e11506697f3f507e9ee26859dd312420572a6f2e275191c4d3f260f",
+      "serves": "8 girelle",
+      "source": "https://www.giallozafferano.com/recipes/brioche-swirls.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Mettere farina, zucchero e lievito sbriciolato nella planetaria con foglia, lavorando a velocità moderata.",
+        "Unire il latte; dopo l'assorbimento aggiungere le uova leggermente battute e quindi il sale. Incorporare il burro morbido gradualmente e lavorare circa 15–20 minuti fino a impasto liscio e compatto.",
+        "Coprire e lasciare lievitare almeno un'ora fino al raddoppio. Stendere su piano leggermente infarinato in un rettangolo di circa 12 × 16 pollici, dividere per il lungo.",
+        "Spalmare su una metà il formaggio fresco e poi la crema alle nocciole; coprire con l'altra metà e rifilare i bordi. Tagliare otto strisce di circa 1 pollice, torcerle e arrotolarle a spirale.",
+        "Imburrare uno stampo da muffin, sistemarvi le girelle e cuocere sul ripiano basso in forno statico a 355 °F per circa 20 minuti."
+      ],
+      "temperature": "355 °F statico, ripiano inferiore"
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Risotti, riso e cereali"
+      ],
+      "category": "Risotti, riso e cereali",
+      "cook": "20 min",
+      "description": "Risotto al radicchio in due consistenze, mantecato con burro e Grana Padano.",
+      "id": "GZ-00736",
+      "ingredients": [
+        "Riso Carnaroli 180 g",
+        "Radicchio 200 g",
+        "Vino rosso ½ bicchiere",
+        "Cipolla bianca ½",
+        "Grana Padano DOP 2 cucchiai",
+        "Brodo vegetale 1 l",
+        "Burro 60 g",
+        "Timo 1 mazzetto",
+        "Sale fino q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Risotto al radicchio",
+      "notes": "La fonte suggerisce radicchio di Chioggia o Treviso e l'impiego degli avanzi gratinati. Nota prudenziale distinta: per il riso avanzato raffreddare rapidamente, refrigerare e consumare o congelare entro 24 ore; riscaldare completamente una sola volta (FSA, https://www.food.gov.uk/news-alerts/news/reduce-food-waste-and-stay-safe-this-christmas, consultata 28/11/2026).",
+      "origin": null,
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "15 min",
+        "rest": "Non previsto"
+      },
+      "originalTitle": "Risotto al radicchio",
+      "originalYield": "2 porzioni",
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c53cbee817e23219f0504286293991e64afa2a17193d5f3794540aa13ff79695",
+        "previousAppSha256": "c53cbee817e23219f0504286293991e64afa2a17193d5f3794540aa13ff79695",
+        "reviewedDigest": "4cd1f4cfcf8df1e82e20aec76e1009592deda2273e947c3a5e045f62585a36fe"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "4cd1f4cfcf8df1e82e20aec76e1009592deda2273e947c3a5e045f62585a36fe",
+      "serves": "2 porzioni",
+      "source": "https://ricette.giallozafferano.it/Risotto-al-radicchio.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tenere caldo il brodo. Lavare il radicchio, ridurlo a striscioline e conservare una piccola parte cruda per la finitura.",
+        "Saltare il resto del radicchio con 20 g di burro, sale e pepe, quindi metterlo da parte.",
+        "In una casseruola ammorbidire la cipolla tritata con 20 g di burro; aggiungere il riso e tostarlo.",
+        "Sfumare con il vino rosso, lasciarlo evaporare e portare a cottura aggiungendo gradualmente brodo caldo.",
+        "Verso fine cottura incorporare il radicchio saltato, poi mantecare con gli ultimi 20 g di burro e il Grana.",
+        "Profumare con timo e guarnire ogni piatto con il radicchio crudo conservato."
+      ],
+      "temperature": "Non dichiarata numericamente"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "40 min statico o 30 min ventilato",
+      "description": "Piccoli dolci brasiliani con tuorli, cocco e latte condensato, cotti a bagnomaria fino a consistenza di budino.",
+      "id": "SRC-5d42de9b1018b595",
+      "ingredients": [
+        "150 g farina di cocco",
+        "6 tuorli",
+        "350 g latte condensato",
+        "50 ml latte di cocco",
+        "45 g succo di lime",
+        "Burro q.b. per stampi",
+        "Zucchero q.b. per stampi"
+      ],
+      "name": "Quindim brasiliani al cocco",
+      "notes": "Nota del Curatore: la fonte ripete il latte di cocco prima e dopo il riposo, ma la lista indica 50 ml totali; conservata una sola aggiunta prima del riposo come scelta redazionale, non raddoppiare. Fonte italiana non accessibile, nessuna conferma indipendente della sequenza. La fonte suggerisce conservazione per un paio di giorni in frigorifero e utilizzo degli albumi avanzati per meringhe o frittata.",
+      "origin": "Brasile, come documentato dalla fonte.",
+      "originalTimes": {
+        "cook": "40 min statico o 30 min ventilato",
+        "prep": "25 min",
+        "rest": "15 min prima della cottura; raffreddamento non quantificato."
+      },
+      "originalTitle": "Brazilian Quindim",
+      "originalYield": "4 quindim",
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "732fa98e5037a1ad367e91722ae0ac357624a5bfd30ced873fb22d9c5532bfb8",
+        "previousAppSha256": "732fa98e5037a1ad367e91722ae0ac357624a5bfd30ced873fb22d9c5532bfb8",
+        "reviewedDigest": "d42cad7e0d2f8ef0a60ec1584bac614c43fef17857c176fd6975e1f1d903aadd"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "15 min prima della cottura; raffreddamento non quantificato.",
+      "reviewedRecordSha256": "d42cad7e0d2f8ef0a60ec1584bac614c43fef17857c176fd6975e1f1d903aadd",
+      "serves": "4 quindim",
+      "source": "https://www.giallozafferano.com/recipes/brazilian-quindim.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Spremere il lime. Mescolare la farina di cocco e il latte condensato fino a bagnarli uniformemente.",
+        "Separare i tuorli dagli albumi, unire i tuorli alla massa e incorporare il succo di lime. Aggiungere i 50 ml di latte di cocco e mescolare.",
+        "Coprire e lasciare riposare 15 minuti. Imburrare e cospargere di zucchero quattro stampi monoporzione; sistemarli in una teglia dai bordi alti.",
+        "Distribuire l’impasto negli stampi. Scaldare acqua e versarla nella teglia esterna fino a circa due terzi dell’altezza degli stampi.",
+        "Cuocere a bagnomaria in forno statico preriscaldato a 350 °F per 40 minuti, oppure ventilato a 320 °F per 30 minuti. Far raffreddare e sformare rovesciando gli stampi."
+      ],
+      "temperature": "350 °F statico; 320 °F ventilato"
     }
   ]
 }
