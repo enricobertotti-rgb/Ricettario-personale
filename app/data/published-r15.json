@@ -36385,6 +36385,360 @@
         "Farcire i nidi con circa due cucchiai di crema ciascuno, completare con kiwi, frutti di bosco, frutto della passione e menta."
       ],
       "temperature": "Meringhe in forno statico 250 °F (circa 121 °C) per almeno 1 h; crema cotta a fiamma bassa."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "20 min",
+      "description": "Salsa cremosa a base di latte di cocco, cipolla, curry e fecola di patate, utilizzabile su riso, carni e verdure.",
+      "id": "SRC-56b18ffea01059b3",
+      "ingredients": [
+        "500 g latte di cocco",
+        "1 cipolla dorata",
+        "30 g fecola di patate",
+        "30 g burro",
+        "10 g curry in polvere",
+        "10 g sale fino"
+      ],
+      "name": "Salsa al curry con latte di cocco",
+      "notes": "Conservare secondo la fonte in frigorifero in un recipiente ermetico fino a un paio di giorni. In alternativa al burro, olio d’oliva o di semi; la fonte non specifica una dose alternativa.",
+      "origin": "Salsa di ispirazione asiatica; la fonte non documenta un’origine regionale univoca.",
+      "originalTimes": "Preparazione 30 min; cottura 20 min; nessun riposo dichiarato.",
+      "originalTitle": "Curry Sauce",
+      "originalYield": "4 porzioni dichiarate",
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "58cff69fdc2399611db596fda284eccd011a14d7eff77066c88bc61e328bfd6d",
+        "previousAppSha256": "58cff69fdc2399611db596fda284eccd011a14d7eff77066c88bc61e328bfd6d",
+        "reviewedDigest": "52a78851641c2f101adf0e7b13037a1bb38dcd58985b5c9166c000322d7176ea"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "nessun riposo dichiarato.",
+      "reviewedRecordSha256": "52a78851641c2f101adf0e7b13037a1bb38dcd58985b5c9166c000322d7176ea",
+      "serves": "4 porzioni dichiarate",
+      "source": "https://www.giallozafferano.com/recipes/curry-sauce.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Pelare e tritare finemente la cipolla; trasferirla in una pentola.",
+        "Aggiungere il burro, fare appassire a fuoco basso, quindi unire il curry e tostarlo mescolando.",
+        "Incorporare la fecola e mescolare con un cucchiaio di legno. Versare lentamente il latte di cocco, continuando a mescolare.",
+        "Usare una frusta per evitare grumi; aggiungere il sale e cuocere fino alla densità desiderata. Trasferire in una ciotola e servire."
+      ],
+      "temperature": "Fuoco basso per soffritto e addensamento; temperatura numerica non indicata."
+    },
+    {
+      "author": "Sebastian Fitarau / GialloZafferano",
+      "categories": [
+        "Secondi di carne"
+      ],
+      "category": "Secondi di carne",
+      "cook": "complessiva dichiarata 55 minuti",
+      "description": "Taglio di manzo brasiliano rosolato e cotto su griglia in forno sopra le erbe aromatiche, accompagnato da ortaggi arrostiti e salsa chimichurri.",
+      "id": "SRC-48d5f516bec1c3ba",
+      "ingredients": [
+        "Carne: 1 kg picanha (o codone/copertura della sottofesa)",
+        "Sale fino q.b.",
+        "Olio extravergine d’oliva q.b.",
+        "Rosmarino q.b.",
+        "Salvia q.b.",
+        "Timo q.b.",
+        "1 testa di aglio",
+        "Contorno: 2 zucchine",
+        "1 peperone rosso",
+        "1 melanzana",
+        "Olio extravergine d’oliva, sale, pepe nero q.b.",
+        "Chimichurri: 40 g prezzemolo",
+        "2 spicchi di aglio",
+        "60 g aceto di vino rosso",
+        "1 peperoncino fresco",
+        "20 g origano secco",
+        "Sale e pepe q.b.",
+        "Olio extravergine d’oliva nel chimichurri (citato nel metodo, dose non indicata)"
+      ],
+      "name": "Picanha al forno con verdure e chimichurri",
+      "notes": "La fonte indica 55 min complessivi, con fasi sovrapposte. Olio del chimichurri non quantificato. Ortaggi: frigorifero fino a 2 giorni; salsa: 3–4 giorni in recipiente chiuso, sotto olio. Alternative: patate arrosto o insalata; aglio arrostito, aceto balsamico o paprika affumicata. Nota prudenziale del Curatore (non della ricetta): per un taglio intero USDA indica almeno 63 °C al cuore e 3 min di riposo; usare un termometro. Refrigerare tempestivamente le preparazioni con aglio/erbe in olio, mai a temperatura ambiente; CDC indica di scartarle dopo 4 giorni. Fonti: https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures ; https://www.cdc.gov/botulism/prevention/ .",
+      "origin": "La picanha è un taglio associato alla tradizione brasiliana; il chimichurri è una salsa diffusa nella cucina argentina.",
+      "originalTimes": "Preparazione 20 minuti; cottura complessiva dichiarata 55 minuti; carne 2-3 min per lato + 30 minuti in forno; ortaggi 20 min in forno; riposo carne 10 min.",
+      "originalTitle": "Picanha in the oven",
+      "originalYield": "4 porzioni.",
+      "photo": null,
+      "prep": "20 minuti",
+      "publicationUpdate": {
+        "baseAppSha256": "8099b68b9f6e8bd931a5d309a2a7849421d553f6b1ccc3974b782c3db0d8bba3",
+        "previousAppSha256": "8099b68b9f6e8bd931a5d309a2a7849421d553f6b1ccc3974b782c3db0d8bba3",
+        "reviewedDigest": "2e21612afe51784f917d1b333a3f5c84ce3ecbcfd95537372e095696cdd8f919"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "carne 2-3 min per lato + 30 minuti in forno; ortaggi 20 min in forno; riposo carne 10 min.",
+      "reviewedRecordSha256": "2e21612afe51784f917d1b333a3f5c84ce3ecbcfd95537372e095696cdd8f919",
+      "serves": "4 porzioni.",
+      "source": "https://www.giallozafferano.com/recipes/picanha-in-the-oven.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Salare la carne da entrambi i lati e rosolarla nell’olio caldo per 2–3 minuti per lato.",
+        "Tagliare la testa d’aglio a metà orizzontalmente. Rivestire una teglia, disporre aglio, rosmarino, salvia e timo; sistemare sopra la griglia con la carne. Il passaggio con cannello per aromatizzare è facoltativo.",
+        "Cuocere la carne per 30 minuti nel forno ventilato preriscaldato a 356 °F.",
+        "Nel frattempo tagliare le zucchine a mezze rondelle, melanzana e peperone in pezzi di circa 0,4 pollici. Condire gli ortaggi con olio, sale e pepe, distribuirli in una teglia e cuocerli in forno per 20 minuti.",
+        "Per il chimichurri, frullare con il frullatore a immersione prezzemolo, peperoncino, 2 spicchi d’aglio, aceto, olio (dose non specificata), sale, pepe e origano.",
+        "Lasciare riposare la carne 10 minuti dopo il forno, affettarla controfibra e accompagnarla con verdure e salsa."
+      ],
+      "temperature": "Forno ventilato 356 °F; rosolatura a fiamma medio-alta. La fonte non indica una temperatura interna."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Uova e secondi vegetariani"
+      ],
+      "category": "Uova e secondi vegetariani",
+      "cook": "15 min dichiarata",
+      "description": "Medaglioni di ceci e spezie con pastella senza uova e panatura croccante.",
+      "id": "SRC-860f84250b25dc81",
+      "ingredients": [
+        "Impasto: 500 g ceci precotti, già scolati",
+        "40 g farina di ceci",
+        "40 g fecola di patate",
+        "30 g olio extravergine di oliva",
+        "Peperoncino verde q.b.",
+        "1 cucchiaino raso curcuma",
+        "1 pizzico cumino in polvere",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Pastella: 100 g farina 00",
+        "130 g acqua",
+        "Sale fino q.b.",
+        "Pangrattato q.b.",
+        "Frittura: olio extravergine di oliva q.b."
+      ],
+      "name": "Cotolette vegane di ceci speziati",
+      "notes": "Nota del Curatore: l’elenco della fonte prescrive 40 g di fecola di patate, mentre il testo inglese menziona amido di mais. La fonte comparativa con le medesime dosi principali usa fecola di patate; non è una conferma dell’intenzione dell’autore. Per coerenza seguire l’elenco, senza aggiungere entrambi gli amidi. Conservazione: frigorifero 1–2 giorni; congelabili prima della cottura. La fonte propone forno a 392 °F per 18 min, spezie diverse e maionese di aquafaba. Non sostituire la farina di ceci se disponibile; l’alternativa suggerita con ulteriore amido di mais non ha dosi precise e richiede verifica di consistenza. Per versione non vegana si può usare uovo; per versione senza glutine sono suggerite pastella di fecola/farina di riso e panatura idonea; nota prudenziale: usare prodotti certificati ed evitare contaminazione.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": "Preparazione 20 min; cottura 15 min dichiarata; frittura circa 2–3 min per lato.",
+      "originalTitle": "Chickpea Cutlets",
+      "originalYield": "4 cotolette.",
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "28c9a4e92157d585feacbfe007c05b800f95a9644c36837755c88b776c5eafc3",
+        "previousAppSha256": "28c9a4e92157d585feacbfe007c05b800f95a9644c36837755c88b776c5eafc3",
+        "reviewedDigest": "04ea6869dbf3378bfe4f371894e20edc64689e87eee313e1d69ec0eba6747e60"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "frittura circa 2–3 min per lato.",
+      "reviewedRecordSha256": "04ea6869dbf3378bfe4f371894e20edc64689e87eee313e1d69ec0eba6747e60",
+      "serves": "4 cotolette.",
+      "source": "https://www.giallozafferano.com/recipes/chickpea-cutlets.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Sciacquare e scolare i ceci; frullarli con farina di ceci, olio, sale e pepe.",
+        "Unire peperoncino, curcuma, cumino e i 40 g di amido indicati nell’elenco come fecola di patate (vedi nota). Lavorare fino a consistenza modellabile: l’impasto inizialmente può essere granuloso. La fonte suggerisce, se necessario, poco olio o un cucchiaio d’acqua.",
+        "Preparare la pastella mescolando acqua, farina 00 e sale con una forchetta.",
+        "Dividere in quattro porzioni da circa 120 g, formare delle palline, appiattirle a cotoletta, passarle nella pastella e quindi nel pangrattato.",
+        "Scaldare in padella uno strato di olio di circa mezzo pollice, friggere circa 2–3 minuti per lato e scolare su carta assorbente."
+      ],
+      "temperature": "Olio caldo in padella; temperatura numerica non specificata."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "30 min",
+      "description": "Riso al vapore rifinito nel latte di cocco zuccherato con mango fresco e sesamo.",
+      "id": "SRC-d1550226f6b8ef17",
+      "ingredients": [
+        "100 g riso parboiled (così indicato nella fonte)",
+        "400 g latte di cocco",
+        "50 g zucchero",
+        "1/2 mango",
+        "Semi di sesamo bianchi e neri q.b."
+      ],
+      "name": "Mango sticky rice thailandese al cocco",
+      "notes": "La fonte usa riso parboiled; non sostituirlo automaticamente con riso glutinoso. Conservazione della fonte: 2 giorni in frigorifero senza mango, in contenitore ermetico; niente congelamento; alternative papaya o frutti di bosco. Nota prudenziale del Curatore (FSA): raffreddare rapidamente il riso, idealmente entro un’ora, refrigerarlo e consumarlo entro 24 ore; prevale per prudenza sulla durata riportata dalla ricetta. Fonte: https://www.gov.uk/government/publications/home-food-fact-checker/home-food-fact-checker .",
+      "origin": "Variante di un dessert thailandese; la fonte usa riso parboiled, non riso glutinoso.",
+      "originalTimes": "Preparazione 10 min; cottura 30 min; ammollo riso 1 h.",
+      "originalTitle": "Sticky rice",
+      "originalYield": "2 porzioni.",
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "22f4d936fdbafe2bd0a6e34466a404dd63198b6818b3bc8db82871b375eb235c",
+        "previousAppSha256": "22f4d936fdbafe2bd0a6e34466a404dd63198b6818b3bc8db82871b375eb235c",
+        "reviewedDigest": "7317938d2ac49a898c1475bd9e41b57dbed1127e3e92774457233813a57f6f80"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "ammollo riso 1 h.",
+      "reviewedRecordSha256": "7317938d2ac49a898c1475bd9e41b57dbed1127e3e92774457233813a57f6f80",
+      "serves": "2 porzioni.",
+      "source": "https://www.giallozafferano.com/recipes/sticky-rice.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Ammollare il riso per un’ora, poi scolarlo.",
+        "Portare a ebollizione l’acqua della vaporiera; rivestire il cestello con carta da forno, distribuire il riso e cuocerlo coperto per circa 15 minuti.",
+        "Nel frattempo scaldare latte di cocco e zucchero in una casseruola.",
+        "Unire il riso cotto, riportare a bollore e proseguire a fuoco basso per circa 10 minuti, mescolando ogni tanto fino a una consistenza cremosa.",
+        "Pelare il mango, affettarlo e tagliarlo a cubetti. Lasciare intiepidire il riso, accompagnarlo con mango e sesamo bianco e nero; servire tiepido o freddo."
+      ],
+      "temperature": "Vapore per 15 min, poi cottura nel latte di cocco a fuoco basso per circa 10 min; temperatura numerica non indicata."
+    },
+    {
+      "author": "Luisa Orizio / GialloZafferano",
+      "categories": [
+        "Secondi di pesce"
+      ],
+      "category": "Secondi di pesce",
+      "cook": "totale 15 min",
+      "description": "Gamberi infilzati in spiedini e rivestiti con pastella alla birra e granella di pistacchio, fritti croccanti.",
+      "id": "SRC-d1964b6f8ac8abe3",
+      "ingredients": [
+        "800 g gamberi interi (circa 16 pezzi)",
+        "Pastella: 150 g farina 00",
+        "150 g birra molto fredda",
+        "20 g olio extravergine di oliva",
+        "1 pizzico sale fino",
+        "Copertura: 200 g granella di pistacchio",
+        "Frittura: 2 l olio di semi di girasole",
+        "Sale fino q.b. per finitura (citato nel procedimento)"
+      ],
+      "name": "Spiedini di gamberi fritti in crosta di pistacchio",
+      "notes": "La fonte consiglia di friggere e consumare subito; dopo cottura, frigorifero per un giorno e riscaldamento in forno. Acqua frizzante al posto della birra come variante. Sale di finitura a piacere nel procedimento, non quantificato. Nota prudenziale del Curatore: la polpa dei gamberi deve essere opaca, bianca o perlacea; non affidarsi al solo colore della crosta.",
+      "origin": "La presentazione della fonte richiama il Sud Italia e la cucina siciliana, senza prova di un’origine storica puntuale.",
+      "originalTimes": "Preparazione 30 min; cottura totale 15 min; singola frittura 3–4 min.",
+      "originalTitle": "Pistachio Shrimp Skewers",
+      "originalYield": "16 spiedini; 4 porzioni",
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "5e51cc754dc7324dd1ee108dc1ad33437d09e7c3474950ee1225b259139df823",
+        "previousAppSha256": "5e51cc754dc7324dd1ee108dc1ad33437d09e7c3474950ee1225b259139df823",
+        "reviewedDigest": "c66685ce12dce0318978e18f994943e9c5ca1b72a41233fd0b9c7edd00983fd7"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "singola frittura 3–4 min.",
+      "reviewedRecordSha256": "c66685ce12dce0318978e18f994943e9c5ca1b72a41233fd0b9c7edd00983fd7",
+      "serves": "16 spiedini; 4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/pistachio-shrimp-skewers.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Pulire i gamberi eliminando testa, zampe, guscio e filo intestinale; infilzarli per il lungo, uno su ciascuno dei 16 spiedini.",
+        "Mescolare farina, sale, olio extravergine e birra molto fredda con la frusta fino a ottenere una pastella liscia.",
+        "Scaldare l’olio di girasole a 356 °F. Avvicinandosi a tale temperatura, immergere ogni spiedino nella pastella, far sgocciolare l’eccesso e ricoprirlo completamente di granella di pistacchio.",
+        "Friggere 2–3 spiedini per volta per 3–4 minuti, evitando di abbassare troppo la temperatura dell’olio. Estrarli con pinze e scolarli su carta assorbente.",
+        "Salare a piacere e servire caldi."
+      ],
+      "temperature": "Olio di frittura a 356 °F."
+    },
+    {
+      "author": "Chef Mulan / GialloZafferano",
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "10 min",
+      "description": "Jiaozi ripieni di carne di maiale, cavolo cinese e cipollotto, chiusi a pieghe e cotti al vapore.",
+      "id": "SRC-63abceaef9a3ce6c",
+      "ingredients": [
+        "Impasto: 250 g farina 00",
+        "115 g acqua tiepida per impasto",
+        "1 pizzico sale fino per impasto",
+        "Ripieno: 250 g maiale macinato",
+        "80 g cavolo cinese",
+        "30 g cipollotto fresco",
+        "40 g acqua per ripieno",
+        "10 g vino di riso",
+        "2 cucchiaini salsa di soia chiara",
+        "Sale fino q.b.",
+        "Pepe bianco q.b. (oppure nero)",
+        "1 foglia cavolo per rivestire vaporiera"
+      ],
+      "name": "Ravioli cinesi al vapore con maiale e cavolo",
+      "notes": "La fonte indica 10 minuti di cottura nel riepilogo e circa 8 nel metodo. Conservazione: cotti 3 giorni in frigorifero in contenitore ermetico. Dischi crudi ben infarinati congelabili, da scongelare 1–1,5 ore prima dell’uso; ravioli farciti congelabili separati su vassoio, poi in sacchetto; da congelati preferire bollitura e qualche minuto in più. Sfoglie pronte congelate, da scongelare brevemente e inumidire ai bordi; cavolo tondo al posto del napa richiede un po’ più acqua, non quantificata. Servire con salsa piccante, soia con aceto bianco o agrodolce. La fonte menziona anche un bagno d’acqua di 5 minuti senza dettagliare la tecnica: non presentato come alternativa verificata. Nota prudenziale del Curatore: maiale macinato almeno 71 °C al cuore secondo USDA; non assumere che il solo tempo garantisca la cottura.",
+      "origin": "Jiaozi della tradizione cinese; la fonte li collega alle festività e attribuisce questa versione a Chef Mulan.",
+      "originalTimes": "Preparazione 60 min; cottura 10 min; riposo impasto 30 min e ripieno 10 min.",
+      "originalTitle": "Chinese Steamed Dumplings",
+      "originalYield": "18 ravioli",
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "983ff355dfa308b91692d0f47ccb46ec80b90ad32185923e8c739179d6ad2ce0",
+        "previousAppSha256": "983ff355dfa308b91692d0f47ccb46ec80b90ad32185923e8c739179d6ad2ce0",
+        "reviewedDigest": "ff52f8339aa968396c944c11ae466e7ed05832f333d90ecc69253cd35f051334"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "riposo impasto 30 min e ripieno 10 min.",
+      "reviewedRecordSha256": "ff52f8339aa968396c944c11ae466e7ed05832f333d90ecc69253cd35f051334",
+      "serves": "18 ravioli",
+      "source": "https://www.giallozafferano.com/recipes/Chinese-Steamed-Dumplings.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Mettere la farina in una ciotola, creare un incavo, aggiungere sale e acqua tiepida a filo mescolando con bacchette. Impastare a mano su piano leggermente infarinato, formare una palla e riposare coperta 30 minuti in luogo fresco e asciutto.",
+        "Tritare finemente cipollotto, compresa la parte verde, e cavolo. Unire maiale macinato, soia chiara, sale e pepe, poi vino di riso e 40 g d’acqua; mescolare fino a consistenza né molle né asciutta e riposare 10 minuti.",
+        "Stesura tradizionale: formare un cilindro, tagliare in pezzi spessi poco meno di un pollice, schiacciare e assottigliare soltanto i bordi ruotando il disco. In alternativa sfogliatrice: spessore 1/25 di pollice, dischi di 3 pollici di diametro.",
+        "Distribuire il ripieno al centro lasciando i bordi liberi. Chiudere pizzicando da un’estremità all’altra; se asciutti, inumidire i bordi. Alternativa: unire al centro, piegare e sigillare un lato e poi l’altro.",
+        "Rivestire il cestello con una foglia di cavolo appiattita, disporre i ravioli distanziati. Portare l’acqua a ebollizione, abbassare leggermente la fiamma, posizionare il cestello coperto e cuocere circa 8 minuti."
+      ],
+      "temperature": "Cottura al vapore su acqua in ebollizione per circa 8 minuti."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "25 min",
+      "description": "Rana pescatrice cucinata in salsa al curry, zenzero e latte di cocco, servita con riso bollito in acqua aromatizzata.",
+      "id": "SRC-24978d2224dd5b3b",
+      "ingredients": [
+        "Riso: 320 g riso da insalata",
+        "1 stecca cannella",
+        "3 chiodi di garofano",
+        "2 anici stellati",
+        "1 limone (tagliato a metà)",
+        "Scorza di 1 limone (dichiarata separatamente)",
+        "½ cucchiaino cannella in polvere",
+        "2 cucchiaiate olio extravergine di oliva",
+        "Pesce: 600 g rana pescatrice pulita",
+        "2 cucchiaiate curry",
+        "2 cucchiaiate olio extravergine di oliva",
+        "1 cipolla bianca",
+        "2 spicchi d’aglio",
+        "30 g zenzero fresco",
+        "1 peperoncino fresco",
+        "400 g latte di cocco",
+        "Prezzemolo q.b.",
+        "Sale e pepe nero q.b."
+      ],
+      "name": "Curry di rana pescatrice al latte di cocco con riso speziato",
+      "notes": "La fonte consiglia consumo immediato; yogurt greco in alternativa al latte di cocco (non più senza lattosio automaticamente). Il pepe nero compare nell’elenco, ma non è indicato il momento di aggiunta: non attribuire alla fonte una fase non dichiarata. Nota prudenziale del Curatore: verificare la completa cottura del pesce (USDA: 63 °C o polpa non traslucida che si separa facilmente).",
+      "origin": "Rielaborazione di un piatto al curry di ispirazione indiana, senza attribuzione regionale precisa.",
+      "originalTimes": "Preparazione 15 min; cottura 25 min; infusione acqua aromatica 15 min compresa nella preparazione.",
+      "originalTitle": "Monkfish Curry",
+      "originalYield": "4 porzioni",
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "5ff54d95f389c55a8d53f221c42594c445efda8c5e8e86f055fdc4a671a30075",
+        "previousAppSha256": "5ff54d95f389c55a8d53f221c42594c445efda8c5e8e86f055fdc4a671a30075",
+        "reviewedDigest": "05fc085ca09025f33687ccd1ee67d323f52019b6a6268a5b94de122c27f4ce6b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "infusione acqua aromatica 15 min compresa nella preparazione.",
+      "reviewedRecordSha256": "05fc085ca09025f33687ccd1ee67d323f52019b6a6268a5b94de122c27f4ce6b",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/monkfish-curry.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "In una pentola d’acqua mettere il limone tagliato in due, cannella in stecca, chiodi di garofano e anice stellato. Portare a ebollizione, far andare 15 minuti e tenere caldo. Togliere gli aromi.",
+        "Pulire se necessario il pesce da pelle e osso centrale, tagliarlo a pezzi. Tritare cipolla e peperoncino privato dei semi; pelare e tagliare lo zenzero.",
+        "Mettere in padella l’olio, la cipolla e l’aglio; aggiungere curry, peperoncino e zenzero, poi un mestolo di acqua aromatizzata.",
+        "Unire il pesce, salare, alzare la fiamma e rosolarlo sui lati; versare latte di cocco, cuocere 10 minuti a fuoco medio-basso e insaporire con prezzemolo tritato.",
+        "Nel frattempo lessare il riso per 15 minuti nell’acqua aromatizzata in ebollizione. Scolare e condire con i 2 cucchiai d’olio del riso, scorza di limone e mezzo cucchiaino di cannella in polvere. Distribuire nelle ciotole con il pesce al curry."
+      ],
+      "temperature": "Cottura dolce del pesce in cocco circa 10 min; riso in ebollizione 15 min; temperature numeriche non specificate."
     }
   ]
 }
