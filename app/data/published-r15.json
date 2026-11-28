@@ -38408,6 +38408,193 @@
         "Far stabilizzare la crema per 12–14 ore a 22–24 °C secondo il procedimento della fonte."
       ],
       "temperature": "Forno statico 185 °C; pasta di pistacchio non oltre 45 °C; raffreddamento mescolando fino a 22 °C; maturazione a 22–24 °C."
+    },
+    {
+      "author": "Sebastian Fitarau",
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "30 min",
+      "description": "Pollo saltato con melanzane e fagiolini in una salsa al latte di cocco e pasta di curry verde preparata in casa.",
+      "id": "GZ-03841",
+      "ingredients": [
+        "Pasta curry: 6 peperoncini verdi piccanti",
+        "4 cm radice di zenzero fresco",
+        "1 scalogno",
+        "1 cucchiaino sale fino",
+        "1 cucchiaino semi di coriandolo",
+        "1 cucchiaino semi di cumino",
+        "2 spicchi d’aglio",
+        "2 gambi lemongrass",
+        "3 foglie di lime kaffir",
+        "Curry: 400 g petto di pollo",
+        "1 melanzana lunga",
+        "150 g fagiolini",
+        "1 spicchio d’aglio",
+        "3 cm radice di zenzero",
+        "1 cucchiaino zucchero",
+        "600 g latte di cocco",
+        "300 g acqua",
+        "2 cucchiaiate olio di semi di girasole",
+        "1 peperoncino fresco",
+        "1 ciuffo coriandolo fresco",
+        "2 cucchiaiate salsa di soia (in alternativa salsa di pesce thailandese)",
+        "1 cipolla"
+      ],
+      "name": "Curry verde thailandese di pollo e verdure",
+      "notes": "Nota del Curatore: il terzo spicchio d'aglio (quello nella lista del curry) non è collocato nel metodo della fonte; non si prescrive un impiego non dichiarato. Le foglie kaffir sono foglie, non frutti. La fonte non specifica una durata finale per il pollo: verificarne la completa cottura, raggiungendo 74 °C al cuore secondo FoodSafety.gov (https://www.foodsafety.gov/food-safety-charts/safe-minimum-internal-temperatures, 28/11/2026); è una nota di sicurezza distinta dal metodo originale. Non rimettere il pollo cotto sul piatto contaminato. La fonte indica 2–3 giorni in frigorifero chiuso e 2–3 mesi in congelatore; non convalidati per questa ricetta, rispettare indicazioni prudenziali di raffreddamento e conservazione. Varianti documentate: manzo, maiale, tofu e verdure stagionali, non formule complete.",
+      "origin": "Thailandia, come descritta dalla fonte; formulazione attribuita a Sebastian Fitarau.",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "30 min",
+        "rest": "Non dichiarato"
+      },
+      "originalTitle": "Thai green curry",
+      "originalYield": "4 porzioni",
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b9999ef729fbe33fff370555d839e60f23b57e2af70481e1d078cc31a1373061",
+        "previousAppSha256": "b9999ef729fbe33fff370555d839e60f23b57e2af70481e1d078cc31a1373061",
+        "reviewedDigest": "fcb48068835371c2401a4e43b905d111302d518336fc4564206f902820b43981"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non dichiarato",
+      "reviewedRecordSha256": "fcb48068835371c2401a4e43b905d111302d518336fc4564206f902820b43981",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/thai-green-curry.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tostare coriandolo e cumino per qualche minuto. Tagliare lemongrass e zenzero, tritare aglio e scalogno della pasta, eliminare semi e filamenti dai peperoncini verdi e tritarli.",
+        "Frullare gli ingredienti della pasta con le foglie di lime kaffir e il sale fino a ottenere un composto uniforme.",
+        "Tritare lo zenzero del curry e affettare la cipolla. Tagliare il pollo in pezzi di circa 1 pollice di lunghezza e 0,4 pollici di spessore, come nella fonte. Rosolare cipolla e zenzero nell'olio; quando la cipolla è trasparente dorare il pollo, salare e pepare, poi metterlo da parte.",
+        "Affettare la melanzana a circa 1/4 di pollice, mondare e dimezzare i fagiolini. Nella stessa padella saltare la pasta verde per qualche minuto e aggiungere latte di cocco, acqua e verdure.",
+        "Unire zucchero e salsa di soia; sobbollire 15–20 minuti, fino a cottura delle verdure.",
+        "Rimettere il pollo nella salsa con coriandolo fresco e peperoncino a fettine; completare la cottura del pollo (vedi nota). Impiattare e guarnire con altro coriandolo e peperoncino."
+      ],
+      "temperature": "Verdure 15–20 min circa; nessuna temperatura numerica nella fonte."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "20 min",
+      "description": "Tagliatelle di riso saltate nel wok con gamberi, arachidi, germogli, tamarindo e aromi.",
+      "id": "GZ-03859",
+      "ingredients": [
+        "300 g tagliatelle di riso",
+        "200 g gamberi black tiger già puliti",
+        "150 g germogli di soia",
+        "80 g arachidi",
+        "60 g olio di semi",
+        "50 g acqua",
+        "40 g pasta di pesce (fish paste)",
+        "40 g succo di tamarindo",
+        "20 g salsa di soia",
+        "3 spicchi aglio",
+        "Coriandolo fresco q.b.",
+        "Erba cipollina q.b.",
+        "1 lime per guarnire"
+      ],
+      "name": "Pad thai thailandese con gamberi, germogli e arachidi",
+      "notes": "Nota del Curatore: la fonte indica 40 g di pasta di pesce, non salsa di pesce; nessuna sostituzione automatica. Olio: 60 g totali in lista, metodo in due aggiunte da due cucchiai; conservare entrambe le indicazioni, senza ricalcolare pesi non dichiarati. Cuocere completamente gamberi e germogli; evitare germogli crudi o poco cotti, soprattutto per persone vulnerabili. La fonte suggerisce consumo immediato e al massimo due giorni in frigo in contenitore chiuso; non è una validazione di sicurezza. Varianti descritte: tofu o uova, pollo a dadini, cipollotti, fagiolini o peperoni. La variante con tofu non è automaticamente vegetariana se resta la pasta di pesce; non è una ricetta separata completa.",
+      "origin": "Thailandia, specialità descritta nella fonte.",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "10 min",
+        "rest": "Ammollo dei noodles fino al momento della cottura; durata non dichiarata."
+      },
+      "originalTitle": "Pad thai",
+      "originalYield": "4 porzioni",
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8630cb28927d3b0420e64c1eb69333c238f272c8d3b368e2e02aeb63181bb0db",
+        "previousAppSha256": "8630cb28927d3b0420e64c1eb69333c238f272c8d3b368e2e02aeb63181bb0db",
+        "reviewedDigest": "8413ddabb8d57156da23c5335dbed797e2cb18f71baaff37e1d9675a96ba6978"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Ammollo dei noodles fino al momento della cottura; durata non dichiarata.",
+      "reviewedRecordSha256": "8413ddabb8d57156da23c5335dbed797e2cb18f71baaff37e1d9675a96ba6978",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/pad-thai.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Ammollare le tagliatelle di riso in acqua tiepida fino all'utilizzo. Lavare e tritare coriandolo ed erba cipollina; sciacquare i germogli.",
+        "Tostare le arachidi nel wok con due cucchiai d'olio per qualche minuto, mescolando. Metterle da parte ed eliminare l'olio usato.",
+        "Versare nel wok altri due cucchiai d'olio. Rosolare l'aglio grattugiato a fuoco medio per un paio di minuti; scolare i noodles, unirli e saltarli.",
+        "Mescolare con tamarindo, pasta di pesce e metà della salsa di soia; aggiungere acqua, alzare il fuoco e incorporare le erbe.",
+        "Unire i germogli e saltare a fuoco alto. Spostare i noodles su un lato del wok; nell'area libera aggiungere i gamberi e versare su di essi la soia rimasta. Scottarli delicatamente fino a cottura completa; riunire tutto e saltare con le arachidi.",
+        "Spegnere e servire subito con fettine di lime."
+      ],
+      "temperature": "Wok a fuoco medio, poi alto; temperatura numerica non dichiarata."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "60 min",
+      "description": "Variante siciliana delle arancine con riso allo zafferano e ripieno di besciamella, granella di pistacchio e caciocavallo.",
+      "id": "GZ-00076",
+      "ingredients": [
+        "Riso: 300 g riso Carnaroli",
+        "50 g scalogno",
+        "30 g olio extravergine di oliva",
+        "50 g vino bianco",
+        "800 g brodo vegetale",
+        "1 bustina zafferano",
+        "65 g Grana Padano",
+        "Sale e pepe q.b.",
+        "Ripieno: 15 g burro",
+        "15 g farina 00",
+        "150 g latte intero",
+        "Noce moscata e sale q.b.",
+        "30 g granella di pistacchio",
+        "55 g caciocavallo",
+        "Pastella e frittura: 130 g farina 00",
+        "195 g acqua",
+        "Sale q.b.",
+        "150 g pangrattato",
+        "800 g olio di semi di arachide",
+        "Finitura: 10 g farina di pistacchio"
+      ],
+      "name": "Arancini di riso al pistacchio e caciocavallo",
+      "notes": "Nota del Curatore: la pagina inglese riporta 13 pezzi nell'intestazione ma 12 negli ingredienti e nel metodo. La fonte italiana comparativa conferma 12. Fonte: https://ricette.giallozafferano.it/Arancini-di-riso-al-pistacchio.html, evidenza 28/11/2026. La fonte ammette un formaggio filante alternativo e granella frullata al posto della farina di pistacchio; propone anche congelamento prima della frittura. Per il riso non seguire la conservazione di più giorni suggerita dalla fonte: raffreddare rapidamente e refrigerare, consumare o congelare entro 24 ore, riscaldare completamente una sola volta. Nota prudenziale FSA: https://www.food.gov.uk/news-alerts/news/reduce-food-waste-and-stay-safe-this-christmas (28/11/2026). Non è una durata validata per questa formula.",
+      "origin": "Sicilia, Italia: variante degli arancini descritta dalla fonte.",
+      "originalTimes": {
+        "cook": "60 min",
+        "prep": "30 min",
+        "rest": "Raffreddamento completo di riso e besciamella; durata non indicata."
+      },
+      "originalTitle": "Pistachio Rice Arancini",
+      "originalYield": "12 pezzi secondo ingredienti e procedimento; intestazione EN: 13.",
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "fe4d9b8a59f4fcb34155ed8da796b3e5d42697c136a69ea1c2fb851394e03617",
+        "previousAppSha256": "fe4d9b8a59f4fcb34155ed8da796b3e5d42697c136a69ea1c2fb851394e03617",
+        "reviewedDigest": "0cf982d9dddc7ef718008e8d14a5ef64a235833e5291dd01f30376a7354d7329"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Raffreddamento completo di riso e besciamella; durata non indicata.",
+      "reviewedRecordSha256": "0cf982d9dddc7ef718008e8d14a5ef64a235833e5291dd01f30376a7354d7329",
+      "serves": "12 pezzi secondo ingredienti e procedimento; intestazione EN: 13.",
+      "source": "https://www.giallozafferano.com/recipes/pistachio-rice-arancini.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tenere caldo il brodo filtrato, riservandone circa 50 g per lo zafferano. Tritare lo scalogno e farlo appassire nell'olio a fuoco basso per 5–6 minuti. Tostare il riso mescolando, finché cambia colore.",
+        "Sfumare con il vino e farlo evaporare. Aggiungere il brodo caldo un mestolo alla volta, cuocendo per 18–20 minuti circa; salare e pepare. Sciogliere lo zafferano nel brodo riservato, unirlo al riso a fuoco basso e incorporare il Grana. Spegnere e stendere il riso su un vassoio; coprire e raffreddare rapidamente (vedi nota).",
+        "Scaldare il latte con sale e noce moscata senza farlo bollire. Fondere il burro, incorporare la farina e mescolare; versare il latte caldo continuando a mescolare fino a besciamella liscia e densa. Trasferire in una ciotola, coprire a contatto e raffreddare rapidamente.",
+        "Tagliare il caciocavallo a cubetti. Con riso e besciamella freddi appiattire circa 75 g di riso nel palmo, farcire con besciamella, granella e formaggio. Chiudere a sfera e sistemare su carta forno.",
+        "Setacciare la farina della pastella, incorporare gradualmente l'acqua con la frusta e salare. Passare ogni sfera nella pastella liscia e poi nel pangrattato.",
+        "Scaldare l'olio a circa 340 °F, controllandolo con un termometro. Friggere pochi pezzi alla volta fino a doratura; scolare su carta e spolverare con farina di pistacchio. Servire caldi."
+      ],
+      "temperature": "Frittura circa 340 °F, secondo la fonte."
     }
   ]
 }
