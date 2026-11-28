@@ -36941,6 +36941,51 @@
         "Cuocere nel forno statico già caldo a 375 °F per circa 20 minuti. Lasciar raffreddare su gratella."
       ],
       "temperature": "Forno statico 375 °F, circa 20 minuti."
+    },
+    {
+      "author": "Chef GZ (attribuzione nella pagina ufficiale comparativa)",
+      "categories": [
+        "Salse, sughi e condimenti"
+      ],
+      "category": "Salse, sughi e condimenti",
+      "cook": "",
+      "description": "Crema spalmabile di nocciole, cioccolato al latte e cacao.",
+      "id": "GZ-03649",
+      "ingredients": [
+        "Cioccolato al latte 250 g",
+        "Pasta di nocciole 195 g",
+        "Cacao amaro in polvere 10 g",
+        "Olio di semi 20 g",
+        "Sale fino 1 pizzico",
+        "Semi di 1 baccello di vaniglia"
+      ],
+      "name": "Crema spalmabile alla nocciola e cioccolato",
+      "notes": "Nota del Curatore: la fonte italiana dichiara due vasetti da 200 g e quella inglese due da 7 oz, ma i soli quattro ingredienti pesati sommano 475 g, oltre sale e vaniglia; non è attestata la massa finale. Predisporre vasetti sufficienti, pesare la resa effettiva se necessario. La fonte indica due settimane al fresco/asciutto, mentre una pagina ufficiale comparativa suggerisce il frigorifero; nessuna durata è convalidata per questa formula. Precauzione editoriale: usare ingredienti idonei al consumo diretto, utensili puliti e asciutti, refrigerare quanto non consumato subito secondo le indicazioni più restrittive degli ingredienti e preparare per consumo prossimo. Non considerare il prodotto una conserva da dispensa, né la fusione del cioccolato un trattamento microbiologico convalidato. Contiene latte e nocciole; controllare le etichette. Varianti aromatiche documentate dalla fonte: cannella oppure miscela cannella, cardamomo e zenzero; quantità non dichiarate. Dossier SPEC26 del 27/11/2026: fonte IT https://ricette.giallozafferano.it/Crema-spalmabile-alla-nocciola-e-cioccolato.html e pagina ufficiale https://www.giallozafferano.com/4-italian-dips-and-spreads-to-upgrade-snack-time ; precauzioni basate su https://pubmed.ncbi.nlm.nih.gov/21067682/ (non validazione della ricetta). Nessuna prova pratica.",
+      "origin": "Non documentata per questa formulazione.",
+      "originalTimes": "Preparazione 15 min; rassodamento in frigorifero almeno 20 min.",
+      "originalTitle": "Hazelnut and chocolate spread",
+      "originalYield": "Resa effettiva non verificata; la fonte dichiara 2 vasetti da circa 200 g (vedi nota).",
+      "pdfPage": 284,
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "8e9b956c999fc3fa2cdbf4070814f9c16d3e8fc0e8421d925ec670ae0fd7f801",
+        "previousAppSha256": "8e9b956c999fc3fa2cdbf4070814f9c16d3e8fc0e8421d925ec670ae0fd7f801",
+        "reviewedDigest": "4d5e1d19a482ff659cc93c033574f1a4939803003143bced5cdd81afba8835c9"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "rassodamento in frigorifero almeno 20 min",
+      "reviewedRecordSha256": "4d5e1d19a482ff659cc93c033574f1a4939803003143bced5cdd81afba8835c9",
+      "serves": "Resa effettiva non verificata; la fonte dichiara 2 vasetti da circa 200 g (vedi nota).",
+      "source": "https://www.giallozafferano.com/recipes/hazelnut-and-chocolate-spread.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Amalgamare in una ciotola la pasta di nocciole con olio, sale e semi di vaniglia.",
+        "Tritare il cioccolato e scioglierlo separatamente a bagnomaria senza introdurre acqua nella crema, oppure nel microonde a brevi intervalli mescolando.",
+        "Incorporare il cioccolato fuso alla miscela di nocciole e aggiungere il cacao setacciato. Amalgamare fino a ottenere una crema liscia; se necessario usare un frullatore a immersione.",
+        "Trasferire in vasetti idonei, puliti e asciutti, chiuderli e far rassodare in frigorifero per almeno 20 minuti."
+      ],
+      "temperature": "Fusione a bagnomaria o microonde a brevi intervalli; temperatura numerica non dichiarata."
     }
   ]
 }
