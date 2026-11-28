@@ -37869,6 +37869,219 @@
         "Spalmare circa un cucchiaino di ripieno su una cialda (di più se grande), accoppiare con una seconda e premere delicatamente facendo attenzione al caramello caldo. Riscaldare appena la farcia se indurisce."
       ],
       "temperature": "Caramello 112-116 °C, fase “palla morbida”"
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "30 min",
+      "description": "Pasta corta con carciofi e sugo di pomodoro.",
+      "id": "GZ-00603",
+      "ingredients": [
+        "Mezze penne rigate 320 g",
+        "Carciofi 4",
+        "Pomodori pelati 400 g",
+        "Acqua 100 g",
+        "Aglio 1 spicchio",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Olio extravergine d'oliva q.b."
+      ],
+      "name": "Penne ai carciofi e pomodoro",
+      "notes": "Nota del Curatore: il basilico è nel procedimento ma manca dall’elenco e non ne è precisata la dose. La fonte consiglia di consumare subito il piatto; il solo sugo, coperto, si conserva in frigorifero per un paio di giorni. La passata può sostituire i pelati.",
+      "origin": "Italia; la fonte richiama la cucina del Centro Italia.",
+      "originalTimes": {
+        "cook": "30 min",
+        "prep": "20 min"
+      },
+      "originalTitle": "Penne with artichokes and tomato",
+      "originalYield": "4",
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "efb162073ef6cdab852503e19417ceb2bc93a94e18aa8e0192a8da96a8fd6cf4",
+        "previousAppSha256": "efb162073ef6cdab852503e19417ceb2bc93a94e18aa8e0192a8da96a8fd6cf4",
+        "reviewedDigest": "b26899b2fd17c9ab0e11826ccd03f4bd9a0435d06e651cdfd6b4f970b1408930"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "b26899b2fd17c9ab0e11826ccd03f4bd9a0435d06e651cdfd6b4f970b1408930",
+      "serves": "4",
+      "source": "https://www.giallozafferano.com/recipes/penne-with-artichokes-and-tomato.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Eliminare foglie coriacee, punte e parte terminale del gambo dei carciofi. Pelare il gambo, dividere i carciofi e asportare la barba; tagliare a strisce di circa 1/2 pollice.",
+        "Profumare l’olio in padella con lo spicchio d’aglio intero e sbucciato. Aggiungere i carciofi, salare e pepare; saltarli per 5 minuti.",
+        "Versare pelati e acqua, cuocere per 15 minuti. Nel frattempo portare a ebollizione l’acqua salata per la pasta; estrarre l’aglio dal sugo quando pronto.",
+        "Lessare le penne al dente secondo la confezione; trasferirle direttamente nel sugo e mantecare per circa 2 minuti. A fuoco spento aggiungere basilico fresco e servire."
+      ],
+      "temperature": "Cottura in padella; pasta in acqua bollente salata. Temperatura numerica non dichiarata."
+    },
+    {
+      "author": "Susan Reid",
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "10 min + 12–14 min secondo il procedimento",
+      "description": "Anelli di pane intrecciato con bagno di melassa e rivestimento di sesamo.",
+      "id": "SAP-20261115-010-SIMIT",
+      "ingredients": [
+        "Lievitino: Lievito secco istantaneo o attivo 1 cucchiaio",
+        "Lievitino: Zucchero semolato 1 cucchiaio",
+        "Lievitino: Acqua 57 g",
+        "Impasto: Tutto il lievitino",
+        "Impasto: Farina di grano tenero all-purpose 480 g",
+        "Impasto: Sale da tavola 1/2 cucchiaino",
+        "Impasto: Olio extravergine di oliva 25 g",
+        "Impasto: Acqua tiepida 255 g",
+        "Bagno: Acqua 680 g",
+        "Bagno: Melassa 43 g",
+        "Copertura: Semi di sesamo 71 g"
+      ],
+      "name": "Simit turchi al sesamo e melassa",
+      "notes": "Nota del Curatore: il riepilogo della fonte dichiara cottura 12–14 min, ma il metodo indica 10 min più 12–14 min: si conserva la sequenza operativa. Conservare in un sacchetto di carta a temperatura ambiente per un giorno oppure tagliare e congelare fino a due mesi.",
+      "origin": "Turchia, cibo di strada tradizionale secondo la fonte.",
+      "originalTimes": {
+        "cook": "10 min + 12–14 min secondo il procedimento",
+        "prep": "30 min di lavoro attivo",
+        "rest": "10 min lievitino, 30 min impasto, 10 min pezzi, 45 min lievitazione finale; totale dichiarato 2 h 7 min"
+      },
+      "originalTitle": "Turkish Simit Breads",
+      "originalYield": "10 simit",
+      "photo": null,
+      "prep": "30 min di lavoro attivo",
+      "publicationUpdate": {
+        "baseAppSha256": "52b2a23840a7139045106c9aeb87ba824c16a7d4150da681c6f9a5955a3609ef",
+        "previousAppSha256": "52b2a23840a7139045106c9aeb87ba824c16a7d4150da681c6f9a5955a3609ef",
+        "reviewedDigest": "e2e6b580cb8086c4e755649254add9defd02dcd4aefe9bb660a3b3b3b626e003"
+      },
+      "publisher": "King Arthur Baking",
+      "rest": "10 min lievitino, 30 min impasto, 10 min pezzi, 45 min lievitazione finale; totale dichiarato 2 h 7 min",
+      "reviewedRecordSha256": "e2e6b580cb8086c4e755649254add9defd02dcd4aefe9bb660a3b3b3b626e003",
+      "serves": "10 simit",
+      "source": "https://www.kingarthurbaking.com/recipes/turkish-simit-breads-recipe",
+      "sourceLabel": "King Arthur Baking",
+      "steps": [
+        "Riunire acqua, lievito e zucchero del lievitino; coprire e lasciare riposare 10 minuti.",
+        "Unire gli ingredienti dell’impasto al lievitino. Lavorare 8 minuti in planetaria a velocità medio-bassa oppure 10 minuti a mano, fino a ottenere elasticità e superficie liscia. Trasferire in ciotola unta e coprire per 30 minuti.",
+        "Preparare due teglie rivestite; sistemare i ripiani del forno nei terzi superiore e inferiore. Sciogliere la melassa nell’acqua del bagno e disporre a parte il sesamo.",
+        "Sgonfiare l’impasto, modellare un cilindro di circa 20 pollici e dividerlo in dieci parti. Arrotondarle, coprirle con pellicola unta e riposare 10 minuti.",
+        "Su piano appena infarinato allungare ciascuna porzione a circa 30 pollici, piegare a metà, torcere i due capi in direzioni opposte e saldare a formare un anello di 5–6 pollici di diametro.",
+        "Bagnare entrambi i lati degli anelli nella soluzione di melassa, rivestire di sesamo su entrambi i lati e sistemare sulle teglie. Far lievitare 45 minuti, preriscaldando il forno a 450 °F a metà dell’attesa.",
+        "Quando quasi raddoppiati, nebulizzare acqua fredda e cuocere 10 minuti. Scambiare le teglie tra ripiano superiore e inferiore, abbassare a 425 °F e proseguire per 12–14 minuti, fino a doratura; servire tiepidi."
+      ],
+      "temperature": "450 °F per 10 min, poi 425 °F per altri 12–14 min."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "3 h dichiarate; ragù circa 2 h a fuoco basso",
+      "description": "Penne con ragù di trippa bovina, pomodoro, vino ed erbe aromatiche.",
+      "id": "GZ-00607",
+      "ingredients": [
+        "Penne rigate 320 g",
+        "Trippa bovina pulita e sbollentata 700 g",
+        "Passata di pomodoro 250 g",
+        "Concentrato triplo di pomodoro 50 g",
+        "Brodo vegetale 1 l",
+        "Vino rosso 150 ml",
+        "Burro 40 g",
+        "Sedano 1 costa",
+        "Carota 1",
+        "Cipolla 1",
+        "Origano 3 rametti",
+        "Timo 2 rametti",
+        "Rosmarino 1 rametto",
+        "Salvia 3 foglie",
+        "Alloro 2 foglie",
+        "Sale fino q.b.",
+        "Pepe nero q.b.",
+        "Olio extravergine d'oliva q.b."
+      ],
+      "name": "Penne al ragù di trippa",
+      "notes": "Nota del Curatore: l’aglio è indicato nel metodo, non nell’elenco degli ingredienti; quantità non dichiarata. La fonte consiglia consumo immediato oppure frigorifero al massimo un giorno; congelare solo il ragù se preparato con ingredienti freschi. Alternative: spaghetti o maccheroni; peperoncino per un ragù più piccante.",
+      "origin": "Italia, tradizione del ragù di trippa documentata dalla fonte.",
+      "originalTimes": {
+        "cook": "3 h dichiarate; ragù circa 2 h a fuoco basso",
+        "prep": "20 min"
+      },
+      "originalTitle": "Penne with tripe ragout",
+      "originalYield": "4",
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "fccf4e983fff162f2ad27ccda3b176463c9d468cf335a86ac32cf7bd78cc076f",
+        "previousAppSha256": "fccf4e983fff162f2ad27ccda3b176463c9d468cf335a86ac32cf7bd78cc076f",
+        "reviewedDigest": "adb8232efe7bdb26f0343ff825964fda06ae06cd6e644864a1f5c8d3bdc0fe63"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "adb8232efe7bdb26f0343ff825964fda06ae06cd6e644864a1f5c8d3bdc0fe63",
+      "serves": "4",
+      "source": "https://www.giallozafferano.com/recipes/penne-with-tripe-ragout.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Usare trippa già pulita e parzialmente lessata. Lavare carota e sedano, pelare la cipolla e togliere i filamenti al sedano; ridurre le verdure in cubetti. Tritare le erbe, tenendo a parte l’alloro.",
+        "Sciogliere il burro con poco olio; rosolare le verdure mescolando per almeno 10 minuti, salare e aggiungere l’aglio tritato. Se il soffritto asciuga, bagnare con brodo.",
+        "Tagliare la trippa a strisce, unirla al soffritto, aggiungere le erbe e l’alloro. Sfumare con vino rosso lasciandolo evaporare.",
+        "Diluire il concentrato con un mestolo di brodo caldo, versarlo insieme alla passata. Lasciare cuocere a fiamma bassa per circa 2 ore, unendo altro brodo quando serve.",
+        "Verso la fine lessare le penne al dente, scolarle e farle insaporire per qualche minuto nel ragù. Servire caldo."
+      ],
+      "temperature": "Ragù a fuoco basso; temperatura numerica non dichiarata."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Primi piatti, pasta e gnocchi"
+      ],
+      "category": "Primi piatti, pasta e gnocchi",
+      "cook": "12 min",
+      "description": "Penne integrali con prosciutto e condimento cremoso di panna e pomodoro.",
+      "id": "GZ-00604",
+      "ingredients": [
+        "Penne rigate integrali 320 g",
+        "Prosciutto cotto a fette 100 g",
+        "Panna fresca liquida 300 g",
+        "Passata di pomodoro 25 g",
+        "Prezzemolo q.b.",
+        "Sale fino q.b.",
+        "Olio extravergine d'oliva q.b.",
+        "Pepe nero q.b."
+      ],
+      "name": "Penne al baffo",
+      "notes": "La fonte usa penne integrali. Consumo preferibilmente immediato; altrimenti un giorno in frigorifero in recipiente ermetico, non congelare. Varianti proposte: verdure di stagione (piselli, asparagi, spinaci, zucchine), gamberi, speck, pancetta, pesce o calamari; pomodori freschi rosolati in alternativa alla passata. Dosi delle varianti non dichiarate.",
+      "origin": null,
+      "originalTimes": {
+        "cook": "12 min",
+        "prep": "5 min"
+      },
+      "originalTitle": "Penne al baffo",
+      "originalYield": "4 porzioni",
+      "photo": null,
+      "prep": "5 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f25fd76995d41dafcd219623d9c296fb8a82cf7f09b19339b00aa0f045077acf",
+        "previousAppSha256": "f25fd76995d41dafcd219623d9c296fb8a82cf7f09b19339b00aa0f045077acf",
+        "reviewedDigest": "9082cd5b72c8fb35366a747c4d1ada8df57f04080bed59cef0a037d1f29e6e3b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "9082cd5b72c8fb35366a747c4d1ada8df57f04080bed59cef0a037d1f29e6e3b",
+      "serves": "4 porzioni",
+      "source": "https://www.giallozafferano.com/recipes/Penne-al-baffo.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Lavare, asciugare e tritare il prezzemolo; ridurre il prosciutto a striscioline. Scaldare l’acqua salata per la pasta.",
+        "Rosolare il prosciutto in poco olio per circa un minuto; incorporare la panna, poi la passata. Mescolare e cuocere a fuoco basso per circa 10 minuti.",
+        "Lessare contemporaneamente la pasta e scolarla al dente direttamente nella salsa. Regolare sale e pepe, mescolare con il prezzemolo e servire caldo."
+      ],
+      "temperature": "Sugo a fuoco basso, pasta in acqua bollente salata."
     }
   ]
 }
