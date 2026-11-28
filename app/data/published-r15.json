@@ -36739,6 +36739,208 @@
         "Nel frattempo lessare il riso per 15 minuti nell’acqua aromatizzata in ebollizione. Scolare e condire con i 2 cucchiai d’olio del riso, scorza di limone e mezzo cucchiaino di cannella in polvere. Distribuire nelle ciotole con il pesce al curry."
       ],
       "temperature": "Cottura dolce del pesce in cocco circa 10 min; riso in ebollizione 15 min; temperature numeriche non specificate."
+    },
+    {
+      "author": "Valeria Ciccotti / GialloZafferano",
+      "categories": [
+        "Antipasti e aperitivi"
+      ],
+      "category": "Antipasti e aperitivi",
+      "cook": "dichiarata 10 min, ma la fonte richiede anche circa 35 min per lessare le patate",
+      "description": "Quattro toast senza pane, composti da impasto di patate e farciti con mozzarella, pomodoro e aromi.",
+      "id": "SRC-9be54487af9b6ade",
+      "ingredients": [
+        "700 g patate",
+        "1 uovo medio (circa 54 g)",
+        "60 g mozzarella",
+        "50 g passata di pomodoro",
+        "150 g farina 00",
+        "50 g pangrattato",
+        "Origano q.b.",
+        "5 g sale fino",
+        "Basilico q.b.",
+        "Olio extravergine d’oliva per la padella (dose non dichiarata)"
+      ],
+      "name": "Toast di patate alla pizzaiola",
+      "notes": "Il riepilogo della fonte indica 30 min di preparazione e 10 min di cottura, ma il procedimento include anche circa 35 min di lessatura. Olio citato nel metodo senza dose nell’elenco. Alternativa forno statico 392 °F per circa 15 min, oppure ventilato 356 °F; provola al posto della mozzarella. La fonte indica conservazione in frigorifero 1 giorno da crudi e 2 giorni da cotti; congelabili crudi o cotti.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": "Preparazione dichiarata 30 min; cottura dichiarata 10 min, ma la fonte richiede anche circa 35 min per lessare le patate.",
+      "originalTitle": "Potato Toast Pizzaiola Style",
+      "originalYield": "4 toast (4 porzioni)",
+      "photo": null,
+      "prep": "dichiarata 30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "19427e95aede0a60dcb9354458607b0807e1278bec75e5ffe1aa390cdc4ab068",
+        "previousAppSha256": "19427e95aede0a60dcb9354458607b0807e1278bec75e5ffe1aa390cdc4ab068",
+        "reviewedDigest": "62d04e70ae4cc3df7b0309915579c96fadab263e85c12873cda5cc2a9a7ca4e5"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "62d04e70ae4cc3df7b0309915579c96fadab263e85c12873cda5cc2a9a7ca4e5",
+      "serves": "4 toast (4 porzioni)",
+      "source": "https://www.giallozafferano.com/recipes/potato-toast-pizzaiola-style.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Lessare le patate con la buccia per circa 35 minuti; pelarle e schiacciarle ancora tiepide.",
+        "Unire uovo, farina e sale alla purea e lavorare fino a un composto modellabile.",
+        "Distribuire pangrattato sulla superficie di lavoro; per ogni quadrato usare una porzione di impasto di circa 3 oz. Appiattire a quadrato e al centro mettere un cucchiaino di passata, origano, basilico e mozzarella ben scolata.",
+        "Coprire con un secondo quadrato d’impasto, sigillare bene e ripetere fino a ottenere quattro toast.",
+        "Scaldare poco olio in una padella antiaderente; cuocere non più di due toast alla volta, girandoli delicatamente, per circa 10 minuti complessivi. Servire caldi."
+      ],
+      "temperature": "Padella antiaderente per circa 10 min totali; alternativa forno statico 392 °F per 15 min."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "20 min",
+      "description": "Crostatine di frolla con crema profumata al limone e cannella, panna montata e mele fresche.",
+      "id": "SRC-7cef886ba36c975e",
+      "ingredients": [
+        "Frolla: 250 g farina 00",
+        "125 g burro freddo",
+        "100 g zucchero a velo",
+        "2 tuorli per frolla",
+        "1 baccello di vaniglia",
+        "Crema: 250 ml latte intero",
+        "150 ml panna fresca liquida in totale",
+        "70 g zucchero",
+        "25 g amido di mais",
+        "3 tuorli per crema",
+        "Scorza di 1 limone non trattato",
+        "1 stecca cannella",
+        "1 pizzico cannella in polvere per crema",
+        "Finitura: 400 g mele",
+        "30 g zucchero di canna",
+        "Succo di 1 limone",
+        "1 pizzico cannella in polvere per mele",
+        "Burro e farina q.b. per gli stampi (citati nel metodo)"
+      ],
+      "name": "Crostatine alle mele, crema e cannella",
+      "notes": "La panna totale è 150 ml: scaldarne 3,5 cucchiai nel latte e montare soltanto quella rimanente, senza duplicare la dose. La fonte ammette decorazione facoltativa con ribes rosso, non dosato; pere in alternativa alle mele. Conservare in frigorifero 1–2 giorni in contenitore chiuso; congelare eventualmente senza mele, oppure congelare separatamente la frolla. La fonte ammette congelamento della crema se realizzata con ingredienti freschi, non decongelati.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": "Preparazione 25 min; cottura 20 min; riposo frolla almeno 30 min e raffreddamenti non quantificati.",
+      "originalTitle": "Apple and Cinnamon Tartlets",
+      "originalYield": "6 crostatine diametro circa 11,5 cm",
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a11021fc3128a063dc863e94b9cde5860cf138295e2c9beda4814f527929d122",
+        "previousAppSha256": "a11021fc3128a063dc863e94b9cde5860cf138295e2c9beda4814f527929d122",
+        "reviewedDigest": "9de93dc5389339863f8f57dbaa6100d9bf19de340635e1221e7e82e566eb6e2b"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "riposo frolla almeno 30 min e raffreddamenti non quantificati",
+      "reviewedRecordSha256": "9de93dc5389339863f8f57dbaa6100d9bf19de340635e1221e7e82e566eb6e2b",
+      "serves": "6 crostatine diametro circa 11,5 cm",
+      "source": "https://www.giallozafferano.com/recipes/apple-and-cinnamon-tartlets.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Per la frolla lavorare farina, burro freddo e zucchero a velo fino a una consistenza sabbiosa; aggiungere i semi della vaniglia e i due tuorli, compattare rapidamente, avvolgere e far riposare in frigorifero almeno 30 minuti.",
+        "Scaldare il latte con 3,5 cucchiai della panna prevista, scorza di limone e stecca di cannella. A parte lavorare i tre tuorli con zucchero, amido e cannella in polvere. Togliere dal latte caldo scorza e stecca; fuori dal fuoco incorporare a filo il composto di tuorli, mescolando, poi addensare a fuoco dolce. Coprire a contatto e far raffreddare.",
+        "Imburrare e infarinare sei stampi da circa 4,5 pollici; stendere la frolla a circa 1/4 di pollice, ricavare dischi con un tagliapasta da 5,5 pollici e foderare gli stampi. Bucherellare il fondo, coprire con carta da forno e pesi da cottura.",
+        "Cuocere in bianco in forno statico a 356 °F per circa 20 minuti (alternativa ventilato a 320 °F per circa 10 minuti); lasciar raffreddare i gusci su una gratella.",
+        "Mescolare succo di limone, zucchero di canna e cannella in polvere; tagliare le mele a metà e a fettine sottili, quindi passarle nel composto per evitare l’annerimento.",
+        "Montare la panna rimanente dei 150 ml iniziali e incorporarla delicatamente alla crema fredda. Farcire i gusci con la crema, disporre le mele ben scolate a raggiera e completare, se desiderato, con la crema avanzata."
+      ],
+      "temperature": "Forno statico 356 °F per 20 min oppure ventilato 320 °F per circa 10 min."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "13 min per infornata",
+      "description": "Dodici piccole brioche arrotolate a cornetto, lievitate e cotte in friggitrice ad aria.",
+      "id": "SRC-665aa9573253cd71",
+      "ingredients": [
+        "75 g farina Manitoba",
+        "175 g farina 00",
+        "3,5 g lievito di birra fresco",
+        "25 g burro",
+        "3,5 g sale fino",
+        "150 g latte intero a temperatura ambiente",
+        "30 g zucchero",
+        "Per spennellare: 1 uovo",
+        "Per spennellare: latte intero q.b."
+      ],
+      "name": "Mini brioche cotte in friggitrice ad aria",
+      "notes": "La fonte usa una friggitrice da 6 L; il numero per lotto dipende dalla capacità. Conservazione indicata: fino a 2 giorni a temperatura ambiente in contenitore ermetico, riscaldare prima di servire. La fonte consente congelamento prima dell’ultima lievitazione oppure dopo cottura. Preparazione la sera precedente: dopo la lievitazione riporre in frigorifero secondo la variante della fonte.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": "Preparazione 25 min; cottura 13 min per infornata; lievitazioni 2 h e 30 min.",
+      "originalTitle": "Mini brioche in air fryer",
+      "originalYield": "12 mini brioche",
+      "photo": null,
+      "prep": "25 min",
+      "publicationUpdate": {
+        "baseAppSha256": "ba07d90565a97e7eb940b6b45ea4539026d003be3eb713968e7721c239175ab4",
+        "previousAppSha256": "ba07d90565a97e7eb940b6b45ea4539026d003be3eb713968e7721c239175ab4",
+        "reviewedDigest": "bf060f1cf0ee820ab6dddff386df5e2747732faeb16b0fc825de83a6e872d1e0"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "lievitazioni 2 h e 30 min",
+      "reviewedRecordSha256": "bf060f1cf0ee820ab6dddff386df5e2747732faeb16b0fc825de83a6e872d1e0",
+      "serves": "12 mini brioche",
+      "source": "https://www.giallozafferano.com/recipes/mini-brioche-in-air-fryer.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Sciogliere il burro e lasciarlo intiepidire. Mescolare le farine con lo zucchero e il lievito fresco sbriciolato; aggiungere il latte a temperatura ambiente.",
+        "Impastare incorporando il burro intiepidito e il sale; lavorare sul piano fino a una massa liscia per circa 10 minuti, al massimo 15.",
+        "Coprire e far lievitare per circa due ore nel forno spento con la sola luce accesa, fino al raddoppio.",
+        "Stendere un rettangolo di circa 16,5 × 11 pollici; ricavare dodici triangoli con base di circa 2,75 pollici. Tirare delicatamente la punta e arrotolare dalla base; sistemare la punta sotto ciascuna brioche, su un quadratino di carta da forno.",
+        "Far lievitare ancora 30 minuti nel forno spento con la luce accesa. Mescolare l’uovo e il latte della spennellatura; spennellare le prime quattro brioche.",
+        "Cuocere a lotti di quattro nella friggitrice ad aria da 6 litri a 302 °F per 13 minuti. Tenere le altre in frigorifero mentre cuoce ciascun lotto e spennellarle poco prima di cuocerle."
+      ],
+      "temperature": "Friggitrice ad aria 302 °F per 13 min; apparecchio utilizzato nella fonte da 6 litri."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min",
+      "description": "Biscotti di frolla con cannella e miele, decorabili con un reticolo superficiale.",
+      "id": "SRC-98ff9de45968c519",
+      "ingredients": [
+        "125 g burro freddo",
+        "250 g farina 00",
+        "100 g zucchero",
+        "50 g uovo (circa 1 piccolo)",
+        "1 cucchiaino raso cannella in polvere",
+        "15 g miele millefiori",
+        "1 pizzico sale fino"
+      ],
+      "name": "Biscotti alla cannella e miele",
+      "notes": "La fonte dichiara 32 biscotti; il procedimento descrive una prima serie di circa 20 e l’utilizzo successivo dei ritagli. La resa resta quella dichiarata, senza ricalcolarla. Conservazione indicata: circa 10 giorni in una scatola di latta; la frolla cruda si può congelare fino a un mese. Decorazione facoltativa con mattarello rigato o forchetta; alternativa aromatica con scorza d’arancia.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": "Preparazione 20 min; cottura 20 min; frolla almeno 1 h in frigo, altri 30 min per i ritagli e 15 min dopo formatura.",
+      "originalTitle": "Cinnamon Cookies",
+      "originalYield": "32 biscotti",
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "18553b91f60ccf5cf284526ad537b22f4631f9c13bb7ca53b28982e2e922dc4d",
+        "previousAppSha256": "18553b91f60ccf5cf284526ad537b22f4631f9c13bb7ca53b28982e2e922dc4d",
+        "reviewedDigest": "f4c28a417d4fa7ec30b9055cb4e984721e4436c4b0def8ef29c9bb6c6b682dee"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "frolla almeno 1 h in frigo, altri 30 min per i ritagli e 15 min dopo formatura.",
+      "reviewedRecordSha256": "f4c28a417d4fa7ec30b9055cb4e984721e4436c4b0def8ef29c9bb6c6b682dee",
+      "serves": "32 biscotti",
+      "source": "https://www.giallozafferano.com/recipes/cinnamon-cookies.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Lavorare a bassa velocità nel mixer farina, burro freddo a pezzi, cannella e sale, fino a un composto sabbioso.",
+        "Unire zucchero, miele e uovo leggermente sbattuto; amalgamare brevemente. Compattare la frolla senza lavorarla a lungo, avvolgerla e lasciarla in frigorifero almeno un’ora.",
+        "Ammorbidire la frolla fredda con il mattarello e stenderla allo spessore indicato di circa 1/5 di pollice. Se desiderato, creare un reticolo decorativo con un mattarello rigato; ricavare i biscotti con un tagliapasta di circa 2,5 pollici.",
+        "Riunire i ritagli, lasciarli in frigorifero circa 30 minuti prima di ristendere e ricavare altri biscotti. Disporre sulla teglia foderata e far riposare i biscotti formati in frigorifero 15 minuti.",
+        "Cuocere nel forno statico già caldo a 375 °F per circa 20 minuti. Lasciar raffreddare su gratella."
+      ],
+      "temperature": "Forno statico 375 °F, circa 20 minuti."
     }
   ]
 }
