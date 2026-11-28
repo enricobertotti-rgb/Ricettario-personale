@@ -38082,6 +38082,226 @@
         "Lessare contemporaneamente la pasta e scolarla al dente direttamente nella salsa. Regolare sale e pepe, mescolare con il prezzemolo e servire caldo."
       ],
       "temperature": "Sugo a fuoco basso, pasta in acqua bollente salata."
+    },
+    {
+      "author": "Vasiliki Pierrakea",
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "2 h 50 min",
+      "description": "Sformato greco a strati di melanzane fritte, ragù speziato di manzo e maiale e besciamella allo yogurt.",
+      "id": "GZ-03858",
+      "ingredients": [
+        "Ragù: 500 g carne macinata di manzo",
+        "500 g carne macinata di maiale",
+        "100 g passata di pomodoro",
+        "25 g concentrato di pomodoro",
+        "1 cipolla",
+        "1 costa di sedano",
+        "2 spicchi di aglio",
+        "½ cucchiaino zucchero",
+        "1 bicchiere di vino rosso (volume non precisato)",
+        "2 foglie di alloro",
+        "1 stecca di cannella",
+        "Anice stellato q.b.",
+        "Prezzemolo q.b.",
+        "Noce moscata q.b.",
+        "Olio extravergine di oliva q.b.",
+        "Sale e pepe q.b.",
+        "Melanzane: 1 kg melanzane",
+        "Farina 00 q.b. per infarinare",
+        "Olio di arachidi q.b. per friggere",
+        "Besciamella: 500 g latte intero",
+        "250 g yogurt greco",
+        "50 g farina 00",
+        "50 g burro",
+        "Noce moscata e pepe q.b.",
+        "Finitura: Parmigiano Reggiano grattugiato q.b.",
+        "Pangrattato q.b.",
+        "Origano secco q.b.",
+        "Olio extravergine di oliva q.b."
+      ],
+      "name": "Moussaka greca con melanzane e besciamella allo yogurt",
+      "notes": "Variante senza patate; il bicchiere di vino e i condimenti q.b. non sono quantificati. La fonte indica conservazione in frigo per 2–3 giorni e congelamento dopo cottura e completo raffreddamento; segnala l'uso di agnello nel ragù nella Grecia centrale e di Gruyère a Naxos al posto del Parmigiano. Nota del Curatore: non sono formule alternative complete.",
+      "origin": "Grecia; variante di Vasiliki Pierrakea senza patate.",
+      "originalTimes": {
+        "cook": "2 h 50 min",
+        "prep": "50 min"
+      },
+      "originalTitle": "Moussaka",
+      "originalYield": "4 porzioni dichiarate",
+      "photo": null,
+      "prep": "50 min",
+      "publicationUpdate": {
+        "baseAppSha256": "1d1f8efb1e3421769ae95eb27c623fc1f21624c7e2df2a8b5663399ed5a6ef6b",
+        "previousAppSha256": "1d1f8efb1e3421769ae95eb27c623fc1f21624c7e2df2a8b5663399ed5a6ef6b",
+        "reviewedDigest": "ab3d96405bd93cdb67ad3e005efb14b6ba1f825c050048f4e63d85003ec3b091"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "ab3d96405bd93cdb67ad3e005efb14b6ba1f825c050048f4e63d85003ec3b091",
+      "serves": "4 porzioni dichiarate",
+      "source": "https://www.giallozafferano.com/recipes/moussaka.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Tritare grossolanamente cipolla e sedano; soffriggere la cipolla in olio, unire sedano e aglio sbucciato e quando la cipolla è morbida aggiungere lo zucchero.",
+        "Rosolare a fuoco vivace i due macinati sgranandoli; dopo circa 5 minuti sfumare col vino. Unire cannella, anice e alloro, poi passata e concentrato. Mescolare, portare a bollore vivace, unire prezzemolo, noce moscata, sale e pepe e ridurre il calore: circa 90 minuti di cottura.",
+        "Mondare le melanzane, tagliarle per lungo a circa 0,4 pollici di spessore, infarinarle su entrambi i lati e friggerle a 355 °F fino a doratura. Sgocciolarle su carta.",
+        "Scaldare il latte con pepe e noce moscata; in un'altra casseruola mescolare burro e farina fino a ottenere un roux dorato. Incorporare il latte caldo e addensare a fuoco medio mescolando. Spegnere, attendere 5 minuti, unire yogurt e regolare pepe e noce moscata.",
+        "Oliare una pirofila profonda di circa 10 × 8 pollici. Stendere un cucchiaio di besciamella e uno strato di melanzane leggermente sovrapposte; cospargere di Parmigiano, pangrattato e origano.",
+        "Distribuire il ragù, poi un secondo strato di melanzane e ancora formaggio, pangrattato e origano. Coprire con besciamella, livellare e completare con altro Parmigiano e pangrattato. Cuocere in forno statico preriscaldato a 355 °F per 45 minuti."
+      ],
+      "temperature": "Frittura melanzane 355 °F (circa 179 °C); forno statico 355 °F (circa 179 °C) per 45 min."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "20 min",
+      "description": "Pani morbidi lievitati allo yogurt, stesi singolarmente e cotti velocemente su una padella calda.",
+      "id": "GZ-EN-NAAN-20261112",
+      "ingredients": [
+        "500 g farina 00",
+        "250 g yogurt bianco naturale",
+        "100 g acqua",
+        "7 g sale fino",
+        "2 g lievito di birra fresco"
+      ],
+      "name": "Naan indiano allo yogurt cotto in padella",
+      "notes": "Nota del Curatore: l'introduzione cita il naan senza lievito, ma ingredienti e metodo di questa versione prevedono 2 g di lievito fresco, che restano invariati. La fonte suggerisce di raddoppiare il lievito per accorciare la lievitazione, senza precisare nuovi tempi. Si conserva un giorno a temperatura ambiente o si congela dopo cottura. Servire eventualmente con burro o ghee, oppure olio, sale, aglio e coriandolo/prezzemolo.",
+      "origin": "India; pane tradizionale descritto dalla fonte.",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "15 min",
+        "rest": "Circa 5 h (4 h + 1 h)"
+      },
+      "originalTitle": "Naan",
+      "originalYield": "8 naan.",
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "a6e21aa4ac89da9297529a212822b20751c875d540f9fc8b74e9228cf83860b0",
+        "previousAppSha256": "a6e21aa4ac89da9297529a212822b20751c875d540f9fc8b74e9228cf83860b0",
+        "reviewedDigest": "4dd4eece2ff81b772963a7dd4355a3bfd75db2ec089295d9d80c6c53c6358a43"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 5 h (4 h + 1 h)",
+      "reviewedRecordSha256": "4dd4eece2ff81b772963a7dd4355a3bfd75db2ec089295d9d80c6c53c6358a43",
+      "serves": "8 naan.",
+      "source": "https://www.giallozafferano.com/recipes/naan.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "In una ciotola unire farina, yogurt, lievito sbriciolato e quasi tutta l'acqua. Mescolare col cucchiaio; unire sale e acqua restante.",
+        "Impastare a mano in ciotola e sul piano fino a ottenere un panetto liscio e non appiccicoso. Coprirlo nella ciotola e far lievitare 4 ore a temperatura ambiente.",
+        "Sul piano leggermente infarinato dividere in otto parti uguali. Ripiegare i bordi al centro e arrotondare ogni pezzo; disporre su vassoio infarinato, coprire e lasciare un'ora lontano da correnti.",
+        "Stendere ciascuna pallina a circa 0,4 pollici, in forma rotonda od ovale. Scaldare bene una padella antiaderente, cuocere un minuto circa, voltare quando si formano bolle e il fondo si colora, quindi cuocere ancora un minuto circa. Servire caldo."
+      ],
+      "temperature": "Padella antiaderente molto calda, circa 1 min per lato; temperatura non specificata."
+    },
+    {
+      "author": null,
+      "categories": [
+        "Biscotti e piccola pasticceria",
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min",
+      "description": "Dischi soffici cotti in padella e accoppiati con crema o confettura; tradizionalmente si può usare anko.",
+      "id": "GZ-03843",
+      "ingredients": [
+        "180 g acqua a temperatura ambiente",
+        "240 g farina 00",
+        "150 g zucchero a velo",
+        "2 uova",
+        "3 g lievito in polvere per dolci",
+        "20 g miele",
+        "Olio vegetale q.b. per ungere la padella"
+      ],
+      "name": "Dorayaki giapponesi con farcitura a scelta",
+      "notes": "La fonte lascia a scelta la farcitura e non indica una dose: crema di nocciole, confettura oppure anko tradizionale. Si possono profumare con vaniglia o scorza di agrumi. La pastella può restare in frigo fino a 12 ore; consumare i dischi cotti in giornata oppure congelarli senza ripieno e riscaldarli al bisogno. Il nome potrebbe richiamare la forma di un gong. Nota del Curatore: non è dichiarato un riposo obbligatorio.",
+      "origin": "Giappone; spuntino tradizionale descritto dalla fonte.",
+      "originalTimes": {
+        "cook": "20 min",
+        "prep": "10 min"
+      },
+      "originalTitle": "Dorayaki",
+      "originalYield": "12 dischi, pari a 6 dorayaki farciti.",
+      "photo": null,
+      "prep": "10 min",
+      "publicationUpdate": {
+        "baseAppSha256": "f18abc964aad769fcd6ffad59b32e01b94ee0fc23ee834a7854b692d8fec59ad",
+        "previousAppSha256": "f18abc964aad769fcd6ffad59b32e01b94ee0fc23ee834a7854b692d8fec59ad",
+        "reviewedDigest": "f93da96c348ac88d5845f4cdf74b436b7abe95eaaa3ef11039235d5eba47c26e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "",
+      "reviewedRecordSha256": "f93da96c348ac88d5845f4cdf74b436b7abe95eaaa3ef11039235d5eba47c26e",
+      "serves": "12 dischi, pari a 6 dorayaki farciti.",
+      "source": "https://www.giallozafferano.com/recipes/Dorayaki.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Raccogliere farina, zucchero a velo e lievito in una ciotola. Unire uova, miele e acqua a temperatura ambiente.",
+        "Lavorare con la frusta, prima lentamente e poi più energicamente, finché la pastella è uniforme.",
+        "Scaldare a fuoco medio una padella antiaderente; distribuirvi poco olio con carta da cucina.",
+        "Versare una mestolata per disco, cuocendone preferibilmente due per volta; dopo circa 3 minuti, quando affiorano bollicine, girarli.",
+        "Cuocere l'altro lato per circa 1 minuto e ripetere fino a esaurire la pastella. Servire semplici o accoppiati con la farcitura scelta."
+      ],
+      "temperature": "Padella a calore medio: circa 3 min sul primo lato e 1 min sul secondo."
+    },
+    {
+      "author": "Cooker Girl",
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "40 min",
+      "description": "Focaccia molto alveolata con impasto all’80% di idratazione, pieghe e maturazione lunga.",
+      "id": "GZ-02342",
+      "ingredients": [
+        "400 g farina tipo 1",
+        "320 g acqua fredda (complessivi)",
+        "8 g sale fino",
+        "15 g olio extravergine d’oliva",
+        "6 g lievito di birra fresco",
+        "Olio extravergine d’oliva q.b. per superficie",
+        "Sale q.b. per superficie",
+        "Farina di mais q.b. per spolvero"
+      ],
+      "name": "Focaccia ad alta idratazione all’80%",
+      "notes": "Maturazione in frigorifero o a temperatura ambiente: i tempi sono alternativi e il criterio finale è triplicazione del volume. Se l'impasto si ritira, coprirlo con un canovaccio e attendere circa 10 minuti. Semola alternativa alla farina di mais. Consumare preferibilmente appena fatta, oppure conservare un giorno in sacchetto di carta; congelabile da fredda intera o a pezzi.",
+      "origin": "Italia; la fonte richiama la tradizione ligure.",
+      "originalTimes": {
+        "cook": "40 min",
+        "prep": "60 min",
+        "rest": "Circa 13 ore dichiarate di maturazione; alternative nel procedimento."
+      },
+      "originalTitle": "High Hydration Focaccia",
+      "originalYield": "6 porzioni, teglia circa 38 × 25 cm (15 × 10 pollici)",
+      "photo": null,
+      "prep": "60 min",
+      "publicationUpdate": {
+        "baseAppSha256": "6d6eacb2431aeb7038801941a649f14290e66172fdb2645a95353b709187604c",
+        "previousAppSha256": "6d6eacb2431aeb7038801941a649f14290e66172fdb2645a95353b709187604c",
+        "reviewedDigest": "7162dd136cd949d532c08a80b19bb6bbcfe1bc13a231790b7d2df840b68606e1"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Circa 13 ore dichiarate di maturazione; alternative nel procedimento.",
+      "reviewedRecordSha256": "7162dd136cd949d532c08a80b19bb6bbcfe1bc13a231790b7d2df840b68606e1",
+      "serves": "6 porzioni, teglia circa 38 × 25 cm (15 × 10 pollici)",
+      "source": "https://www.giallozafferano.com/recipes/high-hydration-focaccia.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Setacciare la farina, mescolare con circa 9,5 oz dell'acqua fredda totale fino ad assorbimento: la massa resta irregolare e appiccicosa. Coprire e lasciare un'ora a temperatura ambiente.",
+        "Sciogliere il lievito nell'acqua rimasta. Lavorare con fruste a gancio a velocità media, incorporando quest'acqua in aggiunte minime. Dopo assorbimento unire il sale e poi l'olio a filo: fase di incorporazione di circa 10–15 minuti.",
+        "Raccogliere l'impasto al centro della ciotola, coprire 10 minuti, fare un giro di pieghe in ciotola con mani umide; coprire altri 40 minuti e ripetere.",
+        "Coprire e far maturare 12 ore in frigorifero oppure circa 2 ore e mezzo a temperatura ambiente, fino a triplicare il volume.",
+        "Ungere una teglia 15 × 10 pollici, preferibilmente scura, e spolverarla di farina di mais. Rovesciare l'impasto sul banco spolverato, allungarlo coi polpastrelli, trasferirlo nella teglia e allargarlo fino ai bordi. Condire con olio e fiocchi di sale.",
+        "Cuocere in forno ventilato preriscaldato a 390 °F per 35–40 minuti, fino a doratura; raffreddare sulla griglia."
+      ],
+      "temperature": "Forno ventilato 390 °F; maturazione in frigorifero o a temperatura ambiente secondo la fonte."
     }
   ]
 }
