@@ -36986,6 +36986,255 @@
         "Trasferire in vasetti idonei, puliti e asciutti, chiuderli e far rassodare in frigorifero per almeno 20 minuti."
       ],
       "temperature": "Fusione a bagnomaria o microonde a brevi intervalli; temperatura numerica non dichiarata."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "35 min dichiarati",
+      "description": "Biscotti quadrati con farina di teff, nocciole e riso, rivestiti di zucchero.",
+      "id": "SRC-cf13cda2d7b71239",
+      "ingredients": [
+        "150 g farina di teff",
+        "170 g farina di nocciole",
+        "100 g farina di riso",
+        "75 g zucchero di canna",
+        "70 g burro freddo",
+        "65 g latte intero",
+        "100 g uova (circa due medie)",
+        "6 g lievito per dolci senza glutine",
+        "Zucchero q.b. per rivestimento"
+      ],
+      "name": "Biscotti senza glutine al teff e nocciole",
+      "notes": "Conservare in sacchetto alimentare chiuso fino a 5 giorni; congelabili cilindro crudo o biscotti cotti. Aromi: scorza di agrumi, vaniglia, cannella o noce moscata; alternativa con tuorlo spennellato e nocciole tritate. Nota del Curatore: per esigenza senza glutine usare ingredienti idonei e prevenire contaminazioni; contiene latte, uova e nocciole.",
+      "origin": "Non dichiarata per la ricetta; il teff è originario di Etiopia ed Eritrea",
+      "originalTimes": "Preparazione 20 min; cottura 35 min; riposi 30 min frigo e 20 min freezer.",
+      "originalTitle": "Teff Cookies",
+      "originalYield": "Circa 35 biscotti",
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "02870624828a5c545c9726dc27418285052ebc304a909af1a2353ac54ca6d48d",
+        "previousAppSha256": "02870624828a5c545c9726dc27418285052ebc304a909af1a2353ac54ca6d48d",
+        "reviewedDigest": "a38cdbcfc2ef9a01355ec6ef6cc45e923199443d405019cd20aba703a9658fc2"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "30 min frigo + 20 min freezer",
+      "reviewedRecordSha256": "a38cdbcfc2ef9a01355ec6ef6cc45e923199443d405019cd20aba703a9658fc2",
+      "serves": "Circa 35 biscotti",
+      "source": "https://www.giallozafferano.com/recipes/teff-cookies.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Scaldare il latte senza bollirlo. Mescolare teff, farina di nocciole, zucchero di canna e lievito.",
+        "Sbriciolare il burro freddo nel composto con le dita e aggiungere il latte tiepido.",
+        "Incorporare le uova sbattute e prima che siano del tutto amalgamate aggiungere farina di riso; formare una palla uniforme, avvolgere e refrigerare almeno 30 minuti.",
+        "Formare un cilindro di circa 12 pollici, avvolgere in carta forno e appiattirne i lati con il mattarello per ottenere sezione quadrata. Congelare 20 minuti.",
+        "Passare tutti i lati nello zucchero, affettare a 1/2 pollice, disporre su carta forno; cuocere sul ripiano centrale del forno statico preriscaldato a 340 °F per 30–35 min fino a doratura uniforme. Raffreddare."
+      ],
+      "temperature": "Forno statico 340 °F per 30–35 min."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "60 min dichiarati (lessatura e forno)",
+      "description": "Focaccia con grano arso, semola rimacinata e patate nell’impasto, pomodorini Pachino e origano in superficie.",
+      "id": "SRC-fea6db84f5b35745",
+      "ingredients": [
+        "Impasto: 125 g farina di grano arso",
+        "375 g semola rimacinata di grano duro",
+        "200 g patate",
+        "25 g sale fino",
+        "5 g lievito di birra secco (specificato nel metodo della fonte)",
+        "400 g acqua",
+        "50 g olio extravergine d’oliva",
+        "Condimento: 300 g pomodorini Pachino",
+        "20 g olio extravergine d’oliva",
+        "Origano q.b.",
+        "Sale fino q.b.",
+        "Olio extravergine d’oliva q.b. per il piano di lavoro"
+      ],
+      "name": "Focaccia pugliese al grano arso e pomodorini",
+      "notes": "Il metodo specifica lievito secco. Alternativa senza frigorifero: lievitazione coperta a temperatura ambiente 4–5 ore o fino al raddoppio. Conservare coperta in frigorifero fino a 2 giorni, riscaldare in forno; congelabile cotta.",
+      "origin": "Puglia (Italia), come documentato dalla fonte",
+      "originalTimes": "Preparazione dichiarata 30 min; cottura dichiarata 60 min (inclusa lessatura patate); lievitazione circa 1 ora + una notte in frigorifero + 2 ore + 1 ora finale, oltre 16 ore complessive.",
+      "originalTitle": "Burnt wheat focaccia with cherry tomatoes",
+      "originalYield": "6 porzioni; teglia di circa 32 cm.",
+      "photo": null,
+      "prep": "30 min dichiarati",
+      "publicationUpdate": {
+        "baseAppSha256": "cb1a417614a7a4150afdaaee5db5529532767d1bab1e0722983b4207b5a7cf10",
+        "previousAppSha256": "cb1a417614a7a4150afdaaee5db5529532767d1bab1e0722983b4207b5a7cf10",
+        "reviewedDigest": "50b1e50c7b754919de016258fadb96e109049a73ef2e0f09a0c17b28184241cf"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1 h + una notte in frigo + 2 h + 1 h; oltre 16 h",
+      "reviewedRecordSha256": "50b1e50c7b754919de016258fadb96e109049a73ef2e0f09a0c17b28184241cf",
+      "serves": "6 porzioni; teglia di circa 32 cm.",
+      "source": "https://www.giallozafferano.com/recipes/burnt-wheat-focaccia-with-cherry-tomatoes.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Lessare le patate in acqua salata circa 20 minuti finché la forchetta entra facilmente; sbucciare, schiacciare e intiepidire.",
+        "Nella planetaria con gancio mescolare farine e lievito secco. Versare gradualmente quasi tutta l'acqua a temperatura ambiente, riservandone circa 50 g.",
+        "Quando l'impasto prende consistenza unire sale sciolto nell'acqua riservata e poi olio. Lavorare 10 minuti: la massa resta morbida anche se non si stacca completamente dalla ciotola. Unire le patate tiepide e impastare altri 2 minuti.",
+        "Sul piano unto ripiegare bordi verso il centro, formare una palla e mettere in ciotola coperta. Lievitare un'ora in forno spento con luce accesa e una notte in frigorifero.",
+        "Lasciare a temperatura ambiente 2 ore. Ripetere pieghe sul piano unto e trasferire nella teglia unta da 12,5 pollici, allargare con le dita.",
+        "Distribuire olio di condimento e pomodorini dimezzati con buccia in alto. Lievitare un'ora a temperatura ambiente, completare con origano e sale, cuocere in ventilato preriscaldato a 375 °F 40 minuti."
+      ],
+      "temperature": "Patate lessate circa 20 min; forno ventilato 375 °F (circa 190 °C) per circa 40 min."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Pane, focacce e panini"
+      ],
+      "category": "Pane, focacce e panini",
+      "cook": "50 min dichiarati (lessatura e forno)",
+      "description": "Focaccine morbide al forno preparate con semola, patate lessate e olio aromatizzato.",
+      "id": "SRC-27a90722cd1e698e",
+      "ingredients": [
+        "150 g farina tipo 0",
+        "150 g semola",
+        "100 g patate",
+        "200 ml acqua tiepida",
+        "20 ml olio extravergine d’oliva per impasto",
+        "5 g lievito di birra secco (alternativa fonte: 15 g fresco)",
+        "1/2 cucchiaino sale fino",
+        "1 rametto rosmarino",
+        "Olio extravergine d’oliva q.b. per condimento",
+        "Sale grosso q.b."
+      ],
+      "name": "Focaccine di patate e semola al rosmarino",
+      "notes": "Alternativa della fonte: 15 g lievito fresco al posto di 5 g secco. Conservare un giorno sotto campana o in sacchetto di carta; congelabili crude o cotte. Variante pomodorini dimezzati o olive prima del forno.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": "Preparazione 30 min; cottura dichiarata 50 min (comprende circa 30 min di lessatura patata e circa 20 min di forno); lievitazioni 2 h e 30 min.",
+      "originalTitle": "Potato Flatbreads",
+      "originalYield": "10 focaccine",
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "7fcb63b51512dc0f566e50ba8f075f3d4e7c8021a627b7c832fbe85d7df5c38f",
+        "previousAppSha256": "7fcb63b51512dc0f566e50ba8f075f3d4e7c8021a627b7c832fbe85d7df5c38f",
+        "reviewedDigest": "3cb03c330871a0047fb07bdd6cdbe92ed01b20274d1a92aafb8abf232c46f69d"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "lievitazioni 2 h e 30 min",
+      "reviewedRecordSha256": "3cb03c330871a0047fb07bdd6cdbe92ed01b20274d1a92aafb8abf232c46f69d",
+      "serves": "10 focaccine",
+      "source": "https://www.giallozafferano.com/recipes/potato-flatbreads.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Lessare le patate finché tenere, circa 30 min (in pentola a pressione circa metà tempo); sbucciare, raffreddare e schiacciare.",
+        "Setacciare le farine e incorporare patate e lievito sciolto in circa 100 ml di acqua tiepida.",
+        "Aggiungere olio a filo e gli altri 100 ml di acqua con sale sciolto; impastare fino a massa morbida, umida e appiccicosa. Coprire e lasciare raddoppiare circa 2 ore a 78–82 °F.",
+        "Con mani e piano infarinati trasferire l'impasto, stenderlo a 0,39 pollici e ritagliare dischi da 3,94 pollici. Disporre su carta forno, lievitare altri 30 minuti.",
+        "Tritare rosmarino, mescolare con olio q.b., premere il centro dei dischi lasciando il bordo e spennellare.",
+        "Cuocere in forno statico preriscaldato a 356 °F circa 20 min o ventilato 320 °F circa 15 min; completare con olio e sale grosso."
+      ],
+      "temperature": "Lievitazione ambiente caldo 78–82 °F; forno statico 356 °F per 20 min oppure ventilato 320 °F per circa 15 min."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "20 min dichiarati; uova circa 8 min; forno circa 18 min",
+      "description": "Frollini a fiore con foro centrale, molto friabili grazie ai tuorli d’uovo già rassodati.",
+      "id": "SRC-9de4dc4a6592337b",
+      "ingredients": [
+        "300 g farina 00",
+        "200 g fecola di patate",
+        "300 g burro freddo",
+        "150 g zucchero a velo per impasto",
+        "Scorza grattugiata di 1 limone",
+        "6 tuorli d’uovo sodi",
+        "1 baccello di vaniglia",
+        "Zucchero a velo q.b. per decorare"
+      ],
+      "name": "Canestrelli liguri con tuorli sodi",
+      "notes": "Conservare in scatola di latta chiusa fino a 2 settimane. Frolla molto friabile, non indicata come base di torta; possibile per piccoli gusci con frutta e crema. Nota del Curatore: lista EN indica 200 g fecola di patate, metodo EN menziona amido di mais. Fonte italiana https://ricette.giallozafferano.it/Canestrelli.html conferma fecola e risposta editoriale ammette amido di mais alternativo. Mantenuta fecola della lista, senza sommare i due ingredienti o inventare dosi.",
+      "origin": "Liguria (Italia), secondo la fonte; varianti piemontesi non fuse.",
+      "originalTimes": "Preparazione 30 min; cottura 20 min dichiarata; uova sode circa 8 min; riposo frolla circa 1 ora in frigorifero.",
+      "originalTitle": "Canestrelli",
+      "originalYield": "Circa 100 biscotti.",
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "b55c760440317c726a59fa434bc720337d3976ff29e0f64a3dde289b22e505ae",
+        "previousAppSha256": "b55c760440317c726a59fa434bc720337d3976ff29e0f64a3dde289b22e505ae",
+        "reviewedDigest": "3ca13d1347fe4815cf7e7962d5310f898b3638a706abafc627f774a0ba59768f"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "1 h in frigorifero",
+      "reviewedRecordSha256": "3ca13d1347fe4815cf7e7962d5310f898b3638a706abafc627f774a0ba59768f",
+      "serves": "Circa 100 biscotti.",
+      "source": "https://www.giallozafferano.com/recipes/Canestrelli.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Lessare le uova circa 8 minuti dall'ebollizione, raffreddare, sgusciare e separare i tuorli sodi.",
+        "Setacciare farina, fecola e zucchero a velo; unire scorza di limone, semi di vaniglia e burro freddo a cubetti. Lavorare con la foglia.",
+        "Setacciare i tuorli sodi e incorporarli. Lavorare brevemente sul piano leggermente infarinato fino a ottenere impasto compatto, liscio e morbido; appiattire, avvolgere e refrigerare un'ora.",
+        "Stendere a 1 cm, ritagliare fiori di circa 3 cm e forare il centro (circa 1 cm); riunire e ristendere ritagli. Disporre distanziati su carta forno.",
+        "Cuocere a 170 °C in forno statico preriscaldato circa 18 minuti senza dorare; alternativa ventilato 150 °C per 8–10 minuti, provando prima pochi biscotti.",
+        "Raffreddare su gratella e spolverizzare con zucchero a velo."
+      ],
+      "temperature": "Forno statico 170 °C per circa 18 min (senza dorare); alternativa ventilato 150 °C per 8–10 min in prova su pochi biscotti."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Biscotti e piccola pasticceria"
+      ],
+      "category": "Biscotti e piccola pasticceria",
+      "cook": "10 min dichiarati; circa 8 min per lotto",
+      "description": "Frittelle morbide a cucchiaiate con cubetti di mela Fuji, ricotta, miele, scorze agrumate, fritte e zuccherate.",
+      "id": "SRC-4c4c10e4a03f354c",
+      "ingredients": [
+        "200 g mele Fuji",
+        "100 g farina 00",
+        "150 g ricotta vaccina scolata",
+        "40 g miele di acacia",
+        "1 uovo medio (circa 55 g) a temperatura ambiente",
+        "5 g lievito per dolci",
+        "Scorza di 1 limone",
+        "Scorza di 1 arancia",
+        "Zucchero q.b. per finire",
+        "40 g latte intero",
+        "Olio di semi q.b. per friggere"
+      ],
+      "name": "Frittelle di mele e ricotta al miele",
+      "notes": "Consumare in giornata; non congelare. Varianti con cannella o liquore. Distinte dalle frittelle di mela a rondelle. Gli 8 minuti riguardano la frittura, non un riposo.",
+      "origin": "Non dichiarata dalla fonte",
+      "originalTimes": "Preparazione 15 min; cottura dichiarata 10 min; circa 8 min per lotto di frittura; riposo non previsto.",
+      "originalTitle": "Apple and ricotta fritters",
+      "originalYield": "15 frittelle.",
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "94822f11e2e5c1dd4a17dbbfbac63a82bb96cd8f107cce8c2abb66150ceaa8b1",
+        "previousAppSha256": "94822f11e2e5c1dd4a17dbbfbac63a82bb96cd8f107cce8c2abb66150ceaa8b1",
+        "reviewedDigest": "fa937b6b344d73b6ebda027024096b964859f7ea06cc2bfb01567bc89b09a827"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "Non previsto",
+      "reviewedRecordSha256": "fa937b6b344d73b6ebda027024096b964859f7ea06cc2bfb01567bc89b09a827",
+      "serves": "15 frittelle.",
+      "source": "https://www.giallozafferano.com/recipes/Apple-and-ricotta-fritters.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Sbucciare le mele, togliere il torsolo e tagliare a dadini di circa 1 cm.",
+        "Scolare la ricotta e lavorarla con miele e uovo usando una frusta.",
+        "Unire latte, lievito setacciato e farina; incorporare scorze di limone e arancia.",
+        "Aggiungere i dadini di mela e mescolare.",
+        "Scaldare l'olio in una pentola alta a 130 °C (265 °F nella fonte); friggere poche cucchiaiate per volta circa 8 minuti per lotto, fino a doratura.",
+        "Scolare su carta assorbente, lasciare intiepidire brevemente, passare nello zucchero e servire calde."
+      ],
+      "temperature": "Olio di frittura 265 °F (circa 130 °C)."
     }
   ]
 }
