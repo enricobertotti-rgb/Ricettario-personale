@@ -36126,6 +36126,265 @@
         "Disporre su teglia, tostare in statico 392 °F (200 °C) per 15–18 minuti fino a doratura. Servire tiepide con gelato e miele."
       ],
       "temperature": "Prima cottura: ventilato 170 °C per 15–18 min. Seconda cottura: statico 200 °C per 15–18 min."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "50 min",
+      "description": "Dolce soffice ai datteri con salsa calda a base di melassa, panna e muscovado.",
+      "id": "SRC-320b40df59b50222",
+      "ingredients": [
+        "Impasto: 250 g datteri snocciolati",
+        "250 g zucchero muscovado",
+        "240 g burro a temperatura ambiente",
+        "225 g farina 00",
+        "100 g melassa",
+        "100 g acqua",
+        "3 uova medie",
+        "4 g lievito in polvere per dolci",
+        "Salsa: 200 g panna fresca liquida",
+        "120 g melassa",
+        "50 g burro morbido",
+        "20 g zucchero muscovado",
+        "Burro q.b. per lo stampo"
+      ],
+      "name": "Sticky toffee pudding ai datteri",
+      "notes": "Il gelato è facoltativo e non dosato. Conservazione indicata dalla fonte: frigorifero fino a 3 giorni; congelare eventualmente i cubi senza salsa. Alternative suggerite: miele al posto della melassa per un gusto più delicato; spezie (noce moscata, cannella, anice stellato o ginepro); tè nero o caffè per l’ammollo. Non sono dosate nella fonte.",
+      "origin": "Dolce diffuso nel Regno Unito; la fonte riferisce ipotesi sulle sue origini, non documentate come certe.",
+      "originalTimes": "Preparazione 20 min; cottura 50 min; ammollo datteri 10 min.",
+      "originalTitle": "Sticky toffee pudding",
+      "originalYield": "6 porzioni dichiarate; taglio finale in 12 cubi.",
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "3c61956dd7989e79a24770ef12d7ddbaecd1fabbcbfbc8a4d39aff416979a483",
+        "previousAppSha256": "3c61956dd7989e79a24770ef12d7ddbaecd1fabbcbfbc8a4d39aff416979a483",
+        "reviewedDigest": "9f8e6e087404c4327913f9397f2c79f843b3f31a180d83fa1096ea2b779b6424"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "ammollo datteri 10 min.",
+      "reviewedRecordSha256": "9f8e6e087404c4327913f9397f2c79f843b3f31a180d83fa1096ea2b779b6424",
+      "serves": "6 porzioni dichiarate; taglio finale in 12 cubi.",
+      "source": "https://www.giallozafferano.com/recipes/sticky-toffee-pudding.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Ammollare i datteri nell’acqua calda per 10 minuti; frullare con tutta l’acqua fino a ottenere una purea.",
+        "Montare burro morbido e zucchero muscovado, incorporare melassa, farina e lievito; aggiungere le uova una alla volta.",
+        "Unire la purea e amalgamare; versare in uno stampo imburrato di circa 24 × 24 cm, alto 5 cm, livellare.",
+        "Cuocere in forno statico preriscaldato a 350 °F (circa 177 °C) per 50 minuti.",
+        "Durante la cottura preparare la salsa: scaldare panna e melassa mescolando, aggiungere il muscovado, portare a bollore a fuoco medio; incorporare il burro e mescolare circa un minuto, finché la salsa si addensa leggermente, quindi spegnere.",
+        "Lasciare intiepidire nello stampo, sformare e tagliare in 12 cubi. Disporli su una gratella, irrorare con la salsa; servire con altra salsa sul piatto e in superficie, a piacere con gelato alla vaniglia."
+      ],
+      "temperature": "Forno statico 350 °F (circa 177 °C) per circa 50 min; salsa a fuoco dolce/medio."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Colazione e lievitati dolci"
+      ],
+      "category": "Colazione e lievitati dolci",
+      "cook": "20 min",
+      "description": "Pancake alti e soffici ottenuti con albumi montati e cottura coperta con poca acqua.",
+      "id": "SRC-4d40ecaed5c4e3ff",
+      "ingredients": [
+        "84 g albumi (circa 2)",
+        "34 g tuorli (circa 2)",
+        "35 g farina 00",
+        "2 g lievito in polvere per dolci",
+        "25 g latte intero",
+        "25 g zucchero",
+        "1 cucchiaino estratto di vaniglia",
+        "Burro q.b. per ungere la padella",
+        "Acqua poche gocce per la cottura, dose non indicata"
+      ],
+      "name": "Fluffy pancakes al vapore in padella",
+      "notes": "La fonte riporta 35 g di farina insieme a 1 cup e 84 g di albumi insieme a 3 cucchiai: misure non coerenti; sono conservati i pesi metrici dichiarati. L’attribuzione al Giappone del titolo precedente non è documentata dalla fonte. Non confondere con la variante all’avena. Servire a piacere con sciroppo, panna, frutta, miele o confettura; possibile uso di anelli. Non conservare l’impasto né congelarlo, secondo la fonte.",
+      "origin": "Origine geografica specifica non dichiarata dalla fonte.",
+      "originalTimes": "Preparazione 15 min; cottura 20 min; raffreddamento albumi circa 10 min nel congelatore.",
+      "originalTitle": "Fluffy Pancakes",
+      "originalYield": "4 pancakes.",
+      "photo": null,
+      "prep": "15 min",
+      "publicationUpdate": {
+        "baseAppSha256": "c7e72816c54523648b7a8aeb53ca64b69636979ec07ef0b42cc9e03020e1e773",
+        "previousAppSha256": "c7e72816c54523648b7a8aeb53ca64b69636979ec07ef0b42cc9e03020e1e773",
+        "reviewedDigest": "38f8039b9e423dcf9d473ded88e394162cfec5b7a3030381aa02053a0acb566e"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "raffreddamento albumi circa 10 min nel congelatore.",
+      "reviewedRecordSha256": "38f8039b9e423dcf9d473ded88e394162cfec5b7a3030381aa02053a0acb566e",
+      "serves": "4 pancakes.",
+      "source": "https://www.giallozafferano.com/recipes/Fluffy-Pancakes.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Raffreddare gli albumi in congelatore per circa 10 minuti, finché compare una sottile pellicola di ghiaccio.",
+        "Mescolare i tuorli con latte e vaniglia, aggiungere la farina setacciata e poi il lievito.",
+        "Montare gli albumi a bassa velocità, versare lo zucchero gradualmente e proseguire fino a ottenere una meringa soda.",
+        "Incorporare una piccola parte della meringa energicamente ai tuorli; aggiungere il resto delicatamente con movimenti dal basso verso l’alto.",
+        "Scaldare la padella a fuoco bassissimo, ungere con burro e togliere l’eccesso. Cuocere due pancakes alla volta: porre un cucchiaio di impasto per ciascuno, aggiungere poche gocce d’acqua lontano dall’impasto e coprire per 2 minuti.",
+        "Aggiungere un altro cucchiaio di impasto su ciascuno, qualche goccia d’acqua se necessario, coprire e continuare per circa 4 minuti. Girare delicatamente, aggiungere qualche goccia d’acqua, coprire e cuocere altri 3–4 minuti. Servire subito."
+      ],
+      "temperature": "Padella a fuoco molto basso, coperta: circa 2 + 4 min sul primo lato e 3–4 min sul secondo."
+    },
+    {
+      "author": "Chef Mulan / GialloZafferano",
+      "categories": [
+        "Piatti unici e cucine del mondo"
+      ],
+      "category": "Piatti unici e cucine del mondo",
+      "cook": "complessiva 20 min dichiarata",
+      "description": "Involtini fritti con sfoglie pronte, cavolo napa, carote e cipolla saltate nel wok.",
+      "id": "SRC-86bb32a6e8028fd5",
+      "ingredients": [
+        "8 fogli per involtini primavera",
+        "300 g cavolo cinese napa",
+        "60 g carote",
+        "50 g cipolla bianca",
+        "30 g vino di riso",
+        "Olio di arachidi q.b. per il salto in padella",
+        "Sale fino q.b.",
+        "Pepe bianco q.b.",
+        "Albume q.b. per sigillare",
+        "Olio di arachidi q.b. per friggere"
+      ],
+      "name": "Involtini primavera cinesi alle verdure",
+      "notes": "Albume q.b.; vino di riso mantenuto in grammi. Conservazione indicata: frigorifero per un giorno, non congelare. Sfoglie casalinghe alternative suggerite dalla fonte: 4,4 oz farina, 2,5 oz amido di mais, 12,35 oz acqua, 2 pizzichi di sale; riposo almeno 30 minuti; cuocere crêpes quasi trasparenti in padella antiaderente appena unta. Alternative al ripieno: germogli, carne di maiale o pollo (varianti, non la formula principale); cavolo tondo da cuocere qualche minuto in più, evitare verza troppo morbida. Olio di girasole o arachidi e vino bianco da cucina come alternative.",
+      "origin": "Secondo la fonte gli involtini erano tradizionalmente associati al Capodanno cinese, che segna l’arrivo della primavera.",
+      "originalTimes": "Preparazione 30 min; cottura complessiva 20 min dichiarata; riposo non previsto.",
+      "originalTitle": "Chinese Spring Rolls",
+      "originalYield": "8 involtini.",
+      "photo": null,
+      "prep": "30 min",
+      "publicationUpdate": {
+        "baseAppSha256": "591c6f469203498000c24c6acd40cac5f9165fce6b09d682c3dd59d64545c6aa",
+        "previousAppSha256": "591c6f469203498000c24c6acd40cac5f9165fce6b09d682c3dd59d64545c6aa",
+        "reviewedDigest": "095c1330d7b9da31d8c30626d263e5b613a5f17ae2fdd43461dc3d3743de68cb"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "riposo non previsto.",
+      "reviewedRecordSha256": "095c1330d7b9da31d8c30626d263e5b613a5f17ae2fdd43461dc3d3743de68cb",
+      "serves": "8 involtini.",
+      "source": "https://www.giallozafferano.com/recipes/Chinese-Spring-Rolls.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Scongelare le sfoglie e tenerle sotto un panno umido. Affettare sottilmente cipolla, carota e cavolo napa.",
+        "Scaldare il wok a fiamma alta con poco olio; saltare la cipolla per un paio di minuti, aggiungere carote e cavolo, sale e pepe.",
+        "Unire il vino di riso, saltare 4–5 minuti lasciando le verdure croccanti. Sgocciolarle e allargarle con le bacchette.",
+        "Orientare una sfoglia a rombo e disporre una piccola manciata di ripieno nella metà inferiore. Ripiegare il lembo inferiore, arrotolare senza premere, ripiegare i lati, finire di arrotolare e sigillare con albume.",
+        "Scaldare l’olio di arachidi a 355 °F (circa 179 °C), abbassare leggermente la fiamma e friggere pochi involtini alla volta, girandoli fino a doratura uniforme.",
+        "Scolare su carta assorbente e servire caldi, accompagnando eventualmente con salse."
+      ],
+      "temperature": "Frittura in olio di arachidi a 355 °F (circa 179 °C); wok ad alta temperatura."
+    },
+    {
+      "author": "Lulù Gargari / GialloZafferano",
+      "categories": [
+        "Torte e dolci da forno"
+      ],
+      "category": "Torte e dolci da forno",
+      "cook": "30 min",
+      "description": "Versione al pistacchio della torta caprese: impasto morbido privo di farina di grano, decorato con zucchero a velo e farina di pistacchio.",
+      "id": "SRC-c3ac008765c57fd7",
+      "ingredients": [
+        "200 g farina di pistacchi per impasto",
+        "150 g pasta pura di pistacchio",
+        "2 uova",
+        "150 g olio di semi",
+        "130 g zucchero",
+        "Decorazione: 20 g farina di pistacchi",
+        "Zucchero a velo q.b."
+      ],
+      "name": "Torta caprese al pistacchio",
+      "notes": "Consistenza interna morbida e fondente. La fonte indica conservazione per 3–4 giorni a temperatura ambiente, in luogo fresco e asciutto sotto campana. Alternative suggerite: gocce di cioccolato bianco, glassa al pistacchio oppure cioccolato bianco fuso e granella. La ganache menzionata nell’introduzione non è dosata né descritta nel metodo; non è stata inserita nella formula.",
+      "origin": "Rivisitazione della torta caprese classica; la fonte non dichiara un’origine geografica specifica di questa variante.",
+      "originalTimes": "Preparazione 20 min; forno 30 min; raffreddamento non quantificato.",
+      "originalTitle": "Pistachio Caprese Cake",
+      "originalYield": "6 porzioni; stampo a cerniera Ø 20 cm",
+      "photo": null,
+      "prep": "20 min",
+      "publicationUpdate": {
+        "baseAppSha256": "504e63553ad28026d27c8dbabc2f4d3d29eb95c036ce9bf92cb5457e03f47540",
+        "previousAppSha256": "504e63553ad28026d27c8dbabc2f4d3d29eb95c036ce9bf92cb5457e03f47540",
+        "reviewedDigest": "acaf4c59518b1d668c6c693117f866b0d7278de999c58117f31c1bfb29efcea6"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "raffreddamento non quantificato.",
+      "reviewedRecordSha256": "acaf4c59518b1d668c6c693117f866b0d7278de999c58117f31c1bfb29efcea6",
+      "serves": "6 porzioni; stampo a cerniera Ø 20 cm",
+      "source": "https://www.giallozafferano.com/recipes/pistachio-caprese-cake.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Separare le uova e montare gli albumi a neve ferma.",
+        "Montare i tuorli con lo zucchero fino a ottenere un composto uniforme; incorporare la pasta pura di pistacchio.",
+        "Aggiungere l’olio e la farina di pistacchi, lavorando con le fruste elettriche fino a ottenere un impasto omogeneo; incorporare gli albumi delicatamente dal basso verso l’alto.",
+        "Trasferire in uno stampo a cerniera di 20 cm rivestito di carta forno; cuocere in forno statico preriscaldato a 340 °F (circa 171 °C) per 30 minuti.",
+        "Lasciare raffreddare completamente. Coprire il centro con una ciotolina, spolverare il resto con zucchero a velo, togliere la ciotola e decorare il centro con i 20 g di farina di pistacchi."
+      ],
+      "temperature": "Forno statico 340 °F (circa 171 °C) per 30 min."
+    },
+    {
+      "author": "GialloZafferano",
+      "categories": [
+        "Dessert al cucchiaio e freddi"
+      ],
+      "category": "Dessert al cucchiaio e freddi",
+      "cook": "totale dichiarata 1 h 20 min",
+      "description": "Nidi individuali di meringa con crema al limone alleggerita da panna montata e frutta fresca.",
+      "id": "SRC-da3dc1d02367aa58",
+      "ingredients": [
+        "Meringa: 250 g zucchero extrafine",
+        "180 g albumi (circa 6)",
+        "15 g amido di mais",
+        "4 g cremor tartaro",
+        "1 cucchiaio aceto di mele",
+        "2 cucchiaini estratto di vaniglia",
+        "1 pizzico sale",
+        "Crema: 35 g farina 00",
+        "35 g fecola di patate",
+        "500 ml latte intero",
+        "6 tuorli",
+        "150 g zucchero",
+        "Scorza di 1 limone non trattato",
+        "200 ml panna fresca liquida",
+        "Zucchero a velo q.b. facoltativo",
+        "Guarnizione: 80 g mirtilli",
+        "80 g lamponi",
+        "1 kiwi",
+        "Ribes q.b.",
+        "Frutto della passione q.b.",
+        "Menta q.b."
+      ],
+      "name": "Mini pavlove alla crema al limone",
+      "notes": "La lista indica la scorza di un limone, il metodo di mezzo limone: si preservano entrambe le indicazioni senza attribuire una dose diversa alla fonte. Lamponi: mantenuti 80 g, la misura volumetrica riportata non è coerente. Farcire poco prima di servire. La fonte indica frigorifero in contenitore chiuso per 1–2 giorni al massimo, senza congelamento. Alternative: latte intero o parzialmente scremato, amido di mais al posto della fecola, lievito in polvere in alternativa al cremor tartaro, aceto di vino bianco, altra frutta, ganache al cioccolato o caffè (dosi non dichiarate).",
+      "origin": "Il nome pavlova richiama la ballerina Anna Pavlova; la fonte colloca il dolce nella tradizione australiana.",
+      "originalTimes": "Preparazione 40 min; cottura totale dichiarata 1 h 20 min; crema da raffreddare; tempo di riposo non quantificato.",
+      "originalTitle": "Mini pavlovas with lemon cream",
+      "originalYield": "4 monoporzioni.",
+      "photo": null,
+      "prep": "40 min",
+      "publicationUpdate": {
+        "baseAppSha256": "832163d107136396f698769ce267d89d863e3bbf52088be0bd16fc23a4cdb3ca",
+        "previousAppSha256": "832163d107136396f698769ce267d89d863e3bbf52088be0bd16fc23a4cdb3ca",
+        "reviewedDigest": "36a0f8a972b9417b3331deea611b71abc05c185fdec69f3efdafc007745a9282"
+      },
+      "publisher": "GialloZafferano",
+      "rest": "crema da raffreddare; tempo di riposo non quantificato.",
+      "reviewedRecordSha256": "36a0f8a972b9417b3331deea611b71abc05c185fdec69f3efdafc007745a9282",
+      "serves": "4 monoporzioni.",
+      "source": "https://www.giallozafferano.com/recipes/mini-pavlovas-with-lemon-cream.html",
+      "sourceLabel": "GialloZafferano",
+      "steps": [
+        "Scaldare il latte con la scorza di mezzo limone, come indicato nel procedimento. Lavorare tuorli e zucchero con la frusta, unire farina e fecola setacciate, diluire con il latte caldo filtrato.",
+        "Cuocere a fiamma bassa mescolando fino a una crema liscia e densa; coprire a contatto e lasciare raffreddare.",
+        "Montare gli albumi con sale, vaniglia e cremor tartaro; incorporare gradualmente lo zucchero miscelato con l’amido di mais, infine l’aceto, fino a ottenere una meringa soda e cremosa.",
+        "Formare quattro dischi spessi con bordo rialzato su teglia rivestita; cuocere in forno statico a 250 °F (circa 121 °C) per almeno un’ora.",
+        "Lavare e preparare la frutta; montare la panna, eventualmente con zucchero a velo, e incorporarla delicatamente alla crema fredda.",
+        "Farcire i nidi con circa due cucchiai di crema ciascuno, completare con kiwi, frutti di bosco, frutto della passione e menta."
+      ],
+      "temperature": "Meringhe in forno statico 250 °F (circa 121 °C) per almeno 1 h; crema cotta a fiamma bassa."
     }
   ]
 }
